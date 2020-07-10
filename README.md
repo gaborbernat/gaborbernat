@@ -1,4 +1,5 @@
-Writing Python at [Bloomberg](https://github.com/bloomberg) and maintaining [virtualenv](https://github.com/pypa/virtualenv) and [tox](https://github.com/tox-dev/tox)
+Writing Python at [Bloomberg](https://github.com/bloomberg) and maintaining [virtualenv](https://github.com/pypa/virtualenv) and [tox](https://github.com/tox-dev/tox).
+
 Follow [@gjbernat on Twitter](https://twitter.com/gjbernat) and check out my [tech blog](https://www.bernat.tech).
 
 <table><tr><td valign="top">
