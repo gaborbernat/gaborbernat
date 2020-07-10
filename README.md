@@ -9,4 +9,3 @@ Follow [@gjbernat on Twitter](https://twitter.com/gjbernat) and check out my [te
 * [Python packaging - Past, Present, Future](https://www.bernat.tech/pep-517-518/) 2019-02-07
 * [Python packaging - Growing Pains](https://www.bernat.tech/growing-pain/) 2019-02-07
 * [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) 2018-05-30
-More posts on [https://www.bernat.tech](https://www.bernat.tech)
