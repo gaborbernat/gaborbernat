@@ -1,5 +1,6 @@
-# Hi I'm Bernát Gábor :rocket:
+# Hi I'm Bernát Gábor (from 🇭🇺+🇷🇴) living in 🇬🇧
 
+[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/gaborbernat&style=flat-square)](https://github.com/sponsors/gaborbernat)
 [![Website](https://img.shields.io/badge/-my%20blog@bernat.tech-191b1f?style=flat-square&labelColor=191b1f&logo=ghost&logoColor=white&link=https://www.bernat.tech/)](https://www.bernat.tech/)
 [![Twitter Badge](https://img.shields.io/badge/-@gjbernat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gjbernat)](https://twitter.com/gjbernat)
 [![PyPI](https://img.shields.io/badge/-gaborbernat-0073b7?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/gaborbernat/)](https://pypi.org/user/gaborbernat/)
@@ -10,11 +11,12 @@
 
 I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion pipeline and I am the maintainer of the following Python open source projects:
 
+
 - [virtualenv](https://github.com/pypa/virtualenv),
 - [tox](https://github.com/tox-dev/tox),
-- [retype](https://github.com/ambv/retype),
-- [pytest-print](https://github.com/gaborbernat/pytest-print),
 - [attrs-strict](https://github.com/bloomberg/attrs-strict),
+- [pytest-print](https://github.com/gaborbernat/pytest-print),
+- [retype](https://github.com/ambv/retype),
 - [pipx](https://github.com/pipxproject/pipx).
 
 
