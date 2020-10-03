@@ -1,6 +1,7 @@
 # Hi I'm Bernát Gábor (from 🇭🇺+🇷🇴) living in 🇬🇧
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/gaborbernat&style=flat-square)](https://github.com/sponsors/gaborbernat)
+[![Twitch Status](https://img.shields.io/twitch/status/gaborbernat?style=flat-square)](https://www.twitch.tv/gaborbernat)
 [![Website](https://img.shields.io/badge/-my%20blog@bernat.tech-191b1f?style=flat-square&labelColor=191b1f&logo=ghost&logoColor=white&link=https://www.bernat.tech/)](https://www.bernat.tech/)
 [![Twitter Badge](https://img.shields.io/badge/-@gjbernat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gjbernat)](https://twitter.com/gjbernat)
 [![PyPI](https://img.shields.io/badge/-gaborbernat-0073b7?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/gaborbernat/)](https://pypi.org/user/gaborbernat/)
