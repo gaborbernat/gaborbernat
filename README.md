@@ -13,14 +13,15 @@
 I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion pipeline and I am the maintainer of the following Python open source projects:
 
 
-- [virtualenv](https://github.com/pypa/virtualenv),
-- [tox](https://github.com/tox-dev/tox),
-- [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt),
-- [attrs-strict](https://github.com/bloomberg/attrs-strict),
-- [pytest-print](https://github.com/gaborbernat/pytest-print),
-- [pipx](https://github.com/pipxproject/pipx),
-- [retype](https://github.com/ambv/retype).
-
+| Name                                                        | Release                                                                                                        | Activity                                                                                                             |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| [virtualenv](https://github.com/pypa/virtualenv)            | [![PyPI](https://img.shields.io/pypi/v/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)     | ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv?logo=python&style=flat-square)        |
+| [tox](https://github.com/tox-dev/tox)                       | [![PyPI](https://img.shields.io/pypi/v/tox?style=flat-square)](https://pypi.org/project/tox)                   | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox?logo=python&style=flat-square)            |
+| [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)       | [![PyPI](https://img.shields.io/pypi/v/tox-ini-fmt?style=flat-square)](https://pypi.org/project/tox-ini-fmt)   | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-ini-fmt?logo=python&style=flat-square)    |
+| [attrs-strict](https://github.com/bloomberg/attrs-strict)   | [![PyPI](https://img.shields.io/pypi/v/attrs-strict?style=flat-square)](https://pypi.org/project/attrs-strict) | ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/attrs-strict?logo=python&style=flat-square) |
+| [pytest-print](https://github.com/gaborbernat/pytest-print) | [![PyPI](https://img.shields.io/pypi/v/pytest-print?style=flat-square)](https://pypi.org/project/pytest-print) | ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest-print?logo=python&style=flat-square)    |
+| [pipx](https://github.com/pipxproject/pipx)                 | [![PyPI](https://img.shields.io/pypi/v/pipx?style=flat-square)](https://pypi.org/project/pipx)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/pipxproject/pipx?logo=python&style=flat-square)              |
+| [retype](https://github.com/ambv/retype)                    | [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)             | ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)            |
 
 ## On my blog you can read about
 * [Version numbers: how to use them?](https://www.bernat.tech/version-numbers/) 2020-05-16
