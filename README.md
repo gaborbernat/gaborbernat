@@ -15,10 +15,11 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 - [virtualenv](https://github.com/pypa/virtualenv),
 - [tox](https://github.com/tox-dev/tox),
+- [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt),
 - [attrs-strict](https://github.com/bloomberg/attrs-strict),
 - [pytest-print](https://github.com/gaborbernat/pytest-print),
-- [retype](https://github.com/ambv/retype),
-- [pipx](https://github.com/pipxproject/pipx).
+- [pipx](https://github.com/pipxproject/pipx),
+- [retype](https://github.com/ambv/retype).
 
 
 ## On my blog you can read about
