@@ -8,7 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-gaborbernat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaborbernat/)](https://www.linkedin.com/in/gaborbernat/) 
 [![MAIL Badge](https://img.shields.io/badge/-gaborjbernat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaborjbernat@gmail.com)](mailto:gaborjbernat@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@gabor__bernat-845EC2?style=flat-square&labelColor=white&logo=Instagram&link=https://instagram.com/gabor_bernat/)](https://instagram.com/gabor_bernat)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgaborbernat%2Fgaborbernat)
 
 I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion pipeline and I am the maintainer of the following Python open source projects:
 
@@ -31,3 +30,6 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 * [Python packaging - Growing Pains](https://www.bernat.tech/growing-pain/) 2019-02-07
 * [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) 2018-05-30
 
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
+
+<!--START_SECTION:activity-->
