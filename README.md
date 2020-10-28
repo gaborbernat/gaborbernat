@@ -34,8 +34,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2000](https://github.com/pypa/virtualenv/issues/2000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#1999](https://github.com/pypa/virtualenv/issues/1999) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2000](https://github.com/pypa/virtualenv/issues/2000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 3. 🗣 Commented on [#1999](https://github.com/pypa/virtualenv/issues/1999) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#1998](https://github.com/pypa/virtualenv/pull/1998) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1453](https://github.com/tox-dev/tox/issues/1453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1999](https://github.com/pypa/virtualenv/issues/1999) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#1998](https://github.com/pypa/virtualenv/pull/1998) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
