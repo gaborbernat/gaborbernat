@@ -33,9 +33,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1453](https://github.com/tox-dev/tox/issues/1453) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
-3. ❗️ Opened issue [#1585](https://github.com/PyCQA/isort/issues/1585) in [PyCQA/isort](https://github.com/PyCQA/isort)
-4. 🗣 Commented on [#1721](https://github.com/tox-dev/tox/issues/1721) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#172](https://github.com/pypa/build/issues/172) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#1998](https://github.com/pypa/virtualenv/pull/1998) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#1453](https://github.com/tox-dev/tox/issues/1453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
+4. ❗️ Opened issue [#1585](https://github.com/PyCQA/isort/issues/1585) in [PyCQA/isort](https://github.com/PyCQA/isort)
+5. 🗣 Commented on [#1721](https://github.com/tox-dev/tox/issues/1721) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
