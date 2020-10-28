@@ -34,8 +34,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1999](https://github.com/pypa/virtualenv/issues/1999) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#1998](https://github.com/pypa/virtualenv/pull/1998) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#1453](https://github.com/tox-dev/tox/issues/1453) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
-5. ❗️ Opened issue [#1585](https://github.com/PyCQA/isort/issues/1585) in [PyCQA/isort](https://github.com/PyCQA/isort)
+2. 🗣 Commented on [#1999](https://github.com/pypa/virtualenv/issues/1999) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#1998](https://github.com/pypa/virtualenv/pull/1998) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#1453](https://github.com/tox-dev/tox/issues/1453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
 <!--END_SECTION:activity-->
