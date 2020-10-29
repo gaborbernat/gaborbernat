@@ -33,9 +33,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/tox-dev/azure-pipelines-template/issues/8) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-2. 🗣 Commented on [#8](https://github.com/tox-dev/azure-pipelines-template/issues/8) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-3. ❗️ Reopened issue [#8](https://github.com/tox-dev/azure-pipelines-template/issues/8) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-4. 🗣 Commented on [#2000](https://github.com/pypa/virtualenv/issues/2000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2000](https://github.com/pypa/virtualenv/issues/2000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#173](https://github.com/pypa/build/issues/173) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#173](https://github.com/pypa/build/issues/173) in [pypa/build](https://github.com/pypa/build)
+3. ❗️ Closed issue [#173](https://github.com/pypa/build/issues/173) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#173](https://github.com/pypa/build/issues/173) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#173](https://github.com/pypa/build/issues/173) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
