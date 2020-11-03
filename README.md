@@ -34,8 +34,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7698](https://github.com/pypa/pip/issues/7698) in [pypa/pip](https://github.com/pypa/pip)
-2. 🎉 Merged PR [#1728](https://github.com/tox-dev/tox/pull/1728) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2004](https://github.com/pypa/virtualenv/pull/2004) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2004](https://github.com/pypa/virtualenv/issues/2004) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Reopened issue [#2003](https://github.com/pypa/virtualenv/issues/2003) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#7698](https://github.com/pypa/pip/issues/7698) in [pypa/pip](https://github.com/pypa/pip)
+3. 🎉 Merged PR [#1728](https://github.com/tox-dev/tox/pull/1728) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2004](https://github.com/pypa/virtualenv/pull/2004) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2004](https://github.com/pypa/virtualenv/issues/2004) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
