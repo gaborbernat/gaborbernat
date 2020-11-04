@@ -34,8 +34,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#1729](https://github.com/tox-dev/tox/pull/1729) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Opened issue [#442](https://github.com/pytest-dev/pytest-cov/issues/442) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
-5. 🗣 Commented on [#100](https://github.com/pypa/pep517/issues/100) in [pypa/pep517](https://github.com/pypa/pep517)
+2. 🗣 Commented on [#442](https://github.com/pytest-dev/pytest-cov/issues/442) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
+3. 💪 Opened PR [#443](https://github.com/pytest-dev/pytest-cov/pull/443) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
+4. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
