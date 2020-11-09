@@ -35,8 +35,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#186](https://github.com/pypa/build/issues/186) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#1737](https://github.com/tox-dev/tox/issues/1737) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1738](https://github.com/tox-dev/tox/issues/1738) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#722](https://github.com/pypa/pypi-support/issues/722) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
-5. 🎉 Merged PR [#1736](https://github.com/tox-dev/tox/pull/1736) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#186](https://github.com/pypa/build/issues/186) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#1737](https://github.com/tox-dev/tox/issues/1737) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1738](https://github.com/tox-dev/tox/issues/1738) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#722](https://github.com/pypa/pypi-support/issues/722) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
 <!--END_SECTION:activity-->
