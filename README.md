@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2007](https://github.com/pypa/virtualenv/issues/2007) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2007](https://github.com/pypa/virtualenv/issues/2007) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2003](https://github.com/pypa/virtualenv/issues/2003) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2007](https://github.com/pypa/virtualenv/issues/2007) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 3. 🗣 Commented on [#2007](https://github.com/pypa/virtualenv/issues/2007) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#1980](https://github.com/pypa/virtualenv/issues/1980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#186](https://github.com/pypa/build/issues/186) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#2007](https://github.com/pypa/virtualenv/issues/2007) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#1980](https://github.com/pypa/virtualenv/issues/1980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
