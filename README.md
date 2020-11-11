@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/tox-dev/tox-conda/issues/20) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-2. 🗣 Commented on [#53](https://github.com/tox-dev/tox-conda/issues/53) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-3. ❗️ Closed issue [#20](https://github.com/tox-dev/tox-conda/issues/20) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🎉 Merged PR [#53](https://github.com/tox-dev/tox-conda/pull/53) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-5. 🗣 Commented on [#1980](https://github.com/pypa/virtualenv/issues/1980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#1740](https://github.com/tox-dev/tox/issues/1740) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#20](https://github.com/tox-dev/tox-conda/issues/20) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. 🗣 Commented on [#53](https://github.com/tox-dev/tox-conda/issues/53) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. ❗️ Closed issue [#20](https://github.com/tox-dev/tox-conda/issues/20) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#53](https://github.com/tox-dev/tox-conda/pull/53) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 <!--END_SECTION:activity-->
