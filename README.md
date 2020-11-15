@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/pypa/build/issues/25) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#183](https://github.com/pypa/build/pull/183) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#549](https://github.com/pipxproject/pipx/issues/549) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-4. 🗣 Commented on [#549](https://github.com/pipxproject/pipx/issues/549) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-5. 🗣 Commented on [#54](https://github.com/tox-dev/tox-conda/issues/54) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+1. 🎉 Merged PR [#553](https://github.com/pipxproject/pipx/pull/553) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+2. 🗣 Commented on [#183](https://github.com/pypa/build/issues/183) in [pypa/build](https://github.com/pypa/build)
+3. ❗️ Closed issue [#25](https://github.com/pypa/build/issues/25) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#183](https://github.com/pypa/build/pull/183) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#549](https://github.com/pipxproject/pipx/issues/549) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
 <!--END_SECTION:activity-->
