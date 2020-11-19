@@ -35,8 +35,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1745](https://github.com/tox-dev/tox/issues/1745) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2013](https://github.com/pypa/virtualenv/pull/2013) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1745](https://github.com/tox-dev/tox/issues/1745) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2013](https://github.com/pypa/virtualenv/pull/2013) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#556](https://github.com/pipxproject/pipx/pull/556) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
