@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2021](https://github.com/pypa/virtualenv/pull/2021) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#2021](https://github.com/pypa/virtualenv/pull/2021) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2020](https://github.com/pypa/virtualenv/pull/2020) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#2018](https://github.com/pypa/virtualenv/issues/2018) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2018](https://github.com/pypa/virtualenv/issues/2018) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❌ Reopened PR [#1](https://github.com/tox-dev/integration-test/pull/1) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+2. ❌ Closed PR [#1](https://github.com/tox-dev/integration-test/pull/1) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+3. 🎉 Merged PR [#2021](https://github.com/pypa/virtualenv/pull/2021) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2021](https://github.com/pypa/virtualenv/pull/2021) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2020](https://github.com/pypa/virtualenv/pull/2020) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
