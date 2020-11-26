@@ -36,7 +36,7 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#410](https://github.com/tox-dev/tox/issues/410) in [tox-dev/tox](https://github.com/tox-dev/tox)
 2. 🗣 Commented on [#410](https://github.com/tox-dev/tox/issues/410) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❌ Closed PR [#1749](https://github.com/tox-dev/tox/pull/1749) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#1750](https://github.com/tox-dev/tox/issues/1750) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1750](https://github.com/tox-dev/tox/issues/1750) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#410](https://github.com/tox-dev/tox/issues/410) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#1749](https://github.com/tox-dev/tox/pull/1749) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#1750](https://github.com/tox-dev/tox/issues/1750) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
