@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#570](https://github.com/pipxproject/pipx/pull/570) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-2. 🎉 Merged PR [#567](https://github.com/pipxproject/pipx/pull/567) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-3. ❌ Closed PR [#535](https://github.com/pipxproject/pipx/pull/535) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-4. 🗣 Commented on [#535](https://github.com/pipxproject/pipx/issues/535) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-5. 🎉 Merged PR [#569](https://github.com/pipxproject/pipx/pull/569) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+1. 🗣 Commented on [#567](https://github.com/pipxproject/pipx/issues/567) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+2. 🎉 Merged PR [#563](https://github.com/pipxproject/pipx/pull/563) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+3. ❗️ Closed issue [#79](https://github.com/pipxproject/pipx/issues/79) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+4. 🎉 Merged PR [#571](https://github.com/pipxproject/pipx/pull/571) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 🗣 Commented on [#421](https://github.com/pre-commit/pre-commit.com/issues/421) in [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com)
 <!--END_SECTION:activity-->
