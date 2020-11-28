@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#567](https://github.com/pipxproject/pipx/issues/567) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-2. 🗣 Commented on [#1752](https://github.com/tox-dev/tox/issues/1752) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#567](https://github.com/pipxproject/pipx/issues/567) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-4. 🎉 Merged PR [#563](https://github.com/pipxproject/pipx/pull/563) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-5. ❗️ Closed issue [#79](https://github.com/pipxproject/pipx/issues/79) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+1. 🗣 Commented on [#421](https://github.com/pre-commit/pre-commit.com/issues/421) in [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com)
+2. 🗣 Commented on [#567](https://github.com/pipxproject/pipx/issues/567) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+3. 🗣 Commented on [#1752](https://github.com/tox-dev/tox/issues/1752) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#567](https://github.com/pipxproject/pipx/issues/567) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 🎉 Merged PR [#563](https://github.com/pipxproject/pipx/pull/563) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
 <!--END_SECTION:activity-->
