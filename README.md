@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/pypa/build/issues/192) in [pypa/build](https://github.com/pypa/build)
-2. ❗️ Closed issue [#356](https://github.com/pypa/packaging/issues/356) in [pypa/packaging](https://github.com/pypa/packaging)
-3. 🗣 Commented on [#356](https://github.com/pypa/packaging/issues/356) in [pypa/packaging](https://github.com/pypa/packaging)
+1. 🎉 Merged PR [#1754](https://github.com/tox-dev/tox/pull/1754) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#192](https://github.com/pypa/build/issues/192) in [pypa/build](https://github.com/pypa/build)
+3. ❗️ Closed issue [#356](https://github.com/pypa/packaging/issues/356) in [pypa/packaging](https://github.com/pypa/packaging)
 4. 🗣 Commented on [#356](https://github.com/pypa/packaging/issues/356) in [pypa/packaging](https://github.com/pypa/packaging)
-5. 🗣 Commented on [#2023](https://github.com/pypa/virtualenv/issues/2023) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#356](https://github.com/pypa/packaging/issues/356) in [pypa/packaging](https://github.com/pypa/packaging)
 <!--END_SECTION:activity-->
