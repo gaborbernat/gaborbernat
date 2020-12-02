@@ -34,7 +34,7 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9193](https://github.com/pypa/pip/issues/9193) in [pypa/pip](https://github.com/pypa/pip)
+1. 🗣 Commented on [#56](https://github.com/pypa/virtualenv/issues/56) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. 🗣 Commented on [#9193](https://github.com/pypa/pip/issues/9193) in [pypa/pip](https://github.com/pypa/pip)
 3. 🗣 Commented on [#9193](https://github.com/pypa/pip/issues/9193) in [pypa/pip](https://github.com/pypa/pip)
 4. 🗣 Commented on [#9193](https://github.com/pypa/pip/issues/9193) in [pypa/pip](https://github.com/pypa/pip)
