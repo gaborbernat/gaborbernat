@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2033](https://github.com/pypa/virtualenv/pull/2033) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2032](https://github.com/pypa/virtualenv/issues/2032) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2032](https://github.com/pypa/virtualenv/issues/2032) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#2032](https://github.com/pypa/virtualenv/issues/2032) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2032](https://github.com/pypa/virtualenv/issues/2032) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2034](https://github.com/pypa/virtualenv/issues/2034) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2034](https://github.com/pypa/virtualenv/issues/2034) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#2035](https://github.com/pypa/virtualenv/pull/2035) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❌ Reopened PR [#2035](https://github.com/pypa/virtualenv/pull/2035) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❌ Closed PR [#2035](https://github.com/pypa/virtualenv/pull/2035) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
