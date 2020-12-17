@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2036](https://github.com/pypa/virtualenv/pull/2036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❗️ Opened issue [#587](https://github.com/pipxproject/pipx/issues/587) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-3. ❌ Closed PR [#199](https://github.com/pypa/build/pull/199) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#199](https://github.com/pypa/build/issues/199) in [pypa/build](https://github.com/pypa/build)
-5. ❗️ Closed issue [#1759](https://github.com/tox-dev/tox/issues/1759) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2036](https://github.com/pypa/virtualenv/issues/2036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2036](https://github.com/pypa/virtualenv/pull/2036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❗️ Opened issue [#587](https://github.com/pipxproject/pipx/issues/587) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+4. ❌ Closed PR [#199](https://github.com/pypa/build/pull/199) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#199](https://github.com/pypa/build/issues/199) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
