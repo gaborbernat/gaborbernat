@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1488](https://github.com/JetBrains/intellij-community/pull/1488) in [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)
-2. 💪 Opened PR [#188](https://github.com/fabioz/PyDev.Debugger/pull/188) in [fabioz/PyDev.Debugger](https://github.com/fabioz/PyDev.Debugger)
-3. 🗣 Commented on [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2040](https://github.com/pypa/virtualenv/pull/2040) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#3689](https://github.com/xonsh/xonsh/issues/3689) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+1. 💪 Opened PR [#2041](https://github.com/pypa/virtualenv/pull/2041) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#1488](https://github.com/JetBrains/intellij-community/pull/1488) in [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)
+3. 💪 Opened PR [#188](https://github.com/fabioz/PyDev.Debugger/pull/188) in [fabioz/PyDev.Debugger](https://github.com/fabioz/PyDev.Debugger)
+4. 🗣 Commented on [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2040](https://github.com/pypa/virtualenv/pull/2040) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
