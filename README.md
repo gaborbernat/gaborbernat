@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1761](https://github.com/tox-dev/tox/pull/1761) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#1760](https://github.com/tox-dev/tox/pull/1760) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#587](https://github.com/pipxproject/pipx/issues/587) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-4. 🗣 Commented on [#2036](https://github.com/pypa/virtualenv/issues/2036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2036](https://github.com/pypa/virtualenv/pull/2036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2026](https://github.com/pypa/virtualenv/issues/2026) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#1761](https://github.com/tox-dev/tox/pull/1761) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#1760](https://github.com/tox-dev/tox/pull/1760) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#587](https://github.com/pipxproject/pipx/issues/587) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 🗣 Commented on [#2036](https://github.com/pypa/virtualenv/issues/2036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
