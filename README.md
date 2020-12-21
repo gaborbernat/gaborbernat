@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
+2. ❗️ Closed issue [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 3. 🗣 Commented on [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2041](https://github.com/pypa/virtualenv/pull/2041) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#1488](https://github.com/JetBrains/intellij-community/pull/1488) in [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)
+4. 🗣 Commented on [#2038](https://github.com/pypa/virtualenv/issues/2038) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2041](https://github.com/pypa/virtualenv/pull/2041) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
