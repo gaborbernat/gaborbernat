@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2041](https://github.com/pypa/virtualenv/pull/2041) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#1756](https://github.com/tox-dev/tox/pull/1756) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#1757](https://github.com/tox-dev/tox/pull/1757) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#1753](https://github.com/tox-dev/tox/pull/1753) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#1144](https://github.com/tox-dev/tox/issues/1144) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#2043](https://github.com/pypa/virtualenv/pull/2043) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2041](https://github.com/pypa/virtualenv/pull/2041) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#1756](https://github.com/tox-dev/tox/pull/1756) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#1757](https://github.com/tox-dev/tox/pull/1757) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#1753](https://github.com/tox-dev/tox/pull/1753) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
