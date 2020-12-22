@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#8134](https://github.com/pytest-dev/pytest/issues/8134) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 2. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
-4. ❌ Closed PR [#2040](https://github.com/pypa/virtualenv/pull/2040) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2043](https://github.com/pypa/virtualenv/pull/2043) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
 <!--END_SECTION:activity-->
