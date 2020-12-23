@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
-2. 🗣 Commented on [#8134](https://github.com/pytest-dev/pytest/issues/8134) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
+1. ❗️ Opened issue [#2505](https://github.com/pypa/setuptools/issues/2505) in [pypa/setuptools](https://github.com/pypa/setuptools)
+2. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
+3. 🗣 Commented on [#8134](https://github.com/pytest-dev/pytest/issues/8134) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 4. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
 5. 🗣 Commented on [#130](https://github.com/pypa/build/issues/130) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
