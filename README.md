@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1761](https://github.com/tox-dev/tox/pull/1761) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1825](https://github.com/pypa/setuptools/issues/1825) in [pypa/setuptools](https://github.com/pypa/setuptools)
-3. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
-4. ❗️ Opened issue [#2505](https://github.com/pypa/setuptools/issues/2505) in [pypa/setuptools](https://github.com/pypa/setuptools)
-5. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
+1. 🗣 Commented on [#1825](https://github.com/pypa/setuptools/issues/1825) in [pypa/setuptools](https://github.com/pypa/setuptools)
+2. 🎉 Merged PR [#1761](https://github.com/tox-dev/tox/pull/1761) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1825](https://github.com/pypa/setuptools/issues/1825) in [pypa/setuptools](https://github.com/pypa/setuptools)
+4. 🗣 Commented on [#128](https://github.com/naiquevin/pipdeptree/issues/128) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
+5. ❗️ Opened issue [#2505](https://github.com/pypa/setuptools/issues/2505) in [pypa/setuptools](https://github.com/pypa/setuptools)
 <!--END_SECTION:activity-->
