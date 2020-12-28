@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2044](https://github.com/pypa/virtualenv/issues/2044) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#8984](https://github.com/pypa/pip/issues/8984) in [pypa/pip](https://github.com/pypa/pip)
-3. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
+1. 🗣 Commented on [#443](https://github.com/pytest-dev/pytest-cov/issues/443) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
+2. 🗣 Commented on [#2044](https://github.com/pypa/virtualenv/issues/2044) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#8984](https://github.com/pypa/pip/issues/8984) in [pypa/pip](https://github.com/pypa/pip)
 4. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
-5. 💪 Opened PR [#5707](https://github.com/psf/requests/pull/5707) in [psf/requests](https://github.com/psf/requests)
+5. 🗣 Commented on [#5223](https://github.com/psf/requests/issues/5223) in [psf/requests](https://github.com/psf/requests)
 <!--END_SECTION:activity-->
