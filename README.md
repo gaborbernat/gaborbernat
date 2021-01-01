@@ -35,8 +35,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1585](https://github.com/PyCQA/isort/issues/1585) in [PyCQA/isort](https://github.com/PyCQA/isort)
-2. 🗣 Commented on [#1595](https://github.com/tox-dev/tox/issues/1595) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2505](https://github.com/pypa/setuptools/issues/2505) in [pypa/setuptools](https://github.com/pypa/setuptools)
-4. 🗣 Commented on [#58](https://github.com/tox-dev/tox-conda/issues/58) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-5. 🎉 Merged PR [#58](https://github.com/tox-dev/tox-conda/pull/58) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🗣 Commented on [#1585](https://github.com/PyCQA/isort/issues/1585) in [PyCQA/isort](https://github.com/PyCQA/isort)
+3. 🗣 Commented on [#1595](https://github.com/tox-dev/tox/issues/1595) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2505](https://github.com/pypa/setuptools/issues/2505) in [pypa/setuptools](https://github.com/pypa/setuptools)
+5. 🗣 Commented on [#58](https://github.com/tox-dev/tox-conda/issues/58) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 <!--END_SECTION:activity-->
