@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2045](https://github.com/pypa/virtualenv/pull/2045) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#60](https://github.com/tox-dev/tox-conda/pull/60) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-3. 🎉 Merged PR [#3](https://github.com/tox-dev/tox-via-docker/pull/3) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-4. 🎉 Merged PR [#51](https://github.com/tox-dev/tox-ini-fmt/pull/51) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🎉 Merged PR [#1769](https://github.com/tox-dev/tox/pull/1769) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Opened issue [#1090](https://github.com/nedbat/coveragepy/issues/1090) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+2. ❗️ Opened issue [#449](https://github.com/pytest-dev/pytest-cov/issues/449) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
+3. 🎉 Merged PR [#2045](https://github.com/pypa/virtualenv/pull/2045) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#60](https://github.com/tox-dev/tox-conda/pull/60) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#3](https://github.com/tox-dev/tox-via-docker/pull/3) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 <!--END_SECTION:activity-->
