@@ -35,8 +35,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1782](https://github.com/tox-dev/tox/issues/1782) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#1781](https://github.com/tox-dev/tox/issues/1781) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1781](https://github.com/tox-dev/tox/issues/1781) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#1783](https://github.com/tox-dev/tox/issues/1783) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1783](https://github.com/tox-dev/tox/issues/1783) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1782](https://github.com/tox-dev/tox/issues/1782) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1781](https://github.com/tox-dev/tox/issues/1781) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1781](https://github.com/tox-dev/tox/issues/1781) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#1783](https://github.com/tox-dev/tox/issues/1783) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
