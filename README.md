@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1797](https://github.com/tox-dev/tox/issues/1797) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1734](https://github.com/tox-dev/tox/issues/1734) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1795](https://github.com/tox-dev/tox/issues/1795) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#449](https://github.com/pytest-dev/pytest-cov/issues/449) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
-5. 🗣 Commented on [#449](https://github.com/pytest-dev/pytest-cov/issues/449) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
+1. ❗️ Closed issue [#1780](https://github.com/tox-dev/tox/issues/1780) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1798](https://github.com/tox-dev/tox/pull/1798) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#1796](https://github.com/tox-dev/tox/pull/1796) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#1785](https://github.com/tox-dev/tox/issues/1785) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#1798](https://github.com/tox-dev/tox/pull/1798) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
