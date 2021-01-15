@@ -35,8 +35,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#205](https://github.com/pypa/build/issues/205) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
+2. ❗️ Closed issue [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
 3. 🗣 Commented on [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
-5. ❗️ Closed issue [#2053](https://github.com/pypa/virtualenv/issues/2053) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#205](https://github.com/pypa/build/issues/205) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
