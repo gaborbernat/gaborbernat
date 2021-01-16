@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/pypa/build/issues/205) in [pypa/build](https://github.com/pypa/build)
-2. ❗️ Closed issue [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#1824](https://github.com/tox-dev/tox/pull/1824) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#205](https://github.com/pypa/build/issues/205) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#205](https://github.com/pypa/build/issues/205) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#205](https://github.com/pypa/build/issues/205) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
+5. ❗️ Closed issue [#206](https://github.com/pypa/build/issues/206) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
