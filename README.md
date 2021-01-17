@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1849](https://github.com/tox-dev/tox/issues/1849) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Opened issue [#1848](https://github.com/tox-dev/tox/issues/1848) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#1847](https://github.com/tox-dev/tox/issues/1847) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Opened issue [#1846](https://github.com/tox-dev/tox/issues/1846) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Opened issue [#1845](https://github.com/tox-dev/tox/issues/1845) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#88](https://github.com/alex-rudakov/sphinx-argparse/issues/88) in [alex-rudakov/sphinx-argparse](https://github.com/alex-rudakov/sphinx-argparse)
+2. ❗️ Opened issue [#134](https://github.com/alex-rudakov/sphinx-argparse/issues/134) in [alex-rudakov/sphinx-argparse](https://github.com/alex-rudakov/sphinx-argparse)
+3. 🎉 Merged PR [#1851](https://github.com/tox-dev/tox/pull/1851) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#5](https://github.com/dstanek/tox-run-command/issues/5) in [dstanek/tox-run-command](https://github.com/dstanek/tox-run-command)
+5. ❗️ Opened issue [#5](https://github.com/dstanek/tox-run-command/issues/5) in [dstanek/tox-run-command](https://github.com/dstanek/tox-run-command)
 <!--END_SECTION:activity-->
