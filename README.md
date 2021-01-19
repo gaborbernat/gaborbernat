@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1854](https://github.com/tox-dev/tox/pull/1854) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1857](https://github.com/tox-dev/tox/issues/1857) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2057](https://github.com/pypa/virtualenv/pull/2057) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2057](https://github.com/pypa/virtualenv/pull/2057) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#1854](https://github.com/tox-dev/tox/pull/1854) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#934](https://github.com/apache/avro/issues/934) in [apache/avro](https://github.com/apache/avro)
+2. 🗣 Commented on [#1488](https://github.com/JetBrains/intellij-community/issues/1488) in [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)
+3. 🗣 Commented on [#5707](https://github.com/psf/requests/issues/5707) in [psf/requests](https://github.com/psf/requests)
+4. 💪 Opened PR [#1858](https://github.com/tox-dev/tox/pull/1858) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#1854](https://github.com/tox-dev/tox/pull/1854) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
