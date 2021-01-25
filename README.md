@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/pypa/get-virtualenv/issues/37) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. ❗️ Reopened issue [#37](https://github.com/pypa/get-virtualenv/issues/37) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
 2. 🗣 Commented on [#37](https://github.com/pypa/get-virtualenv/issues/37) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-3. 🎉 Merged PR [#611](https://github.com/pipxproject/pipx/pull/611) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-4. 🗣 Commented on [#1868](https://github.com/tox-dev/tox/issues/1868) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1852](https://github.com/tox-dev/tox/issues/1852) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#37](https://github.com/pypa/get-virtualenv/issues/37) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+4. 🗣 Commented on [#37](https://github.com/pypa/get-virtualenv/issues/37) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+5. 🎉 Merged PR [#611](https://github.com/pipxproject/pipx/pull/611) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
 <!--END_SECTION:activity-->
