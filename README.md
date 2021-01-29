@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#378](https://github.com/asottile/pyupgrade/issues/378) in [asottile/pyupgrade](https://github.com/asottile/pyupgrade)
-2. ❗️ Closed issue [#1330](https://github.com/tox-dev/tox/issues/1330) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1330](https://github.com/tox-dev/tox/issues/1330) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
+2. ❗️ Opened issue [#378](https://github.com/asottile/pyupgrade/issues/378) in [asottile/pyupgrade](https://github.com/asottile/pyupgrade)
+3. ❗️ Closed issue [#1330](https://github.com/tox-dev/tox/issues/1330) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1330](https://github.com/tox-dev/tox/issues/1330) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
