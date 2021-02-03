@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#223](https://github.com/pypa/build/pull/223) in [pypa/build](https://github.com/pypa/build)
-2. 💪 Opened PR [#222](https://github.com/pypa/build/pull/222) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
-4. ❗️ Opened issue [#9553](https://github.com/pypa/pip/issues/9553) in [pypa/pip](https://github.com/pypa/pip)
-5. 💪 Opened PR [#221](https://github.com/pypa/build/pull/221) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#9553](https://github.com/pypa/pip/issues/9553) in [pypa/pip](https://github.com/pypa/pip)
+2. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#9553](https://github.com/pypa/pip/issues/9553) in [pypa/pip](https://github.com/pypa/pip)
+4. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
+5. 💪 Opened PR [#223](https://github.com/pypa/build/pull/223) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
