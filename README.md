@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#818](https://github.com/pypa/packaging.python.org/issues/818) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
-2. 🗣 Commented on [#219](https://github.com/pypa/build/issues/219) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#223](https://github.com/pypa/build/issues/223) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#818](https://github.com/pypa/packaging.python.org/issues/818) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
-5. 🎉 Merged PR [#1897](https://github.com/tox-dev/tox/pull/1897) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#818](https://github.com/pypa/packaging.python.org/issues/818) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
+3. 🗣 Commented on [#219](https://github.com/pypa/build/issues/219) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#223](https://github.com/pypa/build/issues/223) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#818](https://github.com/pypa/packaging.python.org/issues/818) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
 <!--END_SECTION:activity-->
