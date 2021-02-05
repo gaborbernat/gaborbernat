@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/alex-rudakov/sphinx-argparse/issues/134) in [alex-rudakov/sphinx-argparse](https://github.com/alex-rudakov/sphinx-argparse)
-2. 🗣 Commented on [#221](https://github.com/pypa/build/issues/221) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#220](https://github.com/pypa/build/issues/220) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#214](https://github.com/pypa/build/issues/214) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#818](https://github.com/pypa/packaging.python.org/issues/818) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
+1. 🗣 Commented on [#1](https://github.com/gaborbernat/sphinx-argparse-cli/issues/1) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+2. 🗣 Commented on [#1](https://github.com/gaborbernat/sphinx-argparse-cli/issues/1) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+3. 🎉 Merged PR [#1](https://github.com/gaborbernat/sphinx-argparse-cli/pull/1) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. 🗣 Commented on [#134](https://github.com/alex-rudakov/sphinx-argparse/issues/134) in [alex-rudakov/sphinx-argparse](https://github.com/alex-rudakov/sphinx-argparse)
+5. 🗣 Commented on [#221](https://github.com/pypa/build/issues/221) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
