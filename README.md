@@ -34,9 +34,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/gaborbernat/sphinx-argparse-cli/issues/2) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-2. 🗣 Commented on [#1](https://github.com/gaborbernat/sphinx-argparse-cli/issues/1) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-3. 🗣 Commented on [#1](https://github.com/gaborbernat/sphinx-argparse-cli/issues/1) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-4. 🎉 Merged PR [#1](https://github.com/gaborbernat/sphinx-argparse-cli/pull/1) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🗣 Commented on [#134](https://github.com/alex-rudakov/sphinx-argparse/issues/134) in [alex-rudakov/sphinx-argparse](https://github.com/alex-rudakov/sphinx-argparse)
+1. 🗣 Commented on [#3](https://github.com/gaborbernat/sphinx-argparse-cli/issues/3) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+2. 🗣 Commented on [#3](https://github.com/gaborbernat/sphinx-argparse-cli/issues/3) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+3. 🎉 Merged PR [#3](https://github.com/gaborbernat/sphinx-argparse-cli/pull/3) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. ❗️ Closed issue [#2](https://github.com/gaborbernat/sphinx-argparse-cli/issues/2) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. 🗣 Commented on [#2](https://github.com/gaborbernat/sphinx-argparse-cli/issues/2) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
