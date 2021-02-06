@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/bloomberg/attrs-strict/pull/66) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-2. 💪 Opened PR [#46](https://github.com/MichaelAquilina/flake8-spellcheck/pull/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
-3. 🎉 Merged PR [#1899](https://github.com/tox-dev/tox/pull/1899) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#1899](https://github.com/tox-dev/tox/pull/1899) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#1898](https://github.com/tox-dev/tox/pull/1898) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#1900](https://github.com/tox-dev/tox/pull/1900) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#66](https://github.com/bloomberg/attrs-strict/pull/66) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 💪 Opened PR [#46](https://github.com/MichaelAquilina/flake8-spellcheck/pull/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
+4. 🎉 Merged PR [#1899](https://github.com/tox-dev/tox/pull/1899) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#1899](https://github.com/tox-dev/tox/pull/1899) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
