@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#224](https://github.com/pypa/build/issues/224) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#224](https://github.com/pypa/build/issues/224) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#221](https://github.com/pypa/build/issues/221) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
+2. ❗️ Closed issue [#224](https://github.com/pypa/build/issues/224) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#224](https://github.com/pypa/build/issues/224) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#221](https://github.com/pypa/build/issues/221) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#616](https://github.com/pipxproject/pipx/issues/616) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 🗣 Commented on [#221](https://github.com/pypa/build/issues/221) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
