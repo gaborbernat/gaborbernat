@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/pypa/build/issues/227) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#65](https://github.com/bloomberg/attrs-strict/issues/65) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-3. 🗣 Commented on [#65](https://github.com/bloomberg/attrs-strict/issues/65) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-4. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
-5. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
+1. 🗣 Commented on [#79](https://github.com/ActiveState/appdirs/issues/79) in [ActiveState/appdirs](https://github.com/ActiveState/appdirs)
+2. 🗣 Commented on [#226](https://github.com/pypa/build/issues/226) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#227](https://github.com/pypa/build/issues/227) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#65](https://github.com/bloomberg/attrs-strict/issues/65) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+5. 🗣 Commented on [#65](https://github.com/bloomberg/attrs-strict/issues/65) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 <!--END_SECTION:activity-->
