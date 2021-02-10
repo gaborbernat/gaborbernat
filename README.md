@@ -37,7 +37,7 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#229](https://github.com/pypa/build/issues/229) in [pypa/build](https://github.com/pypa/build)
 2. 🗣 Commented on [#229](https://github.com/pypa/build/issues/229) in [pypa/build](https://github.com/pypa/build)
-3. ❗️ Opened issue [#25](https://github.com/b3er/idea-archive-browser/issues/25) in [b3er/idea-archive-browser](https://github.com/b3er/idea-archive-browser)
-4. ❌ Closed PR [#1817](https://github.com/tox-dev/tox/pull/1817) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1817](https://github.com/tox-dev/tox/issues/1817) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#229](https://github.com/pypa/build/issues/229) in [pypa/build](https://github.com/pypa/build)
+4. ❗️ Opened issue [#25](https://github.com/b3er/idea-archive-browser/issues/25) in [b3er/idea-archive-browser](https://github.com/b3er/idea-archive-browser)
+5. ❌ Closed PR [#1817](https://github.com/tox-dev/tox/pull/1817) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
