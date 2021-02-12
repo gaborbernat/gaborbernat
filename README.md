@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/pypa/build/issues/231) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#1903](https://github.com/tox-dev/tox/issues/1903) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#1903](https://github.com/tox-dev/tox/issues/1903) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#1813](https://github.com/tox-dev/tox/issues/1813) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1813](https://github.com/tox-dev/tox/issues/1813) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#339](https://github.com/discord/discord-open-source/issues/339) in [discord/discord-open-source](https://github.com/discord/discord-open-source)
+2. 🗣 Commented on [#231](https://github.com/pypa/build/issues/231) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#1903](https://github.com/tox-dev/tox/issues/1903) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#1903](https://github.com/tox-dev/tox/issues/1903) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#1813](https://github.com/tox-dev/tox/issues/1813) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
