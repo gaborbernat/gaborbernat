@@ -36,8 +36,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#230](https://github.com/pypa/build/issues/230) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#1910](https://github.com/tox-dev/tox/pull/1910) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#1910](https://github.com/tox-dev/tox/pull/1910) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Opened issue [#1909](https://github.com/tox-dev/tox/issues/1909) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#236](https://github.com/pypa/build/issues/236) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#230](https://github.com/pypa/build/issues/230) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#1910](https://github.com/tox-dev/tox/pull/1910) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#1910](https://github.com/tox-dev/tox/pull/1910) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Opened issue [#1909](https://github.com/tox-dev/tox/issues/1909) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
