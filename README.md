@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1921](https://github.com/tox-dev/tox/issues/1921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#5707](https://github.com/psf/requests/issues/5707) in [psf/requests](https://github.com/psf/requests)
 2. 🗣 Commented on [#1921](https://github.com/tox-dev/tox/issues/1921) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#7915](https://github.com/readthedocs/readthedocs.org/issues/7915) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
-4. 🗣 Commented on [#2068](https://github.com/pypa/virtualenv/issues/2068) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#1921](https://github.com/tox-dev/tox/issues/1921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#7915](https://github.com/readthedocs/readthedocs.org/issues/7915) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
 5. 🗣 Commented on [#2068](https://github.com/pypa/virtualenv/issues/2068) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
