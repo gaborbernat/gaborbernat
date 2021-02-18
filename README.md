@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/ambv/retype/issues/28) in [ambv/retype](https://github.com/ambv/retype)
-2. 🗣 Commented on [#5707](https://github.com/psf/requests/issues/5707) in [psf/requests](https://github.com/psf/requests)
-3. 🗣 Commented on [#1921](https://github.com/tox-dev/tox/issues/1921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
+2. 🗣 Commented on [#28](https://github.com/ambv/retype/issues/28) in [ambv/retype](https://github.com/ambv/retype)
+3. 🗣 Commented on [#5707](https://github.com/psf/requests/issues/5707) in [psf/requests](https://github.com/psf/requests)
 4. 🗣 Commented on [#1921](https://github.com/tox-dev/tox/issues/1921) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#7915](https://github.com/readthedocs/readthedocs.org/issues/7915) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+5. 🗣 Commented on [#1921](https://github.com/tox-dev/tox/issues/1921) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
