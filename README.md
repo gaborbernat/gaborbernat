@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/nokia/PyVenvManage/issues/13) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-2. 💪 Opened PR [#2069](https://github.com/pypa/virtualenv/pull/2069) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#4](https://github.com/gaborbernat/sphinx-argparse-cli/issues/4) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+1. 💪 Opened PR [#14](https://github.com/nokia/PyVenvManage/pull/14) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+2. ❗️ Opened issue [#13](https://github.com/nokia/PyVenvManage/issues/13) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+3. 💪 Opened PR [#2069](https://github.com/pypa/virtualenv/pull/2069) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#4](https://github.com/gaborbernat/sphinx-argparse-cli/issues/4) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
+5. 🗣 Commented on [#4](https://github.com/gaborbernat/sphinx-argparse-cli/issues/4) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
