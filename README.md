@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/mondeja/mdpo/issues/63) in [mondeja/mdpo](https://github.com/mondeja/mdpo)
-2. 🗣 Commented on [#13](https://github.com/nokia/PyVenvManage/issues/13) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-3. 🎉 Merged PR [#2069](https://github.com/pypa/virtualenv/pull/2069) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#14](https://github.com/nokia/PyVenvManage/pull/14) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-5. ❗️ Opened issue [#13](https://github.com/nokia/PyVenvManage/issues/13) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🎉 Merged PR [#2070](https://github.com/pypa/virtualenv/pull/2070) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Opened issue [#63](https://github.com/mondeja/mdpo/issues/63) in [mondeja/mdpo](https://github.com/mondeja/mdpo)
+3. 🗣 Commented on [#13](https://github.com/nokia/PyVenvManage/issues/13) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+4. 🎉 Merged PR [#2069](https://github.com/pypa/virtualenv/pull/2069) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#14](https://github.com/nokia/PyVenvManage/pull/14) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
 <!--END_SECTION:activity-->
