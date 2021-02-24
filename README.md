@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2064](https://github.com/pypa/virtualenv/pull/2064) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#7](https://github.com/tox-dev/tox-bindep/pull/7) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
-3. 🎉 Merged PR [#2070](https://github.com/pypa/virtualenv/pull/2070) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Opened issue [#63](https://github.com/mondeja/mdpo/issues/63) in [mondeja/mdpo](https://github.com/mondeja/mdpo)
-5. 🗣 Commented on [#13](https://github.com/nokia/PyVenvManage/issues/13) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🗣 Commented on [#220](https://github.com/pypa/build/issues/220) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#2064](https://github.com/pypa/virtualenv/pull/2064) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#7](https://github.com/tox-dev/tox-bindep/pull/7) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+4. 🎉 Merged PR [#2070](https://github.com/pypa/virtualenv/pull/2070) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Opened issue [#63](https://github.com/mondeja/mdpo/issues/63) in [mondeja/mdpo](https://github.com/mondeja/mdpo)
 <!--END_SECTION:activity-->
