@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/bloomberg/ipydatagrid/issues/192) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. 🗣 Commented on [#188](https://github.com/bloomberg/ipydatagrid/issues/188) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. ❗️ Closed issue [#40](https://github.com/tox-dev/tox-conda/issues/40) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 💪 Opened PR [#192](https://github.com/bloomberg/ipydatagrid/pull/192) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. ❗️ Opened issue [#76](https://github.com/brettcannon/python-launcher/issues/76) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
+1. 💪 Opened PR [#195](https://github.com/bloomberg/ipydatagrid/pull/195) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🗣 Commented on [#192](https://github.com/bloomberg/ipydatagrid/issues/192) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+3. 🗣 Commented on [#188](https://github.com/bloomberg/ipydatagrid/issues/188) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. ❗️ Closed issue [#40](https://github.com/tox-dev/tox-conda/issues/40) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 💪 Opened PR [#192](https://github.com/bloomberg/ipydatagrid/pull/192) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 <!--END_SECTION:activity-->
