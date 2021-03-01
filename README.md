@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#638](https://github.com/pipxproject/pipx/issues/638) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-2. ❗️ Closed issue [#1850](https://github.com/tox-dev/tox/issues/1850) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1850](https://github.com/tox-dev/tox/issues/1850) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Opened issue [#2071](https://github.com/pypa/virtualenv/issues/2071) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1850](https://github.com/tox-dev/tox/issues/1850) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❗️ Opened issue [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#638](https://github.com/pipxproject/pipx/issues/638) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 💪 Opened PR [#2073](https://github.com/pypa/virtualenv/pull/2073) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
