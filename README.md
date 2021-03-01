@@ -39,5 +39,5 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 2. 🗣 Commented on [#246](https://github.com/pypa/build/issues/246) in [pypa/build](https://github.com/pypa/build)
 3. 🗣 Commented on [#246](https://github.com/pypa/build/issues/246) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#246](https://github.com/pypa/build/issues/246) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#1930](https://github.com/tox-dev/tox/issues/1930) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#246](https://github.com/pypa/build/issues/246) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
