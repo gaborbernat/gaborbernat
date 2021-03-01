@@ -37,7 +37,7 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Opened issue [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#638](https://github.com/pipxproject/pipx/issues/638) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-5. 💪 Opened PR [#2073](https://github.com/pypa/virtualenv/pull/2073) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Opened issue [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#638](https://github.com/pipxproject/pipx/issues/638) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
 <!--END_SECTION:activity-->
