@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1933](https://github.com/tox-dev/tox/issues/1933) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#314](https://github.com/twisted/towncrier/issues/314) in [twisted/towncrier](https://github.com/twisted/towncrier)
-3. 🗣 Commented on [#1931](https://github.com/tox-dev/tox/issues/1931) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#1931](https://github.com/tox-dev/tox/issues/1931) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#1932](https://github.com/tox-dev/tox/pull/1932) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#1797](https://github.com/tox-dev/tox/issues/1797) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1850](https://github.com/tox-dev/tox/issues/1850) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1933](https://github.com/tox-dev/tox/issues/1933) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#314](https://github.com/twisted/towncrier/issues/314) in [twisted/towncrier](https://github.com/twisted/towncrier)
+5. 🗣 Commented on [#1931](https://github.com/tox-dev/tox/issues/1931) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
