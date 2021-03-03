@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/brettcannon/python-launcher/issues/80) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
-2. 🗣 Commented on [#80](https://github.com/brettcannon/python-launcher/issues/80) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
-3. ❗️ Closed issue [#1948](https://github.com/tox-dev/tox/issues/1948) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1948](https://github.com/tox-dev/tox/issues/1948) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Opened issue [#510](https://github.com/wez/wezterm/issues/510) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🗣 Commented on [#510](https://github.com/wez/wezterm/issues/510) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#80](https://github.com/brettcannon/python-launcher/issues/80) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
+4. 🗣 Commented on [#80](https://github.com/brettcannon/python-launcher/issues/80) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
+5. ❗️ Closed issue [#1948](https://github.com/tox-dev/tox/issues/1948) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
