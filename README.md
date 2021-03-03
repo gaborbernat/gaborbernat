@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#340](https://github.com/AlecAivazis/survey/issues/340) in [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
-2. 🗣 Commented on [#340](https://github.com/AlecAivazis/survey/issues/340) in [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
-3. ❗️ Opened issue [#340](https://github.com/AlecAivazis/survey/issues/340) in [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
-4. ❗️ Closed issue [#510](https://github.com/wez/wezterm/issues/510) in [wez/wezterm](https://github.com/wez/wezterm)
-5. 🗣 Commented on [#510](https://github.com/wez/wezterm/issues/510) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🗣 Commented on [#638](https://github.com/pipxproject/pipx/issues/638) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+2. ❗️ Closed issue [#340](https://github.com/AlecAivazis/survey/issues/340) in [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+3. 🗣 Commented on [#340](https://github.com/AlecAivazis/survey/issues/340) in [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+4. ❗️ Opened issue [#340](https://github.com/AlecAivazis/survey/issues/340) in [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+5. ❗️ Closed issue [#510](https://github.com/wez/wezterm/issues/510) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
