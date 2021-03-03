@@ -36,8 +36,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1950](https://github.com/tox-dev/tox/issues/1950) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1950](https://github.com/tox-dev/tox/issues/1950) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#204](https://github.com/bloomberg/ipydatagrid/issues/204) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🗣 Commented on [#846](https://github.com/pypa/packaging.python.org/issues/846) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
+3. 🗣 Commented on [#1950](https://github.com/tox-dev/tox/issues/1950) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1950](https://github.com/tox-dev/tox/issues/1950) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#638](https://github.com/pipxproject/pipx/issues/638) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+5. 🗣 Commented on [#204](https://github.com/bloomberg/ipydatagrid/issues/204) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 <!--END_SECTION:activity-->
