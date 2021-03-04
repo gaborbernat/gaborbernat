@@ -36,8 +36,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1960](https://github.com/tox-dev/tox/issues/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#1947](https://github.com/tox-dev/tox/issues/1947) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#1960](https://github.com/tox-dev/tox/pull/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1960](https://github.com/tox-dev/tox/issues/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1945](https://github.com/tox-dev/tox/issues/1945) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1960](https://github.com/tox-dev/tox/issues/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1947](https://github.com/tox-dev/tox/issues/1947) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#1960](https://github.com/tox-dev/tox/pull/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1960](https://github.com/tox-dev/tox/issues/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
