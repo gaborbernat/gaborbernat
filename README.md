@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1960](https://github.com/tox-dev/tox/issues/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#12268](https://github.com/PowerShell/PowerShell/issues/12268) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-3. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
-4. 🗣 Commented on [#1928](https://github.com/tox-dev/tox/issues/1928) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#1928](https://github.com/tox-dev/tox/issues/1928) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#1773](https://github.com/tox-dev/tox/issues/1773) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1960](https://github.com/tox-dev/tox/issues/1960) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#12268](https://github.com/PowerShell/PowerShell/issues/12268) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+4. 🗣 Commented on [#46](https://github.com/MichaelAquilina/flake8-spellcheck/issues/46) in [MichaelAquilina/flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck)
+5. 🗣 Commented on [#1928](https://github.com/tox-dev/tox/issues/1928) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
