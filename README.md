@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
-2. 🎉 Merged PR [#1965](https://github.com/tox-dev/tox/pull/1965) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#11](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/11) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-4. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-conda/pull/66) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-5. ❗️ Opened issue [#1964](https://github.com/tox-dev/tox/issues/1964) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Opened issue [#525](https://github.com/wez/wezterm/issues/525) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
+3. 🎉 Merged PR [#1965](https://github.com/tox-dev/tox/pull/1965) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#11](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/11) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+5. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-conda/pull/66) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 <!--END_SECTION:activity-->
