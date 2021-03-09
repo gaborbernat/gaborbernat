@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
-2. 🗣 Commented on [#8420](https://github.com/pytest-dev/pytest/issues/8420) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. ❗️ Opened issue [#525](https://github.com/wez/wezterm/issues/525) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
-5. 🎉 Merged PR [#1965](https://github.com/tox-dev/tox/pull/1965) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2079](https://github.com/pypa/virtualenv/issues/2079) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
+3. 🗣 Commented on [#8420](https://github.com/pytest-dev/pytest/issues/8420) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+4. ❗️ Opened issue [#525](https://github.com/wez/wezterm/issues/525) in [wez/wezterm](https://github.com/wez/wezterm)
+5. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
 <!--END_SECTION:activity-->
