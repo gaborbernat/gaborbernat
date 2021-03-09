@@ -37,7 +37,7 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
 2. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
-3. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Reopened issue [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#209](https://github.com/jupyter/jupyter_core/issues/209) in [jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
+4. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Reopened issue [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
