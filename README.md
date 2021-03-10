@@ -36,8 +36,8 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
-2. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1966](https://github.com/tox-dev/tox/issues/1966) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
+3. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
+4. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
+5. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
