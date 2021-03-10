@@ -35,9 +35,9 @@ I work at [Bloomberg London](https://github.com/bloomberg) on the data ingestion
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
-2. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
+1. ❗️ Closed issue [#1967](https://github.com/tox-dev/tox/issues/1967) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1967](https://github.com/tox-dev/tox/issues/1967) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
 4. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
-5. 🗣 Commented on [#2080](https://github.com/pypa/virtualenv/issues/2080) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#739](https://github.com/pypa/twine/issues/739) in [pypa/twine](https://github.com/pypa/twine)
 <!--END_SECTION:activity-->
