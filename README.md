@@ -33,6 +33,16 @@ following Python open source projects:
 * [Python packaging - Growing Pains](https://www.bernat.tech/growing-pain/) 2019-02-07
 * [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) 2018-05-30
 
+## Talks given
+
+* [Type hinting (and mypy) - PyCon US 2019](https://www.youtube.com/watch?v=hTrjTAPnA_k)
+* [status quo of virtual environments - EuroPython 2019](https://www.youtube.com/watch?v=o1Vue9CWRxU)
+* [Standardize Testing in Python - EuroPython 2018](https://www.youtube.com/watch?v=SFqna5ilqig)
+* [Lessons from the Trenches: rewriting and re-releasing virtualenv - EuroPython 2020](https://www.youtube.com/watch?v=l9A0a8qZgOs)
+* [How to best package your library? - PyLondinium 2019](https://youtu.be/OSnRl8yF9a4)
+
+## Recent Activity
+
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
