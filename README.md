@@ -37,11 +37,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#216](https://github.com/bloomberg/ipydatagrid/issues/216) in
-   [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. ❗️ Reopened issue [#201](https://github.com/bloomberg/ipydatagrid/issues/201) in
-   [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. ❗️ Closed issue [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#118](https://github.com/bloomberg/ipydatagrid/issues/118) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. ❗️ Closed issue [#118](https://github.com/bloomberg/ipydatagrid/issues/118) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+3. 🗣 Commented on [#118](https://github.com/bloomberg/ipydatagrid/issues/118) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. 🗣 Commented on [#119](https://github.com/bloomberg/ipydatagrid/issues/119) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🗣 Commented on [#210](https://github.com/bloomberg/ipydatagrid/issues/210) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
