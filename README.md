@@ -25,15 +25,7 @@ following Python open source projects:
 | [retype](https://github.com/ambv/retype)                                  | [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)                           | ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)                     | [![PyPI - Downloads](https://img.shields.io/pypi/dm/retype?style=flat-square) ](https://pypistats.org/packages/retype)                           |
 | [sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli) | [![PyPI](https://img.shields.io/pypi/v/sphinx-argparse-cli?style=flat-square)](https://pypi.org/project/sphinx-argparse-cli) | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/sphinx-argparse-cli?logo=python&style=flat-square) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-argparse-cli?style=flat-square) ](https://pypistats.org/packages/sphinx-argparse-cli) |
 
-## On my blog you can read about
-
-* [Version numbers: how to use them?](https://www.bernat.tech/version-numbers/) 2020-05-16
-* [The state of Python Packaging](https://www.bernat.tech/pep-517-and-python-packaging/) 2019-02-07
-* [Python packaging - Past, Present, Future](https://www.bernat.tech/pep-517-518/) 2019-02-07
-* [Python packaging - Growing Pains](https://www.bernat.tech/growing-pain/) 2019-02-07
-* [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) 2018-05-30
-
-## Talks given
+## Presenations
 
 * [Type hinting (and mypy) - PyCon US 2019](https://www.youtube.com/watch?v=hTrjTAPnA_k)
 * [status quo of virtual environments - EuroPython 2019](https://www.youtube.com/watch?v=o1Vue9CWRxU)
@@ -41,7 +33,15 @@ following Python open source projects:
 * [Lessons from the Trenches: rewriting and re-releasing virtualenv - EuroPython 2020](https://www.youtube.com/watch?v=l9A0a8qZgOs)
 * [How to best package your library? - PyLondinium 2019](https://youtu.be/OSnRl8yF9a4)
 
-## Recent Activity
+## Blog posts
+
+* [Version numbers: how to use them?](https://www.bernat.tech/version-numbers/) 2020-05-16
+* [The state of Python Packaging](https://www.bernat.tech/pep-517-and-python-packaging/) 2019-02-07
+* [Python packaging - Past, Present, Future](https://www.bernat.tech/pep-517-518/) 2019-02-07
+* [Python packaging - Growing Pains](https://www.bernat.tech/growing-pain/) 2019-02-07
+* [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) 2018-05-30
+
+## Recent activity
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
