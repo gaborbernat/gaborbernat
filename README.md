@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-2. 🎉 Merged PR [#1973](https://github.com/tox-dev/tox/pull/1973) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#94](https://github.com/m-burst/flake8-pytest-style/issues/94) in [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style)
-4. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#1971](https://github.com/tox-dev/tox/pull/1971) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+2. ❗️ Opened issue [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+3. 🎉 Merged PR [#1973](https://github.com/tox-dev/tox/pull/1973) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#94](https://github.com/m-burst/flake8-pytest-style/issues/94) in [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style)
+5. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
