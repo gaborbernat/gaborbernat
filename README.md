@@ -47,10 +47,10 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1971](https://github.com/tox-dev/tox/pull/1971) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1926](https://github.com/tox-dev/tox/issues/1926) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1743](https://github.com/psf/black/issues/1743) in [psf/black](https://github.com/psf/black)
+1. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1971](https://github.com/tox-dev/tox/pull/1971) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1926](https://github.com/tox-dev/tox/issues/1926) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#1743](https://github.com/psf/black/issues/1743) in [psf/black](https://github.com/psf/black)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
