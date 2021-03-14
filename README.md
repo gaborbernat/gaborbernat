@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#5](https://github.com/useblocks/tox-envreport/issues/5) in [useblocks/tox-envreport](https://github.com/useblocks/tox-envreport)
-2. ❗️ Opened issue [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-3. ❗️ Opened issue [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-5. ❗️ Opened issue [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+1. 🗣 Commented on [#94](https://github.com/m-burst/flake8-pytest-style/issues/94) in [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style)
+2. ❗️ Opened issue [#5](https://github.com/useblocks/tox-envreport/issues/5) in [useblocks/tox-envreport](https://github.com/useblocks/tox-envreport)
+3. ❗️ Opened issue [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+4. ❗️ Opened issue [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
