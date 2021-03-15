@@ -48,10 +48,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
-2. ❗️ Opened issue [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
-3. 🗣 Commented on [#59](https://github.com/ymyzk/tox-gh-actions/issues/59) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-4. 🗣 Commented on [#94](https://github.com/m-burst/flake8-pytest-style/issues/94) in [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style)
-5. ❗️ Opened issue [#5](https://github.com/useblocks/tox-envreport/issues/5) in [useblocks/tox-envreport](https://github.com/useblocks/tox-envreport)
+2. 🗣 Commented on [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
+3. ❗️ Opened issue [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
+4. 🗣 Commented on [#59](https://github.com/ymyzk/tox-gh-actions/issues/59) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
+5. 🗣 Commented on [#94](https://github.com/m-burst/flake8-pytest-style/issues/94) in [m-burst/flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
