@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#221](https://github.com/pixel-saver/pixel-saver/issues/221) in [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver)
-2. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
-5. ❗️ Opened issue [#543](https://github.com/wez/wezterm/issues/543) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🎉 Merged PR [#2077](https://github.com/pypa/virtualenv/pull/2077) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2072](https://github.com/pypa/virtualenv/pull/2072) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❗️ Closed issue [#2071](https://github.com/pypa/virtualenv/issues/2071) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Opened issue [#127](https://github.com/hedayaty/NetSpeed/issues/127) in [hedayaty/NetSpeed](https://github.com/hedayaty/NetSpeed)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
