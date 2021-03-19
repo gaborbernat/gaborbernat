@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1025](https://github.com/jupyterhub/repo2docker/pull/1025) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
-2. 💪 Opened PR [#1025](https://github.com/jupyterhub/repo2docker/pull/1025) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
-3. 🗣 Commented on [#260](https://github.com/pypa/build/issues/260) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#262](https://github.com/pypa/build/issues/262) in [pypa/build](https://github.com/pypa/build)
+2. ❌ Closed PR [#1025](https://github.com/jupyterhub/repo2docker/pull/1025) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
+3. 💪 Opened PR [#1025](https://github.com/jupyterhub/repo2docker/pull/1025) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
 4. 🗣 Commented on [#260](https://github.com/pypa/build/issues/260) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#2084](https://github.com/pypa/virtualenv/issues/2084) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#260](https://github.com/pypa/build/issues/260) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
