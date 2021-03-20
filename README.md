@@ -25,7 +25,7 @@ following Python open source projects:
 | [retype](https://github.com/ambv/retype)                                  | [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)                           | ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)                     | [![PyPI - Downloads](https://img.shields.io/pypi/dm/retype?style=flat-square) ](https://pypistats.org/packages/retype)                           |
 | [sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli) | [![PyPI](https://img.shields.io/pypi/v/sphinx-argparse-cli?style=flat-square)](https://pypi.org/project/sphinx-argparse-cli) | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/sphinx-argparse-cli?logo=python&style=flat-square) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-argparse-cli?style=flat-square) ](https://pypistats.org/packages/sphinx-argparse-cli) |
 
-## Presenations
+## Presentations
 
 * [Type hinting (and mypy) - PyCon US 2019](https://www.youtube.com/watch?v=hTrjTAPnA_k)
 * [status quo of virtual environments - EuroPython 2019](https://www.youtube.com/watch?v=o1Vue9CWRxU)
