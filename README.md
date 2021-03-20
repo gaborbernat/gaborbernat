@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#262](https://github.com/pypa/build/issues/262) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#262](https://github.com/pypa/build/issues/262) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#262](https://github.com/pypa/build/issues/262) in [pypa/build](https://github.com/pypa/build)
-4. ❌ Closed PR [#1025](https://github.com/jupyterhub/repo2docker/pull/1025) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
-5. 💪 Opened PR [#1025](https://github.com/jupyterhub/repo2docker/pull/1025) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
+1. ❗️ Closed issue [#1926](https://github.com/tox-dev/tox/issues/1926) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1970](https://github.com/tox-dev/tox/pull/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1970](https://github.com/tox-dev/tox/issues/1970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#262](https://github.com/pypa/build/issues/262) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
