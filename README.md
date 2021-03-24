@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#219](https://github.com/bloomberg/ipydatagrid/issues/219) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. 🗣 Commented on [#219](https://github.com/bloomberg/ipydatagrid/issues/219) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🎉 Merged PR [#67](https://github.com/tox-dev/tox-conda/pull/67) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🎉 Merged PR [#2](https://github.com/tox-dev/tox-strict/pull/2) in [tox-dev/tox-strict](https://github.com/tox-dev/tox-strict)
-5. 🎉 Merged PR [#4](https://github.com/tox-dev/tox-via-docker/pull/4) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🗣 Commented on [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+2. 🗣 Commented on [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+3. 🗣 Commented on [#219](https://github.com/bloomberg/ipydatagrid/issues/219) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. 🗣 Commented on [#219](https://github.com/bloomberg/ipydatagrid/issues/219) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🎉 Merged PR [#67](https://github.com/tox-dev/tox-conda/pull/67) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
