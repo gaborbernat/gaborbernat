@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1976](https://github.com/tox-dev/tox/pull/1976) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#122](https://github.com/ajv-validator/ajv-cli/issues/122) in [ajv-validator/ajv-cli](https://github.com/ajv-validator/ajv-cli)
-3. 🗣 Commented on [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+1. 🗣 Commented on [#1586](https://github.com/python/typeshed/issues/1586) in [python/typeshed](https://github.com/python/typeshed)
+2. 🎉 Merged PR [#1976](https://github.com/tox-dev/tox/pull/1976) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#122](https://github.com/ajv-validator/ajv-cli/issues/122) in [ajv-validator/ajv-cli](https://github.com/ajv-validator/ajv-cli)
 4. 🗣 Commented on [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-5. 🗣 Commented on [#219](https://github.com/bloomberg/ipydatagrid/issues/219) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🗣 Commented on [#31](https://github.com/signalpillar/tox-battery/issues/31) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
