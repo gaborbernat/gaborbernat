@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#721](https://github.com/Ulauncher/Ulauncher/issues/721) in [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
-2. 🎉 Merged PR [#1981](https://github.com/tox-dev/tox/pull/1981) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1586](https://github.com/python/typeshed/issues/1586) in [python/typeshed](https://github.com/python/typeshed)
-4. 🎉 Merged PR [#1976](https://github.com/tox-dev/tox/pull/1976) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#122](https://github.com/ajv-validator/ajv-cli/issues/122) in [ajv-validator/ajv-cli](https://github.com/ajv-validator/ajv-cli)
+1. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
+2. ❗️ Opened issue [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
+3. ❗️ Opened issue [#721](https://github.com/Ulauncher/Ulauncher/issues/721) in [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
+4. 🎉 Merged PR [#1981](https://github.com/tox-dev/tox/pull/1981) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1586](https://github.com/python/typeshed/issues/1586) in [python/typeshed](https://github.com/python/typeshed)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
