@@ -50,8 +50,8 @@ following Python open source projects:
 1. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
 2. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
 3. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
-4. ❗️ Opened issue [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
-5. ❗️ Opened issue [#721](https://github.com/Ulauncher/Ulauncher/issues/721) in [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
+4. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
+5. ❗️ Opened issue [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
