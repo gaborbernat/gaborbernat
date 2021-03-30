@@ -47,8 +47,8 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1982](https://github.com/tox-dev/tox/issues/1982) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#1982](https://github.com/tox-dev/tox/issues/1982) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
 5. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
