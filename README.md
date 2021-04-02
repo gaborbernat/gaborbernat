@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1986](https://github.com/tox-dev/tox/issues/1986) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#270](https://github.com/pypa/build/issues/270) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#809](https://github.com/devpi/devpi/issues/809) in [devpi/devpi](https://github.com/devpi/devpi)
+1. ❗️ Closed issue [#56](https://github.com/tox-dev/tox-conda/issues/56) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🎉 Merged PR [#68](https://github.com/tox-dev/tox-conda/pull/68) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. 🗣 Commented on [#1986](https://github.com/tox-dev/tox/issues/1986) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#270](https://github.com/pypa/build/issues/270) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#270](https://github.com/pypa/build/issues/270) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#809](https://github.com/devpi/devpi/issues/809) in [devpi/devpi](https://github.com/devpi/devpi)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
