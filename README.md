@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1990](https://github.com/tox-dev/tox/pull/1990) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1797](https://github.com/tox-dev/tox/issues/1797) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1797](https://github.com/tox-dev/tox/issues/1797) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#1992](https://github.com/tox-dev/tox/pull/1992) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#1986](https://github.com/tox-dev/tox/issues/1986) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#9](https://github.com/tox-dev/tox-bindep/pull/9) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+2. 🎉 Merged PR [#1994](https://github.com/tox-dev/tox/pull/1994) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#1990](https://github.com/tox-dev/tox/pull/1990) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1797](https://github.com/tox-dev/tox/issues/1797) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1797](https://github.com/tox-dev/tox/issues/1797) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
