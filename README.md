@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1999](https://github.com/tox-dev/tox/issues/1999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1999](https://github.com/tox-dev/tox/issues/1999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#71](https://github.com/jaraco/zipp/issues/71) in [jaraco/zipp](https://github.com/jaraco/zipp)
-4. 🗣 Commented on [#1929](https://github.com/tox-dev/tox/issues/1929) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1939](https://github.com/tox-dev/tox/issues/1939) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#1985](https://github.com/tox-dev/tox/issues/1985) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2000](https://github.com/tox-dev/tox/pull/2000) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#1983](https://github.com/tox-dev/tox/pull/1983) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#1982](https://github.com/tox-dev/tox/issues/1982) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1999](https://github.com/tox-dev/tox/issues/1999) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
