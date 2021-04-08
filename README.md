@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2090](https://github.com/pypa/virtualenv/issues/2090) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#1127](https://github.com/tox-dev/tox/issues/1127) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1975](https://github.com/tox-dev/tox/issues/1975) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2003](https://github.com/tox-dev/tox/issues/2003) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1929](https://github.com/tox-dev/tox/issues/1929) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2007](https://github.com/tox-dev/tox/issues/2007) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2005](https://github.com/tox-dev/tox/issues/2005) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2005](https://github.com/tox-dev/tox/issues/2005) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2007](https://github.com/tox-dev/tox/issues/2007) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2006](https://github.com/tox-dev/tox/issues/2006) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
