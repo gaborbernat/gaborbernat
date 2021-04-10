@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2011](https://github.com/tox-dev/tox/issues/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2015](https://github.com/tox-dev/tox/pull/2015) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2011](https://github.com/tox-dev/tox/issues/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2014](https://github.com/tox-dev/tox/pull/2014) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2014](https://github.com/tox-dev/tox/pull/2014) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2011](https://github.com/tox-dev/tox/pull/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2011](https://github.com/tox-dev/tox/issues/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2015](https://github.com/tox-dev/tox/pull/2015) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2011](https://github.com/tox-dev/tox/issues/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2014](https://github.com/tox-dev/tox/pull/2014) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
