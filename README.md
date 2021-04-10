@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1975](https://github.com/tox-dev/tox/issues/1975) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1975](https://github.com/tox-dev/tox/issues/1975) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2010](https://github.com/tox-dev/tox/pull/2010) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❌ Closed PR [#934](https://github.com/apache/avro/pull/934) in [apache/avro](https://github.com/apache/avro)
-5. 🗣 Commented on [#934](https://github.com/apache/avro/issues/934) in [apache/avro](https://github.com/apache/avro)
+1. 🗣 Commented on [#2013](https://github.com/tox-dev/tox/issues/2013) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2011](https://github.com/tox-dev/tox/issues/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2011](https://github.com/tox-dev/tox/issues/2011) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1975](https://github.com/tox-dev/tox/issues/1975) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1975](https://github.com/tox-dev/tox/issues/1975) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
