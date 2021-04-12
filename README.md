@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2002](https://github.com/tox-dev/tox/issues/2002) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2002](https://github.com/tox-dev/tox/issues/2002) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2002](https://github.com/tox-dev/tox/issues/2002) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2004](https://github.com/tox-dev/tox/issues/2004) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2021](https://github.com/tox-dev/tox/issues/2021) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#70](https://github.com/tox-dev/tox-conda/pull/70) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🎉 Merged PR [#2023](https://github.com/tox-dev/tox/pull/2023) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#11](https://github.com/tox-dev/tox-bindep/pull/11) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+4. ❌ Closed PR [#5](https://github.com/tox-dev/tox-extra/pull/5) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. 🎉 Merged PR [#13](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/13) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
