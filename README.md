@@ -49,9 +49,9 @@ following Python open source projects:
 
 1. 🗣 Commented on [#2021](https://github.com/tox-dev/tox/issues/2021) in [tox-dev/tox](https://github.com/tox-dev/tox)
 2. 🗣 Commented on [#2021](https://github.com/tox-dev/tox/issues/2021) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#2022](https://github.com/tox-dev/tox/issues/2022) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2018](https://github.com/tox-dev/tox/issues/2018) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2020](https://github.com/tox-dev/tox/pull/2020) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2021](https://github.com/tox-dev/tox/issues/2021) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#2022](https://github.com/tox-dev/tox/issues/2022) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2018](https://github.com/tox-dev/tox/issues/2018) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
