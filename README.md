@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/gaborbernat/sphinx-argparse-cli/issues/7) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+1. 🎉 Merged PR [#2028](https://github.com/tox-dev/tox/pull/2028) in [tox-dev/tox](https://github.com/tox-dev/tox)
 2. 🗣 Commented on [#7](https://github.com/gaborbernat/sphinx-argparse-cli/issues/7) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-3. ❗️ Closed issue [#2002](https://github.com/tox-dev/tox/issues/2002) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#6](https://github.com/gaborbernat/sphinx-argparse-cli/pull/6) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🎉 Merged PR [#2026](https://github.com/tox-dev/tox/pull/2026) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#7](https://github.com/gaborbernat/sphinx-argparse-cli/issues/7) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. ❗️ Closed issue [#2002](https://github.com/tox-dev/tox/issues/2002) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#6](https://github.com/gaborbernat/sphinx-argparse-cli/pull/6) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
