@@ -47,8 +47,8 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2678](https://github.com/samuelcolvin/pydantic/issues/2678) in [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic)
-2. 🗣 Commented on [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+1. 🗣 Commented on [#271](https://github.com/pypa/build/issues/271) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#2678](https://github.com/samuelcolvin/pydantic/issues/2678) in [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic)
 3. 🗣 Commented on [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 4. 🗣 Commented on [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 5. 🗣 Commented on [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
