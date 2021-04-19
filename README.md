@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1995](https://github.com/tox-dev/tox/issues/1995) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2035](https://github.com/tox-dev/tox/pull/2035) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2031](https://github.com/tox-dev/tox/issues/2031) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🗣 Commented on [#271](https://github.com/pypa/build/issues/271) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#2031](https://github.com/tox-dev/tox/issues/2031) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#1995](https://github.com/tox-dev/tox/issues/1995) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2035](https://github.com/tox-dev/tox/pull/2035) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2031](https://github.com/tox-dev/tox/issues/2031) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
