@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/pytest-dev/pytest-print/pull/11) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 💪 Opened PR [#2104](https://github.com/pypa/virtualenv/pull/2104) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2051](https://github.com/tox-dev/tox/pull/2051) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Opened issue [#1065](https://github.com/pypa/pypi-support/issues/1065) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
-5. 🗣 Commented on [#2039](https://github.com/tox-dev/tox/issues/2039) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#71](https://github.com/tox-dev/tox-conda/issues/71) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🎉 Merged PR [#72](https://github.com/tox-dev/tox-conda/pull/72) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. 🎉 Merged PR [#71](https://github.com/tox-dev/tox-conda/pull/71) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🎉 Merged PR [#11](https://github.com/pytest-dev/pytest-print/pull/11) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 💪 Opened PR [#2104](https://github.com/pypa/virtualenv/pull/2104) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
