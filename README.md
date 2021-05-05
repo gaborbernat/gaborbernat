@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2109](https://github.com/pypa/virtualenv/pull/2109) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#349](https://github.com/pytest-dev/pytest-randomly/issues/349) in [pytest-dev/pytest-randomly](https://github.com/pytest-dev/pytest-randomly)
 2. 🗣 Commented on [#349](https://github.com/pytest-dev/pytest-randomly/issues/349) in [pytest-dev/pytest-randomly](https://github.com/pytest-dev/pytest-randomly)
-3. 🗣 Commented on [#2056](https://github.com/tox-dev/tox/issues/2056) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2109](https://github.com/pypa/virtualenv/issues/2109) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2109](https://github.com/pypa/virtualenv/issues/2109) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2109](https://github.com/pypa/virtualenv/pull/2109) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#349](https://github.com/pytest-dev/pytest-randomly/issues/349) in [pytest-dev/pytest-randomly](https://github.com/pytest-dev/pytest-randomly)
+5. 🗣 Commented on [#2056](https://github.com/tox-dev/tox/issues/2056) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
