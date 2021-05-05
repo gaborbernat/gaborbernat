@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#75](https://github.com/python/importlib_resources/issues/75) in [python/importlib_resources](https://github.com/python/importlib_resources)
-2. 💪 Opened PR [#2110](https://github.com/pypa/virtualenv/pull/2110) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2108](https://github.com/pypa/virtualenv/issues/2108) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2107](https://github.com/pypa/virtualenv/pull/2107) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#2106](https://github.com/pypa/virtualenv/issues/2106) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#349](https://github.com/pytest-dev/pytest-randomly/issues/349) in [pytest-dev/pytest-randomly](https://github.com/pytest-dev/pytest-randomly)
+2. 🗣 Commented on [#2056](https://github.com/tox-dev/tox/issues/2056) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2109](https://github.com/pypa/virtualenv/issues/2109) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2109](https://github.com/pypa/virtualenv/issues/2109) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#75](https://github.com/python/importlib_resources/issues/75) in [python/importlib_resources](https://github.com/python/importlib_resources)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
