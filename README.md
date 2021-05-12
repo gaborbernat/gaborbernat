@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1426](https://github.com/pallets/jinja/issues/1426) in [pallets/jinja](https://github.com/pallets/jinja)
-2. 🎉 Merged PR [#12](https://github.com/pytest-dev/pytest-print/pull/12) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 💪 Opened PR [#57](https://github.com/tox-dev/tox-ini-fmt/pull/57) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. ❗️ Closed issue [#2060](https://github.com/tox-dev/tox/issues/2060) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2060](https://github.com/tox-dev/tox/issues/2060) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
+2. 🗣 Commented on [#1426](https://github.com/pallets/jinja/issues/1426) in [pallets/jinja](https://github.com/pallets/jinja)
+3. 🗣 Commented on [#10198](https://github.com/python/mypy/issues/10198) in [python/mypy](https://github.com/python/mypy)
+4. 🗣 Commented on [#1426](https://github.com/pallets/jinja/issues/1426) in [pallets/jinja](https://github.com/pallets/jinja)
+5. ❗️ Opened issue [#1426](https://github.com/pallets/jinja/issues/1426) in [pallets/jinja](https://github.com/pallets/jinja)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
