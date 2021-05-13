@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
+1. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
 2. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
 3. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
-4. 🗣 Commented on [#1426](https://github.com/pallets/jinja/issues/1426) in [pallets/jinja](https://github.com/pallets/jinja)
-5. 🗣 Commented on [#10198](https://github.com/python/mypy/issues/10198) in [python/mypy](https://github.com/python/mypy)
+4. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
+5. 🗣 Commented on [#1426](https://github.com/pallets/jinja/issues/1426) in [pallets/jinja](https://github.com/pallets/jinja)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
