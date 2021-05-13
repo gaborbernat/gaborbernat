@@ -49,7 +49,7 @@ following Python open source projects:
 
 1. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
 2. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
-3. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
+3. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
 4. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
 5. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
