@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#29](https://github.com/ambv/retype/pull/29) in [ambv/retype](https://github.com/ambv/retype)
-2. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
+1. 🗣 Commented on [#10198](https://github.com/python/mypy/issues/10198) in [python/mypy](https://github.com/python/mypy)
+2. 🎉 Merged PR [#29](https://github.com/ambv/retype/pull/29) in [ambv/retype](https://github.com/ambv/retype)
 3. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
 4. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
-5. 🗣 Commented on [#154](https://github.com/jab/bidict/issues/154) in [jab/bidict](https://github.com/jab/bidict)
+5. 🗣 Commented on [#219](https://github.com/jazzband/help/issues/219) in [jazzband/help](https://github.com/jazzband/help)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
