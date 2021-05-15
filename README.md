@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#30](https://github.com/ambv/retype/issues/30) in [ambv/retype](https://github.com/ambv/retype)
-2. 🎉 Merged PR [#30](https://github.com/ambv/retype/pull/30) in [ambv/retype](https://github.com/ambv/retype)
-3. ❗️ Closed issue [#23](https://github.com/ambv/retype/issues/23) in [ambv/retype](https://github.com/ambv/retype)
-4. ❗️ Closed issue [#25](https://github.com/ambv/retype/issues/25) in [ambv/retype](https://github.com/ambv/retype)
-5. 🗣 Commented on [#30](https://github.com/ambv/retype/issues/30) in [ambv/retype](https://github.com/ambv/retype)
+1. 🎉 Merged PR [#31](https://github.com/ambv/retype/pull/31) in [ambv/retype](https://github.com/ambv/retype)
+2. 🗣 Commented on [#30](https://github.com/ambv/retype/issues/30) in [ambv/retype](https://github.com/ambv/retype)
+3. 🎉 Merged PR [#30](https://github.com/ambv/retype/pull/30) in [ambv/retype](https://github.com/ambv/retype)
+4. ❗️ Closed issue [#23](https://github.com/ambv/retype/issues/23) in [ambv/retype](https://github.com/ambv/retype)
+5. ❗️ Closed issue [#25](https://github.com/ambv/retype/issues/25) in [ambv/retype](https://github.com/ambv/retype)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
