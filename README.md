@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2062](https://github.com/tox-dev/tox/issues/2062) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2062](https://github.com/tox-dev/tox/issues/2062) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#32](https://github.com/ambv/retype/pull/32) in [ambv/retype](https://github.com/ambv/retype)
-4. 🗣 Commented on [#30](https://github.com/ambv/retype/issues/30) in [ambv/retype](https://github.com/ambv/retype)
-5. 🎉 Merged PR [#31](https://github.com/ambv/retype/pull/31) in [ambv/retype](https://github.com/ambv/retype)
+1. ❗️ Closed issue [#2118](https://github.com/pypa/virtualenv/issues/2118) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2118](https://github.com/pypa/virtualenv/issues/2118) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2062](https://github.com/tox-dev/tox/issues/2062) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2062](https://github.com/tox-dev/tox/issues/2062) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#32](https://github.com/ambv/retype/pull/32) in [ambv/retype](https://github.com/ambv/retype)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
