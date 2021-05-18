@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2119](https://github.com/pypa/virtualenv/pull/2119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#13](https://github.com/pytest-dev/pytest-print/pull/13) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🎉 Merged PR [#10](https://github.com/tox-dev/azure-pipelines-template/pull/10) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-4. 🎉 Merged PR [#5](https://github.com/tox-dev/integration-test/pull/5) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-5. 🎉 Merged PR [#14](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/14) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+1. 🎉 Merged PR [#2119](https://github.com/pypa/virtualenv/pull/2119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2119](https://github.com/pypa/virtualenv/pull/2119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#13](https://github.com/pytest-dev/pytest-print/pull/13) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#10](https://github.com/tox-dev/azure-pipelines-template/pull/10) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
+5. 🎉 Merged PR [#5](https://github.com/tox-dev/integration-test/pull/5) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
