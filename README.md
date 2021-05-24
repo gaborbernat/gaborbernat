@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2067](https://github.com/tox-dev/tox/issues/2067) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2067](https://github.com/tox-dev/tox/issues/2067) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2066](https://github.com/tox-dev/tox/pull/2066) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2065](https://github.com/tox-dev/tox/issues/2065) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#91](https://github.com/lensvol/pybetter/issues/91) in [lensvol/pybetter](https://github.com/lensvol/pybetter)
+1. 🗣 Commented on [#40](https://github.com/pypa/get-virtualenv/issues/40) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. ❗️ Closed issue [#40](https://github.com/pypa/get-virtualenv/issues/40) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+3. 🗣 Commented on [#2067](https://github.com/tox-dev/tox/issues/2067) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#2067](https://github.com/tox-dev/tox/issues/2067) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2066](https://github.com/tox-dev/tox/pull/2066) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
