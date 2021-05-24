@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#91](https://github.com/lensvol/pybetter/issues/91) in [lensvol/pybetter](https://github.com/lensvol/pybetter)
-2. 🗣 Commented on [#299](https://github.com/pypa/build/issues/299) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#297](https://github.com/pypa/build/issues/297) in [pypa/build](https://github.com/pypa/build)
-4. 💪 Opened PR [#91](https://github.com/lensvol/pybetter/pull/91) in [lensvol/pybetter](https://github.com/lensvol/pybetter)
-5. 🗣 Commented on [#2064](https://github.com/tox-dev/tox/issues/2064) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2066](https://github.com/tox-dev/tox/pull/2066) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#2065](https://github.com/tox-dev/tox/issues/2065) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#91](https://github.com/lensvol/pybetter/issues/91) in [lensvol/pybetter](https://github.com/lensvol/pybetter)
+4. 🗣 Commented on [#299](https://github.com/pypa/build/issues/299) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#297](https://github.com/pypa/build/issues/297) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
