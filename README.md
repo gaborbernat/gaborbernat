@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/tox-dev/tox-via-docker/pull/7) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-2. 🎉 Merged PR [#77](https://github.com/tox-dev/tox-conda/pull/77) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-3. ❗️ Opened issue [#452](https://github.com/asottile/pyupgrade/issues/452) in [asottile/pyupgrade](https://github.com/asottile/pyupgrade)
-4. 🎉 Merged PR [#14](https://github.com/pytest-dev/pytest-print/pull/14) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 💪 Opened PR [#2123](https://github.com/pypa/virtualenv/pull/2123) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2124](https://github.com/pypa/virtualenv/pull/2124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2124](https://github.com/pypa/virtualenv/pull/2124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2123](https://github.com/pypa/virtualenv/pull/2123) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#6](https://github.com/tox-dev/integration-test/pull/6) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+5. 🎉 Merged PR [#7](https://github.com/tox-dev/tox-via-docker/pull/7) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
