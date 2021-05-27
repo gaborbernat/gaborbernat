@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#596](https://github.com/pipxproject/pipx/issues/596) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-2. 🗣 Commented on [#2069](https://github.com/tox-dev/tox/issues/2069) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#7](https://github.com/GoogleCloudPlatform/artifact-registry-python-tools/issues/7) in [GoogleCloudPlatform/artifact-registry-python-tools](https://github.com/GoogleCloudPlatform/artifact-registry-python-tools)
-4. 💪 Opened PR [#692](https://github.com/pipxproject/pipx/pull/692) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-5. 🎉 Merged PR [#690](https://github.com/pipxproject/pipx/pull/690) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+1. 🎉 Merged PR [#692](https://github.com/pipxproject/pipx/pull/692) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+2. 🗣 Commented on [#596](https://github.com/pipxproject/pipx/issues/596) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+3. 🗣 Commented on [#2069](https://github.com/tox-dev/tox/issues/2069) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#7](https://github.com/GoogleCloudPlatform/artifact-registry-python-tools/issues/7) in [GoogleCloudPlatform/artifact-registry-python-tools](https://github.com/GoogleCloudPlatform/artifact-registry-python-tools)
+5. 💪 Opened PR [#692](https://github.com/pipxproject/pipx/pull/692) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
