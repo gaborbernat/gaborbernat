@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1956](https://github.com/python/peps/issues/1956) in [python/peps](https://github.com/python/peps)
-2. 🗣 Commented on [#2070](https://github.com/tox-dev/tox/issues/2070) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#2070](https://github.com/tox-dev/tox/issues/2070) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#692](https://github.com/pipxproject/pipx/pull/692) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
-5. 🗣 Commented on [#596](https://github.com/pipxproject/pipx/issues/596) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
+1. ❗️ Opened issue [#698](https://github.com/pypa/pipx/issues/698) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#1956](https://github.com/python/peps/issues/1956) in [python/peps](https://github.com/python/peps)
+3. 🗣 Commented on [#2070](https://github.com/tox-dev/tox/issues/2070) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#2070](https://github.com/tox-dev/tox/issues/2070) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#692](https://github.com/pipxproject/pipx/pull/692) in [pipxproject/pipx](https://github.com/pipxproject/pipx)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
