@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#82](https://github.com/tox-dev/tox-conda/pull/82) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-2. 🎉 Merged PR [#9](https://github.com/tox-dev/tox-via-docker/pull/9) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-3. 🎉 Merged PR [#14](https://github.com/tox-dev/tox-extra/pull/14) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-4. 🎉 Merged PR [#7](https://github.com/tox-dev/integration-test/pull/7) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-5. 🎉 Merged PR [#2075](https://github.com/tox-dev/tox/pull/2075) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
+2. 🎉 Merged PR [#82](https://github.com/tox-dev/tox-conda/pull/82) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. 🎉 Merged PR [#9](https://github.com/tox-dev/tox-via-docker/pull/9) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+4. 🎉 Merged PR [#14](https://github.com/tox-dev/tox-extra/pull/14) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. 🎉 Merged PR [#7](https://github.com/tox-dev/integration-test/pull/7) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
