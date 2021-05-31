@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/tox-dev/tox-via-docker/issues/8) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-2. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
-3. 🗣 Commented on [#699](https://github.com/pypa/pipx/issues/699) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#41](https://github.com/pypa/get-virtualenv/issues/41) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-5. 🗣 Commented on [#41](https://github.com/pypa/get-virtualenv/issues/41) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🎉 Merged PR [#2075](https://github.com/tox-dev/tox/pull/2075) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#2074](https://github.com/tox-dev/tox/issues/2074) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#8](https://github.com/tox-dev/tox-via-docker/issues/8) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+4. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
+5. 🗣 Commented on [#699](https://github.com/pypa/pipx/issues/699) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
