@@ -35,15 +35,15 @@ following Python open source projects:
 
 ## Blog posts
 
-* [Version numbers: how to use them?](https://www.bernat.tech/version-numbers/) 2020-05-16
-* [The state of Python Packaging](https://www.bernat.tech/pep-517-and-python-packaging/) 2019-02-07
-* [Python packaging - Past, Present, Future](https://www.bernat.tech/pep-517-518/) 2019-02-07
-* [Python packaging - Growing Pains](https://www.bernat.tech/growing-pain/) 2019-02-07
-* [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) 2018-05-30
+* [Version numbers: how to use them?](https://www.bernat.tech/posts/version-numbers/) 2020-05-16
+* [The state of Python Packaging](https://www.bernat.tech/posts/pep-517-and-python-packaging/) 2019-02-07
+* [Python packaging - Past, Present, Future](https://www.bernat.tech/posts/pep-517-518/) 2019-02-07
+* [Python packaging - Growing Pains](https://www.bernat.tech/posts/growing-pain/) 2019-02-07
+* [the state of type hints in Python](https://www.bernat.tech/posts/the-state-of-type-hints-in-python/) 2018-05-30
 
 ## Recent activity
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gaborbernat&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
 
