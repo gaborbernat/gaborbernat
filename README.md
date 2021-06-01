@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/gaborbernat/peps/pull/1) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
-2. ❌ Closed PR [#1974](https://github.com/python/peps/pull/1974) in [python/peps](https://github.com/python/peps)
-3. 💪 Opened PR [#1974](https://github.com/python/peps/pull/1974) in [python/peps](https://github.com/python/peps)
-4. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
-5. 🎉 Merged PR [#82](https://github.com/tox-dev/tox-conda/pull/82) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+1. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
+2. 💪 Opened PR [#1](https://github.com/gaborbernat/peps/pull/1) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
+3. ❌ Closed PR [#1974](https://github.com/python/peps/pull/1974) in [python/peps](https://github.com/python/peps)
+4. 💪 Opened PR [#1974](https://github.com/python/peps/pull/1974) in [python/peps](https://github.com/python/peps)
+5. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
