@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/gaborbernat/gaborbernat/pull/1) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-2. ❗️ Closed issue [#2079](https://github.com/tox-dev/tox/issues/2079) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2079](https://github.com/tox-dev/tox/issues/2079) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#2](https://github.com/gaborbernat/peps/pull/2) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
+2. 🎉 Merged PR [#1](https://github.com/gaborbernat/gaborbernat/pull/1) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+3. ❗️ Closed issue [#2079](https://github.com/tox-dev/tox/issues/2079) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#2079](https://github.com/tox-dev/tox/issues/2079) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#68](https://github.com/python/steering-council/issues/68) in [python/steering-council](https://github.com/python/steering-council)
+5. 🗣 Commented on [#2079](https://github.com/tox-dev/tox/issues/2079) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
