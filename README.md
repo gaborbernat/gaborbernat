@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1977](https://github.com/python/peps/pull/1977) in [python/peps](https://github.com/python/peps)
-2. 💪 Opened PR [#1976](https://github.com/python/peps/pull/1976) in [python/peps](https://github.com/python/peps)
-3. ❌ Closed PR [#2](https://github.com/gaborbernat/peps/pull/2) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
-4. 💪 Opened PR [#2](https://github.com/gaborbernat/peps/pull/2) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
-5. 🎉 Merged PR [#1](https://github.com/gaborbernat/gaborbernat/pull/1) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+1. 🗣 Commented on [#2129](https://github.com/pypa/virtualenv/issues/2129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2129](https://github.com/pypa/virtualenv/issues/2129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2129](https://github.com/pypa/virtualenv/issues/2129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#2128](https://github.com/pypa/virtualenv/issues/2128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2128](https://github.com/pypa/virtualenv/issues/2128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
