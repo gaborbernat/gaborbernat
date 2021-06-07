@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#12](https://github.com/gaborbernat/sphinx-argparse-cli/issues/12) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-2. 💪 Opened PR [#13](https://github.com/gaborbernat/sphinx-argparse-cli/pull/13) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-3. 🎉 Merged PR [#12](https://github.com/gaborbernat/sphinx-argparse-cli/pull/12) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-4. ❗️ Closed issue [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🗣 Commented on [#1977](https://github.com/python/peps/issues/1977) in [python/peps](https://github.com/python/peps)
+1. ❗️ Opened issue [#70](https://github.com/python/steering-council/issues/70) in [python/steering-council](https://github.com/python/steering-council)
+2. 🗣 Commented on [#12](https://github.com/gaborbernat/sphinx-argparse-cli/issues/12) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+3. 💪 Opened PR [#13](https://github.com/gaborbernat/sphinx-argparse-cli/pull/13) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. 🎉 Merged PR [#12](https://github.com/gaborbernat/sphinx-argparse-cli/pull/12) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. ❗️ Closed issue [#11](https://github.com/gaborbernat/sphinx-argparse-cli/issues/11) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
