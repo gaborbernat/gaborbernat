@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1977](https://github.com/python/peps/issues/1977) in [python/peps](https://github.com/python/peps)
-2. 🗣 Commented on [#70](https://github.com/python/steering-council/issues/70) in [python/steering-council](https://github.com/python/steering-council)
-3. 🗣 Commented on [#305](https://github.com/pypa/build/issues/305) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#1](https://github.com/gaborbernat/fs_viewer/pull/1) in [gaborbernat/fs_viewer](https://github.com/gaborbernat/fs_viewer)
-5. ❗️ Opened issue [#70](https://github.com/python/steering-council/issues/70) in [python/steering-council](https://github.com/python/steering-council)
+1. ❗️ Opened issue [#16](https://github.com/nokia/PyVenvManage/issues/16) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+2. 🎉 Merged PR [#2127](https://github.com/pypa/virtualenv/pull/2127) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#15](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/15) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+4. 🎉 Merged PR [#83](https://github.com/tox-dev/tox-conda/pull/83) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#10](https://github.com/tox-dev/tox-via-docker/pull/10) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
