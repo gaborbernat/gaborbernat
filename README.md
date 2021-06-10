@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#17](https://github.com/nokia/PyVenvManage/pull/17) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-2. ❗️ Opened issue [#16](https://github.com/nokia/PyVenvManage/issues/16) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-3. 🎉 Merged PR [#2127](https://github.com/pypa/virtualenv/pull/2127) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#15](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/15) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-5. 🎉 Merged PR [#83](https://github.com/tox-dev/tox-conda/pull/83) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+1. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+2. 💪 Opened PR [#17](https://github.com/nokia/PyVenvManage/pull/17) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+3. ❗️ Opened issue [#16](https://github.com/nokia/PyVenvManage/issues/16) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+4. 🎉 Merged PR [#2127](https://github.com/pypa/virtualenv/pull/2127) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#15](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/15) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
