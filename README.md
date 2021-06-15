@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-extra/pull/16) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-3. 🎉 Merged PR [#8](https://github.com/tox-dev/integration-test/pull/8) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-4. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-5. 🎉 Merged PR [#11](https://github.com/tox-dev/tox-via-docker/pull/11) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🗣 Commented on [#2088](https://github.com/tox-dev/tox/issues/2088) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+3. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-extra/pull/16) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+4. 🎉 Merged PR [#8](https://github.com/tox-dev/integration-test/pull/8) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+5. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
