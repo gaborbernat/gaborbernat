@@ -47,11 +47,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#765](https://github.com/pypa/twine/issues/765) in [pypa/twine](https://github.com/pypa/twine)
-2. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+1. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-extra/pull/16) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+2. 🎉 Merged PR [#8](https://github.com/tox-dev/integration-test/pull/8) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
 3. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. 🗣 Commented on [#1980](https://github.com/pyenv/pyenv/issues/1980) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-5. 🗣 Commented on [#1977](https://github.com/python/peps/issues/1977) in [python/peps](https://github.com/python/peps)
+4. 🎉 Merged PR [#11](https://github.com/tox-dev/tox-via-docker/pull/11) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#84](https://github.com/tox-dev/tox-conda/pull/84) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
