@@ -50,9 +50,9 @@ following Python open source projects:
 
 1. 🗣 Commented on [#308](https://github.com/pypa/build/issues/308) in [pypa/build](https://github.com/pypa/build)
 2. 🗣 Commented on [#308](https://github.com/pypa/build/issues/308) in [pypa/build](https://github.com/pypa/build)
-3. ❌ Closed PR [#2090](https://github.com/tox-dev/tox/pull/2090) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#313](https://github.com/pypa/build/issues/313) in [pypa/build](https://github.com/pypa/build)
-5. 💪 Opened PR [#16](https://github.com/pytest-dev/pytest-print/pull/16) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🗣 Commented on [#308](https://github.com/pypa/build/issues/308) in [pypa/build](https://github.com/pypa/build)
+4. ❌ Closed PR [#2090](https://github.com/tox-dev/tox/pull/2090) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#313](https://github.com/pypa/build/issues/313) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
