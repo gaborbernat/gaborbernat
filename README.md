@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2132](https://github.com/pypa/virtualenv/pull/2132) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❗️ Closed issue [#319](https://github.com/pypa/build/issues/319) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#319](https://github.com/pypa/build/issues/319) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#16](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/16) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-5. 🎉 Merged PR [#9](https://github.com/tox-dev/integration-test/pull/9) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+1. 🎉 Merged PR [#18](https://github.com/pytest-dev/pytest-print/pull/18) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#2132](https://github.com/pypa/virtualenv/pull/2132) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❗️ Closed issue [#319](https://github.com/pypa/build/issues/319) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#319](https://github.com/pypa/build/issues/319) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#16](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/16) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
