@@ -48,9 +48,9 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2089](https://github.com/tox-dev/tox/issues/2089) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2096](https://github.com/tox-dev/tox/pull/2096) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2133](https://github.com/pypa/virtualenv/issues/2133) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#843](https://github.com/devpi/devpi/issues/843) in [devpi/devpi](https://github.com/devpi/devpi)
+2. 🗣 Commented on [#2089](https://github.com/tox-dev/tox/issues/2089) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2096](https://github.com/tox-dev/tox/pull/2096) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#2133](https://github.com/pypa/virtualenv/issues/2133) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. 🗣 Commented on [#2133](https://github.com/pypa/virtualenv/issues/2133) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
