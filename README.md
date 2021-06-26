@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#57](https://github.com/tox-dev/tox-ini-fmt/pull/57) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🗣 Commented on [#66](https://github.com/tox-dev/tox-ini-fmt/issues/66) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-ini-fmt/pull/66) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. ❗️ Closed issue [#65](https://github.com/tox-dev/tox-ini-fmt/issues/65) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 💪 Opened PR [#2003](https://github.com/python/peps/pull/2003) in [python/peps](https://github.com/python/peps)
+1. 💪 Opened PR [#2135](https://github.com/pypa/virtualenv/pull/2135) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#305](https://github.com/pypa/build/issues/305) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#57](https://github.com/tox-dev/tox-ini-fmt/pull/57) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🗣 Commented on [#66](https://github.com/tox-dev/tox-ini-fmt/issues/66) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-ini-fmt/pull/66) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
