@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/gaborbernat/sphinx-argparse-cli/pull/14) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-2. ❌ Closed PR [#1](https://github.com/gaborbernat/pip/pull/1) in [gaborbernat/pip](https://github.com/gaborbernat/pip)
-3. 🎉 Merged PR [#3](https://github.com/gaborbernat/peps/pull/3) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
-4. 🎉 Merged PR [#1](https://github.com/gaborbernat/integration-test/pull/1) in [gaborbernat/integration-test](https://github.com/gaborbernat/integration-test)
-5. 🎉 Merged PR [#1](https://github.com/gaborbernat/bidict/pull/1) in [gaborbernat/bidict](https://github.com/gaborbernat/bidict)
+1. ❌ Closed PR [#2](https://github.com/gaborbernat/tox/pull/2) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
+2. ❌ Closed PR [#1](https://github.com/gaborbernat/vcs-ignore/pull/1) in [gaborbernat/vcs-ignore](https://github.com/gaborbernat/vcs-ignore)
+3. ❌ Closed PR [#1](https://github.com/gaborbernat/setuptools/pull/1) in [gaborbernat/setuptools](https://github.com/gaborbernat/setuptools)
+4. 🎉 Merged PR [#1](https://github.com/gaborbernat/virtualenv/pull/1) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+5. 🎉 Merged PR [#1](https://github.com/gaborbernat/tox-conda/pull/1) in [gaborbernat/tox-conda](https://github.com/gaborbernat/tox-conda)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
