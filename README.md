@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2008](https://github.com/python/peps/pull/2008) in [python/peps](https://github.com/python/peps)
-2. ❗️ Closed issue [#34](https://github.com/ambv/retype/issues/34) in [ambv/retype](https://github.com/ambv/retype)
-3. 🗣 Commented on [#34](https://github.com/ambv/retype/issues/34) in [ambv/retype](https://github.com/ambv/retype)
-4. 💪 Opened PR [#2135](https://github.com/pypa/virtualenv/pull/2135) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#305](https://github.com/pypa/build/issues/305) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#14](https://github.com/gaborbernat/sphinx-argparse-cli/pull/14) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+2. ❌ Closed PR [#1](https://github.com/gaborbernat/pip/pull/1) in [gaborbernat/pip](https://github.com/gaborbernat/pip)
+3. 🎉 Merged PR [#3](https://github.com/gaborbernat/peps/pull/3) in [gaborbernat/peps](https://github.com/gaborbernat/peps)
+4. 🎉 Merged PR [#1](https://github.com/gaborbernat/integration-test/pull/1) in [gaborbernat/integration-test](https://github.com/gaborbernat/integration-test)
+5. 🎉 Merged PR [#1](https://github.com/gaborbernat/bidict/pull/1) in [gaborbernat/bidict](https://github.com/gaborbernat/bidict)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
