@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5709](https://github.com/python/typeshed/pull/5709) in [python/typeshed](https://github.com/python/typeshed)
-2. ❌ Closed PR [#2](https://github.com/gaborbernat/tox/pull/2) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
-3. ❌ Closed PR [#1](https://github.com/gaborbernat/vcs-ignore/pull/1) in [gaborbernat/vcs-ignore](https://github.com/gaborbernat/vcs-ignore)
-4. ❌ Closed PR [#1](https://github.com/gaborbernat/setuptools/pull/1) in [gaborbernat/setuptools](https://github.com/gaborbernat/setuptools)
-5. 🎉 Merged PR [#1](https://github.com/gaborbernat/virtualenv/pull/1) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+1. 🗣 Commented on [#326](https://github.com/pypa/build/issues/326) in [pypa/build](https://github.com/pypa/build)
+2. 💪 Opened PR [#5709](https://github.com/python/typeshed/pull/5709) in [python/typeshed](https://github.com/python/typeshed)
+3. ❌ Closed PR [#2](https://github.com/gaborbernat/tox/pull/2) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
+4. ❌ Closed PR [#1](https://github.com/gaborbernat/vcs-ignore/pull/1) in [gaborbernat/vcs-ignore](https://github.com/gaborbernat/vcs-ignore)
+5. ❌ Closed PR [#1](https://github.com/gaborbernat/setuptools/pull/1) in [gaborbernat/setuptools](https://github.com/gaborbernat/setuptools)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
