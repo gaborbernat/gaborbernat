@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-2. 🗣 Commented on [#12](https://github.com/tox-dev/azure-pipelines-template/issues/12) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-3. 🗣 Commented on [#326](https://github.com/pypa/build/issues/326) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#12](https://github.com/tox-dev/azure-pipelines-template/issues/12) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
+2. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+3. 🗣 Commented on [#12](https://github.com/tox-dev/azure-pipelines-template/issues/12) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
 4. 🗣 Commented on [#326](https://github.com/pypa/build/issues/326) in [pypa/build](https://github.com/pypa/build)
-5. 💪 Opened PR [#5709](https://github.com/python/typeshed/pull/5709) in [python/typeshed](https://github.com/python/typeshed)
+5. 🗣 Commented on [#326](https://github.com/pypa/build/issues/326) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
