@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#456](https://github.com/koxudaxi/datamodel-code-generator/issues/456) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2137](https://github.com/pypa/virtualenv/pull/2137) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#12](https://github.com/tox-dev/azure-pipelines-template/issues/12) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-4. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-5. 🗣 Commented on [#12](https://github.com/tox-dev/azure-pipelines-template/issues/12) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
+1. 🎉 Merged PR [#87](https://github.com/tox-dev/tox-conda/pull/87) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🎉 Merged PR [#13](https://github.com/tox-dev/tox-via-docker/pull/13) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+3. 🎉 Merged PR [#67](https://github.com/tox-dev/tox-ini-fmt/pull/67) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🎉 Merged PR [#10](https://github.com/tox-dev/integration-test/pull/10) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+5. 🎉 Merged PR [#2099](https://github.com/tox-dev/tox/pull/2099) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
