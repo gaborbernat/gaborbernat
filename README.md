@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#87](https://github.com/tox-dev/tox-conda/pull/87) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-2. 🎉 Merged PR [#13](https://github.com/tox-dev/tox-via-docker/pull/13) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-3. 🎉 Merged PR [#67](https://github.com/tox-dev/tox-ini-fmt/pull/67) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🎉 Merged PR [#10](https://github.com/tox-dev/integration-test/pull/10) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-5. 🎉 Merged PR [#2099](https://github.com/tox-dev/tox/pull/2099) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2](https://github.com/gaborbernat/devpi-process/pull/2) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+2. 🎉 Merged PR [#15](https://github.com/gaborbernat/sphinx-argparse-cli/pull/15) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+3. 🎉 Merged PR [#87](https://github.com/tox-dev/tox-conda/pull/87) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🎉 Merged PR [#13](https://github.com/tox-dev/tox-via-docker/pull/13) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#67](https://github.com/tox-dev/tox-ini-fmt/pull/67) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
