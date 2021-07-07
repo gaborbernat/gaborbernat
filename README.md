@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2100](https://github.com/tox-dev/tox/issues/2100) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2](https://github.com/gaborbernat/devpi-process/pull/2) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-3. 🎉 Merged PR [#15](https://github.com/gaborbernat/sphinx-argparse-cli/pull/15) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-4. 🎉 Merged PR [#87](https://github.com/tox-dev/tox-conda/pull/87) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-5. 🎉 Merged PR [#13](https://github.com/tox-dev/tox-via-docker/pull/13) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🗣 Commented on [#2139](https://github.com/pypa/virtualenv/issues/2139) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2100](https://github.com/tox-dev/tox/issues/2100) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2](https://github.com/gaborbernat/devpi-process/pull/2) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+4. 🎉 Merged PR [#15](https://github.com/gaborbernat/sphinx-argparse-cli/pull/15) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. 🎉 Merged PR [#87](https://github.com/tox-dev/tox-conda/pull/87) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
