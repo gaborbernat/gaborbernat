@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#458](https://github.com/koxudaxi/datamodel-code-generator/issues/458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. ❗️ Opened issue [#457](https://github.com/koxudaxi/datamodel-code-generator/issues/457) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#453](https://github.com/koxudaxi/datamodel-code-generator/issues/453) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#2100](https://github.com/tox-dev/tox/issues/2100) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#2140](https://github.com/pypa/virtualenv/issues/2140) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#1273](https://github.com/pypa/virtualenv/issues/1273) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Opened issue [#458](https://github.com/koxudaxi/datamodel-code-generator/issues/458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. ❗️ Opened issue [#457](https://github.com/koxudaxi/datamodel-code-generator/issues/457) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#453](https://github.com/koxudaxi/datamodel-code-generator/issues/453) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#2100](https://github.com/tox-dev/tox/issues/2100) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
