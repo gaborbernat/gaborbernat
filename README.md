@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2138](https://github.com/pypa/virtualenv/pull/2138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#1273](https://github.com/pypa/virtualenv/issues/1273) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#1273](https://github.com/pypa/virtualenv/issues/1273) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Opened issue [#458](https://github.com/koxudaxi/datamodel-code-generator/issues/458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ❗️ Opened issue [#457](https://github.com/koxudaxi/datamodel-code-generator/issues/457) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🎉 Merged PR [#2126](https://github.com/pypa/virtualenv/pull/2126) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2093](https://github.com/pypa/virtualenv/issues/2093) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2126](https://github.com/pypa/virtualenv/issues/2126) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2135](https://github.com/pypa/virtualenv/pull/2135) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2138](https://github.com/pypa/virtualenv/pull/2138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
