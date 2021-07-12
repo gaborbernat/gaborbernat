@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2142](https://github.com/pypa/virtualenv/pull/2142) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#7](https://github.com/platformdirs/platformdirs/pull/7) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 💪 Opened PR [#7](https://github.com/platformdirs/platformdirs/pull/7) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#79](https://github.com/ActiveState/appdirs/issues/79) in [ActiveState/appdirs](https://github.com/ActiveState/appdirs)
+1. 🎉 Merged PR [#2141](https://github.com/pypa/virtualenv/pull/2141) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2142](https://github.com/pypa/virtualenv/pull/2142) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#7](https://github.com/platformdirs/platformdirs/pull/7) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#7](https://github.com/platformdirs/platformdirs/pull/7) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
