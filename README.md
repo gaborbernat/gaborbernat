@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2143](https://github.com/pypa/virtualenv/pull/2143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#19](https://github.com/pytest-dev/pytest-print/pull/19) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. ❌ Closed PR [#2](https://github.com/gaborbernat/tox-conda/pull/2) in [gaborbernat/tox-conda](https://github.com/gaborbernat/tox-conda)
-4. 🎉 Merged PR [#16](https://github.com/gaborbernat/sphinx-argparse-cli/pull/16) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. ❌ Closed PR [#2](https://github.com/gaborbernat/pip/pull/2) in [gaborbernat/pip](https://github.com/gaborbernat/pip)
+1. 🎉 Merged PR [#2142](https://github.com/pypa/virtualenv/pull/2142) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2143](https://github.com/pypa/virtualenv/pull/2143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#19](https://github.com/pytest-dev/pytest-print/pull/19) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. ❌ Closed PR [#2](https://github.com/gaborbernat/tox-conda/pull/2) in [gaborbernat/tox-conda](https://github.com/gaborbernat/tox-conda)
+5. 🎉 Merged PR [#16](https://github.com/gaborbernat/sphinx-argparse-cli/pull/16) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
