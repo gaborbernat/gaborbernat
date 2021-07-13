@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2093](https://github.com/pypa/virtualenv/issues/2093) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2141](https://github.com/pypa/virtualenv/issues/2141) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#8](https://github.com/platformdirs/platformdirs/issues/8) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#2145](https://github.com/pypa/virtualenv/pull/2145) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2093](https://github.com/tox-dev/tox/issues/2093) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#2093](https://github.com/tox-dev/tox/pull/2093) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#2031](https://github.com/tox-dev/tox/pull/2031) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2031](https://github.com/tox-dev/tox/issues/2031) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2100](https://github.com/tox-dev/tox/pull/2100) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
