@@ -48,11 +48,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/platformdirs/platformdirs/pull/14) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2146](https://github.com/pypa/virtualenv/issues/2146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#16](https://github.com/platformdirs/platformdirs/pull/16) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#14](https://github.com/platformdirs/platformdirs/pull/14) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
