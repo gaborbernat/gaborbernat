@@ -16,31 +16,32 @@ following Python open source projects:
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [virtualenv](https://github.com/pypa/virtualenv)                          | [![PyPI](https://img.shields.io/pypi/v/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)                   | ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv?logo=python&style=flat-square)                 | [![PyPI - Downloads](https://img.shields.io/pypi/dm/virtualenv?style=flat-square) ](https://pypistats.org/packages/virtualenv)                   |
 | [tox](https://github.com/tox-dev/tox)                                     | [![PyPI](https://img.shields.io/pypi/v/tox?style=flat-square)](https://pypi.org/project/tox)                                 | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox?logo=python&style=flat-square)                     | [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox?style=flat-square)](https://pypistats.org/packages/tox)                                  |
+| [platformdirs](https://github.com/platformdirs/platformdirs)              | [![PyPI](https://img.shields.io/pypi/v/platformdirs?style=flat-square)](https://pypi.org/project/platformdirs)               | ![GitHub last commit](https://img.shields.io/github/last-commit/platformdirs/platformdirs?logo=python&style=flat-square)       | [![PyPI - Downloads](https://img.shields.io/pypi/dm/platformdirs?style=flat-square) ](https://pypistats.org/packages/platformdirs)               |
 | [build](https://github.com/pypa/build)                                    | [![PyPI](https://img.shields.io/pypi/v/build?style=flat-square)](https://pypi.org/project/build)                             | ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/build?logo=python&style=flat-square)                      | [![PyPI - Downloads](https://img.shields.io/pypi/dm/build?style=flat-square) ](https://pypistats.org/packages/build)                             |
 | [pipx](https://github.com/pipxproject/pipx)                               | [![PyPI](https://img.shields.io/pypi/v/pipx?style=flat-square)](https://pypi.org/project/pipx)                               | ![GitHub last commit](https://img.shields.io/github/last-commit/pipxproject/pipx?logo=python&style=flat-square)                | [![PyPI - Downloads](https://img.shields.io/pypi/dm/pipx?style=flat-square) ](https://pypistats.org/packages/pipx)                               |
 | [pytest-print](https://github.com/pytest-dev/pytest-print)                | [![PyPI](https://img.shields.io/pypi/v/pytest-print?style=flat-square)](https://pypi.org/project/pytest-print)               | ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest-print?logo=python&style=flat-square)         | [![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-print?style=flat-square) ](https://pypistats.org/packages/pytest-print)               |
 | [tox-conda](https://github.com/tox-dev/tox-conda)                         | [![PyPI](https://img.shields.io/pypi/v/tox-conda?style=flat-square)](https://pypi.org/project/tox-conda)                     | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-conda?logo=python&style=flat-square)               | [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-conda?style=flat-square) ](https://pypistats.org/packages/tox-conda)                     |
 | [attrs-strict](https://github.com/bloomberg/attrs-strict)                 | [![PyPI](https://img.shields.io/pypi/v/attrs-strict?style=flat-square)](https://pypi.org/project/attrs-strict)               | ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/attrs-strict?logo=python&style=flat-square)          | [![PyPI - Downloads](https://img.shields.io/pypi/dm/attrs-strict?style=flat-square) ](https://pypistats.org/packages/attrs-strict)               |
-| [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)                     | [![PyPI](https://img.shields.io/pypi/v/tox-ini-fmt?style=flat-square)](https://pypi.org/project/tox-ini-fmt)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-ini-fmt?logo=python&style=flat-square)             | [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-ini-fmt?style=flat-square) ](https://pypistats.org/packages/tox-ini-fmt)                 |
-| [retype](https://github.com/ambv/retype)                                  | [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)                           | ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)                     | [![PyPI - Downloads](https://img.shields.io/pypi/dm/retype?style=flat-square) ](https://pypistats.org/packages/retype)                           |
 | [sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli) | [![PyPI](https://img.shields.io/pypi/v/sphinx-argparse-cli?style=flat-square)](https://pypi.org/project/sphinx-argparse-cli) | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/sphinx-argparse-cli?logo=python&style=flat-square) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-argparse-cli?style=flat-square) ](https://pypistats.org/packages/sphinx-argparse-cli) |
-| [devpi-process](https://github.com/gaborbernat/devpi-process) | [![PyPI](https://img.shields.io/pypi/v/devpi-process?style=flat-square)](https://pypi.org/project/devpi-process) | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/devpi-process?logo=python&style=flat-square) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/devpi-process?style=flat-square) ](https://pypistats.org/packages/devpi-process) |
+| [retype](https://github.com/ambv/retype)                                  | [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)                           | ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)                     | [![PyPI - Downloads](https://img.shields.io/pypi/dm/retype?style=flat-square) ](https://pypistats.org/packages/retype)                           |
+| [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)                     | [![PyPI](https://img.shields.io/pypi/v/tox-ini-fmt?style=flat-square)](https://pypi.org/project/tox-ini-fmt)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-ini-fmt?logo=python&style=flat-square)             | [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-ini-fmt?style=flat-square) ](https://pypistats.org/packages/tox-ini-fmt)                 |
+| [devpi-process](https://github.com/gaborbernat/devpi-process)             | [![PyPI](https://img.shields.io/pypi/v/devpi-process?style=flat-square)](https://pypi.org/project/devpi-process)             | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/devpi-process?logo=python&style=flat-square)       | [![PyPI - Downloads](https://img.shields.io/pypi/dm/devpi-process?style=flat-square) ](https://pypistats.org/packages/devpi-process)             |
 
 ## Presentations
 
-* [Type hinting (and mypy) - PyCon US 2019](https://www.youtube.com/watch?v=hTrjTAPnA_k)
-* [status quo of virtual environments - EuroPython 2019](https://www.youtube.com/watch?v=o1Vue9CWRxU)
-* [Standardize Testing in Python - EuroPython 2018](https://www.youtube.com/watch?v=SFqna5ilqig)
-* [Lessons from the Trenches: rewriting and re-releasing virtualenv - EuroPython 2020](https://www.youtube.com/watch?v=l9A0a8qZgOs)
-* [How to best package your library? - PyLondinium 2019](https://youtu.be/OSnRl8yF9a4)
+- [Type hinting (and mypy) - PyCon US 2019](https://www.youtube.com/watch?v=hTrjTAPnA_k)
+- [status quo of virtual environments - EuroPython 2019](https://www.youtube.com/watch?v=o1Vue9CWRxU)
+- [Standardize Testing in Python - EuroPython 2018](https://www.youtube.com/watch?v=SFqna5ilqig)
+- [Lessons from the Trenches: rewriting and re-releasing virtualenv - EuroPython 2020](https://www.youtube.com/watch?v=l9A0a8qZgOs)
+- [How to best package your library? - PyLondinium 2019](https://youtu.be/OSnRl8yF9a4)
 
 ## Blog posts
 
-* [Version numbers: how to use them?](https://www.bernat.tech/posts/version-numbers/) 2020-05-16
-* [The state of Python Packaging](https://www.bernat.tech/posts/pep-517-and-python-packaging/) 2019-02-07
-* [Python packaging - Past, Present, Future](https://www.bernat.tech/posts/pep-517-518/) 2019-02-07
-* [Python packaging - Growing Pains](https://www.bernat.tech/posts/growing-pain/) 2019-02-07
-* [the state of type hints in Python](https://www.bernat.tech/posts/the-state-of-type-hints-in-python/) 2018-05-30
+- [Version numbers: how to use them?](https://www.bernat.tech/posts/version-numbers/) 2020-05-16
+- [The state of Python Packaging](https://www.bernat.tech/posts/pep-517-and-python-packaging/) 2019-02-07
+- [Python packaging - Past, Present, Future](https://www.bernat.tech/posts/pep-517-518/) 2019-02-07
+- [Python packaging - Growing Pains](https://www.bernat.tech/posts/growing-pain/) 2019-02-07
+- [the state of type hints in Python](https://www.bernat.tech/posts/the-state-of-type-hints-in-python/) 2018-05-30
 
 ## Recent activity
 
@@ -48,11 +49,16 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#16](https://github.com/platformdirs/platformdirs/pull/16) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#14](https://github.com/platformdirs/platformdirs/pull/14) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#16](https://github.com/platformdirs/platformdirs/pull/16) in
+   [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#14](https://github.com/platformdirs/platformdirs/pull/14) in
+   [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
