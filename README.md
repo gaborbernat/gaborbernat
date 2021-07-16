@@ -49,10 +49,10 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2238](https://github.com/psf/black/issues/2238) in [psf/black](https://github.com/psf/black)
-2. 💪 Opened PR [#2375](https://github.com/psf/black/pull/2375) in [psf/black](https://github.com/psf/black)
-3. ❗️ Opened issue [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
-4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🎉 Merged PR [#17](https://github.com/platformdirs/platformdirs/pull/17) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#2238](https://github.com/psf/black/issues/2238) in [psf/black](https://github.com/psf/black)
+3. 💪 Opened PR [#2375](https://github.com/psf/black/pull/2375) in [psf/black](https://github.com/psf/black)
+4. ❗️ Opened issue [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
 5. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
    [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in
