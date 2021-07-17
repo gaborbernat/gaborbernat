@@ -25,6 +25,7 @@ following Python open source projects:
 | [sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli) | [![PyPI](https://img.shields.io/pypi/v/sphinx-argparse-cli?style=flat-square)](https://pypi.org/project/sphinx-argparse-cli) | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/sphinx-argparse-cli?logo=python&style=flat-square) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-argparse-cli?style=flat-square) ](https://pypistats.org/packages/sphinx-argparse-cli) |
 | [retype](https://github.com/ambv/retype)                                  | [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)                           | ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)                     | [![PyPI - Downloads](https://img.shields.io/pypi/dm/retype?style=flat-square) ](https://pypistats.org/packages/retype)                           |
 | [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)                     | [![PyPI](https://img.shields.io/pypi/v/tox-ini-fmt?style=flat-square)](https://pypi.org/project/tox-ini-fmt)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-ini-fmt?logo=python&style=flat-square)             | [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-ini-fmt?style=flat-square) ](https://pypistats.org/packages/tox-ini-fmt)                 |
+| [ipydatagrid](https://github.com/bloomberg/ipydatagrid)                   | [![PyPI](https://img.shields.io/pypi/v/ipydatagrid?style=flat-square)](https://pypi.org/project/ipydatagrid)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/ipydatagrid?logo=python&style=flat-square)           | [![PyPI - Downloads](https://img.shields.io/pypi/dm/ipydatagrid?style=flat-square) ](https://pypistats.org/packages/ipydatagrid)                 |
 | [devpi-process](https://github.com/gaborbernat/devpi-process)             | [![PyPI](https://img.shields.io/pypi/v/devpi-process?style=flat-square)](https://pypi.org/project/devpi-process)             | ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/devpi-process?logo=python&style=flat-square)       | [![PyPI - Downloads](https://img.shields.io/pypi/dm/devpi-process?style=flat-square) ](https://pypistats.org/packages/devpi-process)             |
 
 ## Presentations
@@ -50,15 +51,19 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#308](https://github.com/pypa/build/issues/308) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 💪 Opened PR [#18](https://github.com/platformdirs/platformdirs/pull/18) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
+   [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 💪 Opened PR [#18](https://github.com/platformdirs/platformdirs/pull/18) in
+   [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
+   [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
+   [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
    [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in
+6. 💪 Opened PR [#2147](https://github.com/pypa/virtualenv/pull/2147) in
    [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in
+7. 🎉 Merged PR [#2146](https://github.com/pypa/virtualenv/pull/2146) in
    [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🗣 Commented on [#1969](https://github.com/tox-dev/tox/issues/1969) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ❌ Closed PR [#1968](https://github.com/tox-dev/tox/pull/1968) in [tox-dev/tox](https://github.com/tox-dev/tox)
    <!--END_SECTION:activity-->
