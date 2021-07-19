@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2148](https://github.com/pypa/virtualenv/pull/2148) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#69](https://github.com/tox-dev/tox-ini-fmt/pull/69) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🎉 Merged PR [#89](https://github.com/tox-dev/tox-conda/pull/89) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🎉 Merged PR [#15](https://github.com/tox-dev/tox-via-docker/pull/15) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-5. 🎉 Merged PR [#19](https://github.com/tox-dev/tox-extra/pull/19) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+1. 🗣 Commented on [#23](https://github.com/platformdirs/platformdirs/issues/23) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#2148](https://github.com/pypa/virtualenv/pull/2148) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#69](https://github.com/tox-dev/tox-ini-fmt/pull/69) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🎉 Merged PR [#89](https://github.com/tox-dev/tox-conda/pull/89) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#15](https://github.com/tox-dev/tox-via-docker/pull/15) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
