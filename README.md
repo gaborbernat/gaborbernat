@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/platformdirs/platformdirs/pull/22) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#18](https://github.com/platformdirs/platformdirs/pull/18) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#18](https://github.com/platformdirs/platformdirs/issues/18) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#20](https://github.com/platformdirs/platformdirs/pull/20) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❗️ Closed issue [#8](https://github.com/platformdirs/platformdirs/issues/8) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❗️ Closed issue [#2109](https://github.com/tox-dev/tox/issues/2109) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2109](https://github.com/tox-dev/tox/issues/2109) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#22](https://github.com/platformdirs/platformdirs/pull/22) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#18](https://github.com/platformdirs/platformdirs/pull/18) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#18](https://github.com/platformdirs/platformdirs/issues/18) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
