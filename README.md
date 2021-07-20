@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2112](https://github.com/tox-dev/tox/issues/2112) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#25](https://github.com/platformdirs/platformdirs/pull/25) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#20](https://github.com/pytest-dev/pytest-print/pull/20) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🎉 Merged PR [#17](https://github.com/gaborbernat/sphinx-argparse-cli/pull/17) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🎉 Merged PR [#4](https://github.com/gaborbernat/devpi-process/pull/4) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+1. 🗣 Commented on [#25](https://github.com/platformdirs/platformdirs/issues/25) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#2112](https://github.com/tox-dev/tox/issues/2112) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#25](https://github.com/platformdirs/platformdirs/pull/25) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#20](https://github.com/pytest-dev/pytest-print/pull/20) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#17](https://github.com/gaborbernat/sphinx-argparse-cli/pull/17) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
