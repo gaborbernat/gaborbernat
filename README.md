@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
+1. ❗️ Closed issue [#2149](https://github.com/pypa/virtualenv/issues/2149) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2149](https://github.com/pypa/virtualenv/issues/2149) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❗️ Opened issue [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
+5. 🗣 Commented on [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
