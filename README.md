@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2150](https://github.com/pypa/virtualenv/pull/2150) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❗️ Closed issue [#2134](https://github.com/pypa/virtualenv/issues/2134) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#24](https://github.com/platformdirs/platformdirs/issues/24) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❗️ Closed issue [#2149](https://github.com/pypa/virtualenv/issues/2149) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2151](https://github.com/pypa/virtualenv/issues/2151) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2151](https://github.com/pypa/virtualenv/issues/2151) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2152](https://github.com/pypa/virtualenv/pull/2152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2152](https://github.com/pypa/virtualenv/pull/2152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Opened issue [#2151](https://github.com/pypa/virtualenv/issues/2151) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
