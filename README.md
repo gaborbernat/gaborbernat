@@ -51,10 +51,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. ❗️ Opened issue [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
-3. 💪 Opened PR [#26](https://github.com/platformdirs/platformdirs/pull/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#25](https://github.com/platformdirs/platformdirs/pull/25) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#25](https://github.com/platformdirs/platformdirs/issues/25) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
+4. 🗣 Commented on [#26](https://github.com/platformdirs/platformdirs/issues/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❗️ Opened issue [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
