@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/pytest-dev/pytest-print/pull/20) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🎉 Merged PR [#17](https://github.com/gaborbernat/sphinx-argparse-cli/pull/17) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-3. 🎉 Merged PR [#4](https://github.com/gaborbernat/devpi-process/pull/4) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-4. 🗣 Commented on [#23](https://github.com/platformdirs/platformdirs/issues/23) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#2148](https://github.com/pypa/virtualenv/pull/2148) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#25](https://github.com/platformdirs/platformdirs/pull/25) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#20](https://github.com/pytest-dev/pytest-print/pull/20) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#17](https://github.com/gaborbernat/sphinx-argparse-cli/pull/17) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. 🎉 Merged PR [#4](https://github.com/gaborbernat/devpi-process/pull/4) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+5. 🗣 Commented on [#23](https://github.com/platformdirs/platformdirs/issues/23) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
