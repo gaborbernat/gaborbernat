@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
-2. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
+1. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
+2. 🗣 Commented on [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
 3. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
 4. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
-5. ❗️ Closed issue [#2151](https://github.com/pypa/virtualenv/issues/2151) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
