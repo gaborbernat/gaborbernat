@@ -51,10 +51,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 3. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#251](https://github.com/bloomberg/ipydatagrid/pull/251) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
