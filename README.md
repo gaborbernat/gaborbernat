@@ -50,9 +50,9 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🎉 Merged PR [#26](https://github.com/platformdirs/platformdirs/pull/26) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 2. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. 🗣 Commented on [#2154](https://github.com/pypa/virtualenv/issues/2154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
