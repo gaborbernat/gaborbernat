@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2111](https://github.com/tox-dev/tox/pull/2111) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2081](https://github.com/tox-dev/tox/issues/2081) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
-4. 🗣 Commented on [#10178](https://github.com/pypa/pip/issues/10178) in [pypa/pip](https://github.com/pypa/pip)
-5. 🗣 Commented on [#448](https://github.com/pypa/packaging/issues/448) in [pypa/packaging](https://github.com/pypa/packaging)
+1. 🎉 Merged PR [#251](https://github.com/bloomberg/ipydatagrid/pull/251) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. ❗️ Closed issue [#2153](https://github.com/pypa/virtualenv/issues/2153) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2153](https://github.com/pypa/virtualenv/issues/2153) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2111](https://github.com/tox-dev/tox/pull/2111) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2081](https://github.com/tox-dev/tox/issues/2081) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
