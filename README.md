@@ -50,10 +50,10 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#24](https://github.com/platformdirs/platformdirs/issues/24) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 2. 🗣 Commented on [#24](https://github.com/platformdirs/platformdirs/issues/24) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 3. 🗣 Commented on [#24](https://github.com/platformdirs/platformdirs/issues/24) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#24](https://github.com/platformdirs/platformdirs/issues/24) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. 🗣 Commented on [#3](https://github.com/platformdirs/platformdirs/issues/3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
