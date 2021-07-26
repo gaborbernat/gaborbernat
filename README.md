@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2114](https://github.com/tox-dev/tox/pull/2114) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2115](https://github.com/tox-dev/tox/issues/2115) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#2116](https://github.com/tox-dev/tox/pull/2116) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2112](https://github.com/tox-dev/tox/issues/2112) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#2117](https://github.com/tox-dev/tox/pull/2117) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2116](https://github.com/tox-dev/tox/pull/2116) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#2115](https://github.com/tox-dev/tox/issues/2115) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🎉 Merged PR [#2114](https://github.com/tox-dev/tox/pull/2114) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
