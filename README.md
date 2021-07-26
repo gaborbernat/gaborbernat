@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#19](https://github.com/manjaro/manjaro-iso-action/issues/19) in [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action)
-2. ❗️ Opened issue [#19](https://github.com/manjaro/manjaro-iso-action/issues/19) in [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action)
-3. 🎉 Merged PR [#90](https://github.com/tox-dev/tox-conda/pull/90) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🎉 Merged PR [#2119](https://github.com/tox-dev/tox/pull/2119) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#19](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/19) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+1. 🎉 Merged PR [#21](https://github.com/pytest-dev/pytest-print/pull/21) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#5](https://github.com/gaborbernat/devpi-process/pull/5) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+3. 🎉 Merged PR [#18](https://github.com/gaborbernat/sphinx-argparse-cli/pull/18) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. 🗣 Commented on [#698](https://github.com/pypa/pipx/issues/698) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❗️ Closed issue [#19](https://github.com/manjaro/manjaro-iso-action/issues/19) in [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
