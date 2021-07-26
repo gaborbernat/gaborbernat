@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#90](https://github.com/tox-dev/tox-conda/pull/90) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-2. 🎉 Merged PR [#2119](https://github.com/tox-dev/tox/pull/2119) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#19](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/19) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-4. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-via-docker/pull/16) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-5. 🎉 Merged PR [#2157](https://github.com/pypa/virtualenv/pull/2157) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#19](https://github.com/manjaro/manjaro-iso-action/issues/19) in [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action)
+2. ❗️ Opened issue [#19](https://github.com/manjaro/manjaro-iso-action/issues/19) in [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action)
+3. 🎉 Merged PR [#90](https://github.com/tox-dev/tox-conda/pull/90) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🎉 Merged PR [#2119](https://github.com/tox-dev/tox/pull/2119) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#19](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/19) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
