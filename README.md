@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2158](https://github.com/pypa/virtualenv/issues/2158) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#21](https://github.com/pytest-dev/pytest-print/pull/21) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🎉 Merged PR [#5](https://github.com/gaborbernat/devpi-process/pull/5) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-4. 🎉 Merged PR [#18](https://github.com/gaborbernat/sphinx-argparse-cli/pull/18) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-5. 🗣 Commented on [#698](https://github.com/pypa/pipx/issues/698) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ❗️ Closed issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#2158](https://github.com/pypa/virtualenv/issues/2158) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#21](https://github.com/pytest-dev/pytest-print/pull/21) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#5](https://github.com/gaborbernat/devpi-process/pull/5) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
