@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2121](https://github.com/tox-dev/tox/issues/2121) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Opened issue [#2120](https://github.com/tox-dev/tox/issues/2120) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#3](https://github.com/jugmac00/python-version-cheat-sheet/pull/3) in [jugmac00/python-version-cheat-sheet](https://github.com/jugmac00/python-version-cheat-sheet)
-4. ❗️ Opened issue [#17](https://github.com/optiver/vulcan-py/issues/17) in [optiver/vulcan-py](https://github.com/optiver/vulcan-py)
-5. ❗️ Opened issue [#16](https://github.com/optiver/vulcan-py/issues/16) in [optiver/vulcan-py](https://github.com/optiver/vulcan-py)
+1. ❗️ Opened issue [#2126](https://github.com/tox-dev/tox/issues/2126) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Opened issue [#2125](https://github.com/tox-dev/tox/issues/2125) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Opened issue [#2124](https://github.com/tox-dev/tox/issues/2124) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#2123](https://github.com/tox-dev/tox/issues/2123) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Opened issue [#2122](https://github.com/tox-dev/tox/issues/2122) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
