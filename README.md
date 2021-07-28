@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#2158](https://github.com/pypa/virtualenv/issues/2158) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#21](https://github.com/pytest-dev/pytest-print/pull/21) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#5](https://github.com/gaborbernat/devpi-process/pull/5) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+1. ❗️ Opened issue [#16](https://github.com/optiver/vulcan-py/issues/16) in [optiver/vulcan-py](https://github.com/optiver/vulcan-py)
+2. ❗️ Opened issue [#15](https://github.com/optiver/vulcan-py/issues/15) in [optiver/vulcan-py](https://github.com/optiver/vulcan-py)
+3. ❗️ Opened issue [#14](https://github.com/optiver/vulcan-py/issues/14) in [optiver/vulcan-py](https://github.com/optiver/vulcan-py)
+4. ❗️ Closed issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
