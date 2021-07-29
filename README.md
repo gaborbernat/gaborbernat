@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Reopened issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#1914](https://github.com/tox-dev/tox/issues/1914) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#1914](https://github.com/tox-dev/tox/issues/1914) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2128](https://github.com/tox-dev/tox/pull/2128) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#30](https://github.com/platformdirs/platformdirs/pull/30) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. ❗️ Closed issue [#29](https://github.com/platformdirs/platformdirs/issues/29) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. ❗️ Reopened issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#1914](https://github.com/tox-dev/tox/issues/1914) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
