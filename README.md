@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2130](https://github.com/tox-dev/tox/issues/2130) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#30](https://github.com/platformdirs/platformdirs/pull/30) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. ❗️ Closed issue [#29](https://github.com/platformdirs/platformdirs/issues/29) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❗️ Reopened issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#254](https://github.com/bloomberg/ipydatagrid/pull/254) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🗣 Commented on [#2130](https://github.com/tox-dev/tox/issues/2130) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#30](https://github.com/platformdirs/platformdirs/pull/30) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. ❗️ Closed issue [#29](https://github.com/platformdirs/platformdirs/issues/29) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❗️ Reopened issue [#181](https://github.com/pypa/build/issues/181) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
