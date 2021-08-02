@@ -50,10 +50,10 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2134](https://github.com/tox-dev/tox/pull/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1095](https://github.com/gitpython-developers/GitPython/issues/1095) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
-3. ❗️ Closed issue [#105](https://github.com/tox-dev/tox-docker/issues/105) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
-4. 🗣 Commented on [#105](https://github.com/tox-dev/tox-docker/issues/105) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
+1. 🗣 Commented on [#336](https://github.com/pypa/build/issues/336) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#1937](https://github.com/tox-dev/tox/issues/1937) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1127](https://github.com/tox-dev/tox/issues/1127) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2134](https://github.com/tox-dev/tox/pull/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#1095](https://github.com/gitpython-developers/GitPython/issues/1095) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
