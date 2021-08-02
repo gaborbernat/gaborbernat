@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2134](https://github.com/tox-dev/tox/issues/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#22](https://github.com/pytest-dev/pytest-print/issues/22) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 💪 Opened PR [#2134](https://github.com/tox-dev/tox/pull/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2131](https://github.com/tox-dev/tox/issues/2131) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2133](https://github.com/tox-dev/tox/pull/2133) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#1095](https://github.com/gitpython-developers/GitPython/issues/1095) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
+2. 🗣 Commented on [#2134](https://github.com/tox-dev/tox/issues/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#22](https://github.com/pytest-dev/pytest-print/issues/22) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 💪 Opened PR [#2134](https://github.com/tox-dev/tox/pull/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2131](https://github.com/tox-dev/tox/issues/2131) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
