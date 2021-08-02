@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1095](https://github.com/gitpython-developers/GitPython/issues/1095) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
-2. 🗣 Commented on [#8754](https://github.com/python/mypy/issues/8754) in [python/mypy](https://github.com/python/mypy)
+1. ❗️ Closed issue [#105](https://github.com/tox-dev/tox-docker/issues/105) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
+2. 🗣 Commented on [#105](https://github.com/tox-dev/tox-docker/issues/105) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
 3. 🗣 Commented on [#1095](https://github.com/gitpython-developers/GitPython/issues/1095) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
-4. 🗣 Commented on [#2134](https://github.com/tox-dev/tox/issues/2134) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#22](https://github.com/pytest-dev/pytest-print/issues/22) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🗣 Commented on [#8754](https://github.com/python/mypy/issues/8754) in [python/mypy](https://github.com/python/mypy)
+5. 🗣 Commented on [#1095](https://github.com/gitpython-developers/GitPython/issues/1095) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
