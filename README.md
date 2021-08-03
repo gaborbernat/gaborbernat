@@ -51,10 +51,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#22](https://github.com/pytest-dev/pytest-print/issues/22) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. ❗️ Opened issue [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. 🗣 Commented on [#34](https://github.com/platformdirs/platformdirs/issues/34) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❌ Closed PR [#34](https://github.com/platformdirs/platformdirs/pull/34) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#6](https://github.com/gaborbernat/devpi-process/pull/6) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+2. 🗣 Commented on [#22](https://github.com/pytest-dev/pytest-print/issues/22) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. ❗️ Opened issue [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+4. 🗣 Commented on [#34](https://github.com/platformdirs/platformdirs/issues/34) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❌ Closed PR [#34](https://github.com/platformdirs/platformdirs/pull/34) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
