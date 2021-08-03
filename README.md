@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/gaborbernat/devpi-process/pull/6) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-2. 🎉 Merged PR [#19](https://github.com/gaborbernat/sphinx-argparse-cli/pull/19) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-3. 🎉 Merged PR [#13](https://github.com/tox-dev/integration-test/pull/13) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-4. 🎉 Merged PR [#17](https://github.com/tox-dev/tox-via-docker/pull/17) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-5. 🗣 Commented on [#336](https://github.com/pypa/build/issues/336) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#34](https://github.com/platformdirs/platformdirs/issues/34) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. ❌ Closed PR [#34](https://github.com/platformdirs/platformdirs/pull/34) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#6](https://github.com/gaborbernat/devpi-process/pull/6) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+4. 🎉 Merged PR [#19](https://github.com/gaborbernat/sphinx-argparse-cli/pull/19) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. 🎉 Merged PR [#13](https://github.com/tox-dev/integration-test/pull/13) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
