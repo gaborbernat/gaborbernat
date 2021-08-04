@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#5709](https://github.com/python/typeshed/pull/5709) in [python/typeshed](https://github.com/python/typeshed)
-2. 🗣 Commented on [#5709](https://github.com/python/typeshed/issues/5709) in [python/typeshed](https://github.com/python/typeshed)
-3. 🗣 Commented on [#12](https://github.com/brettcannon/python-launcher/issues/12) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
-4. 💪 Opened PR [#9](https://github.com/rixx/pkgbuilds/pull/9) in [rixx/pkgbuilds](https://github.com/rixx/pkgbuilds)
-5. 🗣 Commented on [#22](https://github.com/pytest-dev/pytest-print/issues/22) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 💪 Opened PR [#2138](https://github.com/tox-dev/tox/pull/2138) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1937](https://github.com/tox-dev/tox/issues/1937) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#5709](https://github.com/python/typeshed/pull/5709) in [python/typeshed](https://github.com/python/typeshed)
+4. 🗣 Commented on [#5709](https://github.com/python/typeshed/issues/5709) in [python/typeshed](https://github.com/python/typeshed)
+5. 🗣 Commented on [#12](https://github.com/brettcannon/python-launcher/issues/12) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
