@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#35](https://github.com/platformdirs/platformdirs/issues/35) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 💪 Opened PR [#2138](https://github.com/tox-dev/tox/pull/2138) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1937](https://github.com/tox-dev/tox/issues/1937) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❌ Closed PR [#5709](https://github.com/python/typeshed/pull/5709) in [python/typeshed](https://github.com/python/typeshed)
-5. 🗣 Commented on [#5709](https://github.com/python/typeshed/issues/5709) in [python/typeshed](https://github.com/python/typeshed)
+1. 🗣 Commented on [#723](https://github.com/pypa/pipx/issues/723) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#724](https://github.com/pypa/pipx/issues/724) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#35](https://github.com/platformdirs/platformdirs/issues/35) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#2138](https://github.com/tox-dev/tox/pull/2138) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1937](https://github.com/tox-dev/tox/issues/1937) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
