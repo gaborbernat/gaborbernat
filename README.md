@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1001](https://github.com/wez/wezterm/issues/1001) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 🗣 Commented on [#2162](https://github.com/pypa/virtualenv/issues/2162) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Closed issue [#2162](https://github.com/pypa/virtualenv/issues/2162) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2162](https://github.com/pypa/virtualenv/issues/2162) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2139](https://github.com/tox-dev/tox/pull/2139) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Opened issue [#1002](https://github.com/wez/wezterm/issues/1002) in [wez/wezterm](https://github.com/wez/wezterm)
+2. ❗️ Opened issue [#1001](https://github.com/wez/wezterm/issues/1001) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 🗣 Commented on [#2162](https://github.com/pypa/virtualenv/issues/2162) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#2162](https://github.com/pypa/virtualenv/issues/2162) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2162](https://github.com/pypa/virtualenv/issues/2162) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
