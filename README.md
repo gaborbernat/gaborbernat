@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1001](https://github.com/wez/wezterm/issues/1001) in [wez/wezterm](https://github.com/wez/wezterm)
-2. ❗️ Opened issue [#483](https://github.com/koxudaxi/datamodel-code-generator/issues/483) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. ❗️ Closed issue [#342](https://github.com/pypa/build/issues/342) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#341](https://github.com/pypa/build/issues/341) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#2130](https://github.com/pypa/virtualenv/issues/2130) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#1002](https://github.com/wez/wezterm/issues/1002) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#1001](https://github.com/wez/wezterm/issues/1001) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 🗣 Commented on [#1001](https://github.com/wez/wezterm/issues/1001) in [wez/wezterm](https://github.com/wez/wezterm)
+4. ❗️ Opened issue [#483](https://github.com/koxudaxi/datamodel-code-generator/issues/483) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. ❗️ Closed issue [#342](https://github.com/pypa/build/issues/342) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
