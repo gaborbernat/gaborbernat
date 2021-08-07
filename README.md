@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1002](https://github.com/wez/wezterm/issues/1002) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 💪 Opened PR [#2142](https://github.com/tox-dev/tox/pull/2142) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#1944](https://github.com/tox-dev/tox/issues/1944) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2141](https://github.com/tox-dev/tox/pull/2141) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2141](https://github.com/tox-dev/tox/pull/2141) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#1110](https://github.com/tox-dev/tox/issues/1110) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Opened issue [#2143](https://github.com/tox-dev/tox/issues/2143) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1110](https://github.com/tox-dev/tox/issues/1110) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1110](https://github.com/tox-dev/tox/issues/1110) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2037](https://github.com/tox-dev/tox/issues/2037) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
