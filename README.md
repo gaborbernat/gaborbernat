@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#3](https://github.com/gaborbernat/tox/pull/3) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
-2. 🗣 Commented on [#2142](https://github.com/tox-dev/tox/issues/2142) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#20](https://github.com/gaborbernat/sphinx-argparse-cli/issues/20) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-4. 🗣 Commented on [#2142](https://github.com/tox-dev/tox/issues/2142) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1110](https://github.com/tox-dev/tox/issues/1110) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#2144](https://github.com/tox-dev/tox/pull/2144) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#3](https://github.com/gaborbernat/tox/pull/3) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
+3. 🗣 Commented on [#2142](https://github.com/tox-dev/tox/issues/2142) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#20](https://github.com/gaborbernat/sphinx-argparse-cli/issues/20) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. 🗣 Commented on [#2142](https://github.com/tox-dev/tox/issues/2142) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
