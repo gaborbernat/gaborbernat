@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2164](https://github.com/pypa/virtualenv/issues/2164) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2164](https://github.com/pypa/virtualenv/issues/2164) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2165](https://github.com/pypa/virtualenv/issues/2165) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2166](https://github.com/pypa/virtualenv/pull/2166) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2165](https://github.com/pypa/virtualenv/pull/2165) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2148](https://github.com/tox-dev/tox/issues/2148) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2148](https://github.com/tox-dev/tox/issues/2148) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#258](https://github.com/bloomberg/ipydatagrid/pull/258) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. ❗️ Closed issue [#2164](https://github.com/pypa/virtualenv/issues/2164) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2164](https://github.com/pypa/virtualenv/issues/2164) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
