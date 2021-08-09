@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/20) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-2. 🎉 Merged PR [#2167](https://github.com/pypa/virtualenv/pull/2167) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#23](https://github.com/tox-dev/tox-bindep/pull/23) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
-4. 🎉 Merged PR [#14](https://github.com/tox-dev/integration-test/pull/14) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-5. 🎉 Merged PR [#20](https://github.com/tox-dev/tox-extra/pull/20) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+1. 🎉 Merged PR [#21](https://github.com/gaborbernat/sphinx-argparse-cli/pull/21) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+2. 🎉 Merged PR [#7](https://github.com/gaborbernat/devpi-process/pull/7) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+3. 🗣 Commented on [#483](https://github.com/koxudaxi/datamodel-code-generator/issues/483) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 💪 Opened PR [#2150](https://github.com/tox-dev/tox/pull/2150) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#20](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/20) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
