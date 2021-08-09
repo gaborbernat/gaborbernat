@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/gaborbernat/sphinx-argparse-cli/pull/21) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-2. 🎉 Merged PR [#7](https://github.com/gaborbernat/devpi-process/pull/7) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-3. 🗣 Commented on [#483](https://github.com/koxudaxi/datamodel-code-generator/issues/483) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 💪 Opened PR [#2150](https://github.com/tox-dev/tox/pull/2150) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#20](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/20) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+1. 🗣 Commented on [#1975](https://github.com/tox-dev/tox/issues/1975) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#21](https://github.com/gaborbernat/sphinx-argparse-cli/pull/21) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+3. 🎉 Merged PR [#7](https://github.com/gaborbernat/devpi-process/pull/7) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+4. 🗣 Commented on [#483](https://github.com/koxudaxi/datamodel-code-generator/issues/483) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 💪 Opened PR [#2150](https://github.com/tox-dev/tox/pull/2150) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
