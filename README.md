@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/tox-dev/tox-bindep/pull/23) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
-2. 🎉 Merged PR [#14](https://github.com/tox-dev/integration-test/pull/14) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-3. 🎉 Merged PR [#20](https://github.com/tox-dev/tox-extra/pull/20) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-4. 🎉 Merged PR [#2149](https://github.com/tox-dev/tox/pull/2149) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#18](https://github.com/tox-dev/tox-via-docker/pull/18) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🎉 Merged PR [#20](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/20) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+2. 🎉 Merged PR [#2167](https://github.com/pypa/virtualenv/pull/2167) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#23](https://github.com/tox-dev/tox-bindep/pull/23) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+4. 🎉 Merged PR [#14](https://github.com/tox-dev/integration-test/pull/14) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+5. 🎉 Merged PR [#20](https://github.com/tox-dev/tox-extra/pull/20) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
