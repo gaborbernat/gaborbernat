@@ -51,10 +51,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#20](https://github.com/actions/setup-python/issues/20) in [actions/setup-python](https://github.com/actions/setup-python)
-2. ❗️ Opened issue [#3080](https://github.com/samuelcolvin/pydantic/issues/3080) in [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic)
-3. ❗️ Opened issue [#492](https://github.com/koxudaxi/datamodel-code-generator/issues/492) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 💪 Opened PR [#2151](https://github.com/tox-dev/tox/pull/2151) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#23](https://github.com/pytest-dev/pytest-print/pull/23) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🗣 Commented on [#20](https://github.com/actions/setup-python/issues/20) in [actions/setup-python](https://github.com/actions/setup-python)
+3. ❗️ Opened issue [#3080](https://github.com/samuelcolvin/pydantic/issues/3080) in [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic)
+4. ❗️ Opened issue [#492](https://github.com/koxudaxi/datamodel-code-generator/issues/492) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 💪 Opened PR [#2151](https://github.com/tox-dev/tox/pull/2151) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
