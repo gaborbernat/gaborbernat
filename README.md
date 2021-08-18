@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#800](https://github.com/pypa/twine/issues/800) in [pypa/twine](https://github.com/pypa/twine)
-2. 🗣 Commented on [#1026](https://github.com/wez/wezterm/issues/1026) in [wez/wezterm](https://github.com/wez/wezterm)
-3. 🗣 Commented on [#1038](https://github.com/wez/wezterm/issues/1038) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#93](https://github.com/tox-dev/tox-conda/issues/93) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-5. 🗣 Commented on [#15934](https://github.com/conda-forge/staged-recipes/issues/15934) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+1. 🗣 Commented on [#1038](https://github.com/wez/wezterm/issues/1038) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🎉 Merged PR [#93](https://github.com/tox-dev/tox-conda/pull/93) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. ❗️ Closed issue [#92](https://github.com/tox-dev/tox-conda/issues/92) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🗣 Commented on [#800](https://github.com/pypa/twine/issues/800) in [pypa/twine](https://github.com/pypa/twine)
+5. 🗣 Commented on [#1026](https://github.com/wez/wezterm/issues/1026) in [wez/wezterm](https://github.com/wez/wezterm)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
