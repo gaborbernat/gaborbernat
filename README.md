@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1038](https://github.com/wez/wezterm/issues/1038) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 🗣 Commented on [#93](https://github.com/tox-dev/tox-conda/issues/93) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-3. 🗣 Commented on [#15934](https://github.com/conda-forge/staged-recipes/issues/15934) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-4. 🗣 Commented on [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#141](https://github.com/brettcannon/python-launcher/issues/141) in [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher)
+1. 🗣 Commented on [#1026](https://github.com/wez/wezterm/issues/1026) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#1038](https://github.com/wez/wezterm/issues/1038) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 🗣 Commented on [#93](https://github.com/tox-dev/tox-conda/issues/93) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🗣 Commented on [#15934](https://github.com/conda-forge/staged-recipes/issues/15934) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+5. 🗣 Commented on [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
