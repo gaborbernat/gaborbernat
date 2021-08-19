@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#36](https://github.com/tox-dev/tox-conda/issues/36) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 2. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#93](https://github.com/tox-dev/tox-conda/issues/93) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#800](https://github.com/tox-dev/tox/issues/800) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#93](https://github.com/tox-dev/tox-conda/issues/93) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
