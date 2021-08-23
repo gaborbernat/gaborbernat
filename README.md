@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2177](https://github.com/tox-dev/tox/issues/2177) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2177](https://github.com/tox-dev/tox/issues/2177) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2175](https://github.com/tox-dev/tox/pull/2175) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#800](https://github.com/pypa/twine/issues/800) in [pypa/twine](https://github.com/pypa/twine)
-5. 🎉 Merged PR [#2173](https://github.com/tox-dev/tox/pull/2173) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#24](https://github.com/pytest-dev/pytest-print/pull/24) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#22](https://github.com/gaborbernat/sphinx-argparse-cli/pull/22) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+3. 🗣 Commented on [#2177](https://github.com/tox-dev/tox/issues/2177) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2177](https://github.com/tox-dev/tox/issues/2177) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2175](https://github.com/tox-dev/tox/pull/2175) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
