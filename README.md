@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2263](https://github.com/mermaid-js/mermaid/issues/2263) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-2. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2178](https://github.com/tox-dev/tox/pull/2178) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#21](https://github.com/tox-dev/tox-extra/pull/21) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-5. 🎉 Merged PR [#19](https://github.com/tox-dev/tox-via-docker/pull/19) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🗣 Commented on [#2168](https://github.com/pypa/virtualenv/issues/2168) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Opened issue [#2263](https://github.com/mermaid-js/mermaid/issues/2263) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+3. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2178](https://github.com/tox-dev/tox/pull/2178) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#21](https://github.com/tox-dev/tox-extra/pull/21) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
