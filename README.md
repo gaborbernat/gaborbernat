@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#37](https://github.com/platformdirs/platformdirs/issues/37) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2170](https://github.com/pypa/virtualenv/issues/2170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Opened issue [#4](https://github.com/thedrow/tox-pyo3/issues/4) in [thedrow/tox-pyo3](https://github.com/thedrow/tox-pyo3)
+2. ❗️ Opened issue [#25](https://github.com/tox-dev/tox-bindep/issues/25) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+3. ❗️ Opened issue [#8](https://github.com/apihackers/tox-asdf/issues/8) in [apihackers/tox-asdf](https://github.com/apihackers/tox-asdf)
+4. ❗️ Opened issue [#22](https://github.com/tox-dev/tox-extra/issues/22) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. ❗️ Opened issue [#34](https://github.com/adamchainz/tox-py/issues/34) in [adamchainz/tox-py](https://github.com/adamchainz/tox-py)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
