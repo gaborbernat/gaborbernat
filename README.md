@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2188](https://github.com/tox-dev/tox/issues/2188) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2188](https://github.com/tox-dev/tox/issues/2188) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#4](https://github.com/thedrow/tox-pyo3/issues/4) in [thedrow/tox-pyo3](https://github.com/thedrow/tox-pyo3)
-4. ❗️ Opened issue [#25](https://github.com/tox-dev/tox-bindep/issues/25) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
-5. ❗️ Opened issue [#8](https://github.com/apihackers/tox-asdf/issues/8) in [apihackers/tox-asdf](https://github.com/apihackers/tox-asdf)
+1. 🎉 Merged PR [#269](https://github.com/bloomberg/ipydatagrid/pull/269) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. ❗️ Closed issue [#2188](https://github.com/tox-dev/tox/issues/2188) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2188](https://github.com/tox-dev/tox/issues/2188) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#4](https://github.com/thedrow/tox-pyo3/issues/4) in [thedrow/tox-pyo3](https://github.com/thedrow/tox-pyo3)
+5. ❗️ Opened issue [#25](https://github.com/tox-dev/tox-bindep/issues/25) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
