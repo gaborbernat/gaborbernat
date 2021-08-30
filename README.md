@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#59](https://github.com/ymyzk/tox-gh-actions/issues/59) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-2. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-3. 💪 Opened PR [#2191](https://github.com/tox-dev/tox/pull/2191) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#22](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/22) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-5. 🎉 Merged PR [#16](https://github.com/tox-dev/integration-test/pull/16) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+1. 🎉 Merged PR [#2173](https://github.com/pypa/virtualenv/pull/2173) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#59](https://github.com/ymyzk/tox-gh-actions/issues/59) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
+3. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
+4. 💪 Opened PR [#2191](https://github.com/tox-dev/tox/pull/2191) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#22](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/22) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
