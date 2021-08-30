@@ -51,10 +51,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#34](https://github.com/adamchainz/tox-py/issues/34) in [adamchainz/tox-py](https://github.com/adamchainz/tox-py)
-2. 🗣 Commented on [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-4. 🗣 Commented on [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-5. 🗣 Commented on [#41](https://github.com/fedora-python/tox-current-env/issues/41) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
+2. 🗣 Commented on [#34](https://github.com/adamchainz/tox-py/issues/34) in [adamchainz/tox-py](https://github.com/adamchainz/tox-py)
+3. 🗣 Commented on [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+5. 🗣 Commented on [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
