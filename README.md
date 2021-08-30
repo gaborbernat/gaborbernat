@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-2. 🗣 Commented on [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-3. 🗣 Commented on [#41](https://github.com/fedora-python/tox-current-env/issues/41) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
-4. 🎉 Merged PR [#269](https://github.com/bloomberg/ipydatagrid/pull/269) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. ❗️ Closed issue [#2188](https://github.com/tox-dev/tox/issues/2188) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+3. 🗣 Commented on [#32](https://github.com/signalpillar/tox-battery/issues/32) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+4. 🗣 Commented on [#41](https://github.com/fedora-python/tox-current-env/issues/41) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
+5. 🎉 Merged PR [#269](https://github.com/bloomberg/ipydatagrid/pull/269) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
