@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#41](https://github.com/fedora-python/tox-current-env/issues/41) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
+1. 🎉 Merged PR [#2191](https://github.com/tox-dev/tox/pull/2191) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#456](https://github.com/koxudaxi/datamodel-code-generator/issues/456) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. ❗️ Closed issue [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3](https://github.com/conda-forge/platformdirs-feedstock/pull/3) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+5. 🗣 Commented on [#41](https://github.com/fedora-python/tox-current-env/issues/41) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
