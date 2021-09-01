@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1418](https://github.com/pypa/virtualenv/issues/1418) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#1418](https://github.com/pypa/virtualenv/issues/1418) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#68](https://github.com/bloomberg/attrs-strict/pull/68) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-4. 🎉 Merged PR [#67](https://github.com/bloomberg/attrs-strict/pull/67) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. 🗣 Commented on [#67](https://github.com/bloomberg/attrs-strict/issues/67) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+1. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2194](https://github.com/tox-dev/tox/issues/2194) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1418](https://github.com/pypa/virtualenv/issues/1418) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#1418](https://github.com/pypa/virtualenv/issues/1418) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#68](https://github.com/bloomberg/attrs-strict/pull/68) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
