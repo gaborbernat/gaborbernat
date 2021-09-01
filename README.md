@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/gaborbernat/devpi-process/pull/8) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-2. 🎉 Merged PR [#2191](https://github.com/tox-dev/tox/pull/2191) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#456](https://github.com/koxudaxi/datamodel-code-generator/issues/456) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. ❗️ Closed issue [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#67](https://github.com/bloomberg/attrs-strict/issues/67) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+2. 🎉 Merged PR [#8](https://github.com/gaborbernat/devpi-process/pull/8) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+3. 🎉 Merged PR [#2191](https://github.com/tox-dev/tox/pull/2191) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#456](https://github.com/koxudaxi/datamodel-code-generator/issues/456) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. ❗️ Closed issue [#2174](https://github.com/pypa/virtualenv/issues/2174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
