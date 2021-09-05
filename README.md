@@ -50,8 +50,8 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-2. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
+1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+2. ❗️ Closed issue [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
 3. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
 4. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
 5. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
