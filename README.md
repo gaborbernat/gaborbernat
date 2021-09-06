@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-2. ❗️ Closed issue [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-3. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-4. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
-5. 🗣 Commented on [#74](https://github.com/ymyzk/tox-gh-actions/issues/74) in [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions)
+1. 🗣 Commented on [#2177](https://github.com/pypa/virtualenv/issues/2177) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2178](https://github.com/pypa/virtualenv/issues/2178) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2178](https://github.com/pypa/virtualenv/issues/2178) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2178](https://github.com/pypa/virtualenv/issues/2178) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
