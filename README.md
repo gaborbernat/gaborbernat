@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2208](https://github.com/tox-dev/tox/issues/2208) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#34](https://github.com/adamchainz/tox-py/issues/34) in [adamchainz/tox-py](https://github.com/adamchainz/tox-py)
-3. ❗️ Closed issue [#2195](https://github.com/tox-dev/tox/issues/2195) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2206](https://github.com/tox-dev/tox/pull/2206) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#2194](https://github.com/tox-dev/tox/issues/2194) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#22](https://github.com/tox-dev/tox-external-wheels/pull/22) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
+2. 💪 Opened PR [#2209](https://github.com/tox-dev/tox/pull/2209) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Opened issue [#2208](https://github.com/tox-dev/tox/issues/2208) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#34](https://github.com/adamchainz/tox-py/issues/34) in [adamchainz/tox-py](https://github.com/adamchainz/tox-py)
+5. ❗️ Closed issue [#2195](https://github.com/tox-dev/tox/issues/2195) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
