@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2213](https://github.com/tox-dev/tox/issues/2213) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#2212](https://github.com/tox-dev/tox/pull/2212) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-4. 🗣 Commented on [#2024](https://github.com/pypa/virtualenv/issues/2024) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#1720](https://github.com/JetBrains/intellij-community/pull/1720) in [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)
+1. ❗️ Closed issue [#2211](https://github.com/tox-dev/tox/issues/2211) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#2214](https://github.com/tox-dev/tox/pull/2214) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2212](https://github.com/tox-dev/tox/pull/2212) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#2213](https://github.com/tox-dev/tox/issues/2213) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#2212](https://github.com/tox-dev/tox/pull/2212) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
