@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-2. 🗣 Commented on [#2215](https://github.com/tox-dev/tox/issues/2215) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2215](https://github.com/tox-dev/tox/issues/2215) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2215](https://github.com/tox-dev/tox/issues/2215) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Reopened issue [#2215](https://github.com/tox-dev/tox/issues/2215) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2167](https://github.com/tox-dev/tox/issues/2167) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2207](https://github.com/tox-dev/tox/pull/2207) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#23](https://github.com/gaborbernat/sphinx-argparse-cli/pull/23) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. 🎉 Merged PR [#9](https://github.com/gaborbernat/devpi-process/pull/9) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+5. 🎉 Merged PR [#2216](https://github.com/tox-dev/tox/pull/2216) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
