@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11105](https://github.com/python/mypy/issues/11105) in [python/mypy](https://github.com/python/mypy)
-2. 🗣 Commented on [#2217](https://github.com/tox-dev/tox/issues/2217) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#178](https://github.com/PyCQA/pep8-naming/issues/178) in [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming)
+1. 🗣 Commented on [#1079](https://github.com/wez/wezterm/issues/1079) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#11105](https://github.com/python/mypy/issues/11105) in [python/mypy](https://github.com/python/mypy)
+3. 🗣 Commented on [#2217](https://github.com/tox-dev/tox/issues/2217) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#178](https://github.com/PyCQA/pep8-naming/issues/178) in [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming)
-5. ❗️ Opened issue [#178](https://github.com/PyCQA/pep8-naming/issues/178) in [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming)
+5. 🗣 Commented on [#178](https://github.com/PyCQA/pep8-naming/issues/178) in [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
