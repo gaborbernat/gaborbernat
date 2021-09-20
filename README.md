@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#108](https://github.com/tox-dev/tox-docker/issues/108) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
-2. ❗️ Closed issue [#2191](https://github.com/pypa/virtualenv/issues/2191) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2191](https://github.com/pypa/virtualenv/issues/2191) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2215](https://github.com/tox-dev/tox/issues/2215) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2227](https://github.com/tox-dev/tox/issues/2227) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2186](https://github.com/pypa/virtualenv/issues/2186) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#108](https://github.com/tox-dev/tox-docker/issues/108) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
+3. ❗️ Closed issue [#2191](https://github.com/pypa/virtualenv/issues/2191) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2191](https://github.com/pypa/virtualenv/issues/2191) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2215](https://github.com/tox-dev/tox/issues/2215) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
