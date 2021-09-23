@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2194](https://github.com/pypa/virtualenv/issues/2194) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❗️ Closed issue [#2193](https://github.com/pypa/virtualenv/issues/2193) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2193](https://github.com/pypa/virtualenv/issues/2193) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2186](https://github.com/pypa/virtualenv/issues/2186) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#10](https://github.com/gaborbernat/devpi-process/pull/10) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+1. 🎉 Merged PR [#98](https://github.com/tox-dev/tox-conda/pull/98) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🎉 Merged PR [#22](https://github.com/tox-dev/tox-via-docker/pull/22) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+3. 🎉 Merged PR [#18](https://github.com/tox-dev/integration-test/pull/18) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+4. 🎉 Merged PR [#24](https://github.com/tox-dev/tox-extra/pull/24) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. 🎉 Merged PR [#1](https://github.com/tox-dev/tox-gh/pull/1) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
