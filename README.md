@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2188](https://github.com/pypa/virtualenv/issues/2188) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2188](https://github.com/pypa/virtualenv/issues/2188) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#98](https://github.com/tox-dev/tox-conda/pull/98) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🎉 Merged PR [#22](https://github.com/tox-dev/tox-via-docker/pull/22) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-5. 🎉 Merged PR [#18](https://github.com/tox-dev/integration-test/pull/18) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+1. 🗣 Commented on [#2186](https://github.com/pypa/virtualenv/issues/2186) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2188](https://github.com/pypa/virtualenv/issues/2188) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2188](https://github.com/pypa/virtualenv/issues/2188) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#98](https://github.com/tox-dev/tox-conda/pull/98) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#22](https://github.com/tox-dev/tox-via-docker/pull/22) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
