@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/nokia/PyVenvManage/pull/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-2. ❗️ Closed issue [#1981](https://github.com/pypa/virtualenv/issues/1981) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Closed issue [#2197](https://github.com/pypa/virtualenv/issues/2197) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2197](https://github.com/pypa/virtualenv/issues/2197) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2234](https://github.com/tox-dev/tox/pull/2234) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#84](https://github.com/benediktschmitt/py-filelock/issues/84) in [benediktschmitt/py-filelock](https://github.com/benediktschmitt/py-filelock)
+2. 💪 Opened PR [#18](https://github.com/nokia/PyVenvManage/pull/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+3. ❗️ Closed issue [#1981](https://github.com/pypa/virtualenv/issues/1981) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#2197](https://github.com/pypa/virtualenv/issues/2197) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2197](https://github.com/pypa/virtualenv/issues/2197) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
