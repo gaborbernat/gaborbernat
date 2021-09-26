@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2198](https://github.com/pypa/virtualenv/issues/2198) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2198](https://github.com/pypa/virtualenv/issues/2198) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#2235](https://github.com/tox-dev/tox/pull/2235) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#39](https://github.com/platformdirs/platformdirs/pull/39) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#84](https://github.com/benediktschmitt/py-filelock/issues/84) in [benediktschmitt/py-filelock](https://github.com/benediktschmitt/py-filelock)
+1. 🎉 Merged PR [#716](https://github.com/pypa/pipx/pull/716) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#718](https://github.com/pypa/pipx/pull/718) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#736](https://github.com/pypa/pipx/pull/736) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#20](https://github.com/stavxyz/tox-pyenv/issues/20) in [stavxyz/tox-pyenv](https://github.com/stavxyz/tox-pyenv)
+5. ❗️ Closed issue [#20](https://github.com/stavxyz/tox-pyenv/issues/20) in [stavxyz/tox-pyenv](https://github.com/stavxyz/tox-pyenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
