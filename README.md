@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-2. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-3. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-4. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-5. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+1. 🗣 Commented on [#18](https://github.com/nokia/PyVenvManage/issues/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+2. 🗣 Commented on [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#2200](https://github.com/pypa/virtualenv/pull/2200) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#79](https://github.com/tox-dev/py-filelock/issues/79) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
