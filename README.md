@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/benediktschmitt/py-filelock/issues/84) in [benediktschmitt/py-filelock](https://github.com/benediktschmitt/py-filelock)
-2. ❗️ Closed issue [#2204](https://github.com/tox-dev/tox/issues/2204) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-4. 🎉 Merged PR [#716](https://github.com/pypa/pipx/pull/716) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#718](https://github.com/pypa/pipx/pull/718) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Closed issue [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#84](https://github.com/benediktschmitt/py-filelock/issues/84) in [benediktschmitt/py-filelock](https://github.com/benediktschmitt/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
