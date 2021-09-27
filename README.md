@@ -50,11 +50,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Closed issue [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🗣 Commented on [#56](https://github.com/tox-dev/py-filelock/issues/56) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#59](https://github.com/tox-dev/py-filelock/issues/59) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#64](https://github.com/tox-dev/py-filelock/issues/64) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🗣 Commented on [#84](https://github.com/benediktschmitt/py-filelock/issues/84) in [benediktschmitt/py-filelock](https://github.com/benediktschmitt/py-filelock)
+5. 🗣 Commented on [#62](https://github.com/tox-dev/py-filelock/issues/62) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
