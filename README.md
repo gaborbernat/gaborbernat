@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/gaborbernat/devpi-process/pull/11) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-2. 🎉 Merged PR [#25](https://github.com/gaborbernat/sphinx-argparse-cli/pull/25) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-3. 🎉 Merged PR [#92](https://github.com/tox-dev/py-filelock/pull/92) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#27](https://github.com/pytest-dev/pytest-print/pull/27) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🗣 Commented on [#18](https://github.com/nokia/PyVenvManage/issues/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🎉 Merged PR [#93](https://github.com/tox-dev/py-filelock/pull/93) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 💪 Opened PR [#93](https://github.com/tox-dev/py-filelock/pull/93) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🎉 Merged PR [#11](https://github.com/gaborbernat/devpi-process/pull/11) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
+4. 🎉 Merged PR [#25](https://github.com/gaborbernat/sphinx-argparse-cli/pull/25) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. 🎉 Merged PR [#92](https://github.com/tox-dev/py-filelock/pull/92) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
