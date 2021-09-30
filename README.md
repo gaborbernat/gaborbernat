@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#96](https://github.com/tox-dev/py-filelock/pull/96) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. ❗️ Opened issue [#2239](https://github.com/tox-dev/tox/issues/2239) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#96](https://github.com/tox-dev/py-filelock/issues/96) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-5. 🗣 Commented on [#18](https://github.com/nokia/PyVenvManage/issues/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🎉 Merged PR [#743](https://github.com/pypa/pipx/pull/743) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#96](https://github.com/tox-dev/py-filelock/pull/96) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Opened issue [#2239](https://github.com/tox-dev/tox/issues/2239) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#96](https://github.com/tox-dev/py-filelock/issues/96) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
