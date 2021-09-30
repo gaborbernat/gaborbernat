@@ -52,10 +52,10 @@ following Python open source projects:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#59](https://github.com/tox-dev/py-filelock/issues/59) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#743](https://github.com/pypa/pipx/issues/743) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ❗️ Closed issue [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2203](https://github.com/pypa/virtualenv/issues/2203) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#59](https://github.com/tox-dev/py-filelock/issues/59) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#743](https://github.com/pypa/pipx/issues/743) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ❗️ Closed issue [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
