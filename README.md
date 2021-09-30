@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2203](https://github.com/pypa/virtualenv/issues/2203) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#743](https://github.com/pypa/pipx/pull/743) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#96](https://github.com/tox-dev/py-filelock/pull/96) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. ❗️ Opened issue [#2239](https://github.com/tox-dev/tox/issues/2239) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#96](https://github.com/tox-dev/py-filelock/issues/96) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. ❗️ Closed issue [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2160](https://github.com/tox-dev/tox/issues/2160) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2203](https://github.com/pypa/virtualenv/issues/2203) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2203](https://github.com/pypa/virtualenv/issues/2203) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#743](https://github.com/pypa/pipx/pull/743) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
