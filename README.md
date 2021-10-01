@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2240](https://github.com/tox-dev/tox/issues/2240) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2240](https://github.com/tox-dev/tox/issues/2240) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2240](https://github.com/tox-dev/tox/issues/2240) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🗣 Commented on [#59](https://github.com/tox-dev/py-filelock/issues/59) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. ❗️ Closed issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Opened issue [#2244](https://github.com/tox-dev/tox/issues/2244) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#2243](https://github.com/tox-dev/tox/issues/2243) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Opened issue [#89](https://github.com/sumerc/yappi/issues/89) in [sumerc/yappi](https://github.com/sumerc/yappi)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
