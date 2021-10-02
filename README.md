@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/stavxyz/tox-pyenv/issues/20) in [stavxyz/tox-pyenv](https://github.com/stavxyz/tox-pyenv)
-2. 🗣 Commented on [#1165](https://github.com/wez/wezterm/issues/1165) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ❗️ Reopened issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#59](https://github.com/tox-dev/py-filelock/issues/59) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🎉 Merged PR [#97](https://github.com/tox-dev/py-filelock/pull/97) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#20](https://github.com/stavxyz/tox-pyenv/issues/20) in [stavxyz/tox-pyenv](https://github.com/stavxyz/tox-pyenv)
+4. 🗣 Commented on [#1165](https://github.com/wez/wezterm/issues/1165) in [wez/wezterm](https://github.com/wez/wezterm)
+5. ❗️ Reopened issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
