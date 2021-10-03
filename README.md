@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/gaborbernat/sphinx-argparse-cli/pull/13) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
-2. 🎉 Merged PR [#100](https://github.com/tox-dev/py-filelock/pull/100) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Opened issue [#101](https://github.com/tox-dev/py-filelock/issues/101) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 💪 Opened PR [#100](https://github.com/tox-dev/py-filelock/pull/100) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. ❗️ Opened issue [#99](https://github.com/tox-dev/py-filelock/issues/99) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#13](https://github.com/gaborbernat/sphinx-argparse-cli/pull/13) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+4. 🎉 Merged PR [#100](https://github.com/tox-dev/py-filelock/pull/100) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❗️ Opened issue [#101](https://github.com/tox-dev/py-filelock/issues/101) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
