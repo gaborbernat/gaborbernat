@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/tox-dev/tox-via-docker/pull/24) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-2. 🎉 Merged PR [#3](https://github.com/tox-dev/tox-gh/pull/3) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🎉 Merged PR [#103](https://github.com/tox-dev/py-filelock/pull/103) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#2246](https://github.com/tox-dev/tox/pull/2246) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#26](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/26) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+1. 🎉 Merged PR [#100](https://github.com/tox-dev/tox-conda/pull/100) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#24](https://github.com/tox-dev/tox-via-docker/pull/24) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+4. 🎉 Merged PR [#3](https://github.com/tox-dev/tox-gh/pull/3) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🎉 Merged PR [#103](https://github.com/tox-dev/py-filelock/pull/103) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
