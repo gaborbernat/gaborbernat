@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#38](https://github.com/ambv/retype/pull/38) in [ambv/retype](https://github.com/ambv/retype)
-3. ❌ Closed PR [#1976](https://github.com/python/peps/pull/1976) in [python/peps](https://github.com/python/peps)
-4. 🗣 Commented on [#1976](https://github.com/python/peps/issues/1976) in [python/peps](https://github.com/python/peps)
-5. ❌ Closed PR [#32](https://github.com/ambv/retype/pull/32) in [ambv/retype](https://github.com/ambv/retype)
+1. ❗️ Closed issue [#102](https://github.com/tox-dev/py-filelock/issues/102) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#102](https://github.com/tox-dev/py-filelock/issues/102) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#38](https://github.com/ambv/retype/pull/38) in [ambv/retype](https://github.com/ambv/retype)
+5. ❌ Closed PR [#1976](https://github.com/python/peps/pull/1976) in [python/peps](https://github.com/python/peps)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
