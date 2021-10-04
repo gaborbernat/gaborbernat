@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2205](https://github.com/pypa/virtualenv/pull/2205) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
-3. 💪 Opened PR [#2205](https://github.com/pypa/virtualenv/pull/2205) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#33](https://github.com/ambv/retype/pull/33) in [ambv/retype](https://github.com/ambv/retype)
+2. ❗️ Closed issue [#24](https://github.com/ambv/retype/issues/24) in [ambv/retype](https://github.com/ambv/retype)
+3. 🎉 Merged PR [#2221](https://github.com/tox-dev/tox/pull/2221) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#2245](https://github.com/tox-dev/tox/pull/2245) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2205](https://github.com/pypa/virtualenv/pull/2205) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
