@@ -51,11 +51,11 @@ following Python open source projects:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
-2. 💪 Opened PR [#2205](https://github.com/pypa/virtualenv/pull/2205) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#2205](https://github.com/pypa/virtualenv/pull/2205) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
+3. 💪 Opened PR [#2205](https://github.com/pypa/virtualenv/pull/2205) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
-5. 🎉 Merged PR [#13](https://github.com/gaborbernat/sphinx-argparse-cli/pull/13) in [gaborbernat/sphinx-argparse-cli](https://github.com/gaborbernat/sphinx-argparse-cli)
+5. 🗣 Commented on [#367](https://github.com/pypa/build/issues/367) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
