@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1289](https://github.com/tox-dev/tox/issues/1289) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2207](https://github.com/pypa/virtualenv/issues/2207) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#18](https://github.com/nokia/PyVenvManage/issues/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 💪 Opened PR [#90](https://github.com/sumerc/yappi/pull/90) in [sumerc/yappi](https://github.com/sumerc/yappi)
+2. 🗣 Commented on [#89](https://github.com/sumerc/yappi/issues/89) in [sumerc/yappi](https://github.com/sumerc/yappi)
+3. 🗣 Commented on [#1289](https://github.com/tox-dev/tox/issues/1289) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2207](https://github.com/pypa/virtualenv/issues/2207) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
