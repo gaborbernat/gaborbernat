@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#18](https://github.com/nokia/PyVenvManage/issues/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🗣 Commented on [#2207](https://github.com/pypa/virtualenv/issues/2207) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 3. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#30](https://github.com/pytest-dev/pytest-print/pull/30) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#100](https://github.com/tox-dev/tox-conda/pull/100) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🗣 Commented on [#18](https://github.com/nokia/PyVenvManage/issues/18) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+5. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
