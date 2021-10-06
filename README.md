@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1289](https://github.com/tox-dev/tox/issues/1289) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#90](https://github.com/sumerc/yappi/pull/90) in [sumerc/yappi](https://github.com/sumerc/yappi)
-3. 🗣 Commented on [#89](https://github.com/sumerc/yappi/issues/89) in [sumerc/yappi](https://github.com/sumerc/yappi)
-4. 🗣 Commented on [#1289](https://github.com/tox-dev/tox/issues/1289) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2207](https://github.com/pypa/virtualenv/issues/2207) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
+2. 🗣 Commented on [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
+3. ❗️ Opened issue [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
+4. ❗️ Closed issue [#1289](https://github.com/tox-dev/tox/issues/1289) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#90](https://github.com/sumerc/yappi/pull/90) in [sumerc/yappi](https://github.com/sumerc/yappi)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
