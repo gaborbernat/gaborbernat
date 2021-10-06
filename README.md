@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#9169](https://github.com/pytest-dev/pytest/issues/9169) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2. 💪 Opened PR [#28757](https://github.com/python/cpython/pull/28757) in [python/cpython](https://github.com/python/cpython)
-3. ❗️ Closed issue [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
-4. 🗣 Commented on [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
-5. ❗️ Opened issue [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
+1. 💪 Opened PR [#9170](https://github.com/pytest-dev/pytest/pull/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+2. ❗️ Opened issue [#9169](https://github.com/pytest-dev/pytest/issues/9169) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. 💪 Opened PR [#28757](https://github.com/python/cpython/pull/28757) in [python/cpython](https://github.com/python/cpython)
+4. ❗️ Closed issue [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
+5. 🗣 Commented on [#208](https://github.com/bskinn/sphobjinv/issues/208) in [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
