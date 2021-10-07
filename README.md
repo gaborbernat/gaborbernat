@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9173](https://github.com/pytest-dev/pytest/pull/9173) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2. 🗣 Commented on [#9170](https://github.com/pytest-dev/pytest/issues/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. 🗣 Commented on [#2208](https://github.com/pypa/virtualenv/issues/2208) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2208](https://github.com/pypa/virtualenv/issues/2208) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#9173](https://github.com/pytest-dev/pytest/pull/9173) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. 🗣 Commented on [#9170](https://github.com/pytest-dev/pytest/issues/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 4. 🗣 Commented on [#2208](https://github.com/pypa/virtualenv/issues/2208) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2206](https://github.com/pypa/virtualenv/issues/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2208](https://github.com/pypa/virtualenv/issues/2208) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
