@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#368](https://github.com/pypa/build/pull/368) in [pypa/build](https://github.com/pypa/build)
-2. ❗️ Reopened issue [#102](https://github.com/tox-dev/py-filelock/issues/102) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🗣 Commented on [#104](https://github.com/tox-dev/py-filelock/issues/104) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🗣 Commented on [#101](https://github.com/pytest-dev/pytest-timeout/issues/101) in [pytest-dev/pytest-timeout](https://github.com/pytest-dev/pytest-timeout)
-5. 🗣 Commented on [#371](https://github.com/pypa/build/issues/371) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#31](https://github.com/pytest-dev/pytest-print/pull/31) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🗣 Commented on [#106](https://github.com/tox-dev/py-filelock/issues/106) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Opened issue [#220](https://github.com/wemake-services/flake8-eradicate/issues/220) in [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate)
+4. 🎉 Merged PR [#20](https://github.com/tox-dev/integration-test/pull/20) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+5. 🎉 Merged PR [#25](https://github.com/tox-dev/tox-via-docker/pull/25) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
