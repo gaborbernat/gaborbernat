@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2211](https://github.com/pypa/virtualenv/pull/2211) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
-3. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
-4. ❗️ Opened issue [#183](https://github.com/agronholm/sphinx-autodoc-typehints/issues/183) in [agronholm/sphinx-autodoc-typehints](https://github.com/agronholm/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
+1. 🎉 Merged PR [#107](https://github.com/tox-dev/py-filelock/pull/107) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🎉 Merged PR [#40](https://github.com/ambv/retype/pull/40) in [ambv/retype](https://github.com/ambv/retype)
+3. 🎉 Merged PR [#45](https://github.com/platformdirs/platformdirs/pull/45) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#276](https://github.com/bloomberg/ipydatagrid/pull/276) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 💪 Opened PR [#40](https://github.com/ambv/retype/pull/40) in [ambv/retype](https://github.com/ambv/retype)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
