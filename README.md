@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#31](https://github.com/pytest-dev/pytest-print/pull/31) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🗣 Commented on [#106](https://github.com/tox-dev/py-filelock/issues/106) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Opened issue [#220](https://github.com/wemake-services/flake8-eradicate/issues/220) in [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate)
-4. 🎉 Merged PR [#20](https://github.com/tox-dev/integration-test/pull/20) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
-5. 🎉 Merged PR [#25](https://github.com/tox-dev/tox-via-docker/pull/25) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
+2. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
+3. 🎉 Merged PR [#31](https://github.com/pytest-dev/pytest-print/pull/31) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🗣 Commented on [#106](https://github.com/tox-dev/py-filelock/issues/106) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❗️ Opened issue [#220](https://github.com/wemake-services/flake8-eradicate/issues/220) in [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
