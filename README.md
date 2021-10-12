@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
+1. ❗️ Opened issue [#183](https://github.com/agronholm/sphinx-autodoc-typehints/issues/183) in [agronholm/sphinx-autodoc-typehints](https://github.com/agronholm/sphinx-autodoc-typehints)
 2. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
-3. 🎉 Merged PR [#31](https://github.com/pytest-dev/pytest-print/pull/31) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🗣 Commented on [#106](https://github.com/tox-dev/py-filelock/issues/106) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. ❗️ Opened issue [#220](https://github.com/wemake-services/flake8-eradicate/issues/220) in [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate)
+3. 🗣 Commented on [#220](https://github.com/seperman/deepdiff/issues/220) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
+4. 🎉 Merged PR [#31](https://github.com/pytest-dev/pytest-print/pull/31) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🗣 Commented on [#106](https://github.com/tox-dev/py-filelock/issues/106) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
