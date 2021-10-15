@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#47](https://github.com/platformdirs/platformdirs/issues/47) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#47](https://github.com/platformdirs/platformdirs/issues/47) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#2214](https://github.com/pypa/virtualenv/issues/2214) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#2249](https://github.com/tox-dev/tox/issues/2249) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2249](https://github.com/tox-dev/tox/issues/2249) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#54](https://github.com/tox-dev/py-filelock/pull/54) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#54](https://github.com/tox-dev/py-filelock/issues/54) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❌ Closed PR [#66](https://github.com/tox-dev/py-filelock/pull/66) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🗣 Commented on [#66](https://github.com/tox-dev/py-filelock/issues/66) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❌ Closed PR [#55](https://github.com/tox-dev/py-filelock/pull/55) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
