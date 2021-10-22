@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#387](https://github.com/pypa/build/issues/387) in [pypa/build](https://github.com/pypa/build)
-4. ❗️ Closed issue [#385](https://github.com/pypa/build/issues/385) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#385](https://github.com/pypa/build/issues/385) in [pypa/build](https://github.com/pypa/build)
+1. ❗️ Opened issue [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Opened issue [#2259](https://github.com/tox-dev/tox/issues/2259) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#387](https://github.com/pypa/build/issues/387) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
