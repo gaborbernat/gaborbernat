@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#111](https://github.com/tox-dev/py-filelock/pull/111) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. ❗️ Opened issue [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#2259](https://github.com/tox-dev/tox/issues/2259) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#110](https://github.com/tox-dev/py-filelock/issues/110) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🎉 Merged PR [#111](https://github.com/tox-dev/py-filelock/pull/111) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Opened issue [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Opened issue [#2259](https://github.com/tox-dev/tox/issues/2259) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2219](https://github.com/pypa/virtualenv/issues/2219) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
