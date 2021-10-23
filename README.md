@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#48](https://github.com/platformdirs/platformdirs/issues/48) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#48](https://github.com/platformdirs/platformdirs/issues/48) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#110](https://github.com/tox-dev/py-filelock/issues/110) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#111](https://github.com/tox-dev/py-filelock/pull/111) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. ❗️ Opened issue [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#49](https://github.com/platformdirs/platformdirs/issues/49) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. ❗️ Closed issue [#49](https://github.com/platformdirs/platformdirs/issues/49) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. ❗️ Closed issue [#48](https://github.com/platformdirs/platformdirs/issues/48) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#48](https://github.com/platformdirs/platformdirs/issues/48) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#110](https://github.com/tox-dev/py-filelock/issues/110) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
