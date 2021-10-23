@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#49](https://github.com/platformdirs/platformdirs/issues/49) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. ❗️ Closed issue [#49](https://github.com/platformdirs/platformdirs/issues/49) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. ❗️ Closed issue [#48](https://github.com/platformdirs/platformdirs/issues/48) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#48](https://github.com/platformdirs/platformdirs/issues/48) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#110](https://github.com/tox-dev/py-filelock/issues/110) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 💪 Opened PR [#2223](https://github.com/pypa/virtualenv/pull/2223) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2222](https://github.com/pypa/virtualenv/pull/2222) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2220](https://github.com/pypa/virtualenv/pull/2220) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#2215](https://github.com/pypa/virtualenv/issues/2215) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2206](https://github.com/pypa/virtualenv/pull/2206) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
