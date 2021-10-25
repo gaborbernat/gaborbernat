@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-2. 🗣 Commented on [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-3. ❗️ Opened issue [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-4. ❗️ Opened issue [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-5. 🗣 Commented on [#2215](https://github.com/pypa/virtualenv/issues/2215) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2209](https://github.com/pypa/virtualenv/issues/2209) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+3. 🗣 Commented on [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+4. ❗️ Opened issue [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. ❗️ Opened issue [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
