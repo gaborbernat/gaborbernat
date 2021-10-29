@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2224](https://github.com/pypa/virtualenv/issues/2224) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
 2. 🗣 Commented on [#2224](https://github.com/pypa/virtualenv/issues/2224) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2209](https://github.com/pypa/virtualenv/pull/2209) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#2208](https://github.com/pypa/virtualenv/issues/2208) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2226](https://github.com/pypa/virtualenv/pull/2226) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2224](https://github.com/pypa/virtualenv/issues/2224) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2209](https://github.com/pypa/virtualenv/pull/2209) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Closed issue [#2208](https://github.com/pypa/virtualenv/issues/2208) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
