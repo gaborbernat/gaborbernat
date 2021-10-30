@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#859](https://github.com/devpi/devpi/issues/859) in [devpi/devpi](https://github.com/devpi/devpi)
-2. 🗣 Commented on [#113](https://github.com/tox-dev/py-filelock/issues/113) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-4. 🗣 Commented on [#113](https://github.com/tox-dev/py-filelock/issues/113) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🗣 Commented on [#110](https://github.com/tox-dev/py-filelock/issues/110) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🗣 Commented on [#113](https://github.com/tox-dev/py-filelock/issues/113) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❗️ Opened issue [#859](https://github.com/devpi/devpi/issues/859) in [devpi/devpi](https://github.com/devpi/devpi)
+3. 🗣 Commented on [#113](https://github.com/tox-dev/py-filelock/issues/113) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+5. 🗣 Commented on [#113](https://github.com/tox-dev/py-filelock/issues/113) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
