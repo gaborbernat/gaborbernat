@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#26](https://github.com/tox-dev/sphinx-argparse-cli/pull/26) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🎉 Merged PR [#82](https://github.com/tox-dev/tox-ini-fmt/pull/82) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🎉 Merged PR [#28](https://github.com/tox-dev/tox-external-wheels/pull/28) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
-4. 🎉 Merged PR [#26](https://github.com/tox-dev/tox-via-docker/pull/26) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-5. 🎉 Merged PR [#114](https://github.com/tox-dev/py-filelock/pull/114) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🗣 Commented on [#2262](https://github.com/tox-dev/tox/issues/2262) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#26](https://github.com/tox-dev/sphinx-argparse-cli/pull/26) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🎉 Merged PR [#82](https://github.com/tox-dev/tox-ini-fmt/pull/82) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🎉 Merged PR [#28](https://github.com/tox-dev/tox-external-wheels/pull/28) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
+5. 🎉 Merged PR [#26](https://github.com/tox-dev/tox-via-docker/pull/26) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
