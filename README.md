@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2229](https://github.com/pypa/virtualenv/pull/2229) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2262](https://github.com/tox-dev/tox/issues/2262) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#26](https://github.com/tox-dev/sphinx-argparse-cli/pull/26) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🎉 Merged PR [#82](https://github.com/tox-dev/tox-ini-fmt/pull/82) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🎉 Merged PR [#28](https://github.com/tox-dev/tox-external-wheels/pull/28) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
+1. 🎉 Merged PR [#32](https://github.com/pytest-dev/pytest-print/pull/32) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. ❌ Closed PR [#2228](https://github.com/pypa/virtualenv/pull/2228) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2227](https://github.com/pypa/virtualenv/issues/2227) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2229](https://github.com/pypa/virtualenv/pull/2229) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2229](https://github.com/pypa/virtualenv/pull/2229) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
