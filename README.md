@@ -95,9 +95,9 @@ ones in bold I am the primary author):
 
 1. 🗣 Commented on [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
 2. 🗣 Commented on [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
-3. ❗️ Opened issue [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
-4. 🎉 Merged PR [#32](https://github.com/pytest-dev/pytest-print/pull/32) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. ❌ Closed PR [#2228](https://github.com/pypa/virtualenv/pull/2228) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
+4. ❗️ Opened issue [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
+5. 🎉 Merged PR [#32](https://github.com/pytest-dev/pytest-print/pull/32) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
