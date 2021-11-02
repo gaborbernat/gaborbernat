@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#32](https://github.com/pytest-dev/pytest-print/pull/32) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. ❌ Closed PR [#2228](https://github.com/pypa/virtualenv/pull/2228) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2227](https://github.com/pypa/virtualenv/issues/2227) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2229](https://github.com/pypa/virtualenv/pull/2229) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2229](https://github.com/pypa/virtualenv/pull/2229) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Opened issue [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
+2. 🎉 Merged PR [#32](https://github.com/pytest-dev/pytest-print/pull/32) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. ❌ Closed PR [#2228](https://github.com/pypa/virtualenv/pull/2228) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2227](https://github.com/pypa/virtualenv/issues/2227) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2229](https://github.com/pypa/virtualenv/pull/2229) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
