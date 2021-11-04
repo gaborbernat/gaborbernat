@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#1](https://github.com/gaborbernat/pypi_changes/issues/1) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 🗣 Commented on [#2](https://github.com/gaborbernat/pypi_changes/issues/2) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-5. ❗️ Closed issue [#115](https://github.com/tox-dev/py-filelock/issues/115) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🗣 Commented on [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
+2. ❗️ Closed issue [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#1](https://github.com/gaborbernat/pypi_changes/issues/1) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 🗣 Commented on [#2](https://github.com/gaborbernat/pypi_changes/issues/2) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
