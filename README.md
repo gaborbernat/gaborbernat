@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#399](https://github.com/pypa/build/pull/399) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
-3. ❗️ Closed issue [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1](https://github.com/gaborbernat/pypi_changes/issues/1) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+1. ❗️ Closed issue [#2265](https://github.com/tox-dev/tox/issues/2265) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2265](https://github.com/tox-dev/tox/issues/2265) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#399](https://github.com/pypa/build/pull/399) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#10](https://github.com/wasi-master/pypi-command-line/issues/10) in [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line)
+5. ❗️ Closed issue [#2230](https://github.com/pypa/virtualenv/issues/2230) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
