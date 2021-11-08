@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-2. ❗️ Closed issue [#2268](https://github.com/tox-dev/tox/issues/2268) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#2266](https://github.com/tox-dev/tox/issues/2266) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2266](https://github.com/tox-dev/tox/issues/2266) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#2265](https://github.com/tox-dev/tox/issues/2265) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2272](https://github.com/tox-dev/tox/issues/2272) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Reopened issue [#2272](https://github.com/tox-dev/tox/issues/2272) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2272](https://github.com/tox-dev/tox/issues/2272) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. ❗️ Closed issue [#2268](https://github.com/tox-dev/tox/issues/2268) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
