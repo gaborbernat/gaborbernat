@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2272](https://github.com/tox-dev/tox/issues/2272) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Reopened issue [#2272](https://github.com/tox-dev/tox/issues/2272) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#2272](https://github.com/tox-dev/tox/issues/2272) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-5. ❗️ Closed issue [#2268](https://github.com/tox-dev/tox/issues/2268) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#22](https://github.com/tox-dev/integration-test/pull/22) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+2. ❌ Reopened PR [#22](https://github.com/tox-dev/integration-test/pull/22) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+3. ❌ Closed PR [#22](https://github.com/tox-dev/integration-test/pull/22) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+4. 🎉 Merged PR [#113](https://github.com/tox-dev/tox-ansible/pull/113) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
+5. 🎉 Merged PR [#29](https://github.com/tox-dev/tox-external-wheels/pull/29) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
