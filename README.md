@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#32](https://github.com/tox-dev/sphinx-argparse-cli/issues/32) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🗣 Commented on [#30](https://github.com/tox-dev/sphinx-argparse-cli/issues/30) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. ❗️ Closed issue [#31](https://github.com/tox-dev/sphinx-argparse-cli/issues/31) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🎉 Merged PR [#32](https://github.com/tox-dev/sphinx-argparse-cli/pull/32) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🗣 Commented on [#32](https://github.com/tox-dev/sphinx-argparse-cli/issues/32) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🎉 Merged PR [#33](https://github.com/tox-dev/sphinx-argparse-cli/pull/33) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🗣 Commented on [#32](https://github.com/tox-dev/sphinx-argparse-cli/issues/32) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🗣 Commented on [#30](https://github.com/tox-dev/sphinx-argparse-cli/issues/30) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. ❗️ Closed issue [#31](https://github.com/tox-dev/sphinx-argparse-cli/issues/31) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#32](https://github.com/tox-dev/sphinx-argparse-cli/pull/32) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
