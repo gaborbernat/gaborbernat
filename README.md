@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2234](https://github.com/pypa/virtualenv/issues/2234) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2234](https://github.com/pypa/virtualenv/issues/2234) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Opened issue [#78](https://github.com/mgaitan/sphinxcontrib-mermaid/issues/78) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
-4. 🎉 Merged PR [#34](https://github.com/tox-dev/sphinx-argparse-cli/pull/34) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🗣 Commented on [#757](https://github.com/pypa/pipx/issues/757) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#119](https://github.com/tox-dev/py-filelock/issues/119) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❗️ Closed issue [#2234](https://github.com/pypa/virtualenv/issues/2234) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2234](https://github.com/pypa/virtualenv/issues/2234) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Opened issue [#78](https://github.com/mgaitan/sphinxcontrib-mermaid/issues/78) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+5. 🎉 Merged PR [#34](https://github.com/tox-dev/sphinx-argparse-cli/pull/34) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
