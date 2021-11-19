@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#291](https://github.com/ekalinin/nodeenv/issues/291) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
-2. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
-3. 🗣 Commented on [#2273](https://github.com/tox-dev/tox/issues/2273) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2275](https://github.com/tox-dev/tox/pull/2275) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2276](https://github.com/tox-dev/tox/issues/2276) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2236](https://github.com/pypa/virtualenv/issues/2236) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Opened issue [#291](https://github.com/ekalinin/nodeenv/issues/291) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
+3. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+4. 🗣 Commented on [#2273](https://github.com/tox-dev/tox/issues/2273) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2275](https://github.com/tox-dev/tox/pull/2275) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
