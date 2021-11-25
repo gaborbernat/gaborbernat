@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#2237](https://github.com/pypa/virtualenv/issues/2237) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2236](https://github.com/pypa/virtualenv/issues/2236) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Opened issue [#291](https://github.com/ekalinin/nodeenv/issues/291) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
-5. 🗣 Commented on [#230](https://github.com/sissaschool/xmlschema/issues/230) in [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema)
+1. 🗣 Commented on [#5](https://github.com/gaborbernat/pypi_changes/issues/5) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. 🗣 Commented on [#84](https://github.com/tox-dev/py-filelock/issues/84) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#2237](https://github.com/pypa/virtualenv/issues/2237) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2236](https://github.com/pypa/virtualenv/issues/2236) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Opened issue [#291](https://github.com/ekalinin/nodeenv/issues/291) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
