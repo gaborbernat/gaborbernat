@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/gaborbernat/pypi_changes/issues/3) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-2. ❗️ Closed issue [#2214](https://github.com/pypa/virtualenv/issues/2214) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2214](https://github.com/pypa/virtualenv/issues/2214) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2239](https://github.com/pypa/virtualenv/pull/2239) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2235](https://github.com/pypa/virtualenv/pull/2235) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2281](https://github.com/tox-dev/tox/issues/2281) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Opened issue [#2284](https://github.com/tox-dev/tox/issues/2284) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2280](https://github.com/tox-dev/tox/issues/2280) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3](https://github.com/gaborbernat/pypi_changes/issues/3) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. ❗️ Closed issue [#2214](https://github.com/pypa/virtualenv/issues/2214) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
