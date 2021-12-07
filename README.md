@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#257](https://github.com/pypa/flit/issues/257) in [pypa/flit](https://github.com/pypa/flit)
-2. 🎉 Merged PR [#113](https://github.com/tox-dev/tox-conda/pull/113) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-3. 🎉 Merged PR [#29](https://github.com/tox-dev/tox-via-docker/pull/29) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-4. 🎉 Merged PR [#123](https://github.com/tox-dev/py-filelock/pull/123) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🎉 Merged PR [#36](https://github.com/tox-dev/sphinx-argparse-cli/pull/36) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🎉 Merged PR [#33](https://github.com/pytest-dev/pytest-print/pull/33) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🗣 Commented on [#257](https://github.com/pypa/flit/issues/257) in [pypa/flit](https://github.com/pypa/flit)
+3. 🎉 Merged PR [#113](https://github.com/tox-dev/tox-conda/pull/113) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🎉 Merged PR [#29](https://github.com/tox-dev/tox-via-docker/pull/29) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#123](https://github.com/tox-dev/py-filelock/pull/123) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
