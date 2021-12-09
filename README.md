@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/gaborbernat/pypi_changes/pull/7) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-2. ❗️ Closed issue [#50](https://github.com/platformdirs/platformdirs/issues/50) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#50](https://github.com/platformdirs/platformdirs/issues/50) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#33](https://github.com/pytest-dev/pytest-print/pull/33) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🗣 Commented on [#257](https://github.com/pypa/flit/issues/257) in [pypa/flit](https://github.com/pypa/flit)
+1. ❌ Closed PR [#2238](https://github.com/pypa/virtualenv/pull/2238) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#257](https://github.com/pypa/flit/issues/257) in [pypa/flit](https://github.com/pypa/flit)
+3. 🎉 Merged PR [#7](https://github.com/gaborbernat/pypi_changes/pull/7) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. ❗️ Closed issue [#50](https://github.com/platformdirs/platformdirs/issues/50) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#50](https://github.com/platformdirs/platformdirs/issues/50) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
