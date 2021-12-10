@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#257](https://github.com/pypa/flit/issues/257) in [pypa/flit](https://github.com/pypa/flit)
-2. 🗣 Commented on [#1980](https://github.com/pypa/virtualenv/issues/1980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2234](https://github.com/pypa/virtualenv/issues/2234) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#51](https://github.com/platformdirs/platformdirs/issues/51) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#42](https://github.com/tox-dev/tox-ini-fmt/issues/42) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ❗️ Opened issue [#63](https://github.com/ICRAR/ijson/issues/63) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
+2. 🗣 Commented on [#257](https://github.com/pypa/flit/issues/257) in [pypa/flit](https://github.com/pypa/flit)
+3. 🗣 Commented on [#1980](https://github.com/pypa/virtualenv/issues/1980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2234](https://github.com/pypa/virtualenv/issues/2234) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#51](https://github.com/platformdirs/platformdirs/issues/51) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
