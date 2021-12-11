@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#63](https://github.com/ICRAR/ijson/issues/63) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
-2. 🗣 Commented on [#483](https://github.com/pypa/flit/issues/483) in [pypa/flit](https://github.com/pypa/flit)
-3. 🗣 Commented on [#2233](https://github.com/pypa/virtualenv/issues/2233) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2247](https://github.com/pypa/virtualenv/issues/2247) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2247](https://github.com/pypa/virtualenv/issues/2247) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#63](https://github.com/ICRAR/ijson/issues/63) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
 4. 🗣 Commented on [#483](https://github.com/pypa/flit/issues/483) in [pypa/flit](https://github.com/pypa/flit)
-5. ❗️ Closed issue [#486](https://github.com/pypa/flit/issues/486) in [pypa/flit](https://github.com/pypa/flit)
+5. 🗣 Commented on [#2233](https://github.com/pypa/virtualenv/issues/2233) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
