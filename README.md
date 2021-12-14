@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
-2. ❗️ Closed issue [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#238](https://github.com/tox-dev/tox/issues/238) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#114](https://github.com/tox-dev/tox-conda/issues/114) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. 🗣 Commented on [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
+3. ❗️ Closed issue [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
