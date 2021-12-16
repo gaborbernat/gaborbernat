@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#42](https://github.com/fedora-python/tox-current-env/issues/42) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
-2. 🗣 Commented on [#114](https://github.com/tox-dev/tox-conda/issues/114) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-3. 🗣 Commented on [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
-4. ❗️ Closed issue [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#2260](https://github.com/tox-dev/tox/issues/2260) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#51](https://github.com/platformdirs/platformdirs/issues/51) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. ❗️ Closed issue [#51](https://github.com/platformdirs/platformdirs/issues/51) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#42](https://github.com/fedora-python/tox-current-env/issues/42) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
+4. 🗣 Commented on [#114](https://github.com/tox-dev/tox-conda/issues/114) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🗣 Commented on [#414](https://github.com/pypa/build/issues/414) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
