@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#782](https://github.com/pypa/pipx/issues/782) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#782](https://github.com/pypa/pipx/issues/782) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ❗️ Closed issue [#456](https://github.com/pypa/flit/issues/456) in [pypa/flit](https://github.com/pypa/flit)
-4. 🗣 Commented on [#456](https://github.com/pypa/flit/issues/456) in [pypa/flit](https://github.com/pypa/flit)
-5. 🗣 Commented on [#2187](https://github.com/pypa/virtualenv/issues/2187) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Opened issue [#83](https://github.com/pypa/gh-action-pypi-publish/issues/83) in [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
+2. 🎉 Merged PR [#121](https://github.com/tox-dev/py-filelock/pull/121) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Closed issue [#773](https://github.com/pypa/pipx/issues/773) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#773](https://github.com/pypa/pipx/issues/773) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❗️ Closed issue [#782](https://github.com/pypa/pipx/issues/782) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
