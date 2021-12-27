@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#52](https://github.com/platformdirs/platformdirs/issues/52) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#2237](https://github.com/pypa/virtualenv/pull/2237) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2237](https://github.com/pypa/virtualenv/issues/2237) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#52](https://github.com/platformdirs/platformdirs/pull/52) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 💪 Opened PR [#52](https://github.com/platformdirs/platformdirs/pull/52) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🎉 Merged PR [#5](https://github.com/conda-forge/platformdirs-feedstock/pull/5) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+2. ❌ Closed PR [#4](https://github.com/conda-forge/platformdirs-feedstock/pull/4) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+3. 🎉 Merged PR [#2252](https://github.com/pypa/virtualenv/pull/2252) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2242](https://github.com/pypa/virtualenv/pull/2242) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2252](https://github.com/pypa/virtualenv/pull/2252) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
