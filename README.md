@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#53](https://github.com/platformdirs/platformdirs/issues/53) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#5](https://github.com/conda-forge/platformdirs-feedstock/pull/5) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
-3. ❌ Closed PR [#4](https://github.com/conda-forge/platformdirs-feedstock/pull/4) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
-4. 🎉 Merged PR [#2252](https://github.com/pypa/virtualenv/pull/2252) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2242](https://github.com/pypa/virtualenv/pull/2242) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#30](https://github.com/tox-dev/tox-via-docker/pull/30) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+2. 🎉 Merged PR [#4](https://github.com/tox-dev/tox-gh/pull/4) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. 🎉 Merged PR [#5](https://github.com/tox-dev/pyproject-api/pull/5) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#29](https://github.com/tox-dev/tox-extra/pull/29) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. 🎉 Merged PR [#24](https://github.com/tox-dev/integration-test/pull/24) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
