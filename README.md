@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2257](https://github.com/pypa/virtualenv/issues/2257) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2257](https://github.com/pypa/virtualenv/issues/2257) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#72](https://github.com/bloomberg/attrs-strict/pull/72) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-4. ❌ Closed PR [#34](https://github.com/pytest-dev/pytest-print/pull/34) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 💪 Opened PR [#2293](https://github.com/tox-dev/tox/pull/2293) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#2262](https://github.com/tox-dev/tox/pull/2262) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2293](https://github.com/tox-dev/tox/pull/2293) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2257](https://github.com/pypa/virtualenv/issues/2257) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2257](https://github.com/pypa/virtualenv/issues/2257) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#72](https://github.com/bloomberg/attrs-strict/pull/72) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
