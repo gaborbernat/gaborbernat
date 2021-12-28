@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2178](https://github.com/pre-commit/pre-commit/issues/2178) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-2. 🎉 Merged PR [#37](https://github.com/tox-dev/sphinx-argparse-cli/pull/37) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. 🎉 Merged PR [#2255](https://github.com/pypa/virtualenv/pull/2255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2255](https://github.com/pypa/virtualenv/pull/2255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2254](https://github.com/pypa/virtualenv/pull/2254) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#2293](https://github.com/tox-dev/tox/pull/2293) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2178](https://github.com/pre-commit/pre-commit/issues/2178) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+3. 🎉 Merged PR [#37](https://github.com/tox-dev/sphinx-argparse-cli/pull/37) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#2255](https://github.com/pypa/virtualenv/pull/2255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2255](https://github.com/pypa/virtualenv/pull/2255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
