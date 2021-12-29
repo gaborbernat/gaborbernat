@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2260](https://github.com/pypa/virtualenv/issues/2260) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2256](https://github.com/pypa/virtualenv/pull/2256) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Closed issue [#2203](https://github.com/pypa/virtualenv/issues/2203) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2260](https://github.com/pypa/virtualenv/issues/2260) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Opened issue [#784](https://github.com/pypa/pipx/issues/784) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#2872](https://github.com/pypa/setuptools/issues/2872) in [pypa/setuptools](https://github.com/pypa/setuptools)
+2. 🗣 Commented on [#2256](https://github.com/pypa/virtualenv/issues/2256) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2261](https://github.com/pypa/virtualenv/pull/2261) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2261](https://github.com/pypa/virtualenv/pull/2261) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2260](https://github.com/pypa/virtualenv/issues/2260) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
