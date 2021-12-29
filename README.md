@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2294](https://github.com/tox-dev/tox/pull/2294) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2273](https://github.com/tox-dev/tox/pull/2273) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#2197](https://github.com/tox-dev/tox/issues/2197) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#2259](https://github.com/pypa/virtualenv/pull/2259) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2258](https://github.com/pypa/virtualenv/pull/2258) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2294](https://github.com/tox-dev/tox/pull/2294) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2257](https://github.com/pypa/virtualenv/issues/2257) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2259](https://github.com/pypa/virtualenv/pull/2259) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2294](https://github.com/tox-dev/tox/pull/2294) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2273](https://github.com/tox-dev/tox/pull/2273) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
