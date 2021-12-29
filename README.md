@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2. 🗣 Commented on [#2872](https://github.com/pypa/setuptools/issues/2872) in [pypa/setuptools](https://github.com/pypa/setuptools)
-3. 🗣 Commented on [#2256](https://github.com/pypa/virtualenv/issues/2256) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2261](https://github.com/pypa/virtualenv/pull/2261) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2261](https://github.com/pypa/virtualenv/pull/2261) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. ❗️ Closed issue [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
