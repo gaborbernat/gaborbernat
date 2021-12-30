@@ -93,10 +93,10 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-2. ❗️ Closed issue [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❗️ Closed issue [#126](https://github.com/tox-dev/py-filelock/issues/126) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#126](https://github.com/tox-dev/py-filelock/issues/126) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+4. ❗️ Closed issue [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. 🗣 Commented on [#54](https://github.com/platformdirs/platformdirs/issues/54) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
