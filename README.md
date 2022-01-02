@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#500](https://github.com/pypa/flit/pull/500) in [pypa/flit](https://github.com/pypa/flit)
-2. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#742](https://github.com/pypa/pipx/pull/742) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#753](https://github.com/pypa/pipx/pull/753) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#744](https://github.com/pypa/pipx/pull/744) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#2277](https://github.com/pypa/virtualenv/pull/2277) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#500](https://github.com/pypa/flit/pull/500) in [pypa/flit](https://github.com/pypa/flit)
+3. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#742](https://github.com/pypa/pipx/pull/742) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#753](https://github.com/pypa/pipx/pull/753) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
