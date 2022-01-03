@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#501](https://github.com/pypa/flit/issues/501) in [pypa/flit](https://github.com/pypa/flit)
-2. 🗣 Commented on [#501](https://github.com/pypa/flit/issues/501) in [pypa/flit](https://github.com/pypa/flit)
-3. 🗣 Commented on [#2271](https://github.com/pypa/virtualenv/issues/2271) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2269](https://github.com/pypa/virtualenv/issues/2269) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#2268](https://github.com/pypa/virtualenv/issues/2268) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#725](https://github.com/pypa/pipx/issues/725) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#733](https://github.com/pypa/pipx/pull/733) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#770](https://github.com/pypa/pipx/issues/770) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#501](https://github.com/pypa/flit/issues/501) in [pypa/flit](https://github.com/pypa/flit)
+5. 🗣 Commented on [#501](https://github.com/pypa/flit/issues/501) in [pypa/flit](https://github.com/pypa/flit)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
