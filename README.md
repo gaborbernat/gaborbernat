@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#127](https://github.com/tox-dev/py-filelock/issues/127) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#127](https://github.com/tox-dev/py-filelock/issues/127) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Closed issue [#127](https://github.com/tox-dev/py-filelock/issues/127) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🗣 Commented on [#157](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/157) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#770](https://github.com/pypa/pipx/pull/770) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#428](https://github.com/pypa/wheel/issues/428) in [pypa/wheel](https://github.com/pypa/wheel)
+2. 🗣 Commented on [#428](https://github.com/pypa/wheel/issues/428) in [pypa/wheel](https://github.com/pypa/wheel)
+3. 🗣 Commented on [#127](https://github.com/tox-dev/py-filelock/issues/127) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🗣 Commented on [#127](https://github.com/tox-dev/py-filelock/issues/127) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❗️ Closed issue [#127](https://github.com/tox-dev/py-filelock/issues/127) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
