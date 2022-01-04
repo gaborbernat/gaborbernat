@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#784](https://github.com/pypa/pipx/issues/784) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ❗️ Closed issue [#784](https://github.com/pypa/pipx/issues/784) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ❗️ Closed issue [#238](https://github.com/tox-dev/tox/issues/238) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#238](https://github.com/tox-dev/tox/issues/238) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2298](https://github.com/tox-dev/tox/pull/2298) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2298](https://github.com/tox-dev/tox/pull/2298) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#192](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/192) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#191](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/191) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#784](https://github.com/pypa/pipx/issues/784) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❗️ Closed issue [#784](https://github.com/pypa/pipx/issues/784) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
