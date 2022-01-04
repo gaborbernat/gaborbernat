@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5680](https://github.com/python/typeshed/issues/5680) in [python/typeshed](https://github.com/python/typeshed)
-2. 🗣 Commented on [#5680](https://github.com/python/typeshed/issues/5680) in [python/typeshed](https://github.com/python/typeshed)
+1. ❗️ Closed issue [#131](https://github.com/tox-dev/py-filelock/issues/131) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#131](https://github.com/tox-dev/py-filelock/issues/131) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 3. 🗣 Commented on [#5680](https://github.com/python/typeshed/issues/5680) in [python/typeshed](https://github.com/python/typeshed)
-4. ❗️ Opened issue [#238](https://github.com/tkem/cachetools/issues/238) in [tkem/cachetools](https://github.com/tkem/cachetools)
-5. 🎉 Merged PR [#2298](https://github.com/tox-dev/tox/pull/2298) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#5680](https://github.com/python/typeshed/issues/5680) in [python/typeshed](https://github.com/python/typeshed)
+5. 🗣 Commented on [#5680](https://github.com/python/typeshed/issues/5680) in [python/typeshed](https://github.com/python/typeshed)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
