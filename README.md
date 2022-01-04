@@ -93,11 +93,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
-2. 🎉 Merged PR [#2296](https://github.com/tox-dev/tox/pull/2296) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#771](https://github.com/pypa/pipx/pull/771) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#2278](https://github.com/pypa/virtualenv/pull/2278) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#8](https://github.com/gaborbernat/pypi_changes/pull/8) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+1. 🎉 Merged PR [#790](https://github.com/pypa/pipx/pull/790) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
+3. 🎉 Merged PR [#2296](https://github.com/tox-dev/tox/pull/2296) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#771](https://github.com/pypa/pipx/pull/771) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#2278](https://github.com/pypa/virtualenv/pull/2278) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
