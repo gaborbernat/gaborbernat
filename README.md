@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#191](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/191) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❗️ Closed issue [#48](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/48) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#191](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/191) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ❌ Closed PR [#424](https://github.com/pypa/build/pull/424) in [pypa/build](https://github.com/pypa/build)
-5. ❌ Closed PR [#2279](https://github.com/pypa/virtualenv/pull/2279) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#195](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/195) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 💪 Opened PR [#195](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/195) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#191](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/191) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❗️ Closed issue [#48](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/48) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#191](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/191) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
