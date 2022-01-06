@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
-2. 🗣 Commented on [#48](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/48) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
-4. 🗣 Commented on [#2301](https://github.com/tox-dev/tox/issues/2301) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2280](https://github.com/pypa/virtualenv/issues/2280) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#196](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/196) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#196](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/196) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#2280](https://github.com/pypa/virtualenv/issues/2280) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
+5. 🗣 Commented on [#48](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/48) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
