@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#199](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/199) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❗️ Closed issue [#197](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/197) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#157](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/157) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#171](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/171) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#2302](https://github.com/tox-dev/tox/issues/2302) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#193](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/193) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#193](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/193) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#200](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/200) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#199](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/199) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ❗️ Closed issue [#197](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/197) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
