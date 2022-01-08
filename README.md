@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2283](https://github.com/pypa/virtualenv/issues/2283) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2283](https://github.com/pypa/virtualenv/issues/2283) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#179](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/179) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#197](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/197) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. ❗️ Closed issue [#193](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/193) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❌ Closed PR [#177](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/177) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#177](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/177) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❗️ Closed issue [#2283](https://github.com/pypa/virtualenv/issues/2283) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2283](https://github.com/pypa/virtualenv/issues/2283) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#179](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/179) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
