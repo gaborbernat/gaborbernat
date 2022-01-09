@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#2303](https://github.com/tox-dev/tox/pull/2303) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#159](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/159) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ❗️ Closed issue [#2284](https://github.com/tox-dev/tox/issues/2284) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2284](https://github.com/tox-dev/tox/issues/2284) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#507](https://github.com/pypa/flit/issues/507) in [pypa/flit](https://github.com/pypa/flit)
+3. ❗️ Closed issue [#2304](https://github.com/tox-dev/tox/issues/2304) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2304](https://github.com/tox-dev/tox/issues/2304) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
