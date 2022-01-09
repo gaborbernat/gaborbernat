@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#507](https://github.com/pypa/flit/issues/507) in [pypa/flit](https://github.com/pypa/flit)
-3. ❗️ Closed issue [#2304](https://github.com/tox-dev/tox/issues/2304) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2304](https://github.com/tox-dev/tox/issues/2304) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#2242](https://github.com/tox-dev/tox/issues/2242) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2264](https://github.com/tox-dev/tox/issues/2264) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#507](https://github.com/pypa/flit/issues/507) in [pypa/flit](https://github.com/pypa/flit)
+4. ❗️ Closed issue [#2304](https://github.com/tox-dev/tox/issues/2304) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2304](https://github.com/tox-dev/tox/issues/2304) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
