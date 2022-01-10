@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2312](https://github.com/tox-dev/tox/issues/2312) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2312](https://github.com/tox-dev/tox/issues/2312) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#206](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/206) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
+2. ❗️ Closed issue [#2312](https://github.com/tox-dev/tox/issues/2312) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2312](https://github.com/tox-dev/tox/issues/2312) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#206](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/206) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#205](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/205) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#206](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/206) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
