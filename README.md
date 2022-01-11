@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
-2. 🗣 Commented on [#185](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/185) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ❗️ Closed issue [#2259](https://github.com/tox-dev/tox/issues/2259) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2243](https://github.com/tox-dev/tox/issues/2243) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2314](https://github.com/tox-dev/tox/pull/2314) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#9](https://github.com/gaborbernat/pypi_changes/issues/9) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
+3. 🗣 Commented on [#185](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/185) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❗️ Closed issue [#2259](https://github.com/tox-dev/tox/issues/2259) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2243](https://github.com/tox-dev/tox/issues/2243) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
