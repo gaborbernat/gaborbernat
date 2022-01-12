@@ -108,10 +108,10 @@ ones in bold I am the primary author):
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
-3. 🗣 Commented on [#9](https://github.com/gaborbernat/pypi_changes/issues/9) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
-5. 🗣 Commented on [#185](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/185) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
+4. 🗣 Commented on [#9](https://github.com/gaborbernat/pypi_changes/issues/9) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
