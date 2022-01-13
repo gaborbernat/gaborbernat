@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#2184](https://github.com/tox-dev/tox/issues/2184) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2184](https://github.com/tox-dev/tox/issues/2184) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2179](https://github.com/tox-dev/tox/issues/2179) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2080](https://github.com/tox-dev/tox/issues/2080) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2080](https://github.com/tox-dev/tox/issues/2080) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2069](https://github.com/tox-dev/tox/issues/2069) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2069](https://github.com/tox-dev/tox/issues/2069) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#1570](https://github.com/tox-dev/tox/issues/1570) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
