@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2316](https://github.com/tox-dev/tox/pull/2316) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2315](https://github.com/tox-dev/tox/issues/2315) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#557](https://github.com/theacodes/nox/issues/557) in [theacodes/nox](https://github.com/theacodes/nox)
+1. 🗣 Commented on [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#2189](https://github.com/tox-dev/tox/issues/2189) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2184](https://github.com/tox-dev/tox/issues/2184) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2184](https://github.com/tox-dev/tox/issues/2184) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2179](https://github.com/tox-dev/tox/issues/2179) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
