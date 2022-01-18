@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+1. ❗️ Closed issue [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-4. ❗️ Opened issue [#10113](https://github.com/sphinx-doc/sphinx/issues/10113) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-5. ❗️ Opened issue [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+5. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
