@@ -107,9 +107,9 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+1. 🎉 Merged PR [#2286](https://github.com/pypa/virtualenv/pull/2286) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 5. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
