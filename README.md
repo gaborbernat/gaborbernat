@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#311](https://github.com/actions/setup-python/issues/311) in [actions/setup-python](https://github.com/actions/setup-python)
-2. 🗣 Commented on [#211](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/211) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#211](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/211) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#2286](https://github.com/pypa/virtualenv/pull/2286) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#2329](https://github.com/tox-dev/tox/issues/2329) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#133](https://github.com/tox-dev/py-filelock/issues/133) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#133](https://github.com/tox-dev/py-filelock/issues/133) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#311](https://github.com/actions/setup-python/issues/311) in [actions/setup-python](https://github.com/actions/setup-python)
+4. 🗣 Commented on [#211](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/211) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#211](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/211) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
