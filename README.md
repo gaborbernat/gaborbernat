@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2330](https://github.com/tox-dev/tox/issues/2330) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#162](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/162) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#212](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/212) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#55](https://github.com/platformdirs/platformdirs/issues/55) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#799](https://github.com/pypa/pipx/pull/799) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ❗️ Closed issue [#2332](https://github.com/tox-dev/tox/issues/2332) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2332](https://github.com/tox-dev/tox/issues/2332) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#406](https://github.com/pypa/build/issues/406) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+5. 🗣 Commented on [#2330](https://github.com/tox-dev/tox/issues/2330) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
