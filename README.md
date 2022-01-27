@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 🎉 Merged PR [#2289](https://github.com/pypa/virtualenv/pull/2289) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
-4. ❗️ Closed issue [#341](https://github.com/tox-dev/tox/issues/341) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#341](https://github.com/tox-dev/tox/issues/341) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#31](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/31) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+2. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+3. 🎉 Merged PR [#2289](https://github.com/pypa/virtualenv/pull/2289) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#141](https://github.com/hukkin/tomli/issues/141) in [hukkin/tomli](https://github.com/hukkin/tomli)
+5. ❗️ Closed issue [#341](https://github.com/tox-dev/tox/issues/341) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
