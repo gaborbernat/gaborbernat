@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2291](https://github.com/pypa/virtualenv/issues/2291) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2291](https://github.com/pypa/virtualenv/issues/2291) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#31](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/31) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-4. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-5. 🎉 Merged PR [#2289](https://github.com/pypa/virtualenv/pull/2289) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2292](https://github.com/pypa/virtualenv/issues/2292) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#2291](https://github.com/pypa/virtualenv/issues/2291) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2291](https://github.com/pypa/virtualenv/issues/2291) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#31](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/31) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+5. 🗣 Commented on [#10112](https://github.com/sphinx-doc/sphinx/issues/10112) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
