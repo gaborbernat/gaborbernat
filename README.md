@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2341](https://github.com/tox-dev/tox/pull/2341) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#42](https://github.com/fedora-python/tox-current-env/issues/42) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
-3. 🗣 Commented on [#2342](https://github.com/tox-dev/tox/issues/2342) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#2341](https://github.com/tox-dev/tox/pull/2341) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2337](https://github.com/tox-dev/tox/issues/2337) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2346](https://github.com/tox-dev/tox/issues/2346) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2347](https://github.com/tox-dev/tox/pull/2347) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2344](https://github.com/tox-dev/tox/issues/2344) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2348](https://github.com/tox-dev/tox/pull/2348) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2345](https://github.com/tox-dev/tox/pull/2345) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
