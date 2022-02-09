@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#62](https://github.com/platformdirs/platformdirs/issues/62) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#62](https://github.com/platformdirs/platformdirs/issues/62) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#63](https://github.com/platformdirs/platformdirs/pull/63) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#200](https://github.com/pythongssapi/python-gssapi/issues/200) in [pythongssapi/python-gssapi](https://github.com/pythongssapi/python-gssapi)
-5. 🗣 Commented on [#200](https://github.com/pythongssapi/python-gssapi/issues/200) in [pythongssapi/python-gssapi](https://github.com/pythongssapi/python-gssapi)
+1. ❗️ Closed issue [#64](https://github.com/platformdirs/platformdirs/issues/64) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#64](https://github.com/platformdirs/platformdirs/issues/64) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. ❗️ Closed issue [#62](https://github.com/platformdirs/platformdirs/issues/62) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#62](https://github.com/platformdirs/platformdirs/issues/62) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🎉 Merged PR [#63](https://github.com/platformdirs/platformdirs/pull/63) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
