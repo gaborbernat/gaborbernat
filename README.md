@@ -109,9 +109,9 @@ ones in bold I am the primary author):
 
 1. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
 2. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
-3. 🗣 Commented on [#65](https://github.com/platformdirs/platformdirs/issues/65) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#219](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/219) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#2355](https://github.com/tox-dev/tox/issues/2355) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
+4. 🗣 Commented on [#65](https://github.com/platformdirs/platformdirs/issues/65) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#219](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/219) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
