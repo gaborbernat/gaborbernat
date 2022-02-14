@@ -107,8 +107,8 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#135](https://github.com/tox-dev/py-filelock/pull/135) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
+1. 🎉 Merged PR [#128](https://github.com/tox-dev/py-filelock/pull/128) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❌ Closed PR [#135](https://github.com/tox-dev/py-filelock/pull/135) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 3. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
 4. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
 5. 🗣 Commented on [#120](https://github.com/ofek/hatch/issues/120) in [ofek/hatch](https://github.com/ofek/hatch)
