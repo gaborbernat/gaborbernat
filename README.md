@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#130](https://github.com/tox-dev/py-filelock/pull/130) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#6600](https://github.com/aio-libs/aiohttp/issues/6600) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+2. 🎉 Merged PR [#130](https://github.com/tox-dev/py-filelock/pull/130) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 3. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#135](https://github.com/tox-dev/py-filelock/issues/135) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#2284](https://github.com/pypa/virtualenv/issues/2284) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
