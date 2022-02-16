@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#136](https://github.com/tox-dev/py-filelock/pull/136) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. ❗️ Closed issue [#2357](https://github.com/tox-dev/tox/issues/2357) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2357](https://github.com/tox-dev/tox/issues/2357) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2303](https://github.com/pypa/virtualenv/issues/2303) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#6600](https://github.com/aio-libs/aiohttp/issues/6600) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+1. 🗣 Commented on [#2304](https://github.com/pypa/virtualenv/issues/2304) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#136](https://github.com/tox-dev/py-filelock/pull/136) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Closed issue [#2357](https://github.com/tox-dev/tox/issues/2357) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2357](https://github.com/tox-dev/tox/issues/2357) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2303](https://github.com/pypa/virtualenv/issues/2303) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
