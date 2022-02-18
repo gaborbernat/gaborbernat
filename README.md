@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#135](https://github.com/tox-dev/py-filelock/pull/135) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🗣 Commented on [#68](https://github.com/tox-dev/py-filelock/issues/68) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🗣 Commented on [#42](https://github.com/fedora-python/tox-current-env/issues/42) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
+2. 🗣 Commented on [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#135](https://github.com/tox-dev/py-filelock/pull/135) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
