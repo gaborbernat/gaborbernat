@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#42](https://github.com/fedora-python/tox-current-env/issues/42) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
-2. 🗣 Commented on [#42](https://github.com/fedora-python/tox-current-env/issues/42) in [fedora-python/tox-current-env](https://github.com/fedora-python/tox-current-env)
-3. 🗣 Commented on [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2361](https://github.com/tox-dev/tox/issues/2361) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#67](https://github.com/platformdirs/platformdirs/pull/67) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 💪 Opened PR [#68](https://github.com/platformdirs/platformdirs/pull/68) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#66](https://github.com/platformdirs/platformdirs/issues/66) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#67](https://github.com/platformdirs/platformdirs/pull/67) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❌ Closed PR [#66](https://github.com/platformdirs/platformdirs/pull/66) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
