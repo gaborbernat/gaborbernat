@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. ❌ Reopened PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. ❌ Closed PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 💪 Opened PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#35](https://github.com/pytest-dev/pytest-print/pull/35) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🎉 Merged PR [#1](https://github.com/gaborbernat/pyproject-fmt/pull/1) in [gaborbernat/pyproject-fmt](https://github.com/gaborbernat/pyproject-fmt)
+2. 🎉 Merged PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. ❌ Reopened PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. ❌ Closed PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 💪 Opened PR [#36](https://github.com/pytest-dev/pytest-print/pull/36) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
