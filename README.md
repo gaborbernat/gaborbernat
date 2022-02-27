@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/tox-dev/pyproject-fmt/pull/9) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🗣 Commented on [#5](https://github.com/tox-dev/pyproject-fmt/issues/5) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#8](https://github.com/tox-dev/pyproject-fmt/pull/8) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 💪 Opened PR [#8](https://github.com/tox-dev/pyproject-fmt/pull/8) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#283](https://github.com/pypa/build/issues/283) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#5](https://github.com/tox-dev/pyproject-fmt/issues/5) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#6](https://github.com/tox-dev/pyproject-fmt/issues/6) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. ❗️ Closed issue [#3](https://github.com/tox-dev/pyproject-fmt/issues/3) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#3](https://github.com/tox-dev/pyproject-fmt/issues/3) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#9](https://github.com/tox-dev/pyproject-fmt/pull/9) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
