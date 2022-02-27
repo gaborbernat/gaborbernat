@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#283](https://github.com/pypa/build/issues/283) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#435](https://github.com/pypa/build/pull/435) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#817](https://github.com/pypa/pipx/pull/817) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#3](https://github.com/gaborbernat/pyproject-fmt/issues/3) in [gaborbernat/pyproject-fmt](https://github.com/gaborbernat/pyproject-fmt)
-5. 🗣 Commented on [#817](https://github.com/pypa/pipx/issues/817) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#8](https://github.com/tox-dev/pyproject-fmt/pull/8) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 💪 Opened PR [#8](https://github.com/tox-dev/pyproject-fmt/pull/8) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#283](https://github.com/pypa/build/issues/283) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#435](https://github.com/pypa/build/pull/435) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#817](https://github.com/pypa/pipx/pull/817) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
