@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#46](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/46) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#2313](https://github.com/pypa/virtualenv/issues/2313) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#13](https://github.com/tox-dev/pyproject-fmt/pull/13) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#2310](https://github.com/pypa/virtualenv/issues/2310) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2312](https://github.com/pypa/virtualenv/pull/2312) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2313](https://github.com/pypa/virtualenv/issues/2313) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#46](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/46) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#2313](https://github.com/pypa/virtualenv/issues/2313) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#13](https://github.com/tox-dev/pyproject-fmt/pull/13) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#2310](https://github.com/pypa/virtualenv/issues/2310) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
