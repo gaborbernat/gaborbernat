@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/tox-dev/pyproject-fmt/pull/14) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#37](https://github.com/tox-dev/tox-extra/pull/37) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-3. 🗣 Commented on [#2382](https://github.com/tox-dev/tox/issues/2382) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2381](https://github.com/tox-dev/tox/issues/2381) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2320](https://github.com/pypa/virtualenv/pull/2320) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2383](https://github.com/tox-dev/tox/pull/2383) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#2382](https://github.com/tox-dev/tox/issues/2382) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#14](https://github.com/tox-dev/pyproject-fmt/pull/14) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#37](https://github.com/tox-dev/tox-extra/pull/37) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. 🗣 Commented on [#2382](https://github.com/tox-dev/tox/issues/2382) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
