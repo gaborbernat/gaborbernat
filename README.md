@@ -111,7 +111,7 @@ ones in bold I am the primary author):
 2. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 3. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 4. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. ❗️ Closed issue [#2384](https://github.com/tox-dev/tox/issues/2384) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
