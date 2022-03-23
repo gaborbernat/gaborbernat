@@ -107,8 +107,8 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+1. 🎉 Merged PR [#15](https://github.com/tox-dev/pyproject-fmt/pull/15) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#2385](https://github.com/tox-dev/tox/issues/2385) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 4. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 5. 🗣 Commented on [#2114](https://github.com/microsoft/pylance-release/issues/2114) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
