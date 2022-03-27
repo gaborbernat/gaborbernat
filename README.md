@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 💪 Opened PR [#2324](https://github.com/pypa/virtualenv/pull/2324) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 3. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🎉 Merged PR [#2323](https://github.com/pypa/virtualenv/pull/2323) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2323](https://github.com/pypa/virtualenv/pull/2323) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#2323](https://github.com/pypa/virtualenv/pull/2323) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
