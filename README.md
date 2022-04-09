@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#222](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/222) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#2363](https://github.com/tox-dev/tox/pull/2363) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#38](https://github.com/tox-dev/tox-extra/pull/38) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-4. 🎉 Merged PR [#38](https://github.com/pytest-dev/pytest-print/pull/38) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#2329](https://github.com/pypa/virtualenv/pull/2329) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#78](https://github.com/platformdirs/platformdirs/pull/78) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#222](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/222) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#2363](https://github.com/tox-dev/tox/pull/2363) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#38](https://github.com/tox-dev/tox-extra/pull/38) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+5. 🎉 Merged PR [#38](https://github.com/pytest-dev/pytest-print/pull/38) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
