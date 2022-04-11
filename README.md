@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#33](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/33) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-2. 🎉 Merged PR [#16](https://github.com/tox-dev/azure-pipelines-template/pull/16) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-3. 🎉 Merged PR [#824](https://github.com/pypa/pipx/pull/824) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#2331](https://github.com/pypa/virtualenv/pull/2331) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2398](https://github.com/tox-dev/tox/pull/2398) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#128](https://github.com/tox-dev/tox-ansible/pull/128) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
+2. 🎉 Merged PR [#42](https://github.com/tox-dev/sphinx-argparse-cli/pull/42) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🎉 Merged PR [#44](https://github.com/tox-dev/tox-bindep/pull/44) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+4. 🎉 Merged PR [#34](https://github.com/tox-dev/tox-via-docker/pull/34) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#21](https://github.com/tox-dev/pyproject-fmt/pull/21) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
