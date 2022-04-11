@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#185](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/185) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❌ Closed PR [#185](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/185) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#5](https://github.com/gaborbernat/pypi_changes/issues/5) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 💪 Opened PR [#2396](https://github.com/tox-dev/tox/pull/2396) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2331](https://github.com/pypa/virtualenv/pull/2331) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2397](https://github.com/tox-dev/tox/pull/2397) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#2397](https://github.com/tox-dev/tox/pull/2397) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2396](https://github.com/tox-dev/tox/pull/2396) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#2395](https://github.com/tox-dev/tox/pull/2395) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#185](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/185) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
