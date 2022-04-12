@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2332](https://github.com/pypa/virtualenv/pull/2332) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2399](https://github.com/tox-dev/tox/pull/2399) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#128](https://github.com/tox-dev/tox-ansible/pull/128) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
-4. 🎉 Merged PR [#42](https://github.com/tox-dev/sphinx-argparse-cli/pull/42) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#44](https://github.com/tox-dev/tox-bindep/pull/44) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+1. 🎉 Merged PR [#79](https://github.com/platformdirs/platformdirs/pull/79) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#39](https://github.com/pytest-dev/pytest-print/pull/39) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#2332](https://github.com/pypa/virtualenv/pull/2332) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2399](https://github.com/tox-dev/tox/pull/2399) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#128](https://github.com/tox-dev/tox-ansible/pull/128) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
