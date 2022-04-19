@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2403](https://github.com/tox-dev/tox/issues/2403) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2403](https://github.com/tox-dev/tox/issues/2403) in [tox-dev/tox](https://github.com/tox-dev/tox)
 2. 🗣 Commented on [#2403](https://github.com/tox-dev/tox/issues/2403) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#10](https://github.com/conda-forge/platformdirs-feedstock/pull/10) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
-4. 🎉 Merged PR [#72](https://github.com/platformdirs/platformdirs/pull/72) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❗️ Closed issue [#70](https://github.com/platformdirs/platformdirs/issues/70) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#2403](https://github.com/tox-dev/tox/issues/2403) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2403](https://github.com/tox-dev/tox/issues/2403) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#10](https://github.com/conda-forge/platformdirs-feedstock/pull/10) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
