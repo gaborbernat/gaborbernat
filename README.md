@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#209](https://github.com/ofek/hatch/issues/209) in [ofek/hatch](https://github.com/ofek/hatch)
-2. ❗️ Opened issue [#209](https://github.com/ofek/hatch/issues/209) in [ofek/hatch](https://github.com/ofek/hatch)
-3. ❗️ Opened issue [#5518](https://github.com/cli/cli/issues/5518) in [cli/cli](https://github.com/cli/cli)
-4. 🗣 Commented on [#2290](https://github.com/tox-dev/tox/issues/2290) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2334](https://github.com/pypa/virtualenv/issues/2334) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#2408](https://github.com/tox-dev/tox/pull/2408) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#839](https://github.com/pypa/pipx/issues/839) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#839](https://github.com/pypa/pipx/issues/839) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ❗️ Closed issue [#464](https://github.com/pypa/build/issues/464) in [pypa/build](https://github.com/pypa/build)
+5. ❗️ Closed issue [#837](https://github.com/pypa/pipx/issues/837) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
