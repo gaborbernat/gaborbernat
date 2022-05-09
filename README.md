@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/gaborbernat/bernat-tech/issues/1) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-2. 🗣 Commented on [#1](https://github.com/gaborbernat/bernat-tech/issues/1) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-3. 🗣 Commented on [#2338](https://github.com/pypa/virtualenv/issues/2338) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#23](https://github.com/tox-dev/pyproject-fmt/issues/23) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#12](https://github.com/gaborbernat/pypi_changes/pull/12) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. 🎉 Merged PR [#35](https://github.com/tox-dev/tox-via-docker/pull/35) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+3. 🎉 Merged PR [#11](https://github.com/tox-dev/tox-gh/pull/11) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🎉 Merged PR [#129](https://github.com/tox-dev/tox-conda/pull/129) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#143](https://github.com/tox-dev/py-filelock/pull/143) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
