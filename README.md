@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#80](https://github.com/platformdirs/platformdirs/pull/80) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#142](https://github.com/tox-dev/py-filelock/issues/142) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🎉 Merged PR [#2341](https://github.com/pypa/virtualenv/pull/2341) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#12](https://github.com/gaborbernat/pypi_changes/pull/12) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-5. 🎉 Merged PR [#35](https://github.com/tox-dev/tox-via-docker/pull/35) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. 🎉 Merged PR [#40](https://github.com/pytest-dev/pytest-print/pull/40) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#80](https://github.com/platformdirs/platformdirs/pull/80) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#142](https://github.com/tox-dev/py-filelock/issues/142) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#2341](https://github.com/pypa/virtualenv/pull/2341) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#12](https://github.com/gaborbernat/pypi_changes/pull/12) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
