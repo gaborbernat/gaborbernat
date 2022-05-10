@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9](https://github.com/bloomberg/pytest-memray/issues/9) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+1. ❗️ Opened issue [#10](https://github.com/bloomberg/pytest-memray/issues/10) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 2. 🗣 Commented on [#9](https://github.com/bloomberg/pytest-memray/issues/9) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. ❗️ Opened issue [#9](https://github.com/bloomberg/pytest-memray/issues/9) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 💪 Opened PR [#22](https://github.com/nokia/PyVenvManage/pull/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-5. 🎉 Merged PR [#40](https://github.com/pytest-dev/pytest-print/pull/40) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🗣 Commented on [#9](https://github.com/bloomberg/pytest-memray/issues/9) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+4. ❗️ Opened issue [#9](https://github.com/bloomberg/pytest-memray/issues/9) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 💪 Opened PR [#22](https://github.com/nokia/PyVenvManage/pull/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
