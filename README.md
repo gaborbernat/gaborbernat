@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#12](https://github.com/bloomberg/pytest-memray/issues/12) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 💪 Opened PR [#12](https://github.com/bloomberg/pytest-memray/pull/12) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 💪 Opened PR [#11](https://github.com/bloomberg/pytest-memray/pull/11) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🗣 Commented on [#83](https://github.com/pypa/gh-action-pypi-publish/issues/83) in [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
-5. ❗️ Opened issue [#10](https://github.com/bloomberg/pytest-memray/issues/10) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+1. 🗣 Commented on [#460](https://github.com/pypa/build/issues/460) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#467](https://github.com/pypa/build/pull/467) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#2407](https://github.com/tox-dev/tox/pull/2407) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#12](https://github.com/bloomberg/pytest-memray/issues/12) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 💪 Opened PR [#12](https://github.com/bloomberg/pytest-memray/pull/12) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
