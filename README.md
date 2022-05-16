@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/bloomberg/pytest-memray/issues/2) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🗣 Commented on [#5](https://github.com/bloomberg/pytest-memray/issues/5) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 🗣 Commented on [#5](https://github.com/bloomberg/pytest-memray/issues/5) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🗣 Commented on [#48](https://github.com/bloomberg/attrs-strict/issues/48) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. ❗️ Closed issue [#2416](https://github.com/tox-dev/tox/issues/2416) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#15](https://github.com/bloomberg/pytest-memray/pull/15) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+2. 🎉 Merged PR [#73](https://github.com/bloomberg/attrs-strict/pull/73) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 💪 Opened PR [#73](https://github.com/bloomberg/attrs-strict/pull/73) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+4. 🗣 Commented on [#2](https://github.com/bloomberg/pytest-memray/issues/2) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🗣 Commented on [#2](https://github.com/bloomberg/pytest-memray/issues/2) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
