@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/bloomberg/pytest-memray/pull/21) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🎉 Merged PR [#14](https://github.com/bloomberg/pytest-memray/pull/14) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. ❗️ Closed issue [#10](https://github.com/bloomberg/pytest-memray/issues/10) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🎉 Merged PR [#20](https://github.com/bloomberg/pytest-memray/pull/20) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-5. 🗣 Commented on [#21](https://github.com/bloomberg/pytest-memray/issues/21) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+1. 🗣 Commented on [#6](https://github.com/bloomberg/pytest-memray/issues/6) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+2. 🎉 Merged PR [#21](https://github.com/bloomberg/pytest-memray/pull/21) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+3. 🎉 Merged PR [#14](https://github.com/bloomberg/pytest-memray/pull/14) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+4. ❗️ Closed issue [#10](https://github.com/bloomberg/pytest-memray/issues/10) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🎉 Merged PR [#20](https://github.com/bloomberg/pytest-memray/pull/20) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
