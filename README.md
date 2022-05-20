@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#26](https://github.com/bloomberg/pytest-memray/pull/26) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🗣 Commented on [#2421](https://github.com/tox-dev/tox/issues/2421) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#118](https://github.com/bloomberg/memray/issues/118) in [bloomberg/memray](https://github.com/bloomberg/memray)
-4. ❗️ Opened issue [#118](https://github.com/bloomberg/memray/issues/118) in [bloomberg/memray](https://github.com/bloomberg/memray)
-5. ❗️ Closed issue [#27](https://github.com/bloomberg/pytest-memray/issues/27) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+1. 💪 Opened PR [#31](https://github.com/bloomberg/pytest-memray/pull/31) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+2. ❌ Reopened PR [#26](https://github.com/bloomberg/pytest-memray/pull/26) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+3. 🗣 Commented on [#2421](https://github.com/tox-dev/tox/issues/2421) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#118](https://github.com/bloomberg/memray/issues/118) in [bloomberg/memray](https://github.com/bloomberg/memray)
+5. ❗️ Opened issue [#118](https://github.com/bloomberg/memray/issues/118) in [bloomberg/memray](https://github.com/bloomberg/memray)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
