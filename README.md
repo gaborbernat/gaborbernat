@@ -108,10 +108,10 @@ ones in bold I am the primary author):
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2431](https://github.com/tox-dev/tox/issues/2431) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#33](https://github.com/bloomberg/pytest-memray/issues/33) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 🎉 Merged PR [#2348](https://github.com/pypa/virtualenv/pull/2348) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2348](https://github.com/pypa/virtualenv/pull/2348) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2429](https://github.com/tox-dev/tox/issues/2429) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#34](https://github.com/bloomberg/pytest-memray/issues/34) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+3. 🗣 Commented on [#2431](https://github.com/tox-dev/tox/issues/2431) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#33](https://github.com/bloomberg/pytest-memray/issues/33) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🎉 Merged PR [#2348](https://github.com/pypa/virtualenv/pull/2348) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
