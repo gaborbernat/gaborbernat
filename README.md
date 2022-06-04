@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2422](https://github.com/tox-dev/tox/issues/2422) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2433](https://github.com/tox-dev/tox/issues/2433) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2428](https://github.com/tox-dev/tox/issues/2428) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2428](https://github.com/tox-dev/tox/issues/2428) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#232](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/232) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❌ Closed PR [#2339](https://github.com/pypa/virtualenv/pull/2339) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2339](https://github.com/pypa/virtualenv/issues/2339) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2422](https://github.com/tox-dev/tox/issues/2422) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2433](https://github.com/tox-dev/tox/issues/2433) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2428](https://github.com/tox-dev/tox/issues/2428) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
