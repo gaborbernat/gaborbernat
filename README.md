@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#685](https://github.com/luizdepra/hugo-coder/issues/685) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-2. ❗️ Closed issue [#685](https://github.com/luizdepra/hugo-coder/issues/685) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-3. ❗️ Opened issue [#685](https://github.com/luizdepra/hugo-coder/issues/685) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-4. 🎉 Merged PR [#2](https://github.com/gaborbernat/bernat-tech/pull/2) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-5. ❌ Closed PR [#2339](https://github.com/pypa/virtualenv/pull/2339) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2428](https://github.com/tox-dev/tox/issues/2428) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#685](https://github.com/luizdepra/hugo-coder/issues/685) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+3. ❗️ Closed issue [#685](https://github.com/luizdepra/hugo-coder/issues/685) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+4. ❗️ Opened issue [#685](https://github.com/luizdepra/hugo-coder/issues/685) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+5. 🎉 Merged PR [#2](https://github.com/gaborbernat/bernat-tech/pull/2) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
