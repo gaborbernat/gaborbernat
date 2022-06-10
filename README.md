@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#235](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/235) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#235](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/235) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#35](https://github.com/bloomberg/pytest-memray/pull/35) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🎉 Merged PR [#36](https://github.com/bloomberg/pytest-memray/pull/36) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-5. 💪 Opened PR [#36](https://github.com/bloomberg/pytest-memray/pull/36) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+1. 💪 Opened PR [#2354](https://github.com/pypa/virtualenv/pull/2354) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#235](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/235) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 💪 Opened PR [#235](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/235) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#35](https://github.com/bloomberg/pytest-memray/pull/35) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🎉 Merged PR [#36](https://github.com/bloomberg/pytest-memray/pull/36) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
