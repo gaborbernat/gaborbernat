@@ -1,4 +1,4 @@
-# Hi I'm Bernát Gábor (from 🇭🇺+🇷🇴), living in 🇬🇧
+# Hi I'm Bernát Gábor (from 🇭🇺+🇷🇴+🇬🇧), living in 🇺🇸
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/gaborbernat&style=flat-square)](https://github.com/sponsors/gaborbernat)
 [![Twitch Status](https://img.shields.io/twitch/status/gaborbernat?style=flat-square)](https://www.twitch.tv/gaborbernat)
