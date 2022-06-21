@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#149](https://github.com/tox-dev/py-filelock/pull/149) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🎉 Merged PR [#17](https://github.com/tox-dev/azure-pipelines-template/pull/17) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-3. ❌ Closed PR [#2354](https://github.com/pypa/virtualenv/pull/2354) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2356](https://github.com/pypa/virtualenv/pull/2356) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#25](https://github.com/tox-dev/pyproject-fmt/pull/25) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. ❌ Closed PR [#26](https://github.com/tox-dev/pyproject-fmt/pull/26) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🎉 Merged PR [#149](https://github.com/tox-dev/py-filelock/pull/149) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#17](https://github.com/tox-dev/azure-pipelines-template/pull/17) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
+5. ❌ Closed PR [#2354](https://github.com/pypa/virtualenv/pull/2354) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
