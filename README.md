@@ -8,7 +8,7 @@
 [![MAIL Badge](https://img.shields.io/badge/-gaborjbernat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaborjbernat@gmail.com)](mailto:gaborjbernat@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@gabor__bernat-845EC2?style=flat-square&labelColor=white&logo=Instagram&link=https://instagram.com/gabor_bernat/)](https://instagram.com/gabor_bernat)
 
-I work at [Bloomberg London](https://www.techatbloomberg.com/) on the data ingestion pipeline. I am the maintainer of
+I work at [Bloomberg US - Los Angeles](https://www.techatbloomberg.com/) on the data ingestion pipeline. I am the maintainer of
 the following [Python](https://www.python.org/) [open-source](https://en.wikipedia.org/wiki/Open_source) projects (the
 ones in bold I am the primary author):
 
