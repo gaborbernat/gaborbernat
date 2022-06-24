@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#243](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/243) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#859](https://github.com/pypa/pipx/pull/859) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#858](https://github.com/pypa/pipx/pull/858) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#242](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/242) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#241](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/241) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#46](https://github.com/tox-dev/sphinx-argparse-cli/pull/46) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#243](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/243) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#859](https://github.com/pypa/pipx/pull/859) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#858](https://github.com/pypa/pipx/pull/858) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#242](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/242) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
