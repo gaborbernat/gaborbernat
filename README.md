@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2363](https://github.com/pypa/virtualenv/issues/2363) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#863](https://github.com/pypa/pipx/pull/863) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#2364](https://github.com/pypa/virtualenv/pull/2364) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#75](https://github.com/bloomberg/attrs-strict/issues/75) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. 🎉 Merged PR [#2362](https://github.com/pypa/virtualenv/pull/2362) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2353](https://github.com/pypa/virtualenv/issues/2353) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#864](https://github.com/pypa/pipx/pull/864) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❌ Closed PR [#127](https://github.com/tox-dev/tox-conda/pull/127) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+4. 🎉 Merged PR [#130](https://github.com/tox-dev/tox-conda/pull/130) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+5. 🎉 Merged PR [#11](https://github.com/tox-dev/pyproject-api/pull/11) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
