@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#46](https://github.com/tox-dev/sphinx-argparse-cli/pull/46) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🎉 Merged PR [#243](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/243) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#859](https://github.com/pypa/pipx/pull/859) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#858](https://github.com/pypa/pipx/pull/858) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#242](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/242) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#2362](https://github.com/pypa/virtualenv/pull/2362) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#236](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/236) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#75](https://github.com/bloomberg/attrs-strict/issues/75) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+4. 🎉 Merged PR [#76](https://github.com/bloomberg/attrs-strict/pull/76) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+5. 🎉 Merged PR [#45](https://github.com/tox-dev/sphinx-argparse-cli/pull/45) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
