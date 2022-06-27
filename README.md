@@ -109,9 +109,9 @@ ones in bold I am the primary author):
 
 1. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#88](https://github.com/platformdirs/platformdirs/pull/88) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#489](https://github.com/pypa/build/pull/489) in [pypa/build](https://github.com/pypa/build)
-5. ❗️ Closed issue [#27](https://github.com/tox-dev/pyproject-fmt/issues/27) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#88](https://github.com/platformdirs/platformdirs/pull/88) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🎉 Merged PR [#489](https://github.com/pypa/build/pull/489) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
