@@ -107,9 +107,9 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#491](https://github.com/pypa/build/pull/491) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#490](https://github.com/pypa/build/pull/490) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#327](https://github.com/bloomberg/ipydatagrid/pull/327) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🎉 Merged PR [#491](https://github.com/pypa/build/pull/491) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#490](https://github.com/pypa/build/pull/490) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
