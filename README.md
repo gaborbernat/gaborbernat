@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#155](https://github.com/tox-dev/py-filelock/pull/155) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🎉 Merged PR [#326](https://github.com/bloomberg/ipydatagrid/pull/326) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🎉 Merged PR [#328](https://github.com/bloomberg/ipydatagrid/pull/328) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 🎉 Merged PR [#329](https://github.com/bloomberg/ipydatagrid/pull/329) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🎉 Merged PR [#330](https://github.com/bloomberg/ipydatagrid/pull/330) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+1. 🗣 Commented on [#5](https://github.com/gaborbernat/pypi_changes/issues/5) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. 🎉 Merged PR [#5](https://github.com/gaborbernat/pypi_changes/pull/5) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+3. 🎉 Merged PR [#155](https://github.com/tox-dev/py-filelock/pull/155) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#326](https://github.com/bloomberg/ipydatagrid/pull/326) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🎉 Merged PR [#328](https://github.com/bloomberg/ipydatagrid/pull/328) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
