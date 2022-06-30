@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2449](https://github.com/tox-dev/tox/issues/2449) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2451](https://github.com/tox-dev/tox/pull/2451) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#2451](https://github.com/tox-dev/tox/pull/2451) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❌ Closed PR [#2450](https://github.com/tox-dev/tox/pull/2450) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2450](https://github.com/tox-dev/tox/pull/2450) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#22](https://github.com/nokia/PyVenvManage/issues/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+2. 🎉 Merged PR [#331](https://github.com/bloomberg/ipydatagrid/pull/331) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+3. 🗣 Commented on [#2449](https://github.com/tox-dev/tox/issues/2449) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2451](https://github.com/tox-dev/tox/pull/2451) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#2451](https://github.com/tox-dev/tox/pull/2451) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
