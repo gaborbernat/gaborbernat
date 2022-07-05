@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#35](https://github.com/mattsb42-meta/pipx-in-pipx/issues/35) in [mattsb42-meta/pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx)
-2. 🎉 Merged PR [#244](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/244) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#2374](https://github.com/pypa/virtualenv/pull/2374) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#22](https://github.com/nokia/PyVenvManage/issues/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-5. 🎉 Merged PR [#331](https://github.com/bloomberg/ipydatagrid/pull/331) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+1. 🗣 Commented on [#2456](https://github.com/tox-dev/tox/issues/2456) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#35](https://github.com/mattsb42-meta/pipx-in-pipx/issues/35) in [mattsb42-meta/pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx)
+3. 🎉 Merged PR [#244](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/244) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#2374](https://github.com/pypa/virtualenv/pull/2374) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#22](https://github.com/nokia/PyVenvManage/issues/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
