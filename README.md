@@ -107,10 +107,10 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❌ Closed PR [#2456](https://github.com/tox-dev/tox/pull/2456) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2456](https://github.com/tox-dev/tox/issues/2456) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#35](https://github.com/mattsb42-meta/pipx-in-pipx/issues/35) in [mattsb42-meta/pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx)
+1. 💪 Opened PR [#2703](https://github.com/python/peps/pull/2703) in [python/peps](https://github.com/python/peps)
+2. ❗️ Opened issue [#330](https://github.com/pypa/hatch/issues/330) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❌ Closed PR [#2456](https://github.com/tox-dev/tox/pull/2456) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#2456](https://github.com/tox-dev/tox/issues/2456) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
