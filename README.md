@@ -108,10 +108,10 @@ ones in bold I am the primary author):
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2703](https://github.com/python/peps/issues/2703) in [python/peps](https://github.com/python/peps)
-2. 💪 Opened PR [#2704](https://github.com/python/peps/pull/2704) in [python/peps](https://github.com/python/peps)
-3. 💪 Opened PR [#2703](https://github.com/python/peps/pull/2703) in [python/peps](https://github.com/python/peps)
-4. ❗️ Opened issue [#330](https://github.com/pypa/hatch/issues/330) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❌ Closed PR [#2704](https://github.com/python/peps/pull/2704) in [python/peps](https://github.com/python/peps)
+3. 🗣 Commented on [#2704](https://github.com/python/peps/issues/2704) in [python/peps](https://github.com/python/peps)
+4. 🗣 Commented on [#2703](https://github.com/python/peps/issues/2703) in [python/peps](https://github.com/python/peps)
+5. 💪 Opened PR [#2704](https://github.com/python/peps/pull/2704) in [python/peps](https://github.com/python/peps)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
