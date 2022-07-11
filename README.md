@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2703](https://github.com/python/peps/issues/2703) in [python/peps](https://github.com/python/peps)
-2. ❌ Closed PR [#2704](https://github.com/python/peps/pull/2704) in [python/peps](https://github.com/python/peps)
-3. 🗣 Commented on [#2704](https://github.com/python/peps/issues/2704) in [python/peps](https://github.com/python/peps)
-4. 🗣 Commented on [#2703](https://github.com/python/peps/issues/2703) in [python/peps](https://github.com/python/peps)
-5. 💪 Opened PR [#2704](https://github.com/python/peps/pull/2704) in [python/peps](https://github.com/python/peps)
+1. 🎉 Merged PR [#24](https://github.com/tox-dev/devpi-process/pull/24) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 🎉 Merged PR [#14](https://github.com/tox-dev/pyproject-api/pull/14) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. 🎉 Merged PR [#156](https://github.com/tox-dev/py-filelock/pull/156) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#51](https://github.com/tox-dev/sphinx-argparse-cli/pull/51) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#28](https://github.com/tox-dev/pyproject-fmt/pull/28) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
