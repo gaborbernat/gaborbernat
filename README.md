@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/tox-dev/devpi-process/pull/24) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. 🎉 Merged PR [#14](https://github.com/tox-dev/pyproject-api/pull/14) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#156](https://github.com/tox-dev/py-filelock/pull/156) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#51](https://github.com/tox-dev/sphinx-argparse-cli/pull/51) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#28](https://github.com/tox-dev/pyproject-fmt/pull/28) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#496](https://github.com/pypa/build/pull/496) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#154](https://github.com/bloomberg/memray/pull/154) in [bloomberg/memray](https://github.com/bloomberg/memray)
+3. 🎉 Merged PR [#89](https://github.com/platformdirs/platformdirs/pull/89) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#24](https://github.com/tox-dev/devpi-process/pull/24) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#14](https://github.com/tox-dev/pyproject-api/pull/14) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
