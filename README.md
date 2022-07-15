@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#153](https://github.com/bloomberg/memray/pull/153) in [bloomberg/memray](https://github.com/bloomberg/memray)
-2. ❗️ Closed issue [#132](https://github.com/bloomberg/memray/issues/132) in [bloomberg/memray](https://github.com/bloomberg/memray)
-3. ❌ Closed PR [#2703](https://github.com/python/peps/pull/2703) in [python/peps](https://github.com/python/peps)
-4. 🗣 Commented on [#2703](https://github.com/python/peps/issues/2703) in [python/peps](https://github.com/python/peps)
-5. 🎉 Merged PR [#11](https://github.com/conda-forge/platformdirs-feedstock/pull/11) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+1. 🗣 Commented on [#14](https://github.com/ofek/extensionlib/issues/14) in [ofek/extensionlib](https://github.com/ofek/extensionlib)
+2. 🎉 Merged PR [#153](https://github.com/bloomberg/memray/pull/153) in [bloomberg/memray](https://github.com/bloomberg/memray)
+3. ❗️ Closed issue [#132](https://github.com/bloomberg/memray/issues/132) in [bloomberg/memray](https://github.com/bloomberg/memray)
+4. ❌ Closed PR [#2703](https://github.com/python/peps/pull/2703) in [python/peps](https://github.com/python/peps)
+5. 🗣 Commented on [#2703](https://github.com/python/peps/issues/2703) in [python/peps](https://github.com/python/peps)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
