@@ -108,10 +108,10 @@ ones in bold I am the primary author):
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2378](https://github.com/pypa/virtualenv/issues/2378) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#14](https://github.com/ofek/extensionlib/issues/14) in [ofek/extensionlib](https://github.com/ofek/extensionlib)
-5. 🎉 Merged PR [#153](https://github.com/bloomberg/memray/pull/153) in [bloomberg/memray](https://github.com/bloomberg/memray)
+2. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2367](https://github.com/pypa/virtualenv/issues/2367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2378](https://github.com/pypa/virtualenv/issues/2378) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#14](https://github.com/ofek/extensionlib/issues/14) in [ofek/extensionlib](https://github.com/ofek/extensionlib)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
