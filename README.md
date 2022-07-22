@@ -107,10 +107,10 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#237](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/237) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❗️ Closed issue [#39](https://github.com/bloomberg/pytest-memray/issues/39) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 🗣 Commented on [#39](https://github.com/bloomberg/pytest-memray/issues/39) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#2381](https://github.com/pypa/virtualenv/pull/2381) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#237](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/237) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❗️ Closed issue [#39](https://github.com/bloomberg/pytest-memray/issues/39) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+4. 🗣 Commented on [#39](https://github.com/bloomberg/pytest-memray/issues/39) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 5. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
