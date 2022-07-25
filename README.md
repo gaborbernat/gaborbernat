@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2375](https://github.com/pypa/virtualenv/pull/2375) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2377](https://github.com/pypa/virtualenv/pull/2377) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Closed issue [#2378](https://github.com/pypa/virtualenv/issues/2378) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2379](https://github.com/pypa/virtualenv/pull/2379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2373](https://github.com/pypa/virtualenv/pull/2373) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2382](https://github.com/pypa/virtualenv/pull/2382) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2375](https://github.com/pypa/virtualenv/pull/2375) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2377](https://github.com/pypa/virtualenv/pull/2377) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#2378](https://github.com/pypa/virtualenv/issues/2378) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2379](https://github.com/pypa/virtualenv/pull/2379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
