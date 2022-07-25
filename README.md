@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#91](https://github.com/platformdirs/platformdirs/pull/91) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. ❌ Closed PR [#2385](https://github.com/pypa/virtualenv/pull/2385) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#138](https://github.com/tox-dev/tox-conda/pull/138) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-4. 🎉 Merged PR [#17](https://github.com/gaborbernat/pypi_changes/pull/17) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-5. 🎉 Merged PR [#37](https://github.com/tox-dev/tox-via-docker/pull/37) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+1. ❌ Closed PR [#2387](https://github.com/pypa/virtualenv/pull/2387) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2387](https://github.com/pypa/virtualenv/issues/2387) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#91](https://github.com/platformdirs/platformdirs/pull/91) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. ❌ Closed PR [#2385](https://github.com/pypa/virtualenv/pull/2385) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#138](https://github.com/tox-dev/tox-conda/pull/138) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
