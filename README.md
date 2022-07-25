@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2463](https://github.com/tox-dev/tox/issues/2463) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#2384](https://github.com/pypa/virtualenv/pull/2384) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2372](https://github.com/pypa/virtualenv/issues/2372) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2383](https://github.com/pypa/virtualenv/pull/2383) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2383](https://github.com/pypa/virtualenv/pull/2383) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#17](https://github.com/gaborbernat/pypi_changes/pull/17) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. 🎉 Merged PR [#37](https://github.com/tox-dev/tox-via-docker/pull/37) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+3. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-gh/pull/16) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🎉 Merged PR [#52](https://github.com/tox-dev/sphinx-argparse-cli/pull/52) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#15](https://github.com/tox-dev/pyproject-api/pull/15) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
