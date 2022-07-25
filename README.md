@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#138](https://github.com/tox-dev/tox-conda/pull/138) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
-2. 🎉 Merged PR [#17](https://github.com/gaborbernat/pypi_changes/pull/17) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-3. 🎉 Merged PR [#37](https://github.com/tox-dev/tox-via-docker/pull/37) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-4. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-gh/pull/16) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#52](https://github.com/tox-dev/sphinx-argparse-cli/pull/52) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. ❌ Closed PR [#2385](https://github.com/pypa/virtualenv/pull/2385) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#138](https://github.com/tox-dev/tox-conda/pull/138) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. 🎉 Merged PR [#17](https://github.com/gaborbernat/pypi_changes/pull/17) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. 🎉 Merged PR [#37](https://github.com/tox-dev/tox-via-docker/pull/37) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#16](https://github.com/tox-dev/tox-gh/pull/16) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
