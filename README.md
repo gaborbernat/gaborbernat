@@ -107,11 +107,11 @@ ones in bold I am the primary author):
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6600](https://github.com/aio-libs/aiohttp/issues/6600) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-2. 🎉 Merged PR [#247](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/247) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#2392](https://github.com/pypa/virtualenv/pull/2392) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2392](https://github.com/pypa/virtualenv/pull/2392) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2391](https://github.com/pypa/virtualenv/pull/2391) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#6600](https://github.com/aio-libs/aiohttp/issues/6600) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+4. 🎉 Merged PR [#247](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/247) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#2392](https://github.com/pypa/virtualenv/pull/2392) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#15](https://github.com/platformdirs/platformdirs/issues/15) in
    [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. ❌ Closed PR [#15](https://github.com/platformdirs/platformdirs/pull/15) in
