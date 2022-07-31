@@ -94,3 +94,5 @@ For the following projects (while I do hold the write commit bit) I only help wi
 
 You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
+
+<!--START_SECTION:activity-->
