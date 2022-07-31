@@ -96,9 +96,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❌ Closed PR [#22](https://github.com/nokia/PyVenvManage/pull/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. ❗️ Closed issue [#223](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/223) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#248](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/248) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 3. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#6600](https://github.com/aio-libs/aiohttp/issues/6600) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+4. ❌ Closed PR [#22](https://github.com/nokia/PyVenvManage/pull/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+5. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
