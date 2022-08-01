@@ -96,9 +96,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#223](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/223) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#248](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/248) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❌ Closed PR [#22](https://github.com/nokia/PyVenvManage/pull/22) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🎉 Merged PR [#38](https://github.com/tox-dev/tox-via-docker/pull/38) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+2. 🎉 Merged PR [#36](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/36) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+3. ❗️ Closed issue [#223](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/223) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#248](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/248) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 5. 🗣 Commented on [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
