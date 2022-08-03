@@ -96,9 +96,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/sumerc/yappi/pull/108) in [sumerc/yappi](https://github.com/sumerc/yappi)
-2. 🗣 Commented on [#106](https://github.com/sumerc/yappi/issues/106) in [sumerc/yappi](https://github.com/sumerc/yappi)
-3. 🎉 Merged PR [#18](https://github.com/gaborbernat/pypi_changes/pull/18) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 🗣 Commented on [#18](https://github.com/sumerc/yappi/issues/18) in [sumerc/yappi](https://github.com/sumerc/yappi)
-5. 🎉 Merged PR [#27](https://github.com/tox-dev/devpi-process/pull/27) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 💪 Opened PR [#28](https://github.com/tox-dev/devpi-process/pull/28) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 💪 Opened PR [#78](https://github.com/bloomberg/attrs-strict/pull/78) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 💪 Opened PR [#160](https://github.com/tox-dev/py-filelock/pull/160) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 💪 Opened PR [#95](https://github.com/platformdirs/platformdirs/pull/95) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 💪 Opened PR [#108](https://github.com/sumerc/yappi/pull/108) in [sumerc/yappi](https://github.com/sumerc/yappi)
 <!--END_SECTION:activity-->
