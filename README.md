@@ -96,9 +96,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/sumerc/yappi/issues/106) in [sumerc/yappi](https://github.com/sumerc/yappi)
-2. 🎉 Merged PR [#1](https://github.com/gaborbernat/bump-deps-index/pull/1) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 💪 Opened PR [#1](https://github.com/gaborbernat/bump-deps-index/pull/1) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🎉 Merged PR [#249](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/249) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#53](https://github.com/tox-dev/sphinx-argparse-cli/pull/53) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🗣 Commented on [#106](https://github.com/sumerc/yappi/issues/106) in [sumerc/yappi](https://github.com/sumerc/yappi)
+3. 🎉 Merged PR [#1](https://github.com/gaborbernat/bump-deps-index/pull/1) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 💪 Opened PR [#1](https://github.com/gaborbernat/bump-deps-index/pull/1) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🎉 Merged PR [#249](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/249) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
