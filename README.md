@@ -96,9 +96,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/platformdirs/platformdirs/pull/95) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 💪 Opened PR [#17](https://github.com/tox-dev/pyproject-api/pull/17) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. ❌ Closed PR [#16](https://github.com/tox-dev/pyproject-api/pull/16) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#160](https://github.com/tox-dev/py-filelock/pull/160) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 💪 Opened PR [#28](https://github.com/tox-dev/devpi-process/pull/28) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. ❌ Closed PR [#26](https://github.com/tox-dev/devpi-process/pull/26) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 🎉 Merged PR [#78](https://github.com/bloomberg/attrs-strict/pull/78) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 🎉 Merged PR [#17](https://github.com/tox-dev/pyproject-api/pull/17) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#95](https://github.com/platformdirs/platformdirs/pull/95) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 💪 Opened PR [#17](https://github.com/tox-dev/pyproject-api/pull/17) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
