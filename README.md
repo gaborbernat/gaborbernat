@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2396](https://github.com/pypa/virtualenv/pull/2396) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2395](https://github.com/pypa/virtualenv/pull/2395) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#44](https://github.com/pytest-dev/pytest-print/pull/44) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🎉 Merged PR [#79](https://github.com/bloomberg/attrs-strict/pull/79) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. ❗️ Opened issue [#170](https://github.com/bloomberg/memray/issues/170) in [bloomberg/memray](https://github.com/bloomberg/memray)
+1. 🗣 Commented on [#2397](https://github.com/pypa/virtualenv/issues/2397) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2396](https://github.com/pypa/virtualenv/pull/2396) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2395](https://github.com/pypa/virtualenv/pull/2395) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#44](https://github.com/pytest-dev/pytest-print/pull/44) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#79](https://github.com/bloomberg/attrs-strict/pull/79) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
