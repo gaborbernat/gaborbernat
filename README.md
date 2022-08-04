@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#54](https://github.com/tox-dev/sphinx-argparse-cli/pull/54) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🎉 Merged PR [#102](https://github.com/tox-dev/tox-ini-fmt/pull/102) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 💪 Opened PR [#102](https://github.com/tox-dev/tox-ini-fmt/pull/102) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. ❌ Closed PR [#101](https://github.com/tox-dev/tox-ini-fmt/pull/101) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. ❌ Closed PR [#2372](https://github.com/pypa/virtualenv/pull/2372) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#2396](https://github.com/pypa/virtualenv/pull/2396) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2395](https://github.com/pypa/virtualenv/pull/2395) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#44](https://github.com/pytest-dev/pytest-print/pull/44) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#79](https://github.com/bloomberg/attrs-strict/pull/79) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+5. ❗️ Opened issue [#170](https://github.com/bloomberg/memray/issues/170) in [bloomberg/memray](https://github.com/bloomberg/memray)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
