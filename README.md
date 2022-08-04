@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2372](https://github.com/pypa/virtualenv/pull/2372) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2372](https://github.com/pypa/virtualenv/issues/2372) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❌ Closed PR [#2393](https://github.com/pypa/virtualenv/pull/2393) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2395](https://github.com/pypa/virtualenv/pull/2395) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2394](https://github.com/pypa/virtualenv/pull/2394) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#54](https://github.com/tox-dev/sphinx-argparse-cli/pull/54) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#102](https://github.com/tox-dev/tox-ini-fmt/pull/102) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 💪 Opened PR [#102](https://github.com/tox-dev/tox-ini-fmt/pull/102) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. ❌ Closed PR [#101](https://github.com/tox-dev/tox-ini-fmt/pull/101) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. ❌ Closed PR [#2372](https://github.com/pypa/virtualenv/pull/2372) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
