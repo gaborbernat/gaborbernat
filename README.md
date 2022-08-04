@@ -96,9 +96,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2394](https://github.com/pypa/virtualenv/pull/2394) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🗣 Commented on [#106](https://github.com/sumerc/yappi/issues/106) in [sumerc/yappi](https://github.com/sumerc/yappi)
-5. 🎉 Merged PR [#1](https://github.com/gaborbernat/bump-deps-index/pull/1) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🎉 Merged PR [#2394](https://github.com/pypa/virtualenv/pull/2394) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2394](https://github.com/pypa/virtualenv/pull/2394) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🗣 Commented on [#106](https://github.com/sumerc/yappi/issues/106) in [sumerc/yappi](https://github.com/sumerc/yappi)
 <!--END_SECTION:activity-->
