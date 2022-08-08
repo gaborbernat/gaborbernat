@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2476](https://github.com/tox-dev/tox/issues/2476) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#161](https://github.com/tox-dev/py-filelock/issues/161) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Closed issue [#161](https://github.com/tox-dev/py-filelock/issues/161) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. ❗️ Closed issue [#2473](https://github.com/tox-dev/tox/issues/2473) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2473](https://github.com/tox-dev/tox/issues/2473) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#44](https://github.com/pytest-dev/pytest-print/pull/44) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. ❗️ Closed issue [#2474](https://github.com/tox-dev/tox/issues/2474) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2475](https://github.com/tox-dev/tox/pull/2475) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2476](https://github.com/tox-dev/tox/issues/2476) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#161](https://github.com/tox-dev/py-filelock/issues/161) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
