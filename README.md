@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#56](https://github.com/tox-dev/sphinx-argparse-cli/pull/56) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🎉 Merged PR [#251](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/251) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#39](https://github.com/tox-dev/tox-via-docker/pull/39) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-4. 🗣 Commented on [#56](https://github.com/tox-dev/sphinx-argparse-cli/issues/56) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#37](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/37) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+1. 🗣 Commented on [#158](https://github.com/tox-dev/py-filelock/issues/158) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🎉 Merged PR [#56](https://github.com/tox-dev/sphinx-argparse-cli/pull/56) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🎉 Merged PR [#251](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/251) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#39](https://github.com/tox-dev/tox-via-docker/pull/39) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🗣 Commented on [#56](https://github.com/tox-dev/sphinx-argparse-cli/issues/56) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
