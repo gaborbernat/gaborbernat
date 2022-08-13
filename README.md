@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#33](https://github.com/tox-dev/pyproject-fmt/pull/33) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. ❌ Closed PR [#9170](https://github.com/pytest-dev/pytest/pull/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. 🗣 Commented on [#9170](https://github.com/pytest-dev/pytest/issues/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-4. 🗣 Commented on [#2401](https://github.com/pypa/virtualenv/issues/2401) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#138](https://github.com/bloomberg/memray/issues/138) in [bloomberg/memray](https://github.com/bloomberg/memray)
+1. 🎉 Merged PR [#34](https://github.com/tox-dev/pyproject-fmt/pull/34) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🎉 Merged PR [#35](https://github.com/tox-dev/pyproject-fmt/pull/35) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. ❌ Closed PR [#17](https://github.com/tox-dev/pyproject-fmt/pull/17) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#17](https://github.com/tox-dev/pyproject-fmt/issues/17) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. ❌ Closed PR [#30](https://github.com/tox-dev/pyproject-fmt/pull/30) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
