@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2480](https://github.com/tox-dev/tox/issues/2480) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2480](https://github.com/tox-dev/tox/issues/2480) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#2479](https://github.com/tox-dev/tox/issues/2479) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2479](https://github.com/tox-dev/tox/issues/2479) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 💪 Opened PR [#33](https://github.com/tox-dev/pyproject-fmt/pull/33) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. ❌ Closed PR [#9170](https://github.com/pytest-dev/pytest/pull/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. 🗣 Commented on [#9170](https://github.com/pytest-dev/pytest/issues/9170) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+4. 🗣 Commented on [#2401](https://github.com/pypa/virtualenv/issues/2401) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#138](https://github.com/bloomberg/memray/issues/138) in [bloomberg/memray](https://github.com/bloomberg/memray)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
