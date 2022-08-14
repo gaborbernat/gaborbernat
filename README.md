@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/gaborbernat/bump-deps-index/pull/4) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 💪 Opened PR [#4](https://github.com/gaborbernat/bump-deps-index/pull/4) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🗣 Commented on [#32](https://github.com/tox-dev/pyproject-fmt/issues/32) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. ❗️ Closed issue [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#36](https://github.com/tox-dev/pyproject-fmt/issues/36) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. ❗️ Reopened issue [#36](https://github.com/tox-dev/pyproject-fmt/issues/36) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. ❗️ Closed issue [#36](https://github.com/tox-dev/pyproject-fmt/issues/36) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#36](https://github.com/tox-dev/pyproject-fmt/issues/36) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#4](https://github.com/gaborbernat/bump-deps-index/pull/4) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
