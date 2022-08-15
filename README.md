@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/ambv/retype/issues/8) in [ambv/retype](https://github.com/ambv/retype)
-2. ❗️ Closed issue [#8](https://github.com/ambv/retype/issues/8) in [ambv/retype](https://github.com/ambv/retype)
-3. 🗣 Commented on [#11](https://github.com/ambv/retype/issues/11) in [ambv/retype](https://github.com/ambv/retype)
-4. ❗️ Closed issue [#11](https://github.com/ambv/retype/issues/11) in [ambv/retype](https://github.com/ambv/retype)
-5. 🗣 Commented on [#20](https://github.com/ambv/retype/issues/20) in [ambv/retype](https://github.com/ambv/retype)
+1. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. ❌ Closed PR [#2403](https://github.com/pypa/virtualenv/pull/2403) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2403](https://github.com/pypa/virtualenv/issues/2403) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#8](https://github.com/ambv/retype/issues/8) in [ambv/retype](https://github.com/ambv/retype)
+5. ❗️ Closed issue [#8](https://github.com/ambv/retype/issues/8) in [ambv/retype](https://github.com/ambv/retype)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
