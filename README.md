@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-2. 🎉 Merged PR [#44](https://github.com/pypa/get-virtualenv/pull/44) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-3. ❗️ Opened issue [#421](https://github.com/pypa/hatch/issues/421) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#44](https://github.com/pypa/get-virtualenv/issues/44) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-5. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🗣 Commented on [#157](https://github.com/Dygmalab/Bazecor/issues/157) in [Dygmalab/Bazecor](https://github.com/Dygmalab/Bazecor)
+2. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+3. 🎉 Merged PR [#44](https://github.com/pypa/get-virtualenv/pull/44) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+4. ❗️ Opened issue [#421](https://github.com/pypa/hatch/issues/421) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 🗣 Commented on [#44](https://github.com/pypa/get-virtualenv/issues/44) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
