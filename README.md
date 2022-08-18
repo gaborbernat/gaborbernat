@@ -102,10 +102,10 @@ You can find my Curriculum Vitae (or résumé) on the following link
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. ❗️ Closed issue [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🗣 Commented on [#157](https://github.com/Dygmalab/Bazecor/issues/157) in [Dygmalab/Bazecor](https://github.com/Dygmalab/Bazecor)
-4. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-5. 🎉 Merged PR [#44](https://github.com/pypa/get-virtualenv/pull/44) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. 🗣 Commented on [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Closed issue [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🗣 Commented on [#157](https://github.com/Dygmalab/Bazecor/issues/157) in [Dygmalab/Bazecor](https://github.com/Dygmalab/Bazecor)
+5. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
