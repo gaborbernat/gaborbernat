@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Closed issue [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🗣 Commented on [#157](https://github.com/Dygmalab/Bazecor/issues/157) in [Dygmalab/Bazecor](https://github.com/Dygmalab/Bazecor)
-5. 🗣 Commented on [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. ❗️ Opened issue [#2172](https://github.com/pypa/pypi-support/issues/2172) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
+2. 🗣 Commented on [#16](https://github.com/MobileDynasty/pytest-env/issues/16) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
+3. 🗣 Commented on [#16](https://github.com/MobileDynasty/pytest-env/issues/16) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
+4. 🗣 Commented on [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#163](https://github.com/tox-dev/py-filelock/issues/163) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
