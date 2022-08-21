@@ -102,10 +102,10 @@ You can find my Curriculum Vitae (or résumé) on the following link
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#918](https://github.com/devpi/devpi/issues/918) in [devpi/devpi](https://github.com/devpi/devpi)
-2. ❗️ Closed issue [#918](https://github.com/devpi/devpi/issues/918) in [devpi/devpi](https://github.com/devpi/devpi)
-3. ❌ Closed PR [#2421](https://github.com/tox-dev/tox/pull/2421) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2421](https://github.com/tox-dev/tox/issues/2421) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2476](https://github.com/tox-dev/tox/issues/2476) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#918](https://github.com/devpi/devpi/issues/918) in [devpi/devpi](https://github.com/devpi/devpi)
+3. ❗️ Closed issue [#918](https://github.com/devpi/devpi/issues/918) in [devpi/devpi](https://github.com/devpi/devpi)
+4. ❌ Closed PR [#2421](https://github.com/tox-dev/tox/pull/2421) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2421](https://github.com/tox-dev/tox/issues/2421) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
