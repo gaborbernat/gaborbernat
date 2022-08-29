@@ -102,10 +102,10 @@ You can find my Curriculum Vitae (or résumé) on the following link
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#2233](https://github.com/pypa/virtualenv/issues/2233) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❗️ Closed issue [#2462](https://github.com/tox-dev/tox/issues/2462) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2463](https://github.com/tox-dev/tox/pull/2463) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#2233](https://github.com/pypa/virtualenv/issues/2233) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❗️ Closed issue [#2462](https://github.com/tox-dev/tox/issues/2462) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
