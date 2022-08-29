@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2473](https://github.com/tox-dev/tox/issues/2473) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#97](https://github.com/platformdirs/platformdirs/issues/97) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#2463](https://github.com/tox-dev/tox/issues/2463) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#6](https://github.com/gaborbernat/bump-deps-index/pull/6) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#2473](https://github.com/tox-dev/tox/issues/2473) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#97](https://github.com/platformdirs/platformdirs/issues/97) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#2463](https://github.com/tox-dev/tox/issues/2463) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
