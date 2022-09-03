@@ -101,9 +101,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#164](https://github.com/naiquevin/pipdeptree/issues/164) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
-2. 🗣 Commented on [#2409](https://github.com/pypa/virtualenv/issues/2409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#164](https://github.com/naiquevin/pipdeptree/issues/164) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
+1. 🗣 Commented on [#164](https://github.com/tox-dev/pipdeptree/issues/164) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#164](https://github.com/naiquevin/pipdeptree/issues/164) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
+3. 🗣 Commented on [#2409](https://github.com/pypa/virtualenv/issues/2409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🗣 Commented on [#164](https://github.com/naiquevin/pipdeptree/issues/164) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
 5. 🗣 Commented on [#164](https://github.com/naiquevin/pipdeptree/issues/164) in [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
