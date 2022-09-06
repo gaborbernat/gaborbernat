@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2486](https://github.com/tox-dev/tox/issues/2486) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#144](https://github.com/tox-dev/pipdeptree/issues/144) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#144](https://github.com/tox-dev/pipdeptree/issues/144) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#146](https://github.com/tox-dev/pipdeptree/issues/146) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. ❗️ Closed issue [#146](https://github.com/tox-dev/pipdeptree/issues/146) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#99](https://github.com/platformdirs/platformdirs/pull/99) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#2410](https://github.com/pypa/virtualenv/pull/2410) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#7](https://github.com/gaborbernat/bump-deps-index/pull/7) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#20](https://github.com/gaborbernat/pypi_changes/pull/20) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 🎉 Merged PR [#40](https://github.com/tox-dev/tox-via-docker/pull/40) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
