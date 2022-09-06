@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#163](https://github.com/tox-dev/pipdeptree/issues/163) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. ❗️ Closed issue [#166](https://github.com/tox-dev/pipdeptree/issues/166) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#166](https://github.com/tox-dev/pipdeptree/issues/166) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ❗️ Closed issue [#168](https://github.com/tox-dev/pipdeptree/issues/168) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#168](https://github.com/tox-dev/pipdeptree/issues/168) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ❗️ Reopened issue [#130](https://github.com/tox-dev/pipdeptree/issues/130) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. ❗️ Closed issue [#130](https://github.com/tox-dev/pipdeptree/issues/130) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#130](https://github.com/tox-dev/pipdeptree/issues/130) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ❗️ Reopened issue [#130](https://github.com/tox-dev/pipdeptree/issues/130) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ❗️ Closed issue [#164](https://github.com/tox-dev/pipdeptree/issues/164) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
