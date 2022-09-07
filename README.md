@@ -101,9 +101,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2489](https://github.com/tox-dev/tox/pull/2489) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2489](https://github.com/tox-dev/tox/issues/2489) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#97](https://github.com/platformdirs/platformdirs/issues/97) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❌ Reopened PR [#2489](https://github.com/tox-dev/tox/pull/2489) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#2489](https://github.com/tox-dev/tox/pull/2489) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2489](https://github.com/tox-dev/tox/issues/2489) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#97](https://github.com/platformdirs/platformdirs/issues/97) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. 🗣 Commented on [#97](https://github.com/platformdirs/platformdirs/issues/97) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
