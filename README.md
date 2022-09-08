@@ -102,10 +102,10 @@ You can find my Curriculum Vitae (or résumé) on the following link
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2487](https://github.com/tox-dev/tox/issues/2487) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#167](https://github.com/tox-dev/py-filelock/issues/167) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🗣 Commented on [#2172](https://github.com/pypa/pypi-support/issues/2172) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
-4. 💪 Opened PR [#2492](https://github.com/tox-dev/tox/pull/2492) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2491](https://github.com/tox-dev/tox/pull/2491) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2487](https://github.com/tox-dev/tox/issues/2487) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2487](https://github.com/tox-dev/tox/issues/2487) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#167](https://github.com/tox-dev/py-filelock/issues/167) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#2172](https://github.com/pypa/pypi-support/issues/2172) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
