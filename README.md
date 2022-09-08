@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#167](https://github.com/tox-dev/py-filelock/pull/167) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. ❗️ Closed issue [#2411](https://github.com/pypa/virtualenv/issues/2411) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2412](https://github.com/pypa/virtualenv/pull/2412) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2412](https://github.com/pypa/virtualenv/issues/2412) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❌ Reopened PR [#2489](https://github.com/tox-dev/tox/pull/2489) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#2413](https://github.com/pypa/virtualenv/pull/2413) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#167](https://github.com/tox-dev/py-filelock/pull/167) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❗️ Closed issue [#2411](https://github.com/pypa/virtualenv/issues/2411) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2412](https://github.com/pypa/virtualenv/pull/2412) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2412](https://github.com/pypa/virtualenv/issues/2412) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
