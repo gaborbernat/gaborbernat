@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2496](https://github.com/tox-dev/tox/issues/2496) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2496](https://github.com/tox-dev/tox/issues/2496) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#85555](https://github.com/python/cpython/issues/85555) in [python/cpython](https://github.com/python/cpython)
-4. 🗣 Commented on [#2487](https://github.com/tox-dev/tox/issues/2487) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2487](https://github.com/tox-dev/tox/issues/2487) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#31](https://github.com/tox-dev/devpi-process/pull/31) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 🎉 Merged PR [#2492](https://github.com/tox-dev/tox/pull/2492) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2496](https://github.com/tox-dev/tox/issues/2496) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2496](https://github.com/tox-dev/tox/issues/2496) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#85555](https://github.com/python/cpython/issues/85555) in [python/cpython](https://github.com/python/cpython)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
