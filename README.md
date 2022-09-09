@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Reopened issue [#163](https://github.com/tox-dev/pipdeptree/issues/163) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#2497](https://github.com/tox-dev/tox/pull/2497) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#31](https://github.com/tox-dev/devpi-process/pull/31) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🎉 Merged PR [#2492](https://github.com/tox-dev/tox/pull/2492) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#2496](https://github.com/tox-dev/tox/issues/2496) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#31](https://github.com/tox-dev/devpi-process/pull/31) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. ❗️ Reopened issue [#163](https://github.com/tox-dev/pipdeptree/issues/163) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#2497](https://github.com/tox-dev/tox/pull/2497) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#31](https://github.com/tox-dev/devpi-process/pull/31) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#2492](https://github.com/tox-dev/tox/pull/2492) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
