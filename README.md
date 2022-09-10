@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2499](https://github.com/tox-dev/tox/pull/2499) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#20](https://github.com/tox-dev/pyproject-api/pull/20) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 💪 Opened PR [#20](https://github.com/tox-dev/pyproject-api/pull/20) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 💪 Opened PR [#2499](https://github.com/tox-dev/tox/pull/2499) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#31](https://github.com/tox-dev/devpi-process/pull/31) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#21](https://github.com/tox-dev/pyproject-api/pull/21) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 💪 Opened PR [#21](https://github.com/tox-dev/pyproject-api/pull/21) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. 🎉 Merged PR [#2499](https://github.com/tox-dev/tox/pull/2499) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#20](https://github.com/tox-dev/pyproject-api/pull/20) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 💪 Opened PR [#20](https://github.com/tox-dev/pyproject-api/pull/20) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
