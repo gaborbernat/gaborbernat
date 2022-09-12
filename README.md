@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#22](https://github.com/tox-dev/pyproject-api/issues/22) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🗣 Commented on [#22](https://github.com/tox-dev/pyproject-api/issues/22) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. ❗️ Closed issue [#2350](https://github.com/pypa/virtualenv/issues/2350) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2415](https://github.com/pypa/virtualenv/pull/2415) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❌ Closed PR [#47](https://github.com/tox-dev/tox-bindep/pull/47) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+2. 🎉 Merged PR [#146](https://github.com/tox-dev/tox-ansible/pull/146) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
+3. ❌ Closed PR [#23](https://github.com/tox-dev/pyproject-api/pull/23) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. ❌ Closed PR [#32](https://github.com/tox-dev/devpi-process/pull/32) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. ❌ Closed PR [#54](https://github.com/tox-dev/tox-extra/pull/54) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
