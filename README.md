@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2415](https://github.com/pypa/virtualenv/issues/2415) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#21](https://github.com/tox-dev/pyproject-api/pull/21) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 💪 Opened PR [#21](https://github.com/tox-dev/pyproject-api/pull/21) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#2499](https://github.com/tox-dev/tox/pull/2499) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#20](https://github.com/tox-dev/pyproject-api/pull/20) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. ❗️ Closed issue [#22](https://github.com/tox-dev/pyproject-api/issues/22) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🗣 Commented on [#22](https://github.com/tox-dev/pyproject-api/issues/22) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. ❗️ Closed issue [#2350](https://github.com/pypa/virtualenv/issues/2350) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#2340](https://github.com/pypa/virtualenv/issues/2340) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2415](https://github.com/pypa/virtualenv/pull/2415) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
