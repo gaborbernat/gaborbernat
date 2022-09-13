@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#253](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/253) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❌ Closed PR [#47](https://github.com/tox-dev/tox-bindep/pull/47) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
-3. 🎉 Merged PR [#146](https://github.com/tox-dev/tox-ansible/pull/146) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
-4. ❌ Closed PR [#23](https://github.com/tox-dev/pyproject-api/pull/23) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. ❌ Closed PR [#32](https://github.com/tox-dev/devpi-process/pull/32) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🗣 Commented on [#194](https://github.com/bloomberg/memray/issues/194) in [bloomberg/memray](https://github.com/bloomberg/memray)
+2. 🗣 Commented on [#253](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/253) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❌ Closed PR [#47](https://github.com/tox-dev/tox-bindep/pull/47) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+4. 🎉 Merged PR [#146](https://github.com/tox-dev/tox-ansible/pull/146) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
+5. ❌ Closed PR [#23](https://github.com/tox-dev/pyproject-api/pull/23) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
