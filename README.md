@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2409](https://github.com/pypa/virtualenv/issues/2409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2409](https://github.com/pypa/virtualenv/issues/2409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Closed issue [#2417](https://github.com/pypa/virtualenv/issues/2417) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2417](https://github.com/pypa/virtualenv/issues/2417) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#194](https://github.com/bloomberg/memray/issues/194) in [bloomberg/memray](https://github.com/bloomberg/memray)
+1. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+2. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+3. 🗣 Commented on [#2409](https://github.com/pypa/virtualenv/issues/2409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2409](https://github.com/pypa/virtualenv/issues/2409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Closed issue [#2417](https://github.com/pypa/virtualenv/issues/2417) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
