@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-2. 🎉 Merged PR [#1](https://github.com/pyvenvmanage/PyVenvManage/pull/1) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-4. 💪 Opened PR [#1](https://github.com/pyvenvmanage/PyVenvManage/pull/1) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 💪 Opened PR [#2502](https://github.com/tox-dev/tox/pull/2502) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+2. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+3. 🎉 Merged PR [#1](https://github.com/pyvenvmanage/PyVenvManage/pull/1) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+4. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+5. 💪 Opened PR [#1](https://github.com/pyvenvmanage/PyVenvManage/pull/1) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
