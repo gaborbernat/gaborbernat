@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#255](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/255) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
-4. 🎉 Merged PR [#1](https://github.com/pyvenvmanage/PyVenvManage/pull/1) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🗣 Commented on [#23](https://github.com/nokia/PyVenvManage/issues/23) in [nokia/PyVenvManage](https://github.com/nokia/PyVenvManage)
+1. 🎉 Merged PR [#41](https://github.com/tox-dev/tox-via-docker/pull/41) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+2. 🎉 Merged PR [#42](https://github.com/tox-dev/tox-external-wheels/pull/42) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
+3. 🎉 Merged PR [#107](https://github.com/tox-dev/tox-ini-fmt/pull/107) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🎉 Merged PR [#19](https://github.com/tox-dev/tox-gh/pull/19) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🎉 Merged PR [#143](https://github.com/tox-dev/tox-docker/pull/143) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
