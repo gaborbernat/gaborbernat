@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2423](https://github.com/pypa/virtualenv/pull/2423) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#255](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/255) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#41](https://github.com/tox-dev/tox-via-docker/pull/41) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
-4. 🎉 Merged PR [#42](https://github.com/tox-dev/tox-external-wheels/pull/42) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
-5. 🎉 Merged PR [#107](https://github.com/tox-dev/tox-ini-fmt/pull/107) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#100](https://github.com/platformdirs/platformdirs/pull/100) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#2423](https://github.com/pypa/virtualenv/pull/2423) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#255](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/255) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#41](https://github.com/tox-dev/tox-via-docker/pull/41) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#42](https://github.com/tox-dev/tox-external-wheels/pull/42) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
