@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#253](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/253) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#254](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/254) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#255](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/255) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#100](https://github.com/platformdirs/platformdirs/pull/100) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#2423](https://github.com/pypa/virtualenv/pull/2423) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#8](https://github.com/gaborbernat/bump-deps-index/pull/8) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. ❗️ Closed issue [#253](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/253) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#254](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/254) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#255](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/255) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#100](https://github.com/platformdirs/platformdirs/pull/100) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
