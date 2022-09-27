@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#261](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/261) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#259](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/259) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#260](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/260) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ❗️ Closed issue [#260](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/260) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#258](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/258) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❗️ Closed issue [#259](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/259) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#261](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/261) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 💪 Opened PR [#261](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/261) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#259](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/259) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#260](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/260) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
