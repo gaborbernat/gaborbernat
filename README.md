@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2428](https://github.com/pypa/virtualenv/issues/2428) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2427](https://github.com/pypa/virtualenv/issues/2427) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2416](https://github.com/pypa/virtualenv/issues/2416) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#61](https://github.com/tox-dev/sphinx-argparse-cli/pull/61) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🗣 Commented on [#260](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/260) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#166](https://github.com/pypa/sampleproject/issues/166) in [pypa/sampleproject](https://github.com/pypa/sampleproject)
+2. 🗣 Commented on [#2428](https://github.com/pypa/virtualenv/issues/2428) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2427](https://github.com/pypa/virtualenv/issues/2427) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2416](https://github.com/pypa/virtualenv/issues/2416) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#61](https://github.com/tox-dev/sphinx-argparse-cli/pull/61) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
