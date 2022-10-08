@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#522](https://github.com/pypa/build/issues/522) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#2511](https://github.com/tox-dev/tox/pull/2511) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2430](https://github.com/pypa/virtualenv/pull/2430) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2513](https://github.com/tox-dev/tox/issues/2513) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#105](https://github.com/tox-dev/tox-ini-fmt/issues/105) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ❗️ Closed issue [#2404](https://github.com/pypa/virtualenv/issues/2404) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2404](https://github.com/pypa/virtualenv/issues/2404) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#522](https://github.com/pypa/build/issues/522) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#522](https://github.com/pypa/build/issues/522) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#2511](https://github.com/tox-dev/tox/pull/2511) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
