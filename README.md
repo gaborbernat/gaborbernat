@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2404](https://github.com/pypa/virtualenv/issues/2404) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2404](https://github.com/pypa/virtualenv/issues/2404) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#522](https://github.com/pypa/build/issues/522) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#522](https://github.com/pypa/build/issues/522) in [pypa/build](https://github.com/pypa/build)
-5. 🎉 Merged PR [#2511](https://github.com/tox-dev/tox/pull/2511) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#34](https://github.com/tox-dev/devpi-process/pull/34) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. ❌ Closed PR [#40](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/40) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+3. 🎉 Merged PR [#169](https://github.com/tox-dev/py-filelock/pull/169) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#41](https://github.com/tox-dev/pyproject-fmt/pull/41) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#262](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/262) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
