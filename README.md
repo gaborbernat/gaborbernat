@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#34](https://github.com/tox-dev/devpi-process/pull/34) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. ❌ Closed PR [#40](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/40) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
-3. 🎉 Merged PR [#169](https://github.com/tox-dev/py-filelock/pull/169) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#41](https://github.com/tox-dev/pyproject-fmt/pull/41) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🎉 Merged PR [#262](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/262) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#1](https://github.com/pytest-dev/pytest-env/pull/1) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 💪 Opened PR [#1](https://github.com/pytest-dev/pytest-env/pull/1) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🎉 Merged PR [#34](https://github.com/tox-dev/devpi-process/pull/34) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. ❌ Closed PR [#40](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/40) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+5. 🎉 Merged PR [#169](https://github.com/tox-dev/py-filelock/pull/169) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
