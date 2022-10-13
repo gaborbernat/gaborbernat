@@ -101,10 +101,10 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2513](https://github.com/tox-dev/tox/issues/2513) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2513](https://github.com/tox-dev/tox/issues/2513) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3](https://github.com/pytest-dev/pytest-env/pull/3) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🗣 Commented on [#2](https://github.com/pytest-dev/pytest-env/issues/2) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🗣 Commented on [#2513](https://github.com/tox-dev/tox/issues/2513) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2513](https://github.com/tox-dev/tox/issues/2513) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3](https://github.com/pytest-dev/pytest-env/pull/3) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 5. 🗣 Commented on [#2](https://github.com/pytest-dev/pytest-env/issues/2) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
