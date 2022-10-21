@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#45](https://github.com/bloomberg/pytest-memray/issues/45) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🗣 Commented on [#2424](https://github.com/pypa/virtualenv/issues/2424) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#4](https://github.com/gaborbernat/bernat-tech/pull/4) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-4. 🗣 Commented on [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🗣 Commented on [#2513](https://github.com/tox-dev/tox/issues/2513) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Opened issue [#12796](https://github.com/facebook/create-react-app/issues/12796) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+2. 🗣 Commented on [#45](https://github.com/bloomberg/pytest-memray/issues/45) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+3. 🗣 Commented on [#2424](https://github.com/pypa/virtualenv/issues/2424) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#4](https://github.com/gaborbernat/bernat-tech/pull/4) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+5. 🗣 Commented on [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
