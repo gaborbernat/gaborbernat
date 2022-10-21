@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#12796](https://github.com/facebook/create-react-app/issues/12796) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. 🗣 Commented on [#45](https://github.com/bloomberg/pytest-memray/issues/45) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 🗣 Commented on [#2424](https://github.com/pypa/virtualenv/issues/2424) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#4](https://github.com/gaborbernat/bernat-tech/pull/4) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-5. 🗣 Commented on [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#57](https://github.com/tox-dev/tox-extra/pull/57) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+2. 🎉 Merged PR [#21](https://github.com/tox-dev/tox-gh/pull/21) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. ❌ Closed PR [#2514](https://github.com/tox-dev/tox/pull/2514) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#43](https://github.com/tox-dev/tox-via-docker/pull/43) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. 🎉 Merged PR [#22](https://github.com/gaborbernat/pypi_changes/pull/22) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
