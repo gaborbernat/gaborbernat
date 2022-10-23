@@ -101,11 +101,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🗣 Commented on [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🎉 Merged PR [#9](https://github.com/pytest-dev/pytest-env/pull/9) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🗣 Commented on [#9](https://github.com/pytest-dev/pytest-env/issues/9) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🗣 Commented on [#9](https://github.com/pytest-dev/pytest-env/issues/9) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ❗️ Closed issue [#11](https://github.com/pytest-dev/pytest-env/issues/11) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🎉 Merged PR [#10](https://github.com/pytest-dev/pytest-env/pull/10) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. ❗️ Closed issue [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🗣 Commented on [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#9](https://github.com/pytest-dev/pytest-env/pull/9) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
    [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
