@@ -28,6 +28,14 @@ segment. I am the primary maintainer (author) for the following [Python](https:/
    [![PyPI](https://img.shields.io/pypi/v/tox?style=flat-square)](https://pypi.org/project/tox)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox?style=flat-square)](https://pypistats.org/packages/tox)
+1. [pytest-env](https://github.com/tox-dev/pytest-env) --
+   [![PyPI](https://img.shields.io/pypi/v/pytest-env?style=flat-square)](https://pypi.org/project/pytest-env)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest-env?logo=python&style=flat-square)
+   [![Downloads](https://pepy.tech/badge/pytest-env/month)](https://pepy.tech/project/pytest-env)
+1. [pipdeptree](https://github.com/tox-dev/pipdeptree) --
+   [![PyPI](https://img.shields.io/pypi/v/pipdeptree?style=flat-square)](https://pypi.org/project/pipdeptree)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pipdeptree?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pipdeptree?style=flat-square)](https://pypistats.org/packages/pipdeptree)
 1. [sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) --
    [![PyPI](https://img.shields.io/pypi/v/sphinx-autodoc-typehints?style=flat-square)](https://pypi.org/project/sphinx-autodoc-typehints)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/sphinx-autodoc-typehints?logo=python&style=flat-square)
@@ -56,10 +64,10 @@ segment. I am the primary maintainer (author) for the following [Python](https:/
    [![PyPI](https://img.shields.io/pypi/v/tox-gh?style=flat-square)](https://pypi.org/project/tox-gh)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-gh?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-gh?style=flat-square)](https://pypistats.org/packages/tox-gh)
-1. [retype](https://github.com/ambv/retype) --
-   [![PyPI](https://img.shields.io/pypi/v/retype?style=flat-square)](https://pypi.org/project/retype)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/ambv/retype?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/retype?style=flat-square)](https://pypistats.org/packages/retype)
+1. [pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) --
+   [![PyPI](https://img.shields.io/pypi/v/pyproject-fmt?style=flat-square)](https://pypi.org/project/pyproject-fmt)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pyproject-fmt?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyproject-fmt?style=flat-square)](https://pypistats.org/packages/pyproject-fmt)
 1. [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt) --
    [![PyPI](https://img.shields.io/pypi/v/tox-ini-fmt?style=flat-square)](https://pypi.org/project/tox-ini-fmt)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-ini-fmt?logo=python&style=flat-square)
@@ -98,16 +106,3 @@ For the following projects, while I do hold the write commit bit, I only help wi
 
 You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
-
-<!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#12](https://github.com/pytest-dev/pytest-env/issues/12) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🗣 Commented on [#12](https://github.com/pytest-dev/pytest-env/issues/12) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. ❗️ Closed issue [#11](https://github.com/pytest-dev/pytest-env/issues/11) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🎉 Merged PR [#10](https://github.com/pytest-dev/pytest-env/pull/10) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. ❗️ Closed issue [#4](https://github.com/pytest-dev/pytest-env/issues/4) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 💪 Opened PR [#2](https://github.com/gaborbernat/bump-deps-index/pull/2) in
-   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🗣 Commented on [#106](https://github.com/sumerc/yappi/issues/106) in [sumerc/yappi](https://github.com/sumerc/yappi)
-<!--END_SECTION:activity-->
