@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/pytest-dev/pytest-env/pull/13) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 💪 Opened PR [#13](https://github.com/pytest-dev/pytest-env/pull/13) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🗣 Commented on [#124](https://github.com/sumerc/yappi/issues/124) in [sumerc/yappi](https://github.com/sumerc/yappi)
-4. 🗣 Commented on [#80](https://github.com/bloomberg/attrs-strict/issues/80) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+1. 💪 Opened PR [#179](https://github.com/tox-dev/pipdeptree/pull/179) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#13](https://github.com/pytest-dev/pytest-env/pull/13) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 💪 Opened PR [#13](https://github.com/pytest-dev/pytest-env/pull/13) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🗣 Commented on [#124](https://github.com/sumerc/yappi/issues/124) in [sumerc/yappi](https://github.com/sumerc/yappi)
+5. 🗣 Commented on [#80](https://github.com/bloomberg/attrs-strict/issues/80) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 <!--END_SECTION:activity-->
