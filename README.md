@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/tox-dev/pipdeptree/pull/179) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#13](https://github.com/pytest-dev/pytest-env/pull/13) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 💪 Opened PR [#13](https://github.com/pytest-dev/pytest-env/pull/13) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🗣 Commented on [#124](https://github.com/sumerc/yappi/issues/124) in [sumerc/yappi](https://github.com/sumerc/yappi)
-5. 🗣 Commented on [#80](https://github.com/bloomberg/attrs-strict/issues/80) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+1. 💪 Opened PR [#47](https://github.com/bloomberg/pytest-memray/pull/47) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+2. 💪 Opened PR [#81](https://github.com/bloomberg/attrs-strict/pull/81) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. ❌ Closed PR [#2416](https://github.com/pypa/virtualenv/pull/2416) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#42](https://github.com/tox-dev/pyproject-fmt/pull/42) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. ❌ Closed PR [#40](https://github.com/tox-dev/pyproject-fmt/pull/40) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
