@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2443](https://github.com/pypa/virtualenv/pull/2443) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2441](https://github.com/pypa/virtualenv/issues/2441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2439](https://github.com/pypa/virtualenv/pull/2439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. 🗣 Commented on [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+1. 🗣 Commented on [#2442](https://github.com/pypa/virtualenv/issues/2442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2443](https://github.com/pypa/virtualenv/pull/2443) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2441](https://github.com/pypa/virtualenv/issues/2441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2439](https://github.com/pypa/virtualenv/pull/2439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Closed issue [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 <!--END_SECTION:activity-->
