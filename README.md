@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-2. 🗣 Commented on [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-3. 🗣 Commented on [#171](https://github.com/tox-dev/py-filelock/issues/171) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🗣 Commented on [#104](https://github.com/platformdirs/platformdirs/issues/104) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#194](https://github.com/bloomberg/memray/issues/194) in [bloomberg/memray](https://github.com/bloomberg/memray)
+1. 💪 Opened PR [#2443](https://github.com/pypa/virtualenv/pull/2443) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2441](https://github.com/pypa/virtualenv/issues/2441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2439](https://github.com/pypa/virtualenv/pull/2439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+5. 🗣 Commented on [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 <!--END_SECTION:activity-->
