@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2442](https://github.com/pypa/virtualenv/issues/2442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#2443](https://github.com/pypa/virtualenv/pull/2443) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2441](https://github.com/pypa/virtualenv/issues/2441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2439](https://github.com/pypa/virtualenv/pull/2439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#83](https://github.com/bloomberg/attrs-strict/issues/83) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+2. 🗣 Commented on [#2442](https://github.com/pypa/virtualenv/issues/2442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#2443](https://github.com/pypa/virtualenv/pull/2443) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2441](https://github.com/pypa/virtualenv/issues/2441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2439](https://github.com/pypa/virtualenv/pull/2439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
