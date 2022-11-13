@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2440](https://github.com/pypa/virtualenv/issues/2440) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2440](https://github.com/pypa/virtualenv/issues/2440) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2445](https://github.com/pypa/virtualenv/pull/2445) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2445](https://github.com/pypa/virtualenv/pull/2445) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#2440](https://github.com/pypa/virtualenv/issues/2440) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#59](https://github.com/platformdirs/platformdirs/issues/59) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#59](https://github.com/platformdirs/platformdirs/issues/59) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. ❗️ Closed issue [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
