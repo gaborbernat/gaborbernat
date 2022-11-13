@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2440](https://github.com/pypa/virtualenv/issues/2440) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❗️ Closed issue [#59](https://github.com/platformdirs/platformdirs/issues/59) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#59](https://github.com/platformdirs/platformdirs/issues/59) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❗️ Closed issue [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❌ Closed PR [#12](https://github.com/conda-forge/platformdirs-feedstock/pull/12) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+2. 🎉 Merged PR [#13](https://github.com/conda-forge/platformdirs-feedstock/pull/13) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+3. 🗣 Commented on [#2440](https://github.com/pypa/virtualenv/issues/2440) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗️ Closed issue [#59](https://github.com/platformdirs/platformdirs/issues/59) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#59](https://github.com/platformdirs/platformdirs/issues/59) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
