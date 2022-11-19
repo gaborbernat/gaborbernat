@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1953](https://github.com/encode/starlette/issues/1953) in [encode/starlette](https://github.com/encode/starlette)
-2. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 🎉 Merged PR [#107](https://github.com/platformdirs/platformdirs/pull/107) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#1953](https://github.com/encode/starlette/issues/1953) in [encode/starlette](https://github.com/encode/starlette)
-5. 🎉 Merged PR [#3](https://github.com/pyvenvmanage/PyVenvManage/pull/3) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+1. ❌ Closed PR [#2539](https://github.com/tox-dev/tox/pull/2539) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2539](https://github.com/tox-dev/tox/issues/2539) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1953](https://github.com/encode/starlette/issues/1953) in [encode/starlette](https://github.com/encode/starlette)
+4. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+5. 🎉 Merged PR [#107](https://github.com/platformdirs/platformdirs/pull/107) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
