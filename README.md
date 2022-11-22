@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2543](https://github.com/tox-dev/tox/issues/2543) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#1290](https://github.com/tox-dev/tox/issues/1290) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2541](https://github.com/tox-dev/tox/pull/2541) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#45](https://github.com/tox-dev/pyproject-fmt/issues/45) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#2541](https://github.com/tox-dev/tox/issues/2541) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2543](https://github.com/tox-dev/tox/issues/2543) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1290](https://github.com/tox-dev/tox/issues/1290) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2541](https://github.com/tox-dev/tox/pull/2541) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#45](https://github.com/tox-dev/pyproject-fmt/issues/45) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
