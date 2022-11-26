@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#374](https://github.com/bloomberg/ipydatagrid/issues/374) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 💪 Opened PR [#8](https://github.com/pyvenvmanage/PyVenvManage/pull/8) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-4. 💪 Opened PR [#7](https://github.com/pyvenvmanage/PyVenvManage/pull/7) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 💪 Opened PR [#6](https://github.com/pyvenvmanage/PyVenvManage/pull/6) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+1. ❗️ Closed issue [#2409](https://github.com/tox-dev/tox/issues/2409) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#2342](https://github.com/tox-dev/tox/issues/2342) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2356](https://github.com/tox-dev/tox/issues/2356) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2546](https://github.com/tox-dev/tox/pull/2546) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❌ Closed PR [#2507](https://github.com/tox-dev/tox/pull/2507) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
