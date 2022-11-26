@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/pyvenvmanage/PyVenvManage/pull/6) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-2. 💪 Opened PR [#5](https://github.com/pyvenvmanage/PyVenvManage/pull/5) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. ❗️ Closed issue [#372](https://github.com/bloomberg/ipydatagrid/issues/372) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 🎉 Merged PR [#373](https://github.com/bloomberg/ipydatagrid/pull/373) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🎉 Merged PR [#2548](https://github.com/tox-dev/tox/pull/2548) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Opened issue [#374](https://github.com/bloomberg/ipydatagrid/issues/374) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+3. 💪 Opened PR [#8](https://github.com/pyvenvmanage/PyVenvManage/pull/8) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+4. 💪 Opened PR [#7](https://github.com/pyvenvmanage/PyVenvManage/pull/7) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+5. 💪 Opened PR [#6](https://github.com/pyvenvmanage/PyVenvManage/pull/6) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
