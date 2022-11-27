@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2502](https://github.com/tox-dev/tox/pull/2502) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2414](https://github.com/tox-dev/tox/issues/2414) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2549](https://github.com/tox-dev/tox/pull/2549) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2551](https://github.com/tox-dev/tox/pull/2551) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2551](https://github.com/tox-dev/tox/pull/2551) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2424](https://github.com/pypa/virtualenv/issues/2424) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#9](https://github.com/pyvenvmanage/PyVenvManage/pull/9) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+3. 🗣 Commented on [#109](https://github.com/platformdirs/platformdirs/issues/109) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. ❗️ Closed issue [#173](https://github.com/tox-dev/py-filelock/issues/173) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#173](https://github.com/tox-dev/py-filelock/issues/173) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 <!--END_SECTION:activity-->
