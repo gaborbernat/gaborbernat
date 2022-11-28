@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#378](https://github.com/bloomberg/ipydatagrid/pull/378) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. 🗣 Commented on [#2362](https://github.com/tox-dev/tox/issues/2362) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#375](https://github.com/bloomberg/ipydatagrid/pull/375) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 🎉 Merged PR [#2452](https://github.com/pypa/virtualenv/pull/2452) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2553](https://github.com/tox-dev/tox/pull/2553) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#150](https://github.com/tox-dev/tox-conda/pull/150) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+2. ❌ Closed PR [#2556](https://github.com/tox-dev/tox/pull/2556) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#45](https://github.com/tox-dev/tox-via-docker/pull/45) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+4. ❌ Closed PR [#112](https://github.com/tox-dev/tox-ini-fmt/pull/112) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#148](https://github.com/tox-dev/tox-docker/pull/148) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
 <!--END_SECTION:activity-->
