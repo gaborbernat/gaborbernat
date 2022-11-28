@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2362](https://github.com/tox-dev/tox/issues/2362) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#375](https://github.com/bloomberg/ipydatagrid/pull/375) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🎉 Merged PR [#2452](https://github.com/pypa/virtualenv/pull/2452) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2553](https://github.com/tox-dev/tox/pull/2553) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2553](https://github.com/tox-dev/tox/pull/2553) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#378](https://github.com/bloomberg/ipydatagrid/pull/378) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🗣 Commented on [#2362](https://github.com/tox-dev/tox/issues/2362) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#375](https://github.com/bloomberg/ipydatagrid/pull/375) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. 🎉 Merged PR [#2452](https://github.com/pypa/virtualenv/pull/2452) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2553](https://github.com/tox-dev/tox/pull/2553) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
