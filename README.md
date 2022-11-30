@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/tox-dev/py-filelock/issues/176) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🎉 Merged PR [#14](https://github.com/pytest-dev/pytest-env/pull/14) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🗣 Commented on [#12](https://github.com/pyvenvmanage/PyVenvManage/issues/12) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-4. 🎉 Merged PR [#11](https://github.com/pyvenvmanage/PyVenvManage/pull/11) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🎉 Merged PR [#84](https://github.com/bloomberg/attrs-strict/pull/84) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+1. 🎉 Merged PR [#59](https://github.com/bloomberg/pytest-memray/pull/59) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+2. 🗣 Commented on [#176](https://github.com/tox-dev/py-filelock/issues/176) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🎉 Merged PR [#14](https://github.com/pytest-dev/pytest-env/pull/14) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🗣 Commented on [#12](https://github.com/pyvenvmanage/PyVenvManage/issues/12) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+5. 🎉 Merged PR [#11](https://github.com/pyvenvmanage/PyVenvManage/pull/11) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
