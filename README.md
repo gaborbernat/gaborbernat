@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2570](https://github.com/tox-dev/tox/pull/2570) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-4. 🎉 Merged PR [#67](https://github.com/tox-dev/sphinx-argparse-cli/pull/67) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#1](https://github.com/gaborbernat/pytest-env/pull/1) in [gaborbernat/pytest-env](https://github.com/gaborbernat/pytest-env)
+1. 🗣 Commented on [#12](https://github.com/pyvenvmanage/PyVenvManage/issues/12) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+2. 🎉 Merged PR [#11](https://github.com/pyvenvmanage/PyVenvManage/pull/11) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+3. 🎉 Merged PR [#84](https://github.com/bloomberg/attrs-strict/pull/84) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+4. 🎉 Merged PR [#2570](https://github.com/tox-dev/tox/pull/2570) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2](https://github.com/pyvenvmanage/PyVenvManage/issues/2) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
