@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#80](https://github.com/ICRAR/ijson/issues/80) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
-2. 🎉 Merged PR [#31](https://github.com/tox-dev/pyproject-api/pull/31) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#24](https://github.com/tox-dev/tox-gh/pull/24) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🎉 Merged PR [#59](https://github.com/bloomberg/pytest-memray/pull/59) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-5. 🗣 Commented on [#176](https://github.com/tox-dev/py-filelock/issues/176) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🎉 Merged PR [#2574](https://github.com/tox-dev/tox/pull/2574) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2573](https://github.com/tox-dev/tox/pull/2573) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Opened issue [#80](https://github.com/ICRAR/ijson/issues/80) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
+4. 🎉 Merged PR [#31](https://github.com/tox-dev/pyproject-api/pull/31) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🎉 Merged PR [#24](https://github.com/tox-dev/tox-gh/pull/24) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
