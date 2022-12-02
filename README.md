@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2578](https://github.com/tox-dev/tox/issues/2578) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#2456](https://github.com/pypa/virtualenv/issues/2456) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2456](https://github.com/pypa/virtualenv/issues/2456) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2454](https://github.com/pypa/virtualenv/pull/2454) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#26](https://github.com/gaborbernat/pypi_changes/pull/26) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. 🗣 Commented on [#2578](https://github.com/tox-dev/tox/issues/2578) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#2456](https://github.com/pypa/virtualenv/issues/2456) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2456](https://github.com/pypa/virtualenv/issues/2456) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2454](https://github.com/pypa/virtualenv/pull/2454) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
