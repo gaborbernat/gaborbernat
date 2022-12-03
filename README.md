@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2579](https://github.com/tox-dev/tox/issues/2579) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2585](https://github.com/tox-dev/tox/pull/2585) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#337](https://github.com/pytest-dev/pytest-cov/issues/337) in [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)
-4. ❗️ Closed issue [#2457](https://github.com/pypa/virtualenv/issues/2457) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2584](https://github.com/tox-dev/tox/pull/2584) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#113](https://github.com/tox-dev/tox-ini-fmt/pull/113) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 🎉 Merged PR [#182](https://github.com/tox-dev/pipdeptree/pull/182) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#376](https://github.com/bloomberg/ipydatagrid/pull/376) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. 🎉 Merged PR [#377](https://github.com/bloomberg/ipydatagrid/pull/377) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🗣 Commented on [#2579](https://github.com/tox-dev/tox/issues/2579) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
