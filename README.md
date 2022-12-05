@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2593](https://github.com/tox-dev/tox/pull/2593) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#4](https://github.com/gaborbernat/virtualenv/pull/4) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
-3. 🎉 Merged PR [#27](https://github.com/gaborbernat/pypi_changes/pull/27) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 🎉 Merged PR [#50](https://github.com/tox-dev/pyproject-fmt/pull/50) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🎉 Merged PR [#2594](https://github.com/tox-dev/tox/pull/2594) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#179](https://github.com/tox-dev/py-filelock/issues/179) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❌ Closed PR [#151](https://github.com/tox-dev/tox-conda/pull/151) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+3. 🎉 Merged PR [#2](https://github.com/gaborbernat/pytest-env/pull/2) in [gaborbernat/pytest-env](https://github.com/gaborbernat/pytest-env)
+4. 🎉 Merged PR [#46](https://github.com/tox-dev/tox-via-docker/pull/46) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+5. ❌ Closed PR [#25](https://github.com/tox-dev/tox-gh/pull/25) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
