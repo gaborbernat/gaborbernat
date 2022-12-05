@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2462](https://github.com/pypa/virtualenv/pull/2462) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#2462](https://github.com/pypa/virtualenv/pull/2462) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Closed issue [#2461](https://github.com/pypa/virtualenv/issues/2461) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2458](https://github.com/pypa/virtualenv/pull/2458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❌ Closed PR [#28](https://github.com/gaborbernat/pypi_changes/pull/28) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+1. 🎉 Merged PR [#85](https://github.com/bloomberg/attrs-strict/pull/85) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+2. 🎉 Merged PR [#115](https://github.com/tox-dev/tox-ini-fmt/pull/115) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. ❗️ Closed issue [#144](https://github.com/tox-dev/py-filelock/issues/144) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#2462](https://github.com/pypa/virtualenv/pull/2462) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2462](https://github.com/pypa/virtualenv/pull/2462) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
