@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2611](https://github.com/tox-dev/tox/issues/2611) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#21](https://github.com/tox-dev/tox-pyenv/issues/21) in [tox-dev/tox-pyenv](https://github.com/tox-dev/tox-pyenv)
-3. ❗️ Closed issue [#2611](https://github.com/tox-dev/tox/issues/2611) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2612](https://github.com/tox-dev/tox/issues/2612) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2612](https://github.com/tox-dev/tox/issues/2612) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#2613](https://github.com/tox-dev/tox/pull/2613) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#2611](https://github.com/tox-dev/tox/issues/2611) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#72](https://github.com/tox-dev/sphinx-argparse-cli/pull/72) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🗣 Commented on [#21](https://github.com/tox-dev/tox-pyenv/issues/21) in [tox-dev/tox-pyenv](https://github.com/tox-dev/tox-pyenv)
 <!--END_SECTION:activity-->
