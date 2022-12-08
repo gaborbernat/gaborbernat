@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2650](https://github.com/tox-dev/tox/issues/2650) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2650](https://github.com/tox-dev/tox/issues/2650) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#19](https://github.com/tox-dev/azure-pipelines-template/issues/19) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-4. 🗣 Commented on [#19](https://github.com/tox-dev/azure-pipelines-template/issues/19) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
-5. 🗣 Commented on [#14139](https://github.com/astropy/astropy/issues/14139) in [astropy/astropy](https://github.com/astropy/astropy)
+1. 🗣 Commented on [#2631](https://github.com/tox-dev/tox/issues/2631) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2631](https://github.com/tox-dev/tox/issues/2631) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2650](https://github.com/tox-dev/tox/issues/2650) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2650](https://github.com/tox-dev/tox/issues/2650) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#19](https://github.com/tox-dev/azure-pipelines-template/issues/19) in [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template)
 <!--END_SECTION:activity-->
