@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2658](https://github.com/tox-dev/tox/issues/2658) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2656](https://github.com/tox-dev/tox/pull/2656) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#2656](https://github.com/tox-dev/tox/pull/2656) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#14139](https://github.com/astropy/astropy/issues/14139) in [astropy/astropy](https://github.com/astropy/astropy)
-5. 🗣 Commented on [#2655](https://github.com/tox-dev/tox/issues/2655) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#2661](https://github.com/tox-dev/tox/issues/2661) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2661](https://github.com/tox-dev/tox/issues/2661) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2658](https://github.com/tox-dev/tox/issues/2658) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2656](https://github.com/tox-dev/tox/pull/2656) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
