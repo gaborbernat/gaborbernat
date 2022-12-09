@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2633](https://github.com/tox-dev/tox/issues/2633) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2631](https://github.com/tox-dev/tox/issues/2631) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2631](https://github.com/tox-dev/tox/issues/2631) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2650](https://github.com/tox-dev/tox/issues/2650) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2650](https://github.com/tox-dev/tox/issues/2650) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2654](https://github.com/tox-dev/tox/issues/2654) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#14139](https://github.com/astropy/astropy/issues/14139) in [astropy/astropy](https://github.com/astropy/astropy)
+3. 🗣 Commented on [#2653](https://github.com/tox-dev/tox/issues/2653) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2653](https://github.com/tox-dev/tox/issues/2653) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2633](https://github.com/tox-dev/tox/issues/2633) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
