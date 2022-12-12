@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2685](https://github.com/tox-dev/tox/issues/2685) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2660](https://github.com/tox-dev/tox/issues/2660) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2674](https://github.com/tox-dev/tox/issues/2674) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#2687](https://github.com/tox-dev/tox/pull/2687) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1974](https://github.com/tox-dev/tox/issues/1974) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2685](https://github.com/tox-dev/tox/issues/2685) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
