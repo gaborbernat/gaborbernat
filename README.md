@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2738](https://github.com/tox-dev/tox/issues/2738) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#2739](https://github.com/tox-dev/tox/pull/2739) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2737](https://github.com/tox-dev/tox/issues/2737) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2633](https://github.com/tox-dev/tox/issues/2633) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2736](https://github.com/tox-dev/tox/pull/2736) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2738](https://github.com/tox-dev/tox/issues/2738) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#2739](https://github.com/tox-dev/tox/pull/2739) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2737](https://github.com/tox-dev/tox/issues/2737) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Closed issue [#2633](https://github.com/tox-dev/tox/issues/2633) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
