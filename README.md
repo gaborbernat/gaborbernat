@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2720](https://github.com/tox-dev/tox/issues/2720) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2751](https://github.com/tox-dev/tox/pull/2751) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#2750](https://github.com/tox-dev/tox/pull/2750) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗️ Closed issue [#2693](https://github.com/tox-dev/tox/issues/2693) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2693](https://github.com/tox-dev/tox/issues/2693) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#183](https://github.com/tox-dev/py-filelock/pull/183) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❌ Closed PR [#54](https://github.com/tox-dev/pyproject-fmt/pull/54) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. ❌ Closed PR [#74](https://github.com/tox-dev/sphinx-argparse-cli/pull/74) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. ❌ Closed PR [#275](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/275) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ❌ Closed PR [#2755](https://github.com/tox-dev/tox/pull/2755) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
