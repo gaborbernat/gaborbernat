@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/tox-dev/tox-travis/issues/160) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
-2. 🎉 Merged PR [#160](https://github.com/tox-dev/tox-travis/pull/160) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
-3. ❗️ Closed issue [#161](https://github.com/tox-dev/tox-travis/issues/161) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
-4. 🗣 Commented on [#161](https://github.com/tox-dev/tox-travis/issues/161) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
-5. ❗️ Closed issue [#2333](https://github.com/pypa/virtualenv/issues/2333) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2776](https://github.com/tox-dev/tox/issues/2776) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#160](https://github.com/tox-dev/tox-travis/issues/160) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
+3. 🎉 Merged PR [#160](https://github.com/tox-dev/tox-travis/pull/160) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
+4. ❗️ Closed issue [#161](https://github.com/tox-dev/tox-travis/issues/161) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
+5. 🗣 Commented on [#161](https://github.com/tox-dev/tox-travis/issues/161) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
 <!--END_SECTION:activity-->
