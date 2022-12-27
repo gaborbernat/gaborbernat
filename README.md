@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#118](https://github.com/tox-dev/tox-ini-fmt/pull/118) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. ❌ Closed PR [#32](https://github.com/tox-dev/tox-gh/pull/32) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. ❌ Closed PR [#157](https://github.com/tox-dev/tox-ansible/pull/157) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
-4. ❌ Closed PR [#151](https://github.com/tox-dev/tox-docker/pull/151) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
-5. ❌ Closed PR [#53](https://github.com/tox-dev/tox-bindep/pull/53) in [tox-dev/tox-bindep](https://github.com/tox-dev/tox-bindep)
+1. 🗣 Commented on [#41](https://github.com/platformdirs/platformdirs/issues/41) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#2778](https://github.com/tox-dev/tox/issues/2778) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#118](https://github.com/tox-dev/tox-ini-fmt/pull/118) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. ❌ Closed PR [#32](https://github.com/tox-dev/tox-gh/pull/32) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. ❌ Closed PR [#157](https://github.com/tox-dev/tox-ansible/pull/157) in [tox-dev/tox-ansible](https://github.com/tox-dev/tox-ansible)
 <!--END_SECTION:activity-->
