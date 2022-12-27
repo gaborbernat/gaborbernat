@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/platformdirs/platformdirs/issues/120) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 💪 Opened PR [#119](https://github.com/platformdirs/platformdirs/pull/119) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#41](https://github.com/platformdirs/platformdirs/issues/41) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#2778](https://github.com/tox-dev/tox/issues/2778) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#118](https://github.com/tox-dev/tox-ini-fmt/pull/118) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ❗️ Opened issue [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+2. 🎉 Merged PR [#119](https://github.com/platformdirs/platformdirs/pull/119) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#120](https://github.com/platformdirs/platformdirs/issues/120) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#119](https://github.com/platformdirs/platformdirs/pull/119) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#41](https://github.com/platformdirs/platformdirs/issues/41) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
