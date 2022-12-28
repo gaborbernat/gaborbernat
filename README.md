@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#112](https://github.com/platformdirs/platformdirs/pull/112) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. ❗️ Closed issue [#2770](https://github.com/tox-dev/tox/issues/2770) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2781](https://github.com/tox-dev/tox/pull/2781) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-5. 🗣 Commented on [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+1. 🎉 Merged PR [#185](https://github.com/tox-dev/py-filelock/pull/185) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❗️ Closed issue [#114](https://github.com/platformdirs/platformdirs/issues/114) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#115](https://github.com/platformdirs/platformdirs/pull/115) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#185](https://github.com/tox-dev/py-filelock/pull/185) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❌ Closed PR [#112](https://github.com/platformdirs/platformdirs/pull/112) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
