@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-2. 🗣 Commented on [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-3. 🎉 Merged PR [#121](https://github.com/platformdirs/platformdirs/pull/121) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❌ Closed PR [#112](https://github.com/platformdirs/platformdirs/pull/112) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. ❗️ Closed issue [#2770](https://github.com/tox-dev/tox/issues/2770) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2781](https://github.com/tox-dev/tox/pull/2781) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-5. 🎉 Merged PR [#2782](https://github.com/tox-dev/tox/pull/2782) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#1516](https://github.com/nedbat/coveragepy/issues/1516) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
 <!--END_SECTION:activity-->
