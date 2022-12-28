@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2784](https://github.com/tox-dev/tox/issues/2784) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2784](https://github.com/tox-dev/tox/issues/2784) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#2474](https://github.com/pypa/virtualenv/pull/2474) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#122](https://github.com/platformdirs/platformdirs/issues/122) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#123](https://github.com/platformdirs/platformdirs/pull/123) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❌ Closed PR [#2468](https://github.com/pypa/virtualenv/pull/2468) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2465](https://github.com/pypa/virtualenv/pull/2465) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+4. ❌ Closed PR [#5](https://github.com/gaborbernat/virtualenv/pull/5) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+5. ❗️ Closed issue [#2784](https://github.com/tox-dev/tox/issues/2784) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
