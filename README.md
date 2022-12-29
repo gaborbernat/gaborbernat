@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#496](https://github.com/psincraian/pepy/issues/496) in [psincraian/pepy](https://github.com/psincraian/pepy)
-2. ❗️ Opened issue [#495](https://github.com/psincraian/pepy/issues/495) in [psincraian/pepy](https://github.com/psincraian/pepy)
-3. ❗️ Opened issue [#494](https://github.com/psincraian/pepy/issues/494) in [psincraian/pepy](https://github.com/psincraian/pepy)
-4. 🗣 Commented on [#2768](https://github.com/tox-dev/tox/issues/2768) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#2788](https://github.com/tox-dev/tox/issues/2788) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#496](https://github.com/psincraian/pepy/issues/496) in [psincraian/pepy](https://github.com/psincraian/pepy)
+2. 🗣 Commented on [#496](https://github.com/psincraian/pepy/issues/496) in [psincraian/pepy](https://github.com/psincraian/pepy)
+3. ❗️ Opened issue [#496](https://github.com/psincraian/pepy/issues/496) in [psincraian/pepy](https://github.com/psincraian/pepy)
+4. ❗️ Opened issue [#495](https://github.com/psincraian/pepy/issues/495) in [psincraian/pepy](https://github.com/psincraian/pepy)
+5. ❗️ Opened issue [#494](https://github.com/psincraian/pepy/issues/494) in [psincraian/pepy](https://github.com/psincraian/pepy)
 <!--END_SECTION:activity-->
