@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2807](https://github.com/tox-dev/tox/pull/2807) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2799](https://github.com/tox-dev/tox/issues/2799) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2799](https://github.com/tox-dev/tox/issues/2799) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#2807](https://github.com/tox-dev/tox/pull/2807) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2799](https://github.com/tox-dev/tox/issues/2799) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2478](https://github.com/pypa/virtualenv/issues/2478) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❌ Closed PR [#2478](https://github.com/pypa/virtualenv/pull/2478) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2478](https://github.com/pypa/virtualenv/issues/2478) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#1519](https://github.com/nedbat/coveragepy/issues/1519) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. 🎉 Merged PR [#2807](https://github.com/tox-dev/tox/pull/2807) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
