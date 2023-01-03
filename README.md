@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/platformdirs/platformdirs/pull/125) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#2791](https://github.com/tox-dev/tox/issues/2791) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Reopened issue [#2791](https://github.com/tox-dev/tox/issues/2791) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#125](https://github.com/platformdirs/platformdirs/pull/125) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#2738](https://github.com/tox-dev/tox/issues/2738) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Opened issue [#1525](https://github.com/nedbat/coveragepy/issues/1525) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+2. 🗣 Commented on [#2811](https://github.com/tox-dev/tox/issues/2811) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#125](https://github.com/platformdirs/platformdirs/pull/125) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#2791](https://github.com/tox-dev/tox/issues/2791) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗️ Reopened issue [#2791](https://github.com/tox-dev/tox/issues/2791) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
