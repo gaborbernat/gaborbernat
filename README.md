@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2482](https://github.com/pypa/virtualenv/issues/2482) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2832](https://github.com/tox-dev/tox/issues/2832) in [tox-dev/tox](https://github.com/tox-dev/tox)
 2. 🗣 Commented on [#2482](https://github.com/pypa/virtualenv/issues/2482) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#2831](https://github.com/tox-dev/tox/issues/2831) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#234](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/234) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❗️ Closed issue [#2482](https://github.com/pypa/virtualenv/issues/2482) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2482](https://github.com/pypa/virtualenv/issues/2482) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#4](https://github.com/platformdirs/platformdirs/issues/4) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
