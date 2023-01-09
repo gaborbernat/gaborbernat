@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2836](https://github.com/tox-dev/tox/issues/2836) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2407](https://github.com/tox-dev/tox/issues/2407) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2844](https://github.com/tox-dev/tox/issues/2844) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❌ Closed PR [#21](https://github.com/gaborbernat/bump-deps-index/pull/21) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🗣 Commented on [#2840](https://github.com/tox-dev/tox/issues/2840) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#8](https://github.com/gaborbernat/bernat-tech/pull/8) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 🗣 Commented on [#2845](https://github.com/tox-dev/tox/issues/2845) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2836](https://github.com/tox-dev/tox/issues/2836) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2407](https://github.com/tox-dev/tox/issues/2407) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2844](https://github.com/tox-dev/tox/issues/2844) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
