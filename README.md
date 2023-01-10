@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2840](https://github.com/tox-dev/tox/issues/2840) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2843](https://github.com/tox-dev/tox/pull/2843) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❌ Closed PR [#127](https://github.com/platformdirs/platformdirs/pull/127) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#8](https://github.com/gaborbernat/bernat-tech/pull/8) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-5. 🗣 Commented on [#2845](https://github.com/tox-dev/tox/issues/2845) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2846](https://github.com/tox-dev/tox/issues/2846) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2840](https://github.com/tox-dev/tox/issues/2840) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2843](https://github.com/tox-dev/tox/pull/2843) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❌ Closed PR [#127](https://github.com/platformdirs/platformdirs/pull/127) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
