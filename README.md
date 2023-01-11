@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2764](https://github.com/tox-dev/tox/pull/2764) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2764](https://github.com/tox-dev/tox/issues/2764) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#66](https://github.com/bloomberg/pytest-memray/issues/66) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🎉 Merged PR [#67](https://github.com/bloomberg/pytest-memray/pull/67) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-5. 🗣 Commented on [#2849](https://github.com/tox-dev/tox/issues/2849) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2847](https://github.com/tox-dev/tox/issues/2847) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2851](https://github.com/tox-dev/tox/issues/2851) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2850](https://github.com/tox-dev/tox/issues/2850) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#2845](https://github.com/tox-dev/tox/issues/2845) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2845](https://github.com/tox-dev/tox/issues/2845) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
