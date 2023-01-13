@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#286](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/286) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#1992](https://github.com/pypa/virtualenv/issues/1992) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2414](https://github.com/pypa/virtualenv/issues/2414) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2472](https://github.com/pypa/virtualenv/issues/2472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❌ Closed PR [#2484](https://github.com/pypa/virtualenv/pull/2484) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#286](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/286) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#1992](https://github.com/pypa/virtualenv/issues/1992) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2414](https://github.com/pypa/virtualenv/issues/2414) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2472](https://github.com/pypa/virtualenv/issues/2472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
