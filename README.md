@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2788](https://github.com/tox-dev/tox/issues/2788) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#291](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/291) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#290](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/290) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ❗️ Closed issue [#286](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/286) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#287](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/287) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#2788](https://github.com/tox-dev/tox/issues/2788) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2788](https://github.com/tox-dev/tox/issues/2788) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#291](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/291) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#290](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/290) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
