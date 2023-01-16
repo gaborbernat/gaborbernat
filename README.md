@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/tox-dev/tox-ini-fmt/pull/123) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🎉 Merged PR [#122](https://github.com/tox-dev/tox-ini-fmt/pull/122) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. ❗️ Closed issue [#104](https://github.com/tox-dev/tox-ini-fmt/issues/104) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🎉 Merged PR [#124](https://github.com/tox-dev/tox-ini-fmt/pull/124) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. ❗️ Closed issue [#2870](https://github.com/tox-dev/tox/issues/2870) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#125](https://github.com/tox-dev/tox-ini-fmt/pull/125) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. ❌ Closed PR [#49](https://github.com/tox-dev/tox-via-docker/pull/49) in [tox-dev/tox-via-docker](https://github.com/tox-dev/tox-via-docker)
+3. ❌ Closed PR [#295](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/295) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❗️ Closed issue [#293](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/293) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#294](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/294) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
