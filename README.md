@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#297](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/297) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#297](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/297) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 💪 Opened PR [#2489](https://github.com/pypa/virtualenv/pull/2489) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2860](https://github.com/tox-dev/tox/issues/2860) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Reopened issue [#2860](https://github.com/tox-dev/tox/issues/2860) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#2880](https://github.com/tox-dev/tox/issues/2880) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2880](https://github.com/tox-dev/tox/issues/2880) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#297](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/297) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#297](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/297) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#2489](https://github.com/pypa/virtualenv/pull/2489) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
