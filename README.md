@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3797](https://github.com/pypa/setuptools/issues/3797) in [pypa/setuptools](https://github.com/pypa/setuptools)
-2. 🎉 Merged PR [#2889](https://github.com/tox-dev/tox/pull/2889) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2890](https://github.com/tox-dev/tox/issues/2890) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2893](https://github.com/tox-dev/tox/issues/2893) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2892](https://github.com/tox-dev/tox/issues/2892) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#496](https://github.com/psincraian/pepy/issues/496) in [psincraian/pepy](https://github.com/psincraian/pepy)
+2. ❗️ Closed issue [#496](https://github.com/psincraian/pepy/issues/496) in [psincraian/pepy](https://github.com/psincraian/pepy)
+3. 🗣 Commented on [#3797](https://github.com/pypa/setuptools/issues/3797) in [pypa/setuptools](https://github.com/pypa/setuptools)
+4. ❗️ Closed issue [#2386](https://github.com/tox-dev/tox/issues/2386) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2888](https://github.com/tox-dev/tox/pull/2888) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
