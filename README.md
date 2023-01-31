@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2909](https://github.com/tox-dev/tox/issues/2909) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2902](https://github.com/tox-dev/tox/pull/2902) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Opened issue [#192](https://github.com/ismet55555/yojenkins/issues/192) in [ismet55555/yojenkins](https://github.com/ismet55555/yojenkins)
-4. ❗️ Closed issue [#269](https://github.com/sdispater/tomlkit/issues/269) in [sdispater/tomlkit](https://github.com/sdispater/tomlkit)
-5. ❗️ Opened issue [#269](https://github.com/sdispater/tomlkit/issues/269) in [sdispater/tomlkit](https://github.com/sdispater/tomlkit)
+1. ❌ Closed PR [#2492](https://github.com/pypa/virtualenv/pull/2492) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#9](https://github.com/gaborbernat/bernat-tech/pull/9) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+3. ❌ Closed PR [#31](https://github.com/gaborbernat/pypi_changes/pull/31) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. ❌ Closed PR [#23](https://github.com/gaborbernat/bump-deps-index/pull/23) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🗣 Commented on [#188](https://github.com/tox-dev/py-filelock/issues/188) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 <!--END_SECTION:activity-->
