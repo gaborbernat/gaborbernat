@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#275](https://github.com/asottile/all-repos/pull/275) in [asottile/all-repos](https://github.com/asottile/all-repos)
-2. 💪 Opened PR [#14](https://github.com/pyvenvmanage/PyVenvManage/pull/14) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. ❗️ Closed issue [#2702](https://github.com/tox-dev/tox/issues/2702) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2907](https://github.com/tox-dev/tox/pull/2907) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#2492](https://github.com/pypa/virtualenv/pull/2492) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#15](https://github.com/pyvenvmanage/PyVenvManage/pull/15) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+2. 💪 Opened PR [#275](https://github.com/asottile/all-repos/pull/275) in [asottile/all-repos](https://github.com/asottile/all-repos)
+3. 💪 Opened PR [#14](https://github.com/pyvenvmanage/PyVenvManage/pull/14) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+4. ❗️ Closed issue [#2702](https://github.com/tox-dev/tox/issues/2702) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2907](https://github.com/tox-dev/tox/pull/2907) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
