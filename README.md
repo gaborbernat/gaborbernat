@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/platformdirs/platformdirs/issues/132) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. ❌ Closed PR [#130](https://github.com/platformdirs/platformdirs/pull/130) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#130](https://github.com/platformdirs/platformdirs/issues/130) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#131](https://github.com/platformdirs/platformdirs/issues/131) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#130](https://github.com/platformdirs/platformdirs/issues/130) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#132](https://github.com/platformdirs/platformdirs/issues/132) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. ❌ Closed PR [#130](https://github.com/platformdirs/platformdirs/pull/130) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#130](https://github.com/platformdirs/platformdirs/issues/130) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#98](https://github.com/platformdirs/platformdirs/issues/98) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
