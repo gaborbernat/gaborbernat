@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#132](https://github.com/platformdirs/platformdirs/issues/132) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#48](https://github.com/pytest-dev/pytest-print/pull/48) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🎉 Merged PR [#16](https://github.com/pytest-dev/pytest-env/pull/16) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🎉 Merged PR [#86](https://github.com/bloomberg/attrs-strict/pull/86) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-5. ❌ Closed PR [#183](https://github.com/tox-dev/pipdeptree/pull/183) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#132](https://github.com/platformdirs/platformdirs/issues/132) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#132](https://github.com/platformdirs/platformdirs/issues/132) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#48](https://github.com/pytest-dev/pytest-print/pull/48) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#16](https://github.com/pytest-dev/pytest-env/pull/16) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 <!--END_SECTION:activity-->
