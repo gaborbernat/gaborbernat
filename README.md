@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2860](https://github.com/tox-dev/tox/issues/2860) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#132](https://github.com/platformdirs/platformdirs/pull/132) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#398](https://github.com/bloomberg/ipydatagrid/pull/398) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 💪 Opened PR [#2497](https://github.com/pypa/virtualenv/pull/2497) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2496](https://github.com/pypa/virtualenv/pull/2496) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#137](https://github.com/platformdirs/platformdirs/pull/137) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. ❌ Closed PR [#49](https://github.com/tox-dev/devpi-process/pull/49) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. ❌ Closed PR [#81](https://github.com/tox-dev/sphinx-argparse-cli/pull/81) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. ❌ Closed PR [#323](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/323) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ❌ Closed PR [#51](https://github.com/tox-dev/pyproject-api/pull/51) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
