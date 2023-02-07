@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2499](https://github.com/pypa/virtualenv/issues/2499) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#2502](https://github.com/pypa/virtualenv/pull/2502) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❌ Closed PR [#2501](https://github.com/pypa/virtualenv/pull/2501) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Closed issue [#140](https://github.com/platformdirs/platformdirs/issues/140) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❌ Closed PR [#195](https://github.com/tox-dev/py-filelock/pull/195) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🗣 Commented on [#2499](https://github.com/pypa/virtualenv/issues/2499) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#2502](https://github.com/pypa/virtualenv/pull/2502) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❌ Closed PR [#2501](https://github.com/pypa/virtualenv/pull/2501) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Closed issue [#140](https://github.com/platformdirs/platformdirs/issues/140) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
