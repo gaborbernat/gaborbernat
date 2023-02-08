@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/platformdirs/platformdirs/issues/120) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#120](https://github.com/platformdirs/platformdirs/issues/120) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#55](https://github.com/tox-dev/pyproject-fmt/issues/55) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#55](https://github.com/tox-dev/pyproject-fmt/issues/55) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#2918](https://github.com/tox-dev/tox/issues/2918) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#38](https://github.com/pypa/get-virtualenv/issues/38) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. ❗️ Closed issue [#45](https://github.com/pypa/get-virtualenv/issues/45) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+3. 🗣 Commented on [#45](https://github.com/pypa/get-virtualenv/issues/45) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+4. 🗣 Commented on [#120](https://github.com/platformdirs/platformdirs/issues/120) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#120](https://github.com/platformdirs/platformdirs/issues/120) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
