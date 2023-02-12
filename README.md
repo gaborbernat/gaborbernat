@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗️ Closed issue [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2493](https://github.com/pypa/virtualenv/issues/2493) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Closed issue [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1949](https://github.com/tox-dev/tox/issues/1949) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#2493](https://github.com/pypa/virtualenv/issues/2493) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
