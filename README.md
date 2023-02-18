@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#129](https://github.com/tox-dev/pipdeptree/issues/129) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#195](https://github.com/tox-dev/pipdeptree/pull/195) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. ❌ Closed PR [#194](https://github.com/tox-dev/pipdeptree/pull/194) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ❗️ Closed issue [#188](https://github.com/tox-dev/pipdeptree/issues/188) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#189](https://github.com/tox-dev/pipdeptree/pull/189) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#71](https://github.com/tox-dev/pyproject-fmt/issues/71) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. ❗️ Closed issue [#129](https://github.com/tox-dev/pipdeptree/issues/129) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#195](https://github.com/tox-dev/pipdeptree/pull/195) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ❌ Closed PR [#194](https://github.com/tox-dev/pipdeptree/pull/194) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ❗️ Closed issue [#188](https://github.com/tox-dev/pipdeptree/issues/188) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
