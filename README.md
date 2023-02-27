@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2507](https://github.com/pypa/virtualenv/issues/2507) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#324](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/324) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 💪 Opened PR [#324](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/324) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#1830](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1830) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. ❗️ Opened issue [#2213](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2213) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🎉 Merged PR [#11](https://github.com/gaborbernat/bernat-tech/pull/11) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. ❗️ Closed issue [#2507](https://github.com/pypa/virtualenv/issues/2507) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#324](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/324) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 💪 Opened PR [#324](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/324) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#1830](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1830) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
