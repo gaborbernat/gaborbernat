@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#186](https://github.com/tox-dev/pipdeptree/issues/186) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#201](https://github.com/tox-dev/pipdeptree/pull/201) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#200](https://github.com/tox-dev/pipdeptree/pull/200) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ❗️ Closed issue [#198](https://github.com/tox-dev/pipdeptree/issues/198) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#33](https://github.com/gaborbernat/pypi_changes/pull/33) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+1. ❌ Closed PR [#80](https://github.com/tox-dev/tox-extra/pull/80) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+2. ❌ Closed PR [#202](https://github.com/tox-dev/pipdeptree/pull/202) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. ❌ Closed PR [#196](https://github.com/tox-dev/py-filelock/pull/196) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. ❌ Closed PR [#83](https://github.com/tox-dev/sphinx-argparse-cli/pull/83) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. ❌ Closed PR [#329](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/329) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
