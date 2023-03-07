@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#80](https://github.com/tox-dev/tox-extra/pull/80) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
-2. ❌ Closed PR [#202](https://github.com/tox-dev/pipdeptree/pull/202) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. ❌ Closed PR [#196](https://github.com/tox-dev/py-filelock/pull/196) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. ❌ Closed PR [#83](https://github.com/tox-dev/sphinx-argparse-cli/pull/83) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. ❌ Closed PR [#329](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/329) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❌ Closed PR [#2513](https://github.com/pypa/virtualenv/pull/2513) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❌ Closed PR [#147](https://github.com/platformdirs/platformdirs/pull/147) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. ❌ Closed PR [#80](https://github.com/tox-dev/tox-extra/pull/80) in [tox-dev/tox-extra](https://github.com/tox-dev/tox-extra)
+4. ❌ Closed PR [#202](https://github.com/tox-dev/pipdeptree/pull/202) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ❌ Closed PR [#196](https://github.com/tox-dev/py-filelock/pull/196) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 <!--END_SECTION:activity-->
