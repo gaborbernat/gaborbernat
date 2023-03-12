@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/tox-dev/pyproject-fmt/pull/74) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 💪 Opened PR [#73](https://github.com/tox-dev/pyproject-fmt/pull/73) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 💪 Opened PR [#52](https://github.com/tox-dev/devpi-process/pull/52) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 💪 Opened PR [#51](https://github.com/tox-dev/devpi-process/pull/51) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 💪 Opened PR [#150](https://github.com/platformdirs/platformdirs/pull/150) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❗️ Reopened issue [#191](https://github.com/tox-dev/py-filelock/issues/191) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❗️ Closed issue [#191](https://github.com/tox-dev/py-filelock/issues/191) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. ❌ Closed PR [#326](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/326) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❗️ Closed issue [#7](https://github.com/tox-dev/tox-gh/issues/7) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 💪 Opened PR [#27](https://github.com/gaborbernat/bump-deps-index/pull/27) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
