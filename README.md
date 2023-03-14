@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#152](https://github.com/platformdirs/platformdirs/pull/152) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#192](https://github.com/tox-dev/py-filelock/issues/192) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🗣 Commented on [#2942](https://github.com/tox-dev/tox/issues/2942) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2942](https://github.com/tox-dev/tox/issues/2942) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2942](https://github.com/tox-dev/tox/issues/2942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#60](https://github.com/tox-dev/pyproject-api/pull/60) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🎉 Merged PR [#44](https://github.com/tox-dev/tox-gh/pull/44) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. ❌ Reopened PR [#586](https://github.com/pypa/build/pull/586) in [pypa/build](https://github.com/pypa/build)
+4. ❌ Closed PR [#586](https://github.com/pypa/build/pull/586) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#70](https://github.com/bloomberg/pytest-memray/pull/70) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 <!--END_SECTION:activity-->
