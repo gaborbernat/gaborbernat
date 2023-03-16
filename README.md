@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. ❗️ Closed issue [#70](https://github.com/tox-dev/py-filelock/issues/70) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Closed issue [#191](https://github.com/tox-dev/py-filelock/issues/191) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#192](https://github.com/tox-dev/py-filelock/pull/192) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. ❗️ Closed issue [#2511](https://github.com/pypa/virtualenv/issues/2511) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#44](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/44) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. ❗️ Opened issue [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. ❗️ Closed issue [#70](https://github.com/tox-dev/py-filelock/issues/70) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. ❗️ Closed issue [#191](https://github.com/tox-dev/py-filelock/issues/191) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🎉 Merged PR [#192](https://github.com/tox-dev/py-filelock/pull/192) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 <!--END_SECTION:activity-->
