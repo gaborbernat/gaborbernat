@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/44) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❗️ Opened issue [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. ❗️ Closed issue [#70](https://github.com/tox-dev/py-filelock/issues/70) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. ❗️ Closed issue [#191](https://github.com/tox-dev/py-filelock/issues/191) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🎉 Merged PR [#192](https://github.com/tox-dev/py-filelock/pull/192) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🎉 Merged PR [#132](https://github.com/tox-dev/tox-ini-fmt/pull/132) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 🎉 Merged PR [#91](https://github.com/bloomberg/attrs-strict/pull/91) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 🎉 Merged PR [#21](https://github.com/pytest-dev/pytest-env/pull/21) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#45](https://github.com/tox-dev/tox-gh/pull/45) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🎉 Merged PR [#61](https://github.com/tox-dev/pyproject-api/pull/61) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
