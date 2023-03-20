@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/sehaas/ha_hisense_tv/issues/49) in [sehaas/ha_hisense_tv](https://github.com/sehaas/ha_hisense_tv)
-2. ❌ Closed PR [#2944](https://github.com/tox-dev/tox/pull/2944) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#92](https://github.com/bloomberg/attrs-strict/pull/92) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-4. 🎉 Merged PR [#56](https://github.com/tox-dev/devpi-process/pull/56) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#54](https://github.com/pytest-dev/pytest-print/pull/54) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🗣 Commented on [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 🗣 Commented on [#154](https://github.com/tox-dev/tox-docker/issues/154) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
+3. ❗️ Opened issue [#49](https://github.com/sehaas/ha_hisense_tv/issues/49) in [sehaas/ha_hisense_tv](https://github.com/sehaas/ha_hisense_tv)
+4. ❌ Closed PR [#2944](https://github.com/tox-dev/tox/pull/2944) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#92](https://github.com/bloomberg/attrs-strict/pull/92) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
 <!--END_SECTION:activity-->
