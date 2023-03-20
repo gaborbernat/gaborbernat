@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 🗣 Commented on [#106](https://github.com/platformdirs/platformdirs/issues/106) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#154](https://github.com/tox-dev/tox-docker/issues/154) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
-5. ❗️ Opened issue [#49](https://github.com/sehaas/ha_hisense_tv/issues/49) in [sehaas/ha_hisense_tv](https://github.com/sehaas/ha_hisense_tv)
+1. 🗣 Commented on [#106](https://github.com/platformdirs/platformdirs/issues/106) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 🗣 Commented on [#106](https://github.com/platformdirs/platformdirs/issues/106) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#2229](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2229) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🗣 Commented on [#154](https://github.com/tox-dev/tox-docker/issues/154) in [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker)
 <!--END_SECTION:activity-->
