@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/tox-dev/sphinx-argparse-cli/pull/89) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 💪 Opened PR [#154](https://github.com/platformdirs/platformdirs/pull/154) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#23](https://github.com/pytest-dev/pytest-env/pull/23) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 💪 Opened PR [#336](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/336) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#2527](https://github.com/pypa/virtualenv/pull/2527) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#93](https://github.com/bloomberg/attrs-strict/pull/93) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+2. 🎉 Merged PR [#55](https://github.com/pytest-dev/pytest-print/pull/55) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. ❌ Closed PR [#2528](https://github.com/pypa/virtualenv/pull/2528) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#154](https://github.com/platformdirs/platformdirs/pull/154) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🎉 Merged PR [#62](https://github.com/tox-dev/pyproject-api/pull/62) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
