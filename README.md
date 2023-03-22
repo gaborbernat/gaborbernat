@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/tox-dev/py-filelock/issues/202) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🎉 Merged PR [#201](https://github.com/tox-dev/py-filelock/pull/201) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🎉 Merged PR [#89](https://github.com/tox-dev/sphinx-argparse-cli/pull/89) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🎉 Merged PR [#336](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/336) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#93](https://github.com/bloomberg/attrs-strict/pull/93) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+1. 🗣 Commented on [#213](https://github.com/tox-dev/pipdeptree/issues/213) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#69](https://github.com/tox-dev/pyproject-fmt/issues/69) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#202](https://github.com/tox-dev/py-filelock/issues/202) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#201](https://github.com/tox-dev/py-filelock/pull/201) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🎉 Merged PR [#89](https://github.com/tox-dev/sphinx-argparse-cli/pull/89) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
