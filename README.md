@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2530](https://github.com/pypa/virtualenv/pull/2530) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#49](https://github.com/tox-dev/tox-gh/pull/49) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🎉 Merged PR [#63](https://github.com/tox-dev/pyproject-api/pull/63) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. ❗️ Closed issue [#204](https://github.com/tox-dev/py-filelock/issues/204) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🎉 Merged PR [#206](https://github.com/tox-dev/py-filelock/pull/206) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🎉 Merged PR [#337](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/337) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#2954](https://github.com/tox-dev/tox/pull/2954) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2956](https://github.com/tox-dev/tox/pull/2956) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2955](https://github.com/tox-dev/tox/pull/2955) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#56](https://github.com/pytest-dev/pytest-print/pull/56) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 <!--END_SECTION:activity-->
