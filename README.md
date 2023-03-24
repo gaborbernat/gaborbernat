@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/tox-dev/py-filelock/issues/208) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🗣 Commented on [#208](https://github.com/tox-dev/py-filelock/issues/208) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. ❗️ Opened issue [#208](https://github.com/tox-dev/py-filelock/issues/208) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🎉 Merged PR [#337](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/337) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#2954](https://github.com/tox-dev/tox/pull/2954) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2529](https://github.com/pypa/virtualenv/issues/2529) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗️ Closed issue [#208](https://github.com/tox-dev/py-filelock/issues/208) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#208](https://github.com/tox-dev/py-filelock/issues/208) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#209](https://github.com/tox-dev/py-filelock/pull/209) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#208](https://github.com/tox-dev/py-filelock/issues/208) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 <!--END_SECTION:activity-->
