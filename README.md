@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/tox-dev/py-filelock/issues/147) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. ❗️ Closed issue [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗️ Closed issue [#213](https://github.com/tox-dev/pipdeptree/issues/213) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#215](https://github.com/tox-dev/pipdeptree/pull/215) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#94](https://github.com/bloomberg/attrs-strict/pull/94) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+4. 🎉 Merged PR [#135](https://github.com/tox-dev/tox-ini-fmt/pull/135) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#35](https://github.com/gaborbernat/bump-deps-index/pull/35) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
