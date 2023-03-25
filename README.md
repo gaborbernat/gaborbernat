@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#147](https://github.com/tox-dev/py-filelock/issues/147) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. ❗️ Closed issue [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗️ Closed issue [#210](https://github.com/tox-dev/py-filelock/issues/210) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🗣 Commented on [#2957](https://github.com/tox-dev/tox/issues/2957) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
