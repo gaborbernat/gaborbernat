@@ -108,7 +108,7 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/tox-dev/py-filelock/issues/214) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🎉 Merged PR [#214](https://github.com/tox-dev/py-filelock/pull/214) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 2. 🗣 Commented on [#214](https://github.com/tox-dev/py-filelock/issues/214) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 3. 🗣 Commented on [#214](https://github.com/tox-dev/py-filelock/issues/214) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 4. 🗣 Commented on [#214](https://github.com/tox-dev/py-filelock/issues/214) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
