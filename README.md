@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/cgiesche/streamdeck-homeassistant/issues/83) in [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)
-2. 🗣 Commented on [#139](https://github.com/cgiesche/streamdeck-homeassistant/issues/139) in [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)
-3. 🗣 Commented on [#119](https://github.com/cgiesche/streamdeck-homeassistant/issues/119) in [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)
-4. ❌ Closed PR [#216](https://github.com/tox-dev/pipdeptree/pull/216) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. ❌ Closed PR [#64](https://github.com/tox-dev/pyproject-api/pull/64) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🗣 Commented on [#132](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/132) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#83](https://github.com/cgiesche/streamdeck-homeassistant/issues/83) in [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)
+3. 🗣 Commented on [#139](https://github.com/cgiesche/streamdeck-homeassistant/issues/139) in [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)
+4. 🗣 Commented on [#119](https://github.com/cgiesche/streamdeck-homeassistant/issues/119) in [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)
+5. ❌ Closed PR [#216](https://github.com/tox-dev/pipdeptree/pull/216) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
