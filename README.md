@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#141](https://github.com/tox-dev/tox-ini-fmt/pull/141) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 💪 Opened PR [#141](https://github.com/tox-dev/tox-ini-fmt/pull/141) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🎉 Merged PR [#2962](https://github.com/tox-dev/tox/pull/2962) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#94](https://github.com/tox-dev/sphinx-argparse-cli/pull/94) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. ❌ Closed PR [#2537](https://github.com/pypa/virtualenv/pull/2537) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2966](https://github.com/tox-dev/tox/issues/2966) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2978](https://github.com/tox-dev/tox/pull/2978) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#141](https://github.com/tox-dev/tox-ini-fmt/pull/141) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 💪 Opened PR [#141](https://github.com/tox-dev/tox-ini-fmt/pull/141) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#2962](https://github.com/tox-dev/tox/pull/2962) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
