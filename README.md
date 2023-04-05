@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#219](https://github.com/tox-dev/py-filelock/issues/219) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 🎉 Merged PR [#82](https://github.com/tox-dev/pyproject-fmt/pull/82) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#83](https://github.com/tox-dev/pyproject-fmt/pull/83) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#2972](https://github.com/tox-dev/tox/issues/2972) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1387](https://github.com/tox-dev/tox/issues/1387) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#219](https://github.com/tox-dev/py-filelock/issues/219) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🎉 Merged PR [#82](https://github.com/tox-dev/pyproject-fmt/pull/82) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#83](https://github.com/tox-dev/pyproject-fmt/pull/83) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#2972](https://github.com/tox-dev/tox/issues/2972) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
