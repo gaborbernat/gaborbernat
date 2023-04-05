@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/tox-dev/tox-ini-fmt/pull/140) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🗣 Commented on [#2977](https://github.com/tox-dev/tox/issues/2977) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#94](https://github.com/tox-dev/sphinx-argparse-cli/pull/94) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 💪 Opened PR [#40](https://github.com/gaborbernat/bump-deps-index/pull/40) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 💪 Opened PR [#2537](https://github.com/pypa/virtualenv/pull/2537) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#59](https://github.com/pytest-dev/pytest-print/pull/59) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 💪 Opened PR [#222](https://github.com/tox-dev/py-filelock/pull/222) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 💪 Opened PR [#26](https://github.com/pytest-dev/pytest-env/pull/26) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 💪 Opened PR [#64](https://github.com/tox-dev/devpi-process/pull/64) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#162](https://github.com/platformdirs/platformdirs/pull/162) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
