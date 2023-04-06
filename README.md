@@ -111,6 +111,6 @@ You can find my Curriculum Vitae (or résumé) on the following link
 1. 🗣 Commented on [#219](https://github.com/tox-dev/py-filelock/issues/219) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 2. 🗣 Commented on [#219](https://github.com/tox-dev/py-filelock/issues/219) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 3. 🗣 Commented on [#219](https://github.com/tox-dev/py-filelock/issues/219) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. ❗️ Closed issue [#2966](https://github.com/tox-dev/tox/issues/2966) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2978](https://github.com/tox-dev/tox/pull/2978) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#219](https://github.com/tox-dev/py-filelock/issues/219) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❗️ Closed issue [#2966](https://github.com/tox-dev/tox/issues/2966) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
