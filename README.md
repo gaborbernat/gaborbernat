@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/tox-dev/tox-ini-fmt/pull/146) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 💪 Opened PR [#65](https://github.com/tox-dev/devpi-process/pull/65) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-3. 💪 Opened PR [#2980](https://github.com/tox-dev/tox/pull/2980) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#96](https://github.com/tox-dev/sphinx-argparse-cli/pull/96) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 💪 Opened PR [#27](https://github.com/pytest-dev/pytest-env/pull/27) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ❌ Closed PR [#221](https://github.com/tox-dev/pipdeptree/pull/221) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. ❌ Closed PR [#27](https://github.com/pytest-dev/pytest-env/pull/27) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. ❌ Closed PR [#96](https://github.com/tox-dev/sphinx-argparse-cli/pull/96) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. ❌ Closed PR [#2980](https://github.com/tox-dev/tox/pull/2980) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❌ Closed PR [#65](https://github.com/tox-dev/devpi-process/pull/65) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
 <!--END_SECTION:activity-->
