@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#165](https://github.com/platformdirs/platformdirs/issues/165) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. ❌ Closed PR [#165](https://github.com/platformdirs/platformdirs/pull/165) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#2942](https://github.com/tox-dev/tox/issues/2942) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2981](https://github.com/tox-dev/tox/pull/2981) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#2982](https://github.com/tox-dev/tox/pull/2982) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#165](https://github.com/platformdirs/platformdirs/issues/165) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#165](https://github.com/platformdirs/platformdirs/issues/165) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. ❌ Closed PR [#165](https://github.com/platformdirs/platformdirs/pull/165) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#2942](https://github.com/tox-dev/tox/issues/2942) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
