@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/tox-dev/devpi-process/pull/68) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. 💪 Opened PR [#99](https://github.com/tox-dev/sphinx-argparse-cli/pull/99) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. 💪 Opened PR [#55](https://github.com/tox-dev/tox-gh/pull/55) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 💪 Opened PR [#2544](https://github.com/pypa/virtualenv/pull/2544) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#149](https://github.com/tox-dev/tox-ini-fmt/pull/149) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ❌ Closed PR [#2544](https://github.com/pypa/virtualenv/pull/2544) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#348](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/348) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#2987](https://github.com/tox-dev/tox/pull/2987) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#2538](https://github.com/pypa/virtualenv/pull/2538) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❌ Closed PR [#2542](https://github.com/pypa/virtualenv/pull/2542) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
