@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#166](https://github.com/platformdirs/platformdirs/pull/166) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#2420](https://github.com/tox-dev/tox/issues/2420) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2420](https://github.com/tox-dev/tox/issues/2420) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#69](https://github.com/tox-dev/pyproject-api/issues/69) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. ❗️ Closed issue [#230](https://github.com/tox-dev/py-filelock/issues/230) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 💪 Opened PR [#61](https://github.com/pytest-dev/pytest-print/pull/61) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 💪 Opened PR [#97](https://github.com/bloomberg/attrs-strict/pull/97) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 💪 Opened PR [#348](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/348) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 💪 Opened PR [#46](https://github.com/gaborbernat/pypi_changes/pull/46) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 💪 Opened PR [#87](https://github.com/tox-dev/pyproject-fmt/pull/87) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
