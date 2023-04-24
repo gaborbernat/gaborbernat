@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2487](https://github.com/pypa/virtualenv/issues/2487) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2992](https://github.com/tox-dev/tox/pull/2992) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗️ Closed issue [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-4. 🗣 Commented on [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-5. 🗣 Commented on [#1258](https://github.com/nedbat/coveragepy/issues/1258) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+2. 🗣 Commented on [#2487](https://github.com/pypa/virtualenv/issues/2487) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2992](https://github.com/tox-dev/tox/pull/2992) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗️ Closed issue [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. 🗣 Commented on [#1257](https://github.com/nedbat/coveragepy/issues/1257) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
 <!--END_SECTION:activity-->
