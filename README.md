@@ -110,7 +110,7 @@ You can find my Curriculum Vitae (or résumé) on the following link
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2557](https://github.com/pypa/virtualenv/issues/2557) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. 🗣 Commented on [#2557](https://github.com/pypa/virtualenv/issues/2557) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#167](https://github.com/platformdirs/platformdirs/pull/167) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❌ Closed PR [#168](https://github.com/platformdirs/platformdirs/pull/168) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❌ Closed PR [#235](https://github.com/tox-dev/py-filelock/pull/235) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#2557](https://github.com/pypa/virtualenv/issues/2557) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2557](https://github.com/pypa/virtualenv/issues/2557) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#167](https://github.com/platformdirs/platformdirs/pull/167) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
