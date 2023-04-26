@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/platformdirs/platformdirs/pull/169) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#2994](https://github.com/tox-dev/tox/pull/2994) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#2994](https://github.com/tox-dev/tox/pull/2994) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2730](https://github.com/tox-dev/tox/issues/2730) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2557](https://github.com/pypa/virtualenv/issues/2557) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2918](https://github.com/tox-dev/tox/issues/2918) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2918](https://github.com/tox-dev/tox/issues/2918) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#72](https://github.com/tox-dev/pyproject-api/pull/72) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🗣 Commented on [#1523](https://github.com/nedbat/coveragepy/issues/1523) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. 🎉 Merged PR [#2995](https://github.com/tox-dev/tox/pull/2995) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
