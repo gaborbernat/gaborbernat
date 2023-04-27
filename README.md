@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/tox-dev/pyproject-fmt/issues/88) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#171](https://github.com/platformdirs/platformdirs/pull/171) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#170](https://github.com/platformdirs/platformdirs/pull/170) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❗️ Closed issue [#74](https://github.com/platformdirs/platformdirs/issues/74) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 💪 Opened PR [#171](https://github.com/platformdirs/platformdirs/pull/171) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#809](https://github.com/charliermarsh/ruff/issues/809) in [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+2. 🗣 Commented on [#88](https://github.com/tox-dev/pyproject-fmt/issues/88) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🎉 Merged PR [#171](https://github.com/platformdirs/platformdirs/pull/171) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#170](https://github.com/platformdirs/platformdirs/pull/170) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❗️ Closed issue [#74](https://github.com/platformdirs/platformdirs/issues/74) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
