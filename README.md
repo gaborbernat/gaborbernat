@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/gaborbernat/pypi_changes/pull/50) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-2. 💪 Opened PR [#50](https://github.com/gaborbernat/pypi_changes/pull/50) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-3. ❌ Closed PR [#70](https://github.com/tox-dev/devpi-process/pull/70) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🎉 Merged PR [#74](https://github.com/tox-dev/pyproject-api/pull/74) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. ❌ Closed PR [#49](https://github.com/gaborbernat/pypi_changes/pull/49) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+1. ❌ Closed PR [#153](https://github.com/tox-dev/tox-ini-fmt/pull/153) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. ❌ Closed PR [#57](https://github.com/tox-dev/tox-gh/pull/57) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. ❌ Closed PR [#56](https://github.com/tox-dev/tox-external-wheels/pull/56) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
+4. ❌ Closed PR [#353](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/353) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ❌ Closed PR [#103](https://github.com/tox-dev/sphinx-argparse-cli/pull/103) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
