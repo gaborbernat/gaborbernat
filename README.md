@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#228](https://github.com/tox-dev/pipdeptree/pull/228) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🗣 Commented on [#2548](https://github.com/pypa/virtualenv/issues/2548) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#177](https://github.com/platformdirs/platformdirs/issues/177) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. ❗️ Closed issue [#135](https://github.com/platformdirs/platformdirs/issues/135) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#175](https://github.com/platformdirs/platformdirs/pull/175) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❌ Closed PR [#70](https://github.com/tox-dev/devpi-process/pull/70) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 🎉 Merged PR [#74](https://github.com/tox-dev/pyproject-api/pull/74) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. ❌ Closed PR [#49](https://github.com/gaborbernat/pypi_changes/pull/49) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. 💪 Opened PR [#49](https://github.com/gaborbernat/pypi_changes/pull/49) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. ❌ Closed PR [#48](https://github.com/gaborbernat/pypi_changes/pull/48) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
 <!--END_SECTION:activity-->
