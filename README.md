@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2250](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2250) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 🗣 Commented on [#2250](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2250) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. ❌ Closed PR [#153](https://github.com/tox-dev/tox-ini-fmt/pull/153) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. ❌ Closed PR [#57](https://github.com/tox-dev/tox-gh/pull/57) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. ❌ Closed PR [#56](https://github.com/tox-dev/tox-external-wheels/pull/56) in [tox-dev/tox-external-wheels](https://github.com/tox-dev/tox-external-wheels)
+1. ❌ Closed PR [#51](https://github.com/gaborbernat/pypi_changes/pull/51) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+2. ❌ Closed PR [#47](https://github.com/gaborbernat/bump-deps-index/pull/47) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. ❌ Closed PR [#179](https://github.com/platformdirs/platformdirs/pull/179) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. ❗️ Closed issue [#2565](https://github.com/pypa/virtualenv/issues/2565) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2565](https://github.com/pypa/virtualenv/issues/2565) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
