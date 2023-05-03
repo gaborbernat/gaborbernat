@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/tox-dev/pipdeptree/issues/230) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. ❌ Closed PR [#51](https://github.com/gaborbernat/pypi_changes/pull/51) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-3. ❌ Closed PR [#47](https://github.com/gaborbernat/bump-deps-index/pull/47) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. ❌ Closed PR [#179](https://github.com/platformdirs/platformdirs/pull/179) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❗️ Closed issue [#2565](https://github.com/pypa/virtualenv/issues/2565) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#74](https://github.com/bloomberg/pytest-memray/pull/74) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+2. 🗣 Commented on [#230](https://github.com/tox-dev/pipdeptree/issues/230) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. ❌ Closed PR [#51](https://github.com/gaborbernat/pypi_changes/pull/51) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. ❌ Closed PR [#47](https://github.com/gaborbernat/bump-deps-index/pull/47) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. ❌ Closed PR [#179](https://github.com/platformdirs/platformdirs/pull/179) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
