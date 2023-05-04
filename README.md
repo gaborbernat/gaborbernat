@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3005](https://github.com/tox-dev/tox/issues/3005) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3005](https://github.com/tox-dev/tox/issues/3005) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#76](https://github.com/tox-dev/pyproject-api/pull/76) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#58](https://github.com/tox-dev/tox-gh/pull/58) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#74](https://github.com/bloomberg/pytest-memray/pull/74) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+1. 🎉 Merged PR [#49](https://github.com/gaborbernat/bump-deps-index/pull/49) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 💪 Opened PR [#49](https://github.com/gaborbernat/bump-deps-index/pull/49) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#239](https://github.com/tox-dev/py-filelock/pull/239) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#180](https://github.com/platformdirs/platformdirs/pull/180) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🎉 Merged PR [#2566](https://github.com/pypa/virtualenv/pull/2566) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
