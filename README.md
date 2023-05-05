@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2567](https://github.com/pypa/virtualenv/issues/2567) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2567](https://github.com/pypa/virtualenv/issues/2567) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❌ Closed PR [#12](https://github.com/gaborbernat/virtualenv/pull/12) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
-4. 🗣 Commented on [#94](https://github.com/tox-dev/pyproject-fmt/issues/94) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🎉 Merged PR [#49](https://github.com/gaborbernat/bump-deps-index/pull/49) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🗣 Commented on [#77](https://github.com/tox-dev/pyproject-api/issues/77) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. ❗️ Closed issue [#2567](https://github.com/pypa/virtualenv/issues/2567) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2567](https://github.com/pypa/virtualenv/issues/2567) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❌ Closed PR [#12](https://github.com/gaborbernat/virtualenv/pull/12) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+5. 🗣 Commented on [#94](https://github.com/tox-dev/pyproject-fmt/issues/94) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
