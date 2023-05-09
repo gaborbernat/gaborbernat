@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/tox-dev/pyproject-fmt/pull/96) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. ❗️ Closed issue [#3007](https://github.com/tox-dev/tox/issues/3007) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3007](https://github.com/tox-dev/tox/issues/3007) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#77](https://github.com/tox-dev/pyproject-api/issues/77) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. ❗️ Closed issue [#2567](https://github.com/pypa/virtualenv/issues/2567) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#96](https://github.com/tox-dev/pyproject-fmt/pull/96) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. ❌ Closed PR [#73](https://github.com/tox-dev/devpi-process/pull/73) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. ❌ Closed PR [#234](https://github.com/tox-dev/pipdeptree/pull/234) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ❌ Closed PR [#240](https://github.com/tox-dev/py-filelock/pull/240) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. ❌ Closed PR [#78](https://github.com/tox-dev/pyproject-api/pull/78) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
