@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3010](https://github.com/tox-dev/tox/issues/3010) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#99](https://github.com/bloomberg/attrs-strict/pull/99) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-3. ❌ Closed PR [#75](https://github.com/bloomberg/pytest-memray/pull/75) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-4. 🎉 Merged PR [#96](https://github.com/tox-dev/pyproject-fmt/pull/96) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. ❌ Closed PR [#73](https://github.com/tox-dev/devpi-process/pull/73) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🗣 Commented on [#2485](https://github.com/pypa/virtualenv/issues/2485) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#3010](https://github.com/tox-dev/tox/issues/3010) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#99](https://github.com/bloomberg/attrs-strict/pull/99) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+4. ❌ Closed PR [#75](https://github.com/bloomberg/pytest-memray/pull/75) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🎉 Merged PR [#96](https://github.com/tox-dev/pyproject-fmt/pull/96) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
