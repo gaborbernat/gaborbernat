@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/gaborbernat/pypi_changes/pull/54) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-2. 💪 Opened PR [#54](https://github.com/gaborbernat/pypi_changes/pull/54) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-3. ❗️ Opened issue [#1621](https://github.com/nedbat/coveragepy/issues/1621) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-4. 🗣 Commented on [#2485](https://github.com/pypa/virtualenv/issues/2485) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#3010](https://github.com/tox-dev/tox/issues/3010) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#181](https://github.com/platformdirs/platformdirs/pull/181) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#54](https://github.com/gaborbernat/pypi_changes/pull/54) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+3. 💪 Opened PR [#54](https://github.com/gaborbernat/pypi_changes/pull/54) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. ❗️ Opened issue [#1621](https://github.com/nedbat/coveragepy/issues/1621) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. 🗣 Commented on [#2485](https://github.com/pypa/virtualenv/issues/2485) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
