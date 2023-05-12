@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/tox-dev/pipdeptree/issues/235) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. ❗️ Closed issue [#184](https://github.com/platformdirs/platformdirs/issues/184) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#184](https://github.com/platformdirs/platformdirs/issues/184) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#233](https://github.com/tox-dev/pipdeptree/issues/233) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. ❗️ Closed issue [#233](https://github.com/tox-dev/pipdeptree/issues/233) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#3012](https://github.com/tox-dev/tox/issues/3012) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗️ Closed issue [#3012](https://github.com/tox-dev/tox/issues/3012) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#235](https://github.com/tox-dev/pipdeptree/issues/235) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ❗️ Closed issue [#184](https://github.com/platformdirs/platformdirs/issues/184) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#184](https://github.com/platformdirs/platformdirs/issues/184) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
