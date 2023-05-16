@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-2. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 💪 Opened PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-4. 🗣 Commented on [#2570](https://github.com/pypa/virtualenv/issues/2570) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❗️ Closed issue [#236](https://github.com/tox-dev/pipdeptree/issues/236) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+2. 🎉 Merged PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+3. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+4. 💪 Opened PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+5. 🗣 Commented on [#2570](https://github.com/pypa/virtualenv/issues/2570) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
