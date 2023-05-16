@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-2. 🎉 Merged PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-3. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-4. 💪 Opened PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🗣 Commented on [#2570](https://github.com/pypa/virtualenv/issues/2570) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+3. 🎉 Merged PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+4. 🗣 Commented on [#16](https://github.com/pyvenvmanage/PyVenvManage/issues/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+5. 💪 Opened PR [#16](https://github.com/pyvenvmanage/PyVenvManage/pull/16) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
