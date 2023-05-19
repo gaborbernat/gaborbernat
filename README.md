@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2571](https://github.com/pypa/virtualenv/pull/2571) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2572](https://github.com/pypa/virtualenv/pull/2572) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Opened issue [#4462](https://github.com/charliermarsh/ruff/issues/4462) in [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
-4. 🗣 Commented on [#1856](https://github.com/OpenLineage/OpenLineage/issues/1856) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-5. 🗣 Commented on [#351](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/351) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❗️ Closed issue [#2574](https://github.com/pypa/virtualenv/issues/2574) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2576](https://github.com/pypa/virtualenv/pull/2576) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2575](https://github.com/pypa/virtualenv/pull/2575) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❌ Closed PR [#2571](https://github.com/pypa/virtualenv/pull/2571) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2572](https://github.com/pypa/virtualenv/pull/2572) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
