@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#61](https://github.com/tox-dev/tox-gh/issues/61) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. 🗣 Commented on [#61](https://github.com/tox-dev/tox-gh/issues/61) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🗣 Commented on [#235](https://github.com/tox-dev/pipdeptree/issues/235) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#1869](https://github.com/OpenLineage/OpenLineage/pull/1869) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-5. ❗️ Closed issue [#2574](https://github.com/pypa/virtualenv/issues/2574) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Opened issue [#1876](https://github.com/OpenLineage/OpenLineage/issues/1876) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+2. ❗️ Opened issue [#1875](https://github.com/OpenLineage/OpenLineage/issues/1875) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+3. ❗️ Closed issue [#61](https://github.com/tox-dev/tox-gh/issues/61) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🗣 Commented on [#61](https://github.com/tox-dev/tox-gh/issues/61) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🗣 Commented on [#235](https://github.com/tox-dev/pipdeptree/issues/235) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
