@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1879](https://github.com/OpenLineage/OpenLineage/issues/1879) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-2. 🗣 Commented on [#2577](https://github.com/pypa/virtualenv/issues/2577) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗️ Opened issue [#1876](https://github.com/OpenLineage/OpenLineage/issues/1876) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-4. ❗️ Opened issue [#1875](https://github.com/OpenLineage/OpenLineage/issues/1875) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-5. ❗️ Closed issue [#61](https://github.com/tox-dev/tox-gh/issues/61) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. ❗️ Closed issue [#2579](https://github.com/pypa/virtualenv/issues/2579) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2579](https://github.com/pypa/virtualenv/issues/2579) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❗️ Opened issue [#1879](https://github.com/OpenLineage/OpenLineage/issues/1879) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+4. 🗣 Commented on [#2577](https://github.com/pypa/virtualenv/issues/2577) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗️ Opened issue [#1876](https://github.com/OpenLineage/OpenLineage/issues/1876) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 <!--END_SECTION:activity-->
