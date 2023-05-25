@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3904](https://github.com/moby/buildkit/issues/3904) in [moby/buildkit](https://github.com/moby/buildkit)
-2. ❗️ Closed issue [#2579](https://github.com/pypa/virtualenv/issues/2579) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2579](https://github.com/pypa/virtualenv/issues/2579) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❗️ Opened issue [#1879](https://github.com/OpenLineage/OpenLineage/issues/1879) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-5. 🗣 Commented on [#2577](https://github.com/pypa/virtualenv/issues/2577) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗️ Closed issue [#2925](https://github.com/tox-dev/tox/issues/2925) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3013](https://github.com/tox-dev/tox/pull/3013) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❗️ Opened issue [#3904](https://github.com/moby/buildkit/issues/3904) in [moby/buildkit](https://github.com/moby/buildkit)
+4. ❗️ Closed issue [#2579](https://github.com/pypa/virtualenv/issues/2579) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2579](https://github.com/pypa/virtualenv/issues/2579) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
