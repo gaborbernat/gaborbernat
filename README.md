@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/tox-dev/py-filelock/pull/243) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 💪 Opened PR [#187](https://github.com/platformdirs/platformdirs/pull/187) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 💪 Opened PR [#238](https://github.com/tox-dev/pipdeptree/pull/238) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#243](https://github.com/tox-dev/py-filelock/pull/243) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🎉 Merged PR [#52](https://github.com/gaborbernat/bump-deps-index/pull/52) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#2582](https://github.com/pypa/virtualenv/pull/2582) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#157](https://github.com/tox-dev/tox-ini-fmt/pull/157) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 💪 Opened PR [#3022](https://github.com/tox-dev/tox/pull/3022) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#358](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/358) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#107](https://github.com/tox-dev/sphinx-argparse-cli/pull/107) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
