@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gaborbernat/gaborbernat/pull/3) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-2. 💪 Opened PR [#1892](https://github.com/OpenLineage/OpenLineage/pull/1892) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-3. ❌ Closed PR [#55](https://github.com/gaborbernat/pypi_changes/pull/55) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 🎉 Merged PR [#3022](https://github.com/tox-dev/tox/pull/3022) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#187](https://github.com/platformdirs/platformdirs/pull/187) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#3023](https://github.com/tox-dev/tox/issues/3023) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3](https://github.com/gaborbernat/gaborbernat/pull/3) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+3. 💪 Opened PR [#1892](https://github.com/OpenLineage/OpenLineage/pull/1892) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+4. ❌ Closed PR [#55](https://github.com/gaborbernat/pypi_changes/pull/55) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 🎉 Merged PR [#3022](https://github.com/tox-dev/tox/pull/3022) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
