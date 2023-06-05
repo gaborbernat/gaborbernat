@@ -111,6 +111,6 @@ You can find my Curriculum Vitae (or résumé) on the following link
 1. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 2. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 3. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-4. 🗣 Commented on [#3023](https://github.com/tox-dev/tox/issues/3023) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3](https://github.com/gaborbernat/gaborbernat/pull/3) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+4. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+5. 🗣 Commented on [#3023](https://github.com/tox-dev/tox/issues/3023) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
