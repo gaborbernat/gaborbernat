@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+1. ❗ Opened issue [#4866](https://github.com/charliermarsh/ruff/issues/4866) in [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
 2. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 3. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 4. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-5. 🗣 Commented on [#3023](https://github.com/tox-dev/tox/issues/3023) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 <!--END_SECTION:activity-->
