@@ -110,7 +110,7 @@ You can find my Curriculum Vitae (or résumé) on the following link
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 2. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-3. 🗣 Commented on [#3023](https://github.com/tox-dev/tox/issues/3023) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3](https://github.com/gaborbernat/gaborbernat/pull/3) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-5. 💪 Opened PR [#1892](https://github.com/OpenLineage/OpenLineage/pull/1892) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+3. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+4. 🗣 Commented on [#3023](https://github.com/tox-dev/tox/issues/3023) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#3](https://github.com/gaborbernat/gaborbernat/pull/3) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
 <!--END_SECTION:activity-->
