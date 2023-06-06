@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#518](https://github.com/hynek/structlog/issues/518) in [hynek/structlog](https://github.com/hynek/structlog)
-2. ❌ Closed PR [#237](https://github.com/tox-dev/pipdeptree/pull/237) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🚀 Published release [2.8.0](https://github.com/2.8.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🔒 Closed issue [#181](https://github.com/tox-dev/pipdeptree/issues/181) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#239](https://github.com/tox-dev/pipdeptree/pull/239) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#4887](https://github.com/charliermarsh/ruff/issues/4887) in [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+2. ❗ Opened issue [#1909](https://github.com/OpenLineage/OpenLineage/issues/1909) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+3. ❗ Opened issue [#518](https://github.com/hynek/structlog/issues/518) in [hynek/structlog](https://github.com/hynek/structlog)
+4. ❌ Closed PR [#237](https://github.com/tox-dev/pipdeptree/pull/237) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🚀 Published release [2.8.0](https://github.com/2.8.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
