@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.1](https://github.com/1.4.1) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🎉 Merged PR [#77](https://github.com/bloomberg/pytest-memray/pull/77) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-4. 🔒 Closed issue [#3027](https://github.com/tox-dev/tox/issues/3027) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3027](https://github.com/tox-dev/tox/issues/3027) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#237](https://github.com/tox-dev/pipdeptree/pull/237) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🚀 Published release [2.8.0](https://github.com/2.8.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#181](https://github.com/tox-dev/pipdeptree/issues/181) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#239](https://github.com/tox-dev/pipdeptree/pull/239) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ❗ Opened issue [#4887](https://github.com/charliermarsh/ruff/issues/4887) in [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
 <!--END_SECTION:activity-->
