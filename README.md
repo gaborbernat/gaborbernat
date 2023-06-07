@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3025](https://github.com/tox-dev/tox/pull/3025) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#1917](https://github.com/OpenLineage/OpenLineage/pull/1917) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-3. 💪 Opened PR [#1913](https://github.com/OpenLineage/OpenLineage/pull/1913) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-4. 🗣 Commented on [#518](https://github.com/hynek/structlog/issues/518) in [hynek/structlog](https://github.com/hynek/structlog)
-5. ❗ Opened issue [#1911](https://github.com/OpenLineage/OpenLineage/issues/1911) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+1. 🗣 Commented on [#4866](https://github.com/charliermarsh/ruff/issues/4866) in [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+2. 🎉 Merged PR [#3025](https://github.com/tox-dev/tox/pull/3025) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#1917](https://github.com/OpenLineage/OpenLineage/pull/1917) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+4. 💪 Opened PR [#1913](https://github.com/OpenLineage/OpenLineage/pull/1913) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+5. 🗣 Commented on [#518](https://github.com/hynek/structlog/issues/518) in [hynek/structlog](https://github.com/hynek/structlog)
 <!--END_SECTION:activity-->
