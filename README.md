@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2584](https://github.com/pypa/virtualenv/issues/2584) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2584](https://github.com/pypa/virtualenv/issues/2584) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#2583](https://github.com/pypa/virtualenv/issues/2583) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2583](https://github.com/pypa/virtualenv/issues/2583) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1917](https://github.com/OpenLineage/OpenLineage/issues/1917) in [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+1. 🗣 Commented on [#63](https://github.com/tox-dev/tox-gh/issues/63) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. 🔒 Closed issue [#2584](https://github.com/pypa/virtualenv/issues/2584) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2584](https://github.com/pypa/virtualenv/issues/2584) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔒 Closed issue [#2583](https://github.com/pypa/virtualenv/issues/2583) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2583](https://github.com/pypa/virtualenv/issues/2583) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
