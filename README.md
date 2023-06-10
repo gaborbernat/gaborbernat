@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#185](https://github.com/platformdirs/platformdirs/pull/185) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 💪 Opened PR [#189](https://github.com/platformdirs/platformdirs/pull/189) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#2545](https://github.com/home-assistant/operating-system/issues/2545) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-4. 🗣 Commented on [#63](https://github.com/tox-dev/tox-gh/issues/63) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🔒 Closed issue [#2584](https://github.com/pypa/virtualenv/issues/2584) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#189](https://github.com/platformdirs/platformdirs/pull/189) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🚀 Published release [3.5.2](https://github.com/3.5.2) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 💪 Opened PR [#244](https://github.com/tox-dev/py-filelock/pull/244) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. ❌ Closed PR [#185](https://github.com/platformdirs/platformdirs/pull/185) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 💪 Opened PR [#189](https://github.com/platformdirs/platformdirs/pull/189) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
