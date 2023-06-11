@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2586](https://github.com/pypa/virtualenv/pull/2586) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [3.12.1](https://github.com/3.12.1) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-3. 🎉 Merged PR [#242](https://github.com/tox-dev/py-filelock/pull/242) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-4. 🚀 Published release [3.5.3](https://github.com/3.5.3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. ❌ Closed PR [#241](https://github.com/tox-dev/py-filelock/pull/241) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+1. 🎉 Merged PR [#63](https://github.com/tox-dev/tox-gh/pull/63) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. 🎉 Merged PR [#2586](https://github.com/pypa/virtualenv/pull/2586) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [3.12.1](https://github.com/3.12.1) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+4. 🎉 Merged PR [#242](https://github.com/tox-dev/py-filelock/pull/242) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 🚀 Published release [3.5.3](https://github.com/3.5.3) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
