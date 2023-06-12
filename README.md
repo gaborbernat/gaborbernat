@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5014](https://github.com/astral-sh/ruff/issues/5014) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-gh/pull/66) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 💪 Opened PR [#66](https://github.com/tox-dev/tox-gh/pull/66) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. ❗ Opened issue [#5014](https://github.com/astral-sh/ruff/issues/5014) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🚀 Published release [1.2.0](https://github.com/1.2.0) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🚀 Published release [3.12.2](https://github.com/3.12.2) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+2. 🎉 Merged PR [#245](https://github.com/tox-dev/py-filelock/pull/245) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+3. 🗣 Commented on [#5014](https://github.com/astral-sh/ruff/issues/5014) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-gh/pull/66) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 💪 Opened PR [#66](https://github.com/tox-dev/tox-gh/pull/66) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
