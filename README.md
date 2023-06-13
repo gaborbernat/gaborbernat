@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. ❗ Opened issue [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 💪 Opened PR [#246](https://github.com/tox-dev/py-filelock/pull/246) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-5. 🔒 Closed issue [#3032](https://github.com/tox-dev/tox/issues/3032) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#2588](https://github.com/pypa/virtualenv/pull/2588) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. ❗ Opened issue [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 💪 Opened PR [#246](https://github.com/tox-dev/py-filelock/pull/246) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
 <!--END_SECTION:activity-->
