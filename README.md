@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#246](https://github.com/tox-dev/py-filelock/pull/246) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
-2. 💪 Opened PR [#2588](https://github.com/pypa/virtualenv/pull/2588) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. ❗ Opened issue [#5056](https://github.com/astral-sh/ruff/issues/5056) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 💪 Opened PR [#3033](https://github.com/tox-dev/tox/pull/3033) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#2582](https://github.com/pypa/virtualenv/pull/2582) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#2587](https://github.com/pypa/virtualenv/pull/2587) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#246](https://github.com/tox-dev/py-filelock/pull/246) in [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock)
+5. 💪 Opened PR [#2588](https://github.com/pypa/virtualenv/pull/2588) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
