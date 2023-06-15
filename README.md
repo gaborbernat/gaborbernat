@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2589](https://github.com/pypa/virtualenv/issues/2589) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [1.5.2](https://github.com/1.5.2) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#81](https://github.com/tox-dev/pyproject-api/pull/81) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 💪 Opened PR [#81](https://github.com/tox-dev/pyproject-api/pull/81) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🚀 Published release [2.9.1](https://github.com/2.9.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#2589](https://github.com/pypa/virtualenv/issues/2589) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [1.5.2](https://github.com/1.5.2) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#81](https://github.com/tox-dev/pyproject-api/pull/81) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 💪 Opened PR [#81](https://github.com/tox-dev/pyproject-api/pull/81) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
