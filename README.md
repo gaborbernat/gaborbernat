@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#246](https://github.com/tox-dev/pipdeptree/pull/246) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🗣 Commented on [#2589](https://github.com/pypa/virtualenv/issues/2589) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2589](https://github.com/pypa/virtualenv/issues/2589) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2589](https://github.com/pypa/virtualenv/issues/2589) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🚀 Published release [1.5.2](https://github.com/1.5.2) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🔒 Closed issue [#245](https://github.com/tox-dev/pipdeptree/issues/245) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#245](https://github.com/tox-dev/pipdeptree/issues/245) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🚀 Published release [2.9.2](https://github.com/2.9.2) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#247](https://github.com/tox-dev/pipdeptree/pull/247) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#242](https://github.com/tox-dev/pipdeptree/issues/242) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
