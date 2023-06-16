@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🔒 Reopened issue [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🗣 Commented on [#3032](https://github.com/tox-dev/tox/issues/3032) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [1.23.2](https://github.com/1.23.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🔒 Reopened issue [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
