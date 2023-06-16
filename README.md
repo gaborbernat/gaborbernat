@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🔒 Reopened issue [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🗣 Commented on [#3032](https://github.com/tox-dev/tox/issues/3032) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [1.23.2](https://github.com/1.23.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#355](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/355) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. 🔒 Reopened issue [#82](https://github.com/tox-dev/pyproject-api/issues/82) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🗣 Commented on [#3032](https://github.com/tox-dev/tox/issues/3032) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [1.23.2](https://github.com/1.23.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
