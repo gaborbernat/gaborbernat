@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.1](https://github.com/1.3.1) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🎉 Merged PR [#158](https://github.com/tox-dev/tox-ini-fmt/pull/158) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 💪 Opened PR [#53](https://github.com/gaborbernat/bump-deps-index/pull/53) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🚀 Published release [4.6.1](https://github.com/4.6.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3033](https://github.com/tox-dev/tox/pull/3033) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [2.9.3](https://github.com/2.9.3) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#248](https://github.com/tox-dev/pipdeptree/pull/248) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#242](https://github.com/tox-dev/pipdeptree/issues/242) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 💪 Opened PR [#58](https://github.com/gaborbernat/pypi_changes/pull/58) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 🚀 Published release [1.4.3](https://github.com/1.4.3) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
