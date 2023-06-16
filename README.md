@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.9.3](https://github.com/2.9.3) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#248](https://github.com/tox-dev/pipdeptree/pull/248) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🔒 Closed issue [#242](https://github.com/tox-dev/pipdeptree/issues/242) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#58](https://github.com/gaborbernat/pypi_changes/pull/58) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-5. 🚀 Published release [1.4.3](https://github.com/1.4.3) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#108](https://github.com/tox-dev/sphinx-argparse-cli/pull/108) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🚀 Published release [1.2.1](https://github.com/1.2.1) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+3. 🎉 Merged PR [#58](https://github.com/gaborbernat/pypi_changes/pull/58) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. 🚀 Published release [2.9.3](https://github.com/2.9.3) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#248](https://github.com/tox-dev/pipdeptree/pull/248) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
