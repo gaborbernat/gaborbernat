@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.3.2](https://github.com/0.3.2) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🎉 Merged PR [#64](https://github.com/pytest-dev/pytest-print/pull/64) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🚀 Published release [1.11.1](https://github.com/1.11.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🎉 Merged PR [#108](https://github.com/tox-dev/sphinx-argparse-cli/pull/108) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 💪 Opened PR [#64](https://github.com/pytest-dev/pytest-print/pull/64) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🚀 Published release [1.23.2](https://github.com/1.23.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#355](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/355) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#361](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/361) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#2553](https://github.com/pypa/virtualenv/issues/2553) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [0.3.2](https://github.com/0.3.2) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 <!--END_SECTION:activity-->
