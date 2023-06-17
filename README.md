@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#79](https://github.com/bloomberg/pytest-memray/issues/79) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🗣 Commented on [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [20.23.1](https://github.com/20.23.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2590](https://github.com/pypa/virtualenv/pull/2590) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🚀 Published release [4.6.2](https://github.com/4.6.2) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3034](https://github.com/tox-dev/tox/issues/3034) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3035](https://github.com/tox-dev/tox/pull/3035) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❌ Closed PR [#79](https://github.com/bloomberg/pytest-memray/pull/79) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 <!--END_SECTION:activity-->
