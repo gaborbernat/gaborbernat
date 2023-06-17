@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3041](https://github.com/tox-dev/tox/issues/3041) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#191](https://github.com/platformdirs/platformdirs/issues/191) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#68](https://github.com/tox-dev/tox-gh/issues/68) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🗣 Commented on [#67](https://github.com/tox-dev/tox-gh/issues/67) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🔒 Closed issue [#3041](https://github.com/tox-dev/tox/issues/3041) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3041](https://github.com/tox-dev/tox/issues/3041) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3041](https://github.com/tox-dev/tox/issues/3041) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#191](https://github.com/platformdirs/platformdirs/issues/191) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. 🗣 Commented on [#68](https://github.com/tox-dev/tox-gh/issues/68) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
