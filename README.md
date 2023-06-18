@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/platformdirs/platformdirs/issues/192) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🚀 Published release [3.6.0](https://github.com/3.6.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🔒 Closed issue [#191](https://github.com/platformdirs/platformdirs/issues/191) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#192](https://github.com/platformdirs/platformdirs/pull/192) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🔒 Closed issue [#3041](https://github.com/tox-dev/tox/issues/3041) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#3042](https://github.com/tox-dev/tox/issues/3042) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3042](https://github.com/tox-dev/tox/issues/3042) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#192](https://github.com/platformdirs/platformdirs/issues/192) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🚀 Published release [3.6.0](https://github.com/3.6.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🔒 Closed issue [#191](https://github.com/platformdirs/platformdirs/issues/191) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
