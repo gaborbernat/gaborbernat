@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🔒 Closed issue [#2859](https://github.com/tox-dev/tox/issues/2859) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🚀 Published release [0.12.1](https://github.com/0.12.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🔒 Closed issue [#2893](https://github.com/tox-dev/tox/issues/2893) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2935](https://github.com/tox-dev/tox/issues/2935) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [3.7.0](https://github.com/3.7.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#194](https://github.com/platformdirs/platformdirs/pull/194) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 💪 Opened PR [#8118](https://github.com/python-poetry/poetry/pull/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🔒 Closed issue [#2859](https://github.com/tox-dev/tox/issues/2859) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
