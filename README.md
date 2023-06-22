@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🚀 Published release [3.7.0](https://github.com/3.7.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#194](https://github.com/platformdirs/platformdirs/pull/194) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 💪 Opened PR [#8118](https://github.com/python-poetry/poetry/pull/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#2600](https://github.com/home-assistant/operating-system/issues/2600) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+2. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🚀 Published release [3.7.0](https://github.com/3.7.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#194](https://github.com/platformdirs/platformdirs/pull/194) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 💪 Opened PR [#8118](https://github.com/python-poetry/poetry/pull/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
