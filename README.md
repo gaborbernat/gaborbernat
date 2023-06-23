@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.8.0](https://github.com/3.8.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#195](https://github.com/platformdirs/platformdirs/pull/195) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#2600](https://github.com/home-assistant/operating-system/issues/2600) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-4. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🚀 Published release [3.7.0](https://github.com/3.7.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#196](https://github.com/platformdirs/platformdirs/issues/196) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🚀 Published release [3.8.0](https://github.com/3.8.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#195](https://github.com/platformdirs/platformdirs/pull/195) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#2600](https://github.com/home-assistant/operating-system/issues/2600) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+5. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
