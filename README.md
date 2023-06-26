@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🗣 Commented on [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🗣 Commented on [#363](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/363) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#3050](https://github.com/tox-dev/tox/issues/3050) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+2. 🗣 Commented on [#80](https://github.com/bloomberg/pytest-memray/issues/80) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+3. 🔒 Closed issue [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🗣 Commented on [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🗣 Commented on [#363](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/363) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
