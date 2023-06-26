@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#162](https://github.com/tox-dev/tox-ini-fmt/pull/162) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🎉 Merged PR [#36](https://github.com/pytest-dev/pytest-env/pull/36) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🎉 Merged PR [#60](https://github.com/gaborbernat/pypi_changes/pull/60) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-4. 🎉 Merged PR [#55](https://github.com/gaborbernat/bump-deps-index/pull/55) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🎉 Merged PR [#364](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/364) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#110](https://github.com/tox-dev/sphinx-argparse-cli/pull/110) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#162](https://github.com/tox-dev/tox-ini-fmt/pull/162) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🎉 Merged PR [#36](https://github.com/pytest-dev/pytest-env/pull/36) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#60](https://github.com/gaborbernat/pypi_changes/pull/60) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+5. 🎉 Merged PR [#55](https://github.com/gaborbernat/bump-deps-index/pull/55) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
