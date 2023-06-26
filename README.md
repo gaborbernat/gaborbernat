@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/bloomberg/pytest-memray/issues/80) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-2. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+1. 💪 Opened PR [#2593](https://github.com/pypa/virtualenv/pull/2593) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#80](https://github.com/bloomberg/pytest-memray/issues/80) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
 3. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
 4. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
-5. 🗣 Commented on [#80](https://github.com/bloomberg/pytest-memray/issues/80) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
 <!--END_SECTION:activity-->
