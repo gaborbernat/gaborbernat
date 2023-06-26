@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
-2. 🗣 Commented on [#80](https://github.com/bloomberg/pytest-memray/issues/80) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
-3. 🔒 Closed issue [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🗣 Commented on [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🗣 Commented on [#363](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/363) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+3. 🗣 Commented on [#1154](https://github.com/python-attrs/attrs/issues/1154) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+4. 🗣 Commented on [#80](https://github.com/bloomberg/pytest-memray/issues/80) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 🔒 Closed issue [#160](https://github.com/tox-dev/tox-ini-fmt/issues/160) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
 <!--END_SECTION:activity-->
