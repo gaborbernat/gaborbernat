@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1544](https://github.com/pypa/virtualenv/issues/1544) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#1544](https://github.com/pypa/virtualenv/issues/1544) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#1542](https://github.com/pypa/virtualenv/issues/1542) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#1542](https://github.com/pypa/virtualenv/issues/1542) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Closed issue [#1541](https://github.com/pypa/virtualenv/issues/1541) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#1910](https://github.com/pypa/virtualenv/issues/1910) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#1910](https://github.com/pypa/virtualenv/issues/1910) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🔒 Closed issue [#1917](https://github.com/pypa/virtualenv/issues/1917) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#1917](https://github.com/pypa/virtualenv/issues/1917) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🔒 Closed issue [#2022](https://github.com/pypa/virtualenv/issues/2022) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
