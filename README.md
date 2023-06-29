@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🚀 Published release [0.3.3](https://github.com/0.3.3) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🎉 Merged PR [#66](https://github.com/pytest-dev/pytest-print/pull/66) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 💪 Opened PR [#66](https://github.com/pytest-dev/pytest-print/pull/66) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🔒 Closed issue [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🚀 Published release [0.3.3](https://github.com/0.3.3) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#66](https://github.com/pytest-dev/pytest-print/pull/66) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 <!--END_SECTION:activity-->
