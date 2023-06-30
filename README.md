@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#253](https://github.com/tox-dev/pipdeptree/issues/253) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🔒 Closed issue [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2565](https://github.com/pypa/virtualenv/issues/2565) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#8118](https://github.com/python-poetry/poetry/issues/8118) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#253](https://github.com/tox-dev/pipdeptree/issues/253) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🔒 Closed issue [#1129](https://github.com/pypa/virtualenv/issues/1129) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
