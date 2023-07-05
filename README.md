@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/gaborbernat/pypi_changes/pull/62) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
-2. 🎉 Merged PR [#2598](https://github.com/pypa/virtualenv/pull/2598) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#57](https://github.com/gaborbernat/bump-deps-index/pull/57) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. ❌ Closed PR [#199](https://github.com/platformdirs/platformdirs/pull/199) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#199](https://github.com/platformdirs/platformdirs/issues/199) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🔒 Closed issue [#2600](https://github.com/pypa/virtualenv/issues/2600) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2600](https://github.com/pypa/virtualenv/issues/2600) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#62](https://github.com/gaborbernat/pypi_changes/pull/62) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+4. 🎉 Merged PR [#2598](https://github.com/pypa/virtualenv/pull/2598) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#57](https://github.com/gaborbernat/bump-deps-index/pull/57) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
