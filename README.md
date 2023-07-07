@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/platformdirs/platformdirs/issues/190) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🔒 Closed issue [#190](https://github.com/platformdirs/platformdirs/issues/190) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#196](https://github.com/platformdirs/platformdirs/issues/196) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🚀 Published release [3.8.1](https://github.com/3.8.1) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#201](https://github.com/platformdirs/platformdirs/pull/201) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🎉 Merged PR [#2599](https://github.com/pypa/virtualenv/pull/2599) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#190](https://github.com/platformdirs/platformdirs/issues/190) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🔒 Closed issue [#190](https://github.com/platformdirs/platformdirs/issues/190) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#196](https://github.com/platformdirs/platformdirs/issues/196) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🚀 Published release [3.8.1](https://github.com/3.8.1) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
