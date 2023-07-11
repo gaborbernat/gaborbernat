@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#110](https://github.com/tox-dev/pyproject-fmt/issues/110) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#204](https://github.com/platformdirs/platformdirs/pull/204) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#3050](https://github.com/tox-dev/tox/issues/3050) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [2.9.5](https://github.com/2.9.5) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#258](https://github.com/tox-dev/pipdeptree/pull/258) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#110](https://github.com/tox-dev/pyproject-fmt/issues/110) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🎉 Merged PR [#204](https://github.com/platformdirs/platformdirs/pull/204) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#3050](https://github.com/tox-dev/tox/issues/3050) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [2.9.5](https://github.com/2.9.5) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
