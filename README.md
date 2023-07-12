@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/tox-dev/pyproject-fmt/issues/110) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#65](https://github.com/gaborbernat/pypi_changes/pull/65) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
 2. 🗣 Commented on [#110](https://github.com/tox-dev/pyproject-fmt/issues/110) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#204](https://github.com/platformdirs/platformdirs/pull/204) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#3050](https://github.com/tox-dev/tox/issues/3050) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [2.9.5](https://github.com/2.9.5) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#110](https://github.com/tox-dev/pyproject-fmt/issues/110) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#204](https://github.com/platformdirs/platformdirs/pull/204) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#3050](https://github.com/tox-dev/tox/issues/3050) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
