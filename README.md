@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/platformdirs/platformdirs/pull/205) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#370](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/370) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#14](https://github.com/gaborbernat/virtualenv/pull/14) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
-4. 🎉 Merged PR [#111](https://github.com/tox-dev/pyproject-fmt/pull/111) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🎉 Merged PR [#65](https://github.com/gaborbernat/pypi_changes/pull/65) in [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes)
+1. 🎉 Merged PR [#60](https://github.com/gaborbernat/bump-deps-index/pull/60) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#205](https://github.com/platformdirs/platformdirs/pull/205) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#370](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/370) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#14](https://github.com/gaborbernat/virtualenv/pull/14) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+5. 🎉 Merged PR [#111](https://github.com/tox-dev/pyproject-fmt/pull/111) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
