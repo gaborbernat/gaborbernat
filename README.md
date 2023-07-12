@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/Camork/file-expander-plugin/issues/31) in [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin)
-2. 🎉 Merged PR [#60](https://github.com/gaborbernat/bump-deps-index/pull/60) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#205](https://github.com/platformdirs/platformdirs/pull/205) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#370](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/370) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#14](https://github.com/gaborbernat/virtualenv/pull/14) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+1. 🎉 Merged PR [#113](https://github.com/tox-dev/sphinx-argparse-cli/pull/113) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. ❗ Opened issue [#31](https://github.com/Camork/file-expander-plugin/issues/31) in [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin)
+3. 🎉 Merged PR [#60](https://github.com/gaborbernat/bump-deps-index/pull/60) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#205](https://github.com/platformdirs/platformdirs/pull/205) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🎉 Merged PR [#370](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/370) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
