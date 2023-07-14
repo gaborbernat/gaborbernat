@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/tox-dev/tox-pyenv/issues/22) in [tox-dev/tox-pyenv](https://github.com/tox-dev/tox-pyenv)
-2. 🎉 Merged PR [#4](https://github.com/gaborbernat/gaborbernat/pull/4) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-3. 🗣 Commented on [#284](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/284#issuecomment-1634382523) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#351](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/351#issuecomment-1634381626) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#101](https://github.com/bloomberg/attrs-strict/pull/101) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+1. 🚀 Published release [20.24.0](https://github.com/pypa/virtualenv/releases/tag/20.24.0) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2608](https://github.com/pypa/virtualenv/pull/2608) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#2608](https://github.com/pypa/virtualenv/pull/2608) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2607](https://github.com/pypa/virtualenv/pull/2607) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2607](https://github.com/pypa/virtualenv/pull/2607) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
