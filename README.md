@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#200](https://github.com/platformdirs/platformdirs/pull/200) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🔒 Closed issue [#2194](https://github.com/pypa/virtualenv/issues/2194) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#261](https://github.com/tox-dev/pipdeptree/pull/261) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🎉 Merged PR [#164](https://github.com/tox-dev/tox-ini-fmt/pull/164) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🎉 Merged PR [#81](https://github.com/tox-dev/devpi-process/pull/81) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#261](https://github.com/tox-dev/pipdeptree/pull/261) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🚀 Published release [3.9.0](https://github.com/platformdirs/platformdirs/releases/tag/3.9.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🔒 Closed issue [#196](https://github.com/platformdirs/platformdirs/issues/196) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🎉 Merged PR [#200](https://github.com/platformdirs/platformdirs/pull/200) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#207](https://github.com/platformdirs/platformdirs/issues/207#issuecomment-1636788754) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
