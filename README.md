@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/tox-dev/pipdeptree/pull/261) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🚀 Published release [3.9.0](https://github.com/platformdirs/platformdirs/releases/tag/3.9.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🔒 Closed issue [#196](https://github.com/platformdirs/platformdirs/issues/196) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🎉 Merged PR [#200](https://github.com/platformdirs/platformdirs/pull/200) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#207](https://github.com/platformdirs/platformdirs/issues/207#issuecomment-1636788754) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🎉 Merged PR [#264](https://github.com/tox-dev/pipdeptree/pull/264) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 💪 Opened PR [#264](https://github.com/tox-dev/pipdeptree/pull/264) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#263](https://github.com/tox-dev/pipdeptree/pull/263) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 💪 Opened PR [#263](https://github.com/tox-dev/pipdeptree/pull/263) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#261](https://github.com/tox-dev/pipdeptree/pull/261) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
