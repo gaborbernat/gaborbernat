@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/gaborbernat/pipdeptree/pull/3) in [gaborbernat/pipdeptree](https://github.com/gaborbernat/pipdeptree)
-2. 🎉 Merged PR [#272](https://github.com/tox-dev/pipdeptree/pull/272) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 💪 Opened PR [#272](https://github.com/tox-dev/pipdeptree/pull/272) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#1949](https://github.com/pypa/virtualenv/issues/1949#issuecomment-1642317711) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Reopened issue [#1949](https://github.com/pypa/virtualenv/issues/1949) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [20.24.1](https://github.com/pypa/get-virtualenv/releases/tag/20.24.1) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. 🎉 Merged PR [#2609](https://github.com/pypa/virtualenv/pull/2609) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [20.24.1](https://github.com/pypa/virtualenv/releases/tag/20.24.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2612](https://github.com/pypa/virtualenv/pull/2612) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2612](https://github.com/pypa/virtualenv/pull/2612) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
