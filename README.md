@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#215](https://github.com/cloudevents/sdk-python/issues/215) in [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python)
-2. 🚀 Published release [1.3.1](https://github.com/tox-dev/tox-gh/releases/tag/1.3.1) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🎉 Merged PR [#77](https://github.com/tox-dev/tox-gh/pull/77) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🎉 Merged PR [#70](https://github.com/pytest-dev/pytest-print/pull/70) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#40](https://github.com/pytest-dev/pytest-env/pull/40) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#215](https://github.com/cloudevents/sdk-python/issues/215#issuecomment-1651888022) in [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python)
+2. ❗ Opened issue [#215](https://github.com/cloudevents/sdk-python/issues/215) in [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python)
+3. 🚀 Published release [1.3.1](https://github.com/tox-dev/tox-gh/releases/tag/1.3.1) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🎉 Merged PR [#77](https://github.com/tox-dev/tox-gh/pull/77) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🎉 Merged PR [#70](https://github.com/pytest-dev/pytest-print/pull/70) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 <!--END_SECTION:activity-->
