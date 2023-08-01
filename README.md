@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2616](https://github.com/pypa/virtualenv/pull/2616) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#216](https://github.com/platformdirs/platformdirs/issues/216#issuecomment-1658916259) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#216](https://github.com/platformdirs/platformdirs/issues/216#issuecomment-1658885078) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🔒 Closed issue [#216](https://github.com/platformdirs/platformdirs/issues/216) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🎉 Merged PR [#3072](https://github.com/tox-dev/tox/pull/3072) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3073](https://github.com/tox-dev/tox/issues/3073#issuecomment-1659467661) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2616](https://github.com/pypa/virtualenv/pull/2616) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#216](https://github.com/platformdirs/platformdirs/issues/216#issuecomment-1658916259) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#216](https://github.com/platformdirs/platformdirs/issues/216#issuecomment-1658885078) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🔒 Closed issue [#216](https://github.com/platformdirs/platformdirs/issues/216) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
