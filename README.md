@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2472](https://github.com/pypa/virtualenv/issues/2472#issuecomment-1664290915) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🔒 Closed issue [#648](https://github.com/pypa/build/issues/648) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#649](https://github.com/pypa/build/pull/649) in [pypa/build](https://github.com/pypa/build)
-4. 🔒 Reopened issue [#2472](https://github.com/pypa/virtualenv/issues/2472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#3075](https://github.com/tox-dev/tox/issues/3075#issuecomment-1663004651) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗ Opened issue [#481](https://github.com/Dygmalab/Bazecor/issues/481) in [Dygmalab/Bazecor](https://github.com/Dygmalab/Bazecor)
+2. 🗣 Commented on [#2472](https://github.com/pypa/virtualenv/issues/2472#issuecomment-1664290915) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🔒 Closed issue [#648](https://github.com/pypa/build/issues/648) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#649](https://github.com/pypa/build/pull/649) in [pypa/build](https://github.com/pypa/build)
+5. 🔒 Reopened issue [#2472](https://github.com/pypa/virtualenv/issues/2472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
