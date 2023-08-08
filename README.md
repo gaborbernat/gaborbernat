@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15838](https://github.com/Homebrew/brew/issues/15838#issuecomment-1668462430) in [Homebrew/brew](https://github.com/Homebrew/brew)
-2. 💪 Opened PR [#15841](https://github.com/Homebrew/brew/pull/15841) in [Homebrew/brew](https://github.com/Homebrew/brew)
-3. 🎉 Merged PR [#3081](https://github.com/tox-dev/tox/pull/3081) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#84](https://github.com/tox-dev/devpi-process/pull/84) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#167](https://github.com/tox-dev/tox-ini-fmt/pull/167) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🔒 Closed issue [#6411](https://github.com/astral-sh/ruff/issues/6411) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. ❗ Opened issue [#6412](https://github.com/astral-sh/ruff/issues/6412) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. ❗ Opened issue [#6411](https://github.com/astral-sh/ruff/issues/6411) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#15838](https://github.com/Homebrew/brew/issues/15838#issuecomment-1668462430) in [Homebrew/brew](https://github.com/Homebrew/brew)
+5. 💪 Opened PR [#15841](https://github.com/Homebrew/brew/pull/15841) in [Homebrew/brew](https://github.com/Homebrew/brew)
 <!--END_SECTION:activity-->
