@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6411](https://github.com/astral-sh/ruff/issues/6411) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. ❗ Opened issue [#6412](https://github.com/astral-sh/ruff/issues/6412) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. ❗ Opened issue [#6411](https://github.com/astral-sh/ruff/issues/6411) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#15838](https://github.com/Homebrew/brew/issues/15838#issuecomment-1668462430) in [Homebrew/brew](https://github.com/Homebrew/brew)
-5. 💪 Opened PR [#15841](https://github.com/Homebrew/brew/pull/15841) in [Homebrew/brew](https://github.com/Homebrew/brew)
+1. 🚀 Published release [4.7.0](https://github.com/tox-dev/tox/releases/tag/4.7.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#2942](https://github.com/tox-dev/tox/issues/2942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3076](https://github.com/tox-dev/tox/pull/3076) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#15841](https://github.com/Homebrew/brew/pull/15841#issuecomment-1669800620) in [Homebrew/brew](https://github.com/Homebrew/brew)
+5. 🎉 Merged PR [#218](https://github.com/platformdirs/platformdirs/pull/218) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
