@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/platformdirs/platformdirs/pull/221) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🎉 Merged PR [#74](https://github.com/pytest-dev/pytest-print/pull/74) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🎉 Merged PR [#46](https://github.com/pytest-dev/pytest-env/pull/46) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🎉 Merged PR [#2625](https://github.com/pypa/virtualenv/pull/2625) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#654](https://github.com/pypa/build/pull/654) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#2540](https://github.com/pypa/virtualenv/issues/2540#issuecomment-1679643762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#221](https://github.com/platformdirs/platformdirs/pull/221) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🎉 Merged PR [#74](https://github.com/pytest-dev/pytest-print/pull/74) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#46](https://github.com/pytest-dev/pytest-env/pull/46) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#2625](https://github.com/pypa/virtualenv/pull/2625) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
