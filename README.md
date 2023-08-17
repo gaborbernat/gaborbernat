@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/tox-dev/pyproject-api/pull/95) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🔒 Closed issue [#77](https://github.com/tox-dev/pyproject-api/issues/77) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🗣 Commented on [#108](https://github.com/tox-dev/pyproject-fmt/issues/108#issuecomment-1682464378) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#3093](https://github.com/tox-dev/tox/issues/3093#issuecomment-1682462888) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3090](https://github.com/tox-dev/tox/pull/3090#issuecomment-1682442704) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [1.5.4](https://github.com/tox-dev/pyproject-api/releases/tag/1.5.4) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🎉 Merged PR [#95](https://github.com/tox-dev/pyproject-api/pull/95) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. 🔒 Closed issue [#77](https://github.com/tox-dev/pyproject-api/issues/77) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🗣 Commented on [#108](https://github.com/tox-dev/pyproject-fmt/issues/108#issuecomment-1682464378) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#3093](https://github.com/tox-dev/tox/issues/3093#issuecomment-1682462888) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
