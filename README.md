@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/signalpillar/tox-battery/issues/34#issuecomment-1682593487) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
-2. 🗣 Commented on [#3090](https://github.com/tox-dev/tox/pull/3090#issuecomment-1682592754) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🚀 Published release [1.5.4](https://github.com/tox-dev/pyproject-api/releases/tag/1.5.4) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#95](https://github.com/tox-dev/pyproject-api/pull/95) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🔒 Closed issue [#77](https://github.com/tox-dev/pyproject-api/issues/77) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🔒 Closed issue [#96](https://github.com/tox-dev/pyproject-api/issues/96) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🗣 Commented on [#96](https://github.com/tox-dev/pyproject-api/issues/96#issuecomment-1682993405) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. 🗣 Commented on [#34](https://github.com/signalpillar/tox-battery/issues/34#issuecomment-1682593487) in [signalpillar/tox-battery](https://github.com/signalpillar/tox-battery)
+4. 🗣 Commented on [#3090](https://github.com/tox-dev/tox/pull/3090#issuecomment-1682592754) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [1.5.4](https://github.com/tox-dev/pyproject-api/releases/tag/1.5.4) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
