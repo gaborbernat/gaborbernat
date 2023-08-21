@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2858](https://github.com/tox-dev/tox/issues/2858) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3092](https://github.com/tox-dev/tox/issues/3092) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3096](https://github.com/tox-dev/tox/issues/3096) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3099](https://github.com/tox-dev/tox/pull/3099) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#263](https://github.com/tox-dev/filelock/pull/263) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#118](https://github.com/tox-dev/pyproject-fmt/pull/118#issuecomment-1686825563) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#118](https://github.com/tox-dev/pyproject-fmt/pull/118#issuecomment-1686824102) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🔒 Closed issue [#2858](https://github.com/tox-dev/tox/issues/2858) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#3092](https://github.com/tox-dev/tox/issues/3092) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3096](https://github.com/tox-dev/tox/issues/3096) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
