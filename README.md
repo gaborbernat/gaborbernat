@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#661](https://github.com/pypa/build/pull/661) in [pypa/build](https://github.com/pypa/build)
-2. 🔒 Closed issue [#108](https://github.com/tox-dev/pyproject-fmt/issues/108) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🗣 Commented on [#108](https://github.com/tox-dev/pyproject-fmt/issues/108#issuecomment-1688534954) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🚀 Published release [1.0.0](https://github.com/tox-dev/devpi-process/releases/tag/1.0.0) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🚀 Published release [1.0.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.0.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#129](https://github.com/platformdirs/platformdirs/issues/129#issuecomment-1690707630) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#661](https://github.com/pypa/build/pull/661) in [pypa/build](https://github.com/pypa/build)
+3. 🔒 Closed issue [#108](https://github.com/tox-dev/pyproject-fmt/issues/108) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#108](https://github.com/tox-dev/pyproject-fmt/issues/108#issuecomment-1688534954) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🚀 Published release [1.0.0](https://github.com/tox-dev/devpi-process/releases/tag/1.0.0) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
 <!--END_SECTION:activity-->
