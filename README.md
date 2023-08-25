@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/pytest-dev/pytest-print/releases/tag/1.0.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🎉 Merged PR [#263](https://github.com/tox-dev/filelock/pull/263) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#2630](https://github.com/pypa/virtualenv/issues/2630) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2630](https://github.com/pypa/virtualenv/issues/2630#issuecomment-1693380322) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#662](https://github.com/pypa/build/pull/662) in [pypa/build](https://github.com/pypa/build)
+1. 🔒 Closed issue [#3103](https://github.com/tox-dev/tox/issues/3103) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3103](https://github.com/tox-dev/tox/issues/3103#issuecomment-1693769620) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🚀 Published release [1.0.0](https://github.com/pytest-dev/pytest-print/releases/tag/1.0.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#263](https://github.com/tox-dev/filelock/pull/263) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#2630](https://github.com/pypa/virtualenv/issues/2630) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
