@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/159#issuecomment-1695791442) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#381](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/381#issuecomment-1695785296) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#3106](https://github.com/tox-dev/tox/issues/3106#issuecomment-1695783425) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#3106](https://github.com/tox-dev/tox/issues/3106) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#258](https://github.com/tox-dev/filelock/issues/258) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#50](https://github.com/pytest-dev/pytest-env/pull/50) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 💪 Opened PR [#50](https://github.com/pytest-dev/pytest-env/pull/50) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 💪 Opened PR [#3107](https://github.com/tox-dev/tox/pull/3107) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#159](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/159#issuecomment-1695791442) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#381](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/381#issuecomment-1695785296) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
