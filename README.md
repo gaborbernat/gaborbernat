@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3090](https://github.com/tox-dev/tox/pull/3090#issuecomment-1696801524) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#99](https://github.com/tox-dev/pyproject-api/pull/99) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#71](https://github.com/gaborbernat/pypi-changes/pull/71) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. 🎉 Merged PR [#67](https://github.com/gaborbernat/bump-deps-index/pull/67) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🔒 Closed issue [#269](https://github.com/tox-dev/filelock/issues/269) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ❌ Closed PR [#270](https://github.com/tox-dev/filelock/pull/270) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#270](https://github.com/tox-dev/filelock/pull/270#issuecomment-1697650809) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#76](https://github.com/pytest-dev/pytest-print/pull/76) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#224](https://github.com/platformdirs/platformdirs/pull/224) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#3090](https://github.com/tox-dev/tox/pull/3090#issuecomment-1696801524) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
