@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.6.1](https://github.com/tox-dev/pyproject-api/releases/tag/1.6.1) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🎉 Merged PR [#100](https://github.com/tox-dev/pyproject-api/pull/100) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#666](https://github.com/pypa/build/pull/666) in [pypa/build](https://github.com/pypa/build)
-4. 💪 Opened PR [#100](https://github.com/tox-dev/pyproject-api/pull/100) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🚀 Published release [1.6.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.6.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🗣 Commented on [#271](https://github.com/tox-dev/filelock/issues/271#issuecomment-1698020835) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#271](https://github.com/tox-dev/filelock/issues/271) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🚀 Published release [4.11.0](https://github.com/tox-dev/tox/releases/tag/4.11.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3090](https://github.com/tox-dev/tox/pull/3090) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [1.6.1](https://github.com/tox-dev/pyproject-api/releases/tag/1.6.1) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 <!--END_SECTION:activity-->
