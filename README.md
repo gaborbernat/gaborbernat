@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/MousaZeidBaker/poetry-plugin-up/pull/26#issuecomment-1698308210) in [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up)
-2. 🗣 Commented on [#101](https://github.com/tox-dev/pyproject-api/issues/101#issuecomment-1698132505) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🔒 Closed issue [#101](https://github.com/tox-dev/pyproject-api/issues/101) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🗣 Commented on [#2632](https://github.com/pypa/virtualenv/issues/2632#issuecomment-1698127341) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#271](https://github.com/tox-dev/filelock/issues/271#issuecomment-1698020835) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#2628](https://github.com/pypa/virtualenv/pull/2628) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#26](https://github.com/MousaZeidBaker/poetry-plugin-up/pull/26#issuecomment-1698308210) in [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up)
+3. 🗣 Commented on [#101](https://github.com/tox-dev/pyproject-api/issues/101#issuecomment-1698132505) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🔒 Closed issue [#101](https://github.com/tox-dev/pyproject-api/issues/101) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🗣 Commented on [#2632](https://github.com/pypa/virtualenv/issues/2632#issuecomment-1698127341) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
