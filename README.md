@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/tox-dev/sphinx-argparse-cli/issues/121#issuecomment-1699308725) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🚀 Published release [20.24.4](https://github.com/pypa/virtualenv/releases/tag/20.24.4) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2633](https://github.com/pypa/virtualenv/pull/2633) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🚀 Published release [20.24.4](https://github.com/pypa/get-virtualenv/releases/tag/20.24.4) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-5. 💪 Opened PR [#2633](https://github.com/pypa/virtualenv/pull/2633) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#664](https://github.com/pypa/build/pull/664) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#121](https://github.com/tox-dev/sphinx-argparse-cli/issues/121#issuecomment-1699308725) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🚀 Published release [20.24.4](https://github.com/pypa/virtualenv/releases/tag/20.24.4) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2633](https://github.com/pypa/virtualenv/pull/2633) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [20.24.4](https://github.com/pypa/get-virtualenv/releases/tag/20.24.4) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
 <!--END_SECTION:activity-->
