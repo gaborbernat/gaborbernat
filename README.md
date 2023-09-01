@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1701341680) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1701326627) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3110](https://github.com/tox-dev/tox/issues/3110) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1701324594) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.5.1.1](https://github.com/tox-dev/tox/releases/tag/4.5.1.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#225](https://github.com/platformdirs/platformdirs/pull/225) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🚀 Published release [1.0.0](https://github.com/pypa/build/releases/tag/1.0.0) in [pypa/build](https://github.com/pypa/build)
+3. 🚀 Published release [1.0.0](https://github.com/pypa/build/releases/tag/1.0.0) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1701341680) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1701326627) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
