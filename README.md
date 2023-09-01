@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/platformdirs/platformdirs/pull/225) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#225](https://github.com/platformdirs/platformdirs/pull/225#issuecomment-1702979115) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 💪 Opened PR [#225](https://github.com/platformdirs/platformdirs/pull/225) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🚀 Published release [1.0.0](https://github.com/pypa/build/releases/tag/1.0.0) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#668](https://github.com/pypa/build/pull/668) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#225](https://github.com/platformdirs/platformdirs/pull/225) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#225](https://github.com/platformdirs/platformdirs/pull/225#issuecomment-1702979115) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 💪 Opened PR [#225](https://github.com/platformdirs/platformdirs/pull/225) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 5. 🚀 Published release [1.0.0](https://github.com/pypa/build/releases/tag/1.0.0) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
