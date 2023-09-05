@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/pyvenvmanage/PyVenvManage/pull/17#issuecomment-1706895421) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-2. 🗣 Commented on [#108125](https://github.com/python/cpython/pull/108125#issuecomment-1704486498) in [python/cpython](https://github.com/python/cpython)
-3. 🚀 Published release [4.11.1](https://github.com/tox-dev/tox/releases/tag/4.11.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#3112](https://github.com/tox-dev/tox/issues/3112) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3111](https://github.com/tox-dev/tox/pull/3111) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2637](https://github.com/pypa/virtualenv/issues/2637#issuecomment-1707235198) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#17](https://github.com/pyvenvmanage/PyVenvManage/pull/17#issuecomment-1706895421) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+3. 🗣 Commented on [#108125](https://github.com/python/cpython/pull/108125#issuecomment-1704486498) in [python/cpython](https://github.com/python/cpython)
+4. 🚀 Published release [4.11.1](https://github.com/tox-dev/tox/releases/tag/4.11.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3112](https://github.com/tox-dev/tox/issues/3112) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
