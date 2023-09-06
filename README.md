@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#679](https://github.com/pypa/build/pull/679#issuecomment-1709165174) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#679](https://github.com/pypa/build/pull/679#issuecomment-1709108526) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#679](https://github.com/pypa/build/pull/679#issuecomment-1709093825) in [pypa/build](https://github.com/pypa/build)
-4. ❌ Closed PR [#679](https://github.com/pypa/build/pull/679) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1709072162) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#681](https://github.com/pypa/build/pull/681) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#679](https://github.com/pypa/build/pull/679#issuecomment-1709165174) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#679](https://github.com/pypa/build/pull/679#issuecomment-1709108526) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#679](https://github.com/pypa/build/pull/679#issuecomment-1709093825) in [pypa/build](https://github.com/pypa/build)
+5. ❌ Closed PR [#679](https://github.com/pypa/build/pull/679) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
