@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2632](https://github.com/pypa/virtualenv/issues/2632#issuecomment-1707507144) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#108125](https://github.com/python/cpython/pull/108125#issuecomment-1707505985) in [python/cpython](https://github.com/python/cpython)
-3. 🗣 Commented on [#2637](https://github.com/pypa/virtualenv/issues/2637#issuecomment-1707235198) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#17](https://github.com/pyvenvmanage/PyVenvManage/pull/17#issuecomment-1706895421) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🗣 Commented on [#108125](https://github.com/python/cpython/pull/108125#issuecomment-1704486498) in [python/cpython](https://github.com/python/cpython)
+1. 🎉 Merged PR [#675](https://github.com/pypa/build/pull/675) in [pypa/build](https://github.com/pypa/build)
+2. 🔒 Closed issue [#674](https://github.com/pypa/build/issues/674) in [pypa/build](https://github.com/pypa/build)
+3. 🔒 Closed issue [#3115](https://github.com/tox-dev/tox/issues/3115) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3115](https://github.com/tox-dev/tox/issues/3115#issuecomment-1708612194) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3110](https://github.com/tox-dev/tox/issues/3110#issuecomment-1708600012) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
