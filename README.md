@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [4.11.2](https://github.com/tox-dev/tox/releases/tag/4.11.2) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#442](https://github.com/bloomberg/ipydatagrid/pull/442) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🎉 Merged PR [#371](https://github.com/bloomberg/ipydatagrid/pull/371) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 🔒 Closed issue [#370](https://github.com/bloomberg/ipydatagrid/issues/370) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🔒 Closed issue [#422](https://github.com/bloomberg/ipydatagrid/issues/422) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+1. 🗣 Commented on [#64](https://github.com/woile/starlette-apispec/pull/64#issuecomment-1711788142) in [woile/starlette-apispec](https://github.com/woile/starlette-apispec)
+2. 🎉 Merged PR [#3116](https://github.com/tox-dev/tox/pull/3116) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#2643](https://github.com/pypa/virtualenv/pull/2643) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🚀 Published release [20.24.5](https://github.com/pypa/virtualenv/releases/tag/20.24.5) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [20.24.5](https://github.com/pypa/get-virtualenv/releases/tag/20.24.5) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
 <!--END_SECTION:activity-->
