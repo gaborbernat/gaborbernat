@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3105](https://github.com/tox-dev/tox/issues/3105#issuecomment-1712023623) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#64](https://github.com/woile/starlette-apispec/pull/64#issuecomment-1711788142) in [woile/starlette-apispec](https://github.com/woile/starlette-apispec)
-3. 🎉 Merged PR [#3116](https://github.com/tox-dev/tox/pull/3116) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#2643](https://github.com/pypa/virtualenv/pull/2643) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🚀 Published release [20.24.5](https://github.com/pypa/virtualenv/releases/tag/20.24.5) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3080](https://github.com/tox-dev/tox/issues/3080) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3080](https://github.com/tox-dev/tox/issues/3080#issuecomment-1712307424) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3117](https://github.com/tox-dev/tox/issues/3117) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [4.11.3](https://github.com/tox-dev/tox/releases/tag/4.11.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3105](https://github.com/tox-dev/tox/issues/3105) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
