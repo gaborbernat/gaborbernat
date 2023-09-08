@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#311](https://github.com/bloomberg/ipydatagrid/pull/311) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. 🗣 Commented on [#404](https://github.com/bloomberg/ipydatagrid/pull/404#issuecomment-1710928879) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🗣 Commented on [#409](https://github.com/bloomberg/ipydatagrid/pull/409#issuecomment-1710928711) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 🗣 Commented on [#382](https://github.com/bloomberg/ipydatagrid/pull/382#issuecomment-1710928610) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🗣 Commented on [#423](https://github.com/bloomberg/ipydatagrid/pull/423#issuecomment-1710928485) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+1. 🗣 Commented on [#64](https://github.com/woile/starlette-apispec/pull/64#issuecomment-1710938479) in [woile/starlette-apispec](https://github.com/woile/starlette-apispec)
+2. ❌ Reopened PR [#423](https://github.com/bloomberg/ipydatagrid/pull/423) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+3. ❌ Closed PR [#423](https://github.com/bloomberg/ipydatagrid/pull/423) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. 🗣 Commented on [#404](https://github.com/bloomberg/ipydatagrid/pull/404#issuecomment-1710929629) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🗣 Commented on [#382](https://github.com/bloomberg/ipydatagrid/pull/382#issuecomment-1710929423) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 <!--END_SECTION:activity-->
