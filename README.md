@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/tox-dev/pyproject-fmt/issues/127#issuecomment-1713967257) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#3080](https://github.com/tox-dev/tox/issues/3080) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3080](https://github.com/tox-dev/tox/issues/3080#issuecomment-1712307424) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#3117](https://github.com/tox-dev/tox/issues/3117) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.11.3](https://github.com/tox-dev/tox/releases/tag/4.11.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3084](https://github.com/tox-dev/tox/issues/3084#issuecomment-1714247160) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#175](https://github.com/tox-dev/tox-ini-fmt/pull/175) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 💪 Opened PR [#175](https://github.com/tox-dev/tox-ini-fmt/pull/175) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🗣 Commented on [#127](https://github.com/tox-dev/pyproject-fmt/issues/127#issuecomment-1713967257) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🔒 Closed issue [#3080](https://github.com/tox-dev/tox/issues/3080) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
