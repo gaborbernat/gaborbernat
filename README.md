@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.12.4](https://github.com/tox-dev/filelock/releases/tag/3.12.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🔒 Closed issue [#275](https://github.com/tox-dev/filelock/issues/275) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#276](https://github.com/tox-dev/filelock/pull/276) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🗣 Commented on [#275](https://github.com/tox-dev/filelock/issues/275#issuecomment-1716098229) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#275](https://github.com/tox-dev/filelock/issues/275#issuecomment-1715886670) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#287](https://github.com/tox-dev/pipdeptree/issues/287) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#287](https://github.com/tox-dev/pipdeptree/issues/287#issuecomment-1720081511) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🚀 Published release [3.12.4](https://github.com/tox-dev/filelock/releases/tag/3.12.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🔒 Closed issue [#275](https://github.com/tox-dev/filelock/issues/275) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#276](https://github.com/tox-dev/filelock/pull/276) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
