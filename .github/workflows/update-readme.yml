@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.4.1
+      - uses: jamesgeorge007/github-activity-readme@v0.4.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
