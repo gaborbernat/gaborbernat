@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/conda-forge/platformdirs-feedstock/pull/34) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
-2. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1743536437) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-3. 🎉 Merged PR [#3132](https://github.com/tox-dev/tox/pull/3132) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#278](https://github.com/tox-dev/filelock/pull/278) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#388](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/388) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❗ Opened issue [#998](https://github.com/devpi/devpi/issues/998) in [devpi/devpi](https://github.com/devpi/devpi)
+2. ❗ Opened issue [#7639](https://github.com/aio-libs/aiohttp/issues/7639) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+3. 🎉 Merged PR [#34](https://github.com/conda-forge/platformdirs-feedstock/pull/34) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+4. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1743536437) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+5. 🎉 Merged PR [#3132](https://github.com/tox-dev/tox/pull/3132) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
