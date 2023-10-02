@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.2.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#132](https://github.com/tox-dev/pyproject-fmt/pull/132) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#7](https://github.com/gaborbernat/gaborbernat/pull/7) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-4. 🎉 Merged PR [#131](https://github.com/tox-dev/pyproject-fmt/pull/131) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🚀 Published release [3.11.0](https://github.com/platformdirs/platformdirs/releases/tag/3.11.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🎉 Merged PR [#177](https://github.com/tox-dev/tox-ini-fmt/pull/177) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 🎉 Merged PR [#93](https://github.com/tox-dev/devpi-process/pull/93) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. 🚀 Published release [1.2.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.2.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#132](https://github.com/tox-dev/pyproject-fmt/pull/132) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#7](https://github.com/gaborbernat/gaborbernat/pull/7) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
 <!--END_SECTION:activity-->
