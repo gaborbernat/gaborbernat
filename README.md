@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1745420032) in [devpi/devpi](https://github.com/devpi/devpi)
-2. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1745346163) in [devpi/devpi](https://github.com/devpi/devpi)
-3. 🗣 Commented on [#7639](https://github.com/aio-libs/aiohttp/issues/7639#issuecomment-1745094135) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-4. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745088034) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-5. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745087912) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+1. 🎉 Merged PR [#56](https://github.com/pytest-dev/pytest-env/pull/56) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1745420032) in [devpi/devpi](https://github.com/devpi/devpi)
+3. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1745346163) in [devpi/devpi](https://github.com/devpi/devpi)
+4. 🗣 Commented on [#7639](https://github.com/aio-libs/aiohttp/issues/7639#issuecomment-1745094135) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+5. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745088034) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 <!--END_SECTION:activity-->
