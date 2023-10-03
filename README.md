@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7639](https://github.com/aio-libs/aiohttp/issues/7639#issuecomment-1745094135) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-2. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745088034) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-3. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745087912) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. 🎉 Merged PR [#2648](https://github.com/pypa/virtualenv/pull/2648) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#72](https://github.com/gaborbernat/bump-deps-index/pull/72) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1745346163) in [devpi/devpi](https://github.com/devpi/devpi)
+2. 🗣 Commented on [#7639](https://github.com/aio-libs/aiohttp/issues/7639#issuecomment-1745094135) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+3. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745088034) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+4. 🗣 Commented on [#2805](https://github.com/pyenv/pyenv/issues/2805#issuecomment-1745087912) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+5. 🎉 Merged PR [#2648](https://github.com/pypa/virtualenv/pull/2648) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
