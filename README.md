@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/gaborbernat/bump-deps-index/pull/72) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🎉 Merged PR [#76](https://github.com/gaborbernat/pypi-changes/pull/76) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-3. ❗ Opened issue [#998](https://github.com/devpi/devpi/issues/998) in [devpi/devpi](https://github.com/devpi/devpi)
-4. ❗ Opened issue [#7639](https://github.com/aio-libs/aiohttp/issues/7639) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-5. 🎉 Merged PR [#34](https://github.com/conda-forge/platformdirs-feedstock/pull/34) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+1. 🎉 Merged PR [#2648](https://github.com/pypa/virtualenv/pull/2648) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#72](https://github.com/gaborbernat/bump-deps-index/pull/72) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#76](https://github.com/gaborbernat/pypi-changes/pull/76) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. ❗ Opened issue [#998](https://github.com/devpi/devpi/issues/998) in [devpi/devpi](https://github.com/devpi/devpi)
+5. ❗ Opened issue [#7639](https://github.com/aio-libs/aiohttp/issues/7639) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
 <!--END_SECTION:activity-->
