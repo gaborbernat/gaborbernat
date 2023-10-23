@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2656](https://github.com/pypa/virtualenv/pull/2656) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2655](https://github.com/pypa/virtualenv/pull/2655) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#2655](https://github.com/pypa/virtualenv/pull/2655) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🔒 Closed issue [#3141](https://github.com/tox-dev/tox/issues/3141) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3141](https://github.com/tox-dev/tox/issues/3141#issuecomment-1773824256) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#1629](https://github.com/confluentinc/confluent-kafka-python/issues/1629#issuecomment-1775624368) in [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python)
+2. 💪 Opened PR [#2656](https://github.com/pypa/virtualenv/pull/2656) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2655](https://github.com/pypa/virtualenv/pull/2655) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2655](https://github.com/pypa/virtualenv/pull/2655) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🔒 Closed issue [#3141](https://github.com/tox-dev/tox/issues/3141) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
