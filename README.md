@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#281](https://github.com/tox-dev/filelock/pull/281) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#74](https://github.com/gaborbernat/bump-deps-index/pull/74) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#78](https://github.com/gaborbernat/pypi-changes/pull/78) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. 🎉 Merged PR [#179](https://github.com/tox-dev/tox-ini-fmt/pull/179) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🎉 Merged PR [#89](https://github.com/tox-dev/tox-gh/pull/89) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🎉 Merged PR [#236](https://github.com/platformdirs/platformdirs/pull/236) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#83](https://github.com/pytest-dev/pytest-print/pull/83) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#58](https://github.com/pytest-dev/pytest-env/pull/58) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#281](https://github.com/tox-dev/filelock/pull/281) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#74](https://github.com/gaborbernat/bump-deps-index/pull/74) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
