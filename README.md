@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2658](https://github.com/pypa/virtualenv/pull/2658) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#236](https://github.com/platformdirs/platformdirs/pull/236) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#83](https://github.com/pytest-dev/pytest-print/pull/83) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🎉 Merged PR [#58](https://github.com/pytest-dev/pytest-env/pull/58) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🎉 Merged PR [#281](https://github.com/tox-dev/filelock/pull/281) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [1.1.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.1.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🎉 Merged PR [#59](https://github.com/pytest-dev/pytest-env/pull/59) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 💪 Opened PR [#59](https://github.com/pytest-dev/pytest-env/pull/59) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#2658](https://github.com/pypa/virtualenv/pull/2658) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#236](https://github.com/platformdirs/platformdirs/pull/236) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
