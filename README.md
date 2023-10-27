@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#279](https://github.com/tox-dev/filelock/pull/279) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#279](https://github.com/tox-dev/filelock/pull/279#issuecomment-1783213284) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ❌ Closed PR [#391](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/391) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#141](https://github.com/tox-dev/pyproject-fmt/issues/141#issuecomment-1783160444) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#8175](https://github.com/astral-sh/ruff/issues/8175#issuecomment-1782192957) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🚀 Published release [3.13.0](https://github.com/tox-dev/filelock/releases/tag/3.13.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#283](https://github.com/tox-dev/filelock/pull/283) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ❌ Closed PR [#279](https://github.com/tox-dev/filelock/pull/279) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🗣 Commented on [#279](https://github.com/tox-dev/filelock/pull/279#issuecomment-1783213284) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ❌ Closed PR [#391](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/391) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
