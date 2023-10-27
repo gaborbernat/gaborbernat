@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/375#issuecomment-1781365932) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🔒 Closed issue [#94](https://github.com/tox-dev/pyproject-fmt/issues/94) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🗣 Commented on [#282](https://github.com/tox-dev/filelock/issues/282#issuecomment-1779790480) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🔒 Closed issue [#18](https://github.com/tox-dev/pyproject-fmt/issues/18) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#18](https://github.com/tox-dev/pyproject-fmt/issues/18#issuecomment-1779663813) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#8175](https://github.com/astral-sh/ruff/issues/8175#issuecomment-1782192957) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#375](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/375#issuecomment-1781365932) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#94](https://github.com/tox-dev/pyproject-fmt/issues/94) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#282](https://github.com/tox-dev/filelock/issues/282#issuecomment-1779790480) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#18](https://github.com/tox-dev/pyproject-fmt/issues/18) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
