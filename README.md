@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/tox-dev/pyproject-fmt/pull/146) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. ❌ Reopened PR [#393](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/393) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1786129599) in [devpi/devpi](https://github.com/devpi/devpi)
-4. 🎉 Merged PR [#143](https://github.com/tox-dev/pyproject-fmt/pull/143) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. ❗ Opened issue [#16](https://github.com/matt-bartel/gh-clone-org/issues/16) in [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org)
+1. 🚀 Published release [1.24.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.24.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#375](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/375) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#393](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/393) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#18](https://github.com/pyvenvmanage/PyVenvManage/pull/18#issuecomment-1787565686) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+5. 🚀 Published release [1.3.10](https://github.com/pyvenvmanage/PyVenvManage/releases/tag/1.3.10) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
