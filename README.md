@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.24.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.24.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🔒 Closed issue [#375](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/375) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#393](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/393) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#18](https://github.com/pyvenvmanage/PyVenvManage/pull/18#issuecomment-1787565686) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🚀 Published release [1.3.10](https://github.com/pyvenvmanage/PyVenvManage/releases/tag/1.3.10) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+1. 🎉 Merged PR [#148](https://github.com/tox-dev/pyproject-fmt/pull/148) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🚀 Published release [1.24.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.24.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#375](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/375) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#393](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/393) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#18](https://github.com/pyvenvmanage/PyVenvManage/pull/18#issuecomment-1787565686) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
