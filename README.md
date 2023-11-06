@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1792589717) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#853](https://github.com/luizdepra/hugo-coder/issues/853#issuecomment-1789859556) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-3. 🗣 Commented on [#151](https://github.com/tox-dev/pyproject-fmt/issues/151#issuecomment-1789849151) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🔒 Closed issue [#151](https://github.com/tox-dev/pyproject-fmt/issues/151) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🚀 Published release [1.4.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.4.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#238](https://github.com/platformdirs/platformdirs/pull/238) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#85](https://github.com/pytest-dev/pytest-print/pull/85) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#61](https://github.com/pytest-dev/pytest-env/pull/61) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#80](https://github.com/gaborbernat/pypi-changes/pull/80) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🎉 Merged PR [#76](https://github.com/gaborbernat/bump-deps-index/pull/76) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
