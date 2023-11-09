@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1802156278) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1799587550) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#300](https://github.com/tox-dev/pipdeptree/pull/300) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798920679) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🔒 Closed issue [#299](https://github.com/tox-dev/pipdeptree/issues/299) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#154](https://github.com/tox-dev/pyproject-fmt/pull/154) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1802156278) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1799587550) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#300](https://github.com/tox-dev/pipdeptree/pull/300) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798920679) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
