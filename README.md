@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.13.1](https://github.com/tox-dev/pipdeptree/releases/tag/2.13.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🚀 Published release [1.5.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.5.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#154](https://github.com/tox-dev/pyproject-fmt/pull/154) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1802156278) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#395](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/395#issuecomment-1799587550) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [1.5.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.5.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🚀 Published release [1.25.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.25.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#397](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/397) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#3151](https://github.com/tox-dev/tox/issues/3151#issuecomment-1804682726) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [2.13.1](https://github.com/tox-dev/pipdeptree/releases/tag/2.13.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
