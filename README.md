@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/platformdirs/platformdirs/pull/239#issuecomment-1804984047) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#148](https://github.com/platformdirs/platformdirs/pull/148#issuecomment-1804798770) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🚀 Published release [1.5.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.5.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🚀 Published release [1.25.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.25.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#397](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/397) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 💪 Opened PR [#2665](https://github.com/pypa/virtualenv/pull/2665) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗ Opened issue [#398](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/398) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#397](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/397#issuecomment-1806076131) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1806067418) in [devpi/devpi](https://github.com/devpi/devpi)
+5. 🚀 Published release [4.0.0](https://github.com/platformdirs/platformdirs/releases/tag/4.0.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
