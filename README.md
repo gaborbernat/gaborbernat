@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3151](https://github.com/tox-dev/tox/issues/3151#issuecomment-1806848741) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1806712924) in [devpi/devpi](https://github.com/devpi/devpi)
-3. 🚀 Published release [1.25.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.25.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🔒 Closed issue [#389](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/389) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#351](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/351) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#3151](https://github.com/tox-dev/tox/issues/3151#issuecomment-1806855005) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3151](https://github.com/tox-dev/tox/issues/3151#issuecomment-1806848741) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1806712924) in [devpi/devpi](https://github.com/devpi/devpi)
+4. 🚀 Published release [1.25.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.25.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🔒 Closed issue [#389](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/389) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
