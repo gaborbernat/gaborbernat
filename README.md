@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2435](https://github.com/tox-dev/tox/issues/2435#issuecomment-1825834252) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2668](https://github.com/pypa/virtualenv/issues/2668#issuecomment-1821451427) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2668](https://github.com/pypa/virtualenv/issues/2668#issuecomment-1821409356) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2666](https://github.com/pypa/virtualenv/issues/2666#issuecomment-1821406745) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#93](https://github.com/pypa/virtualenv/issues/93#issuecomment-1821399466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2667](https://github.com/pypa/virtualenv/pull/2667) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#77](https://github.com/gaborbernat/bump-deps-index/pull/77) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#183](https://github.com/tox-dev/tox-ini-fmt/pull/183) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🎉 Merged PR [#92](https://github.com/tox-dev/tox-gh/pull/92) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🎉 Merged PR [#401](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/401) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
