@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1122](https://github.com/pypa/pipx/issues/1122) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🎉 Merged PR [#1124](https://github.com/pypa/pipx/pull/1124) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#1125](https://github.com/pypa/pipx/pull/1125) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#278](https://github.com/pypa/pipx/issues/278#issuecomment-1837230265) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#988](https://github.com/pypa/pipx/issues/988#issuecomment-1837229231) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#278](https://github.com/pypa/pipx/issues/278#issuecomment-1837244539) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#1124](https://github.com/pypa/pipx/pull/1124#issuecomment-1837243794) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🚀 Published release [1.3.1](https://github.com/pypa/pipx/releases/tag/1.3.1) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🔒 Closed issue [#1122](https://github.com/pypa/pipx/issues/1122) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1124](https://github.com/pypa/pipx/pull/1124) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
