@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1047](https://github.com/pypa/pipx/pull/1047) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🚀 Published release [1.5.3](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.5.3) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#158](https://github.com/tox-dev/pyproject-fmt/pull/158) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🎉 Merged PR [#19](https://github.com/pyvenvmanage/PyVenvManage/pull/19) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🚀 Published release [20.25.0](https://github.com/pypa/get-virtualenv/releases/tag/20.25.0) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🗣 Commented on [#1017](https://github.com/pypa/pipx/issues/1017#issuecomment-1837189063) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🔒 Closed issue [#1017](https://github.com/pypa/pipx/issues/1017) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❗ Opened issue [#1119](https://github.com/pypa/pipx/issues/1119) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#1047](https://github.com/pypa/pipx/pull/1047) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🚀 Published release [1.5.3](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.5.3) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
