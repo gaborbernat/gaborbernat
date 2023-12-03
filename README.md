@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#278](https://github.com/pypa/pipx/issues/278) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#278](https://github.com/pypa/pipx/issues/278#issuecomment-1837550622) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🗣 Commented on [#1119](https://github.com/pypa/pipx/issues/1119#issuecomment-1837550199) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#1119](https://github.com/pypa/pipx/issues/1119#issuecomment-1837549687) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 💪 Opened PR [#1130](https://github.com/pypa/pipx/pull/1130) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#405](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/405#issuecomment-1837559482) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#278](https://github.com/pypa/pipx/issues/278) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#1119](https://github.com/pypa/pipx/issues/1119#issuecomment-1837558072) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🚀 Published release [1.3.2](https://github.com/pypa/pipx/releases/tag/1.3.2) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1130](https://github.com/pypa/pipx/pull/1130) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
