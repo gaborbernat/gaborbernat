@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/nedbat/scriv/issues/114#issuecomment-1839006458) in [nedbat/scriv](https://github.com/nedbat/scriv)
-2. ❗ Opened issue [#114](https://github.com/nedbat/scriv/issues/114) in [nedbat/scriv](https://github.com/nedbat/scriv)
-3. 🗣 Commented on [#2600](https://github.com/home-assistant/operating-system/issues/2600#issuecomment-1838934910) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-4. 🚀 Published release [4.1.0](https://github.com/platformdirs/platformdirs/releases/tag/4.1.0) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🚀 Published release [1.3.3](https://github.com/pypa/pipx/releases/tag/1.3.3) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#407](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/407#issuecomment-1839126158) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#1119](https://github.com/pypa/pipx/issues/1119#issuecomment-1839101493) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#1119](https://github.com/pypa/pipx/issues/1119) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#114](https://github.com/nedbat/scriv/issues/114#issuecomment-1839006458) in [nedbat/scriv](https://github.com/nedbat/scriv)
+5. ❗ Opened issue [#114](https://github.com/nedbat/scriv/issues/114) in [nedbat/scriv](https://github.com/nedbat/scriv)
 <!--END_SECTION:activity-->
