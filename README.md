@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#116](https://github.com/nedbat/scriv/issues/116) in [nedbat/scriv](https://github.com/nedbat/scriv)
-2. ❗ Opened issue [#115](https://github.com/nedbat/scriv/issues/115) in [nedbat/scriv](https://github.com/nedbat/scriv)
-3. 🗣 Commented on [#407](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/407#issuecomment-1839126158) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#1119](https://github.com/pypa/pipx/issues/1119#issuecomment-1839101493) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🔒 Closed issue [#1119](https://github.com/pypa/pipx/issues/1119) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🔒 Closed issue [#114](https://github.com/nedbat/scriv/issues/114) in [nedbat/scriv](https://github.com/nedbat/scriv)
+2. ❗ Opened issue [#116](https://github.com/nedbat/scriv/issues/116) in [nedbat/scriv](https://github.com/nedbat/scriv)
+3. ❗ Opened issue [#115](https://github.com/nedbat/scriv/issues/115) in [nedbat/scriv](https://github.com/nedbat/scriv)
+4. 🗣 Commented on [#407](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/407#issuecomment-1839126158) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#1119](https://github.com/pypa/pipx/issues/1119#issuecomment-1839101493) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
