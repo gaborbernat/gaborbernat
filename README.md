@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1062](https://github.com/pypa/pipx/issues/1062) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1845515682) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1845505577) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🔓 Reopened issue [#2074](https://github.com/pypa/virtualenv/issues/2074) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#133](https://github.com/tox-dev/sphinx-argparse-cli/pull/133) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#1037](https://github.com/pypa/pipx/pull/1037#issuecomment-1847589502) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ❌ Closed PR [#1037](https://github.com/pypa/pipx/pull/1037) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#1088](https://github.com/pypa/pipx/pull/1088#issuecomment-1847589350) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ❌ Closed PR [#1088](https://github.com/pypa/pipx/pull/1088) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#1102](https://github.com/pypa/pipx/pull/1102#issuecomment-1847589262) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
