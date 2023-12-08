@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-1847638670) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-2. ❗ Opened issue [#3089](https://github.com/pre-commit/pre-commit/issues/3089) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-3. 🗣 Commented on [#1037](https://github.com/pypa/pipx/pull/1037#issuecomment-1847589502) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ❌ Closed PR [#1037](https://github.com/pypa/pipx/pull/1037) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#1088](https://github.com/pypa/pipx/pull/1088#issuecomment-1847589350) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-1847678914) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+2. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-1847638670) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+3. ❗ Opened issue [#3089](https://github.com/pre-commit/pre-commit/issues/3089) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+4. 🗣 Commented on [#1037](https://github.com/pypa/pipx/pull/1037#issuecomment-1847589502) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❌ Closed PR [#1037](https://github.com/pypa/pipx/pull/1037) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
