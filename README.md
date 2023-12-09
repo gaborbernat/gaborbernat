@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-1847678914) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-2. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-1847638670) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-3. ❗ Opened issue [#3089](https://github.com/pre-commit/pre-commit/issues/3089) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-4. 🗣 Commented on [#1037](https://github.com/pypa/pipx/pull/1037#issuecomment-1847589502) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ❌ Closed PR [#1037](https://github.com/pypa/pipx/pull/1037) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#95](https://github.com/tox-dev/tox-gh/pull/95) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. 🎉 Merged PR [#186](https://github.com/tox-dev/tox-ini-fmt/pull/186) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🎉 Merged PR [#79](https://github.com/gaborbernat/bump-deps-index/pull/79) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🗣 Commented on [#998](https://github.com/devpi/devpi/issues/998#issuecomment-1848090629) in [devpi/devpi](https://github.com/devpi/devpi)
+5. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-1847678914) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
 <!--END_SECTION:activity-->
