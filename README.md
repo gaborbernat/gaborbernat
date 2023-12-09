@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3166](https://github.com/tox-dev/tox/pull/3166) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#248](https://github.com/platformdirs/platformdirs/pull/248) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. ❌ Closed PR [#3](https://github.com/gaborbernat/devpi-process/pull/3) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
-4. 🎉 Merged PR [#66](https://github.com/pytest-dev/pytest-env/pull/66) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🎉 Merged PR [#291](https://github.com/tox-dev/filelock/pull/291) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#1088](https://github.com/pypa/pipx/pull/1088#issuecomment-1848598926) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1848590633) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#3166](https://github.com/tox-dev/tox/pull/3166) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#248](https://github.com/platformdirs/platformdirs/pull/248) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. ❌ Closed PR [#3](https://github.com/gaborbernat/devpi-process/pull/3) in [gaborbernat/devpi-process](https://github.com/gaborbernat/devpi-process)
 <!--END_SECTION:activity-->
