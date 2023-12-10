@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#133](https://github.com/asottile/covdefaults/issues/133) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
-2. 💪 Opened PR [#1](https://github.com/tox-dev/py-discovery/pull/1) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-3. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1848829552) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#452](https://github.com/bloomberg/ipydatagrid/pull/452) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🎉 Merged PR [#460](https://github.com/bloomberg/ipydatagrid/pull/460) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+1. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849021736) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
+2. 🎉 Merged PR [#1](https://github.com/tox-dev/py-discovery/pull/1) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+3. ❗ Opened issue [#133](https://github.com/asottile/covdefaults/issues/133) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
+4. 💪 Opened PR [#1](https://github.com/tox-dev/py-discovery/pull/1) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+5. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1848829552) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
