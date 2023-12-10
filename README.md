@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1849042642) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849041209) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
-3. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849038755) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
-4. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849038014) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
-5. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849037204) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
+1. 🔒 Closed issue [#135](https://github.com/tox-dev/sphinx-argparse-cli/issues/135) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🗣 Commented on [#135](https://github.com/tox-dev/sphinx-argparse-cli/issues/135#issuecomment-1849065039) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1849042642) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849041209) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
+5. 🗣 Commented on [#133](https://github.com/asottile/covdefaults/issues/133#issuecomment-1849038755) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
 <!--END_SECTION:activity-->
