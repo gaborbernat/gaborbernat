@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#452](https://github.com/bloomberg/ipydatagrid/pull/452) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-2. 🎉 Merged PR [#460](https://github.com/bloomberg/ipydatagrid/pull/460) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🎉 Merged PR [#458](https://github.com/bloomberg/ipydatagrid/pull/458) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-4. 🎉 Merged PR [#461](https://github.com/bloomberg/ipydatagrid/pull/461) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🎉 Merged PR [#456](https://github.com/bloomberg/ipydatagrid/pull/456) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+1. 🗣 Commented on [#2074](https://github.com/pypa/virtualenv/issues/2074#issuecomment-1848829552) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#452](https://github.com/bloomberg/ipydatagrid/pull/452) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+3. 🎉 Merged PR [#460](https://github.com/bloomberg/ipydatagrid/pull/460) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+4. 🎉 Merged PR [#458](https://github.com/bloomberg/ipydatagrid/pull/458) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+5. 🎉 Merged PR [#461](https://github.com/bloomberg/ipydatagrid/pull/461) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 <!--END_SECTION:activity-->
