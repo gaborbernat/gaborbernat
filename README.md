@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3170](https://github.com/tox-dev/tox/issues/3170#issuecomment-1852676581) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3170](https://github.com/tox-dev/tox/issues/3170) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#1140](https://github.com/pypa/pipx/pull/1140) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ❌ Closed PR [#81](https://github.com/gaborbernat/bump-deps-index/pull/81) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🔒 Closed issue [#135](https://github.com/tox-dev/sphinx-argparse-cli/issues/135) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#3171](https://github.com/tox-dev/tox/issues/3171#issuecomment-1852909585) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3170](https://github.com/tox-dev/tox/issues/3170#issuecomment-1852676581) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3170](https://github.com/tox-dev/tox/issues/3170) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#1140](https://github.com/pypa/pipx/pull/1140) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❌ Closed PR [#81](https://github.com/gaborbernat/bump-deps-index/pull/81) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
