@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/bloomberg/attrs-strict/pull/108) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-2. 🗣 Commented on [#108](https://github.com/bloomberg/attrs-strict/pull/108#issuecomment-1854557364) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
-3. 🗣 Commented on [#3171](https://github.com/tox-dev/tox/issues/3171#issuecomment-1854125771) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3171](https://github.com/tox-dev/tox/issues/3171#issuecomment-1852909585) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3170](https://github.com/tox-dev/tox/issues/3170#issuecomment-1852676581) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3165](https://github.com/tox-dev/tox/issues/3165#issuecomment-1856643210) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#108](https://github.com/bloomberg/attrs-strict/pull/108) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+3. 🗣 Commented on [#108](https://github.com/bloomberg/attrs-strict/pull/108#issuecomment-1854557364) in [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict)
+4. 🗣 Commented on [#3171](https://github.com/tox-dev/tox/issues/3171#issuecomment-1854125771) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3171](https://github.com/tox-dev/tox/issues/3171#issuecomment-1852909585) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
