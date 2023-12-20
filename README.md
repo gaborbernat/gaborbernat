@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1156](https://github.com/pypa/pipx/pull/1156) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ❌ Closed PR [#410](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/410) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ❌ Closed PR [#409](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/409) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#307](https://github.com/tox-dev/pipdeptree/pull/307) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#163](https://github.com/tox-dev/pyproject-fmt/pull/163) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. ❗ Opened issue [#903](https://github.com/argoproj-labs/hera/issues/903) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+2. 🎉 Merged PR [#1156](https://github.com/pypa/pipx/pull/1156) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❌ Closed PR [#410](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/410) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❌ Closed PR [#409](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/409) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#307](https://github.com/tox-dev/pipdeptree/pull/307) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
