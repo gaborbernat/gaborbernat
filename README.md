@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1151](https://github.com/pypa/pipx/pull/1151) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🎉 Merged PR [#1160](https://github.com/pypa/pipx/pull/1160) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🔒 Closed issue [#946](https://github.com/pypa/pipx/issues/946) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1159](https://github.com/pypa/pipx/pull/1159) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#1169](https://github.com/pypa/pipx/pull/1169) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#1170](https://github.com/pypa/pipx/pull/1170) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ❌ Closed PR [#1151](https://github.com/pypa/pipx/pull/1151) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#1160](https://github.com/pypa/pipx/pull/1160) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🔒 Closed issue [#946](https://github.com/pypa/pipx/issues/946) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1159](https://github.com/pypa/pipx/pull/1159) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
