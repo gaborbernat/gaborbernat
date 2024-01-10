@@ -109,8 +109,8 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [1.6.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.6.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#161](https://github.com/tox-dev/pyproject-fmt/issues/161) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#162](https://github.com/tox-dev/pyproject-fmt/pull/162) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. ❌ Closed PR [#293](https://github.com/tox-dev/filelock/pull/293) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#2680](https://github.com/pypa/virtualenv/pull/2680) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🚀 Published release [2.13.2](https://github.com/tox-dev/pipdeptree/releases/tag/2.13.2) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#309](https://github.com/tox-dev/pipdeptree/issues/309) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#310](https://github.com/tox-dev/pipdeptree/pull/310) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🚀 Published release [1.6.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.6.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
