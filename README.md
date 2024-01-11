@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.6.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.6.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🚀 Published release [2.13.2](https://github.com/tox-dev/pipdeptree/releases/tag/2.13.2) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🔒 Closed issue [#309](https://github.com/tox-dev/pipdeptree/issues/309) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🎉 Merged PR [#310](https://github.com/tox-dev/pipdeptree/pull/310) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🚀 Published release [1.6.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.6.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#312](https://github.com/tox-dev/pipdeptree/issues/312#issuecomment-1887538551) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🚀 Published release [1.6.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.6.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🚀 Published release [2.13.2](https://github.com/tox-dev/pipdeptree/releases/tag/2.13.2) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🔒 Closed issue [#309](https://github.com/tox-dev/pipdeptree/issues/309) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#310](https://github.com/tox-dev/pipdeptree/pull/310) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
