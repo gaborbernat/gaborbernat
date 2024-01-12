@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1198](https://github.com/pypa/pipx/issues/1198#issuecomment-1889966793) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#1198](https://github.com/pypa/pipx/issues/1198#issuecomment-1889674760) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🗣 Commented on [#1198](https://github.com/pypa/pipx/issues/1198#issuecomment-1889440473) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🚀 Published release [1.4.2](https://github.com/pypa/pipx/releases/tag/1.4.2) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🔒 Closed issue [#1195](https://github.com/pypa/pipx/issues/1195) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#2681](https://github.com/pypa/virtualenv/pull/2681) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗ Opened issue [#1733](https://github.com/nedbat/coveragepy/issues/1733) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+3. 🗣 Commented on [#1198](https://github.com/pypa/pipx/issues/1198#issuecomment-1889966793) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#1198](https://github.com/pypa/pipx/issues/1198#issuecomment-1889674760) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#1198](https://github.com/pypa/pipx/issues/1198#issuecomment-1889440473) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
