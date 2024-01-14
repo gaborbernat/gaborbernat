@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1161](https://github.com/pypa/pipx/issues/1161) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🎉 Merged PR [#1201](https://github.com/pypa/pipx/pull/1201) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🗣 Commented on [#1733](https://github.com/nedbat/coveragepy/issues/1733#issuecomment-1890996680) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-4. 🎉 Merged PR [#1202](https://github.com/pypa/pipx/pull/1202) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ❗ Opened issue [#926](https://github.com/argoproj-labs/hera/issues/926) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+1. ❌ Closed PR [#1172](https://github.com/pypa/pipx/pull/1172) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#1199](https://github.com/pypa/pipx/pull/1199) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#1201](https://github.com/pypa/pipx/pull/1201#issuecomment-1891049560) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#3184](https://github.com/tox-dev/tox/pull/3184) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#1161](https://github.com/pypa/pipx/issues/1161) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
