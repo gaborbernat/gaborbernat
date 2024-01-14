@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1202](https://github.com/pypa/pipx/pull/1202) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ❗ Opened issue [#926](https://github.com/argoproj-labs/hera/issues/926) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
-3. 🗣 Commented on [#1188](https://github.com/pypa/pipx/pull/1188#issuecomment-1890062485) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#1201](https://github.com/pypa/pipx/pull/1201#issuecomment-1890061733) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#1201](https://github.com/pypa/pipx/pull/1201#issuecomment-1890061049) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#1733](https://github.com/nedbat/coveragepy/issues/1733#issuecomment-1890996680) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+2. 🎉 Merged PR [#1202](https://github.com/pypa/pipx/pull/1202) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❗ Opened issue [#926](https://github.com/argoproj-labs/hera/issues/926) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+4. 🗣 Commented on [#1188](https://github.com/pypa/pipx/pull/1188#issuecomment-1890062485) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#1201](https://github.com/pypa/pipx/pull/1201#issuecomment-1890061733) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
