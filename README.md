@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2684](https://github.com/pypa/virtualenv/issues/2684#issuecomment-1904211521) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2682](https://github.com/pypa/virtualenv/issues/2682#issuecomment-1904210464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🚀 Published release [1.7.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.7.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🔒 Closed issue [#130](https://github.com/tox-dev/pyproject-fmt/issues/130) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🎉 Merged PR [#169](https://github.com/tox-dev/pyproject-fmt/pull/169) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#3195](https://github.com/tox-dev/tox/issues/3195#issuecomment-1904382787) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3194](https://github.com/tox-dev/tox/pull/3194) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#2684](https://github.com/pypa/virtualenv/issues/2684#issuecomment-1904211521) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2682](https://github.com/pypa/virtualenv/issues/2682#issuecomment-1904210464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [1.7.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/1.7.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
