@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-1908720824) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3196](https://github.com/tox-dev/tox/pull/3196) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#86](https://github.com/gaborbernat/bump-deps-index/pull/86) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🎉 Merged PR [#90](https://github.com/gaborbernat/pypi-changes/pull/90) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🎉 Merged PR [#257](https://github.com/platformdirs/platformdirs/pull/257) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-1908783239) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-1908720824) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3196](https://github.com/tox-dev/tox/pull/3196) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#86](https://github.com/gaborbernat/bump-deps-index/pull/86) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🎉 Merged PR [#90](https://github.com/gaborbernat/pypi-changes/pull/90) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
 <!--END_SECTION:activity-->
