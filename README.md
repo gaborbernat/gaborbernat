@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/pypa/build/pull/593#issuecomment-1921614115) in [pypa/build](https://github.com/pypa/build)
-2. ❌ Reopened PR [#593](https://github.com/pypa/build/pull/593) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#544](https://github.com/pypa/build/pull/544#issuecomment-1921612927) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#663](https://github.com/pypa/build/pull/663#issuecomment-1921611104) in [pypa/build](https://github.com/pypa/build)
-5. ❌ Closed PR [#663](https://github.com/pypa/build/pull/663) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#1236](https://github.com/pypa/pipx/pull/1236#issuecomment-1922157064) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ❌ Closed PR [#1236](https://github.com/pypa/pipx/pull/1236) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#593](https://github.com/pypa/build/pull/593#issuecomment-1921614115) in [pypa/build](https://github.com/pypa/build)
+4. ❌ Reopened PR [#593](https://github.com/pypa/build/pull/593) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#544](https://github.com/pypa/build/pull/544#issuecomment-1921612927) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
