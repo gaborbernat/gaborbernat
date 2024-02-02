@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1236](https://github.com/pypa/hatch/issues/1236) in [pypa/hatch](https://github.com/pypa/hatch)
-2. 💪 Opened PR [#262](https://github.com/platformdirs/platformdirs/pull/262) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#1236](https://github.com/pypa/hatch/issues/1236#issuecomment-1922602381) in [pypa/hatch](https://github.com/pypa/hatch)
-4. ❗ Opened issue [#1237](https://github.com/pypa/hatch/issues/1237) in [pypa/hatch](https://github.com/pypa/hatch)
-5. ❗ Opened issue [#1236](https://github.com/pypa/hatch/issues/1236) in [pypa/hatch](https://github.com/pypa/hatch)
+1. ❗ Opened issue [#1238](https://github.com/pypa/hatch/issues/1238) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🔒 Closed issue [#1236](https://github.com/pypa/hatch/issues/1236) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 💪 Opened PR [#262](https://github.com/platformdirs/platformdirs/pull/262) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#1236](https://github.com/pypa/hatch/issues/1236#issuecomment-1922602381) in [pypa/hatch](https://github.com/pypa/hatch)
+5. ❗ Opened issue [#1237](https://github.com/pypa/hatch/issues/1237) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
