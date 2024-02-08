@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#425](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/425#issuecomment-1934189928) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🚀 Published release [2.0.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.0.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#413](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/413) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#418](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/418) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#1246](https://github.com/pypa/pipx/pull/1246#issuecomment-1932439445) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1934372730) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🔒 Closed issue [#265](https://github.com/platformdirs/platformdirs/issues/265) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1934371805) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#425](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/425#issuecomment-1934189928) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🚀 Published release [2.0.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.0.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
