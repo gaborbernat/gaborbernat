@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#168](https://github.com/bloomberg/pystack/issues/168) in [bloomberg/pystack](https://github.com/bloomberg/pystack)
-2. 🔒 Closed issue [#301](https://github.com/tox-dev/filelock/issues/301) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#304](https://github.com/tox-dev/filelock/pull/304) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1934372730) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🔒 Closed issue [#265](https://github.com/platformdirs/platformdirs/issues/265) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🗣 Commented on [#143](https://github.com/tox-dev/sphinx-argparse-cli/issues/143#issuecomment-1936239623) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. ❗ Opened issue [#168](https://github.com/bloomberg/pystack/issues/168) in [bloomberg/pystack](https://github.com/bloomberg/pystack)
+3. 🔒 Closed issue [#301](https://github.com/tox-dev/filelock/issues/301) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#304](https://github.com/tox-dev/filelock/pull/304) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1934372730) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
