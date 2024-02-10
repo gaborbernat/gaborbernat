@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937113150) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937111568) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937110942) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🔓 Reopened issue [#265](https://github.com/platformdirs/platformdirs/issues/265) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#143](https://github.com/tox-dev/sphinx-argparse-cli/issues/143#issuecomment-1936239623) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937306086) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937113150) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937111568) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937110942) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🔓 Reopened issue [#265](https://github.com/platformdirs/platformdirs/issues/265) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
