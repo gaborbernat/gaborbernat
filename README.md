@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937306086) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-2. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937113150) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937111568) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937110942) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🔓 Reopened issue [#265](https://github.com/platformdirs/platformdirs/issues/265) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. 🚀 Published release [1.12.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.12.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#144](https://github.com/tox-dev/sphinx-argparse-cli/pull/144) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937306086) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937113150) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937111568) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
