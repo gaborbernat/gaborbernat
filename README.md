@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.12.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.12.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#2689](https://github.com/pypa/virtualenv/issues/2689#issuecomment-1939437302) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. 🚀 Published release [1.12.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.12.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. 🎉 Merged PR [#144](https://github.com/tox-dev/sphinx-argparse-cli/pull/144) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937306086) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-5. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937113150) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🚀 Published release [1.12.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.12.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#144](https://github.com/tox-dev/sphinx-argparse-cli/pull/144) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🗣 Commented on [#265](https://github.com/platformdirs/platformdirs/issues/265#issuecomment-1937306086) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
