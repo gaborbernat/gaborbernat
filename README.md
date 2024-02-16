@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1949026510) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1948944050) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1948924094) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#1393](https://github.com/astral-sh/uv/issues/1393#issuecomment-1948872520) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🔒 Closed issue [#1393](https://github.com/astral-sh/uv/issues/1393) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🗣 Commented on [#1521](https://github.com/astral-sh/uv/issues/1521#issuecomment-1949200178) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1949165502) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1949026510) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1948944050) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#1](https://github.com/tox-dev/tox-uv/issues/1#issuecomment-1948924094) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
