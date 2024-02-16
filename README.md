@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.14.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.14.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🔒 Closed issue [#79](https://github.com/tox-dev/pipdeptree/issues/79) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#318](https://github.com/tox-dev/pipdeptree/pull/318) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#2688](https://github.com/pypa/virtualenv/pull/2688#issuecomment-1946612973) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#3219](https://github.com/tox-dev/tox/issues/3219#issuecomment-1946603778) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗ Opened issue [#1393](https://github.com/astral-sh/uv/issues/1393) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🚀 Published release [2.14.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.14.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#79](https://github.com/tox-dev/pipdeptree/issues/79) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#318](https://github.com/tox-dev/pipdeptree/pull/318) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#2688](https://github.com/pypa/virtualenv/pull/2688#issuecomment-1946612973) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
