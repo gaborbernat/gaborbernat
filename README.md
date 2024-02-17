@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3221](https://github.com/tox-dev/tox/pull/3221) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🚀 Published release [1.1.0](https://github.com/tox-dev/tox-uv/releases/tag/1.1.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#6](https://github.com/tox-dev/tox-uv/pull/6) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🔒 Closed issue [#4](https://github.com/tox-dev/tox-uv/issues/4) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#4](https://github.com/tox-dev/tox-uv/issues/4#issuecomment-1949407788) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [1.2.0](https://github.com/tox-dev/tox-uv/releases/tag/1.2.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#7](https://github.com/tox-dev/tox-uv/pull/7) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🚀 Published release [4.13.0](https://github.com/tox-dev/tox/releases/tag/4.13.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#7](https://github.com/tox-dev/tox-uv/pull/7) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#3221](https://github.com/tox-dev/tox/pull/3221) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
