@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1950245341) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1950245080) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#147](https://github.com/tox-dev/sphinx-argparse-cli/issues/147#issuecomment-1950244175) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1949924359) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1949916362) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1950255073) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1950245341) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1950245080) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#147](https://github.com/tox-dev/sphinx-argparse-cli/issues/147#issuecomment-1950244175) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🗣 Commented on [#11](https://github.com/tox-dev/tox-uv/issues/11#issuecomment-1949924359) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
