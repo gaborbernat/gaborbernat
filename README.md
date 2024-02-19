@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/tox-dev/tox-uv/pull/20) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#1310](https://github.com/astral-sh/uv/issues/1310#issuecomment-1951510893) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#1310](https://github.com/astral-sh/uv/issues/1310#issuecomment-1951490770) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🚀 Published release [1.13.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.13.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#148](https://github.com/tox-dev/sphinx-argparse-cli/pull/148) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 💪 Opened PR [#21](https://github.com/tox-dev/tox-uv/pull/21) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#1539](https://github.com/astral-sh/uv/issues/1539#issuecomment-1951545889) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#1676](https://github.com/astral-sh/uv/issues/1676#issuecomment-1951545460) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🔒 Closed issue [#1676](https://github.com/astral-sh/uv/issues/1676) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ❗ Opened issue [#1676](https://github.com/astral-sh/uv/issues/1676) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
