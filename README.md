@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1677](https://github.com/astral-sh/uv/issues/1677#issuecomment-1951657912) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#1677](https://github.com/astral-sh/uv/issues/1677#issuecomment-1951597639) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#1677](https://github.com/astral-sh/uv/issues/1677#issuecomment-1951575833) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. ❗ Opened issue [#1677](https://github.com/astral-sh/uv/issues/1677) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🎉 Merged PR [#22](https://github.com/tox-dev/tox-uv/pull/22) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#2872](https://github.com/tox-dev/tox/issues/2872#issuecomment-1953281625) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1677](https://github.com/astral-sh/uv/issues/1677#issuecomment-1951657912) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#1677](https://github.com/astral-sh/uv/issues/1677#issuecomment-1951597639) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🗣 Commented on [#1677](https://github.com/astral-sh/uv/issues/1677#issuecomment-1951575833) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ❗ Opened issue [#1677](https://github.com/astral-sh/uv/issues/1677) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
