@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/tox-dev/tox-uv/pull/23) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#266](https://github.com/platformdirs/platformdirs/pull/266) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🗣 Commented on [#10](https://github.com/tox-dev/tox-uv/issues/10#issuecomment-1953328630) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 💪 Opened PR [#23](https://github.com/tox-dev/tox-uv/pull/23) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#306](https://github.com/tox-dev/filelock/pull/306) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1728](https://github.com/astral-sh/uv/pull/1728) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🎉 Merged PR [#23](https://github.com/tox-dev/tox-uv/pull/23) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#266](https://github.com/platformdirs/platformdirs/pull/266) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#10](https://github.com/tox-dev/tox-uv/issues/10#issuecomment-1953328630) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#23](https://github.com/tox-dev/tox-uv/pull/23) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
