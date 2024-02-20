@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1769](https://github.com/astral-sh/uv/pull/1769#issuecomment-1954896218) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❗ Opened issue [#1774](https://github.com/astral-sh/uv/issues/1774) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#1769](https://github.com/astral-sh/uv/pull/1769#issuecomment-1954798407) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#1769](https://github.com/astral-sh/uv/pull/1769#issuecomment-1954745657) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#1830](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1830#issuecomment-1954716490) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🗣 Commented on [#15](https://github.com/tox-dev/tox-uv/issues/15#issuecomment-1954949934) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. ❗ Opened issue [#1779](https://github.com/astral-sh/uv/issues/1779) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#1715](https://github.com/astral-sh/uv/issues/1715#issuecomment-1954919974) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🗣 Commented on [#1769](https://github.com/astral-sh/uv/pull/1769#issuecomment-1954896218) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ❗ Opened issue [#1774](https://github.com/astral-sh/uv/issues/1774) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
