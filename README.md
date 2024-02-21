@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.0](https://github.com/tox-dev/tox-uv/releases/tag/1.4.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#26](https://github.com/tox-dev/tox-uv/pull/26) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 💪 Opened PR [#26](https://github.com/tox-dev/tox-uv/pull/26) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#1789](https://github.com/astral-sh/uv/issues/1789#issuecomment-1955600497) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. ❗ Opened issue [#1789](https://github.com/astral-sh/uv/issues/1789) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🗣 Commented on [#1789](https://github.com/astral-sh/uv/issues/1789#issuecomment-1955814793) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🚀 Published release [1.4.0](https://github.com/tox-dev/tox-uv/releases/tag/1.4.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#26](https://github.com/tox-dev/tox-uv/pull/26) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 💪 Opened PR [#26](https://github.com/tox-dev/tox-uv/pull/26) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#1789](https://github.com/astral-sh/uv/issues/1789#issuecomment-1955600497) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
