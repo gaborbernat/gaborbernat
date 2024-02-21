@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1733](https://github.com/nedbat/coveragepy/issues/1733#issuecomment-1957750398) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-2. 🗣 Commented on [#1472](https://github.com/astral-sh/uv/issues/1472#issuecomment-1957730041) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#3228](https://github.com/tox-dev/tox/issues/3228#issuecomment-1957716274) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1789](https://github.com/astral-sh/uv/issues/1789#issuecomment-1955814793) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🚀 Published release [1.4.0](https://github.com/tox-dev/tox-uv/releases/tag/1.4.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [1.2.2](https://github.com/gaborbernat/pypi-changes/releases/tag/1.2.2) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#93](https://github.com/gaborbernat/pypi-changes/pull/93) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🔒 Closed issue [#20](https://github.com/tox-dev/sphinx-argparse-cli/issues/20) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🗣 Commented on [#1733](https://github.com/nedbat/coveragepy/issues/1733#issuecomment-1957750398) in [nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+5. 🗣 Commented on [#1472](https://github.com/astral-sh/uv/issues/1472#issuecomment-1957730041) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
