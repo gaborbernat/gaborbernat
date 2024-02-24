@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9926](https://github.com/astral-sh/ruff/issues/9926#issuecomment-1962074347) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🚀 Published release [2.15.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.15.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#320](https://github.com/tox-dev/pipdeptree/pull/320) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#429](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/429#issuecomment-1962070180) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#307](https://github.com/tox-dev/filelock/issues/307#issuecomment-1962068697) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [2.15.1](https://github.com/tox-dev/pipdeptree/releases/tag/2.15.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#321](https://github.com/tox-dev/pipdeptree/pull/321) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#9926](https://github.com/astral-sh/ruff/issues/9926#issuecomment-1962074347) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🚀 Published release [2.15.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.15.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#320](https://github.com/tox-dev/pipdeptree/pull/320) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
