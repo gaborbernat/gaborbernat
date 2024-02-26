@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3229](https://github.com/tox-dev/tox/pull/3229) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#3229](https://github.com/tox-dev/tox/pull/3229) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#2693](https://github.com/pypa/virtualenv/issues/2693) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#9926](https://github.com/astral-sh/ruff/issues/9926#issuecomment-1962734627) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🗣 Commented on [#9926](https://github.com/astral-sh/ruff/issues/9926#issuecomment-1962734625) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. ❗ Opened issue [#1989](https://github.com/astral-sh/uv/issues/1989) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🎉 Merged PR [#3229](https://github.com/tox-dev/tox/pull/3229) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#3229](https://github.com/tox-dev/tox/pull/3229) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#2693](https://github.com/pypa/virtualenv/issues/2693) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#9926](https://github.com/astral-sh/ruff/issues/9926#issuecomment-1962734627) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
