@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2092](https://github.com/astral-sh/uv/issues/2092#issuecomment-1971785521) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#2092](https://github.com/astral-sh/uv/issues/2092#issuecomment-1971783882) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#2092](https://github.com/astral-sh/uv/issues/2092#issuecomment-1971761663) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🎉 Merged PR [#482](https://github.com/bloomberg/ipydatagrid/pull/482) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-5. 🎉 Merged PR [#125](https://github.com/tox-dev/pyproject-api/pull/125) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🎉 Merged PR [#747](https://github.com/pypa/build/pull/747) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#2092](https://github.com/astral-sh/uv/issues/2092#issuecomment-1971785521) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#2092](https://github.com/astral-sh/uv/issues/2092#issuecomment-1971783882) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🗣 Commented on [#2092](https://github.com/astral-sh/uv/issues/2092#issuecomment-1971761663) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🎉 Merged PR [#482](https://github.com/bloomberg/ipydatagrid/pull/482) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
 <!--END_SECTION:activity-->
