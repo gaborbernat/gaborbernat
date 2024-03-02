@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4250](https://github.com/pypa/setuptools/issues/4250#issuecomment-1974078793) in [pypa/setuptools](https://github.com/pypa/setuptools)
-2. 🗣 Commented on [#324](https://github.com/tox-dev/pipdeptree/issues/324#issuecomment-1974078065) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🔓 Reopened issue [#324](https://github.com/tox-dev/pipdeptree/issues/324) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#324](https://github.com/tox-dev/pipdeptree/issues/324#issuecomment-1974077286) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🔒 Closed issue [#324](https://github.com/tox-dev/pipdeptree/issues/324) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#431](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/431#issuecomment-1974250803) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🚀 Published release [2.16.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.16.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#324](https://github.com/tox-dev/pipdeptree/issues/324) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#325](https://github.com/tox-dev/pipdeptree/pull/325) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#4250](https://github.com/pypa/setuptools/issues/4250#issuecomment-1974078793) in [pypa/setuptools](https://github.com/pypa/setuptools)
 <!--END_SECTION:activity-->
