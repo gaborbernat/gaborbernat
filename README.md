@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#434](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/434) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#434](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/434) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🚀 Published release [2.16.1](https://github.com/tox-dev/pipdeptree/releases/tag/2.16.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🔒 Closed issue [#326](https://github.com/tox-dev/pipdeptree/issues/326) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#327](https://github.com/tox-dev/pipdeptree/pull/327) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#749](https://github.com/pypa/build/pull/749) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-1979673424) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🔒 Closed issue [#269](https://github.com/platformdirs/platformdirs/issues/269) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🗣 Commented on [#28](https://github.com/tox-dev/tox-uv/issues/28#issuecomment-1979671813) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#17](https://github.com/tox-dev/tox-uv/issues/17#issuecomment-1979671384) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
