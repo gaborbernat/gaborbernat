@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#749](https://github.com/pypa/build/pull/749) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-1979673424) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🔒 Closed issue [#269](https://github.com/platformdirs/platformdirs/issues/269) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#28](https://github.com/tox-dev/tox-uv/issues/28#issuecomment-1979671813) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#17](https://github.com/tox-dev/tox-uv/issues/17#issuecomment-1979671384) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#3224](https://github.com/tox-dev/tox/issues/3224#issuecomment-1979727577) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#3233](https://github.com/tox-dev/tox/pull/3233) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#749](https://github.com/pypa/build/pull/749) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-1979673424) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🔒 Closed issue [#269](https://github.com/platformdirs/platformdirs/issues/269) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
 <!--END_SECTION:activity-->
