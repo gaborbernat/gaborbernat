@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/tox-dev/tox-uv/pull/29) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-1979838183) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🔓 Reopened issue [#269](https://github.com/platformdirs/platformdirs/issues/269) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-4. 🗣 Commented on [#3220](https://github.com/tox-dev/tox/pull/3220#issuecomment-1979836238) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#3220](https://github.com/tox-dev/tox/pull/3220) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#10](https://github.com/tox-dev/tox-uv/issues/10#issuecomment-1979842855) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 💪 Opened PR [#29](https://github.com/tox-dev/tox-uv/pull/29) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-1979838183) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+4. 🔓 Reopened issue [#269](https://github.com/platformdirs/platformdirs/issues/269) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+5. 🗣 Commented on [#3220](https://github.com/tox-dev/tox/pull/3220#issuecomment-1979836238) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
