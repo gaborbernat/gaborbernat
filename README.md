@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/tox-dev/pipdeptree/issues/331#issuecomment-1986047129) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#3241](https://github.com/tox-dev/tox/pull/3241) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2695](https://github.com/pypa/virtualenv/pull/2695) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#107](https://github.com/tox-dev/tox-gh/pull/107) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#126](https://github.com/tox-dev/pyproject-api/pull/126) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🗣 Commented on [#2305](https://github.com/astral-sh/uv/pull/2305#issuecomment-1986316930) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#331](https://github.com/tox-dev/pipdeptree/issues/331#issuecomment-1986047129) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#3241](https://github.com/tox-dev/tox/pull/3241) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#2695](https://github.com/pypa/virtualenv/pull/2695) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#107](https://github.com/tox-dev/tox-gh/pull/107) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
