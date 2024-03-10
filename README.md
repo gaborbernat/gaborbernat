@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2316](https://github.com/astral-sh/uv/issues/2316#issuecomment-1987088424) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🔒 Closed issue [#328](https://github.com/tox-dev/pipdeptree/issues/328) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#3240](https://github.com/tox-dev/tox/issues/3240#issuecomment-1986522947) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#3240](https://github.com/tox-dev/tox/issues/3240) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#195](https://github.com/tox-dev/tox-ini-fmt/pull/195) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🗣 Commented on [#2316](https://github.com/astral-sh/uv/issues/2316#issuecomment-1987096399) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#2316](https://github.com/astral-sh/uv/issues/2316#issuecomment-1987088424) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🔒 Closed issue [#328](https://github.com/tox-dev/pipdeptree/issues/328) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🗣 Commented on [#3240](https://github.com/tox-dev/tox/issues/3240#issuecomment-1986522947) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3240](https://github.com/tox-dev/tox/issues/3240) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
