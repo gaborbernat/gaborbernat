@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/gaborbernat/bump-deps-index/pull/92) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🎉 Merged PR [#753](https://github.com/pypa/build/pull/753) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#751](https://github.com/pypa/build/pull/751) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#2316](https://github.com/astral-sh/uv/issues/2316#issuecomment-1987096399) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#2316](https://github.com/astral-sh/uv/issues/2316#issuecomment-1987088424) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🎉 Merged PR [#92](https://github.com/gaborbernat/bump-deps-index/pull/92) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 💪 Opened PR [#92](https://github.com/gaborbernat/bump-deps-index/pull/92) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#753](https://github.com/pypa/build/pull/753) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#751](https://github.com/pypa/build/pull/751) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#2316](https://github.com/astral-sh/uv/issues/2316#issuecomment-1987096399) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
