@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1992139322) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🗣 Commented on [#175](https://github.com/tox-dev/pipdeptree/issues/175#issuecomment-1991910426) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1991908334) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#425](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/425#issuecomment-1988890489) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🚀 Published release [1.4.4](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.4) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ❗ Opened issue [#523](https://github.com/bcoe/c8/issues/523) in [bcoe/c8](https://github.com/bcoe/c8)
+2. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1992139322) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#175](https://github.com/tox-dev/pipdeptree/issues/175#issuecomment-1991910426) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1991908334) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#425](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/425#issuecomment-1988890489) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
