@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#425](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/425#issuecomment-1988890489) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🚀 Published release [1.4.4](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.4) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#92](https://github.com/gaborbernat/bump-deps-index/pull/92) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 💪 Opened PR [#92](https://github.com/gaborbernat/bump-deps-index/pull/92) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🎉 Merged PR [#753](https://github.com/pypa/build/pull/753) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#175](https://github.com/tox-dev/pipdeptree/issues/175#issuecomment-1991910426) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1991908334) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#425](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/425#issuecomment-1988890489) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🚀 Published release [1.4.4](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.4) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🎉 Merged PR [#92](https://github.com/gaborbernat/bump-deps-index/pull/92) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 <!--END_SECTION:activity-->
