@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/tox-dev/tox-uv/pull/36#issuecomment-1994595152) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ❗ Opened issue [#523](https://github.com/bcoe/c8/issues/523) in [bcoe/c8](https://github.com/bcoe/c8)
-3. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1992139322) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#175](https://github.com/tox-dev/pipdeptree/issues/175#issuecomment-1991910426) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1991908334) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#36](https://github.com/tox-dev/tox-uv/pull/36#issuecomment-1994798865) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#36](https://github.com/tox-dev/tox-uv/pull/36#issuecomment-1994595152) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ❗ Opened issue [#523](https://github.com/bcoe/c8/issues/523) in [bcoe/c8](https://github.com/bcoe/c8)
+4. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-1992139322) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#175](https://github.com/tox-dev/pipdeptree/issues/175#issuecomment-1991910426) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
