@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#196](https://github.com/tox-dev/tox-ini-fmt/pull/196) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🎉 Merged PR [#108](https://github.com/tox-dev/tox-gh/pull/108) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🎉 Merged PR [#3242](https://github.com/tox-dev/tox/pull/3242) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#437](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/437) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#155](https://github.com/tox-dev/sphinx-argparse-cli/pull/155) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#37](https://github.com/tox-dev/tox-uv/pull/37#issuecomment-1997598569) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#34](https://github.com/tox-dev/tox-uv/pull/34) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#35](https://github.com/tox-dev/tox-uv/pull/35) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#196](https://github.com/tox-dev/tox-ini-fmt/pull/196) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#108](https://github.com/tox-dev/tox-gh/pull/108) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
