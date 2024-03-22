@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/apihackers/tox-asdf/issues/8) in [apihackers/tox-asdf](https://github.com/apihackers/tox-asdf)
-2. 🔒 Closed issue [#3190](https://github.com/tox-dev/tox/issues/3190) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3246](https://github.com/tox-dev/tox/pull/3246) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#41](https://github.com/tox-dev/tox-uv/issues/41) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#41](https://github.com/tox-dev/tox-uv/issues/41#issuecomment-2013169273) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#335](https://github.com/tox-dev/pipdeptree/issues/335#issuecomment-2014283222) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#2697](https://github.com/pypa/virtualenv/pull/2697) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2687](https://github.com/pypa/virtualenv/pull/2687) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#158](https://github.com/tox-dev/sphinx-argparse-cli/pull/158#issuecomment-2014281845) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🚀 Published release [1.14.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.14.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
