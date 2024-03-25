@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2698](https://github.com/pypa/virtualenv/issues/2698) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2698](https://github.com/pypa/virtualenv/issues/2698#issuecomment-2016883576) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#3247](https://github.com/tox-dev/tox/issues/3247) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3250](https://github.com/tox-dev/tox/pull/3250) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3251](https://github.com/tox-dev/tox/pull/3251) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#79](https://github.com/pytest-dev/pytest-env/issues/79) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🗣 Commented on [#79](https://github.com/pytest-dev/pytest-env/issues/79#issuecomment-2018040746) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🔒 Closed issue [#2698](https://github.com/pypa/virtualenv/issues/2698) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2698](https://github.com/pypa/virtualenv/issues/2698#issuecomment-2016883576) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🔒 Closed issue [#3247](https://github.com/tox-dev/tox/issues/3247) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
