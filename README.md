@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.13.2](https://github.com/tox-dev/filelock/releases/tag/3.13.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#317](https://github.com/tox-dev/filelock/pull/317) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🗣 Commented on [#283](https://github.com/tox-dev/filelock/pull/283#issuecomment-2018116737) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#78](https://github.com/pytest-dev/pytest-env/pull/78) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🔒 Closed issue [#79](https://github.com/pytest-dev/pytest-env/issues/79) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#79](https://github.com/pytest-dev/pytest-env/issues/79#issuecomment-2018236889) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🚀 Published release [3.13.2](https://github.com/tox-dev/filelock/releases/tag/3.13.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#317](https://github.com/tox-dev/filelock/pull/317) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🗣 Commented on [#283](https://github.com/tox-dev/filelock/pull/283#issuecomment-2018116737) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#78](https://github.com/pytest-dev/pytest-env/pull/78) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 <!--END_SECTION:activity-->
