@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/pytest-dev/pytest-env/issues/79#issuecomment-2020209643) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#43](https://github.com/tox-dev/tox-uv/pull/43) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#198](https://github.com/tox-dev/tox-ini-fmt/pull/198) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🎉 Merged PR [#110](https://github.com/tox-dev/tox-gh/pull/110) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#3252](https://github.com/tox-dev/tox/pull/3252) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#333](https://github.com/tox-dev/pipdeptree/pull/333#issuecomment-2028985016) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#79](https://github.com/pytest-dev/pytest-env/issues/79#issuecomment-2020209643) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🎉 Merged PR [#43](https://github.com/tox-dev/tox-uv/pull/43) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#198](https://github.com/tox-dev/tox-ini-fmt/pull/198) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#110](https://github.com/tox-dev/tox-gh/pull/110) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 <!--END_SECTION:activity-->
