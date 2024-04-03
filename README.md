@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#425](https://github.com/pypa/virtualenv/issues/425#issuecomment-2035348767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🔓 Reopened issue [#425](https://github.com/pypa/virtualenv/issues/425) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗ Opened issue [#341](https://github.com/tox-dev/pipdeptree/issues/341) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#333](https://github.com/tox-dev/pipdeptree/pull/333#issuecomment-2033320050) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#333](https://github.com/tox-dev/pipdeptree/pull/333) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#3261](https://github.com/tox-dev/tox/pull/3261) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#341](https://github.com/tox-dev/pipdeptree/issues/341#issuecomment-2035671175) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#425](https://github.com/pypa/virtualenv/issues/425#issuecomment-2035348767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔓 Reopened issue [#425](https://github.com/pypa/virtualenv/issues/425) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗ Opened issue [#341](https://github.com/tox-dev/pipdeptree/issues/341) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
