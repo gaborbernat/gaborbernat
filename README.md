@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2600](https://github.com/home-assistant/operating-system/issues/2600) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-2. 🎉 Merged PR [#45](https://github.com/tox-dev/tox-uv/pull/45) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#8](https://github.com/gaborbernat/gaborbernat/pull/8) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-4. 🗣 Commented on [#10](https://github.com/pyvenvmanage/PyVenvManage/issues/10#issuecomment-2045914673) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. ❗ Opened issue [#24](https://github.com/pyvenvmanage/PyVenvManage/issues/24) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
+1. 🔒 Closed issue [#441](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/441) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#446](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/446) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#2600](https://github.com/home-assistant/operating-system/issues/2600) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+4. 🎉 Merged PR [#45](https://github.com/tox-dev/tox-uv/pull/45) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#8](https://github.com/gaborbernat/gaborbernat/pull/8) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
 <!--END_SECTION:activity-->
