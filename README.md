@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#344](https://github.com/tox-dev/pipdeptree/issues/344) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#345](https://github.com/tox-dev/pipdeptree/pull/345) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#2386](https://github.com/tox-dev/tox/issues/2386#issuecomment-2040732717) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2386](https://github.com/tox-dev/tox/issues/2386#issuecomment-2040693835) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2386](https://github.com/tox-dev/tox/issues/2386#issuecomment-2040494348) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#21](https://github.com/gaborbernat/bernat-tech/pull/21) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 🎉 Merged PR [#102](https://github.com/pytest-dev/pytest-print/pull/102) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🔒 Closed issue [#782](https://github.com/pypa/pipx/issues/782) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#81](https://github.com/pytest-dev/pytest-env/issues/81#issuecomment-2045641209) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🔒 Closed issue [#81](https://github.com/pytest-dev/pytest-env/issues/81) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 <!--END_SECTION:activity-->
