@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2045731996) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2045730557) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🚀 Published release [3.13.4](https://github.com/tox-dev/filelock/releases/tag/3.13.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#320](https://github.com/tox-dev/filelock/pull/320) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#11](https://github.com/tox-dev/py-discovery/pull/11) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+1. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2045796498) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2045731996) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2045730557) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [3.13.4](https://github.com/tox-dev/filelock/releases/tag/3.13.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#320](https://github.com/tox-dev/filelock/pull/320) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
