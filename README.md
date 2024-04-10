@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/pyvenvmanage/PyVenvManage/issues/10#issuecomment-2047783271) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-2. 🔒 Closed issue [#343](https://github.com/tox-dev/pipdeptree/issues/343) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#346](https://github.com/tox-dev/pipdeptree/pull/346) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2046005577) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2046003386) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#13](https://github.com/tox-dev/py-discovery/pull/13) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+2. 🗣 Commented on [#3238](https://github.com/tox-dev/tox/issues/3238#issuecomment-2048147668) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🚀 Published release [2.0.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.0.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🔒 Closed issue [#444](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/444) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#445](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/445) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
