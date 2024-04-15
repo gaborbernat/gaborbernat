@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/tox-dev/tox-uv/pull/46#issuecomment-2054094360) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ❌ Closed PR [#46](https://github.com/tox-dev/tox-uv/pull/46) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2052501492) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🔒 Closed issue [#24](https://github.com/pyvenvmanage/PyVenvManage/issues/24) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
-5. 🔒 Closed issue [#343](https://github.com/tox-dev/pipdeptree/issues/343) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#354](https://github.com/tox-dev/pipdeptree/pull/354#issuecomment-2057462265) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#46](https://github.com/tox-dev/tox-uv/pull/46#issuecomment-2054094360) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ❌ Closed PR [#46](https://github.com/tox-dev/tox-uv/pull/46) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2052501492) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🔒 Closed issue [#24](https://github.com/pyvenvmanage/PyVenvManage/issues/24) in [pyvenvmanage/PyVenvManage](https://github.com/pyvenvmanage/PyVenvManage)
 <!--END_SECTION:activity-->
