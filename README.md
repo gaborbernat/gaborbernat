@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2061870322) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🎉 Merged PR [#494](https://github.com/bloomberg/ipydatagrid/pull/494) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🎉 Merged PR [#47](https://github.com/tox-dev/tox-uv/pull/47) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#14](https://github.com/tox-dev/py-discovery/pull/14) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-5. 🗣 Commented on [#340](https://github.com/tox-dev/pipdeptree/pull/340#issuecomment-2061445626) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🚀 Published release [2.1.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.1.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#448](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/448) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❌ Closed PR [#447](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/447) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 💪 Opened PR [#448](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/448) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2061870322) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
