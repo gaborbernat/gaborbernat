@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/tox-dev/pyproject-fmt/issues/183#issuecomment-2060190609) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#2703](https://github.com/pypa/virtualenv/pull/2703) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#2703](https://github.com/pypa/virtualenv/pull/2703) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2699](https://github.com/pypa/virtualenv/pull/2699) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#103](https://github.com/pytest-dev/pytest-print/pull/103) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🎉 Merged PR [#494](https://github.com/bloomberg/ipydatagrid/pull/494) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🎉 Merged PR [#47](https://github.com/tox-dev/tox-uv/pull/47) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#14](https://github.com/tox-dev/py-discovery/pull/14) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+4. 🗣 Commented on [#340](https://github.com/tox-dev/pipdeptree/pull/340#issuecomment-2061445626) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ❌ Closed PR [#340](https://github.com/tox-dev/pipdeptree/pull/340) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
