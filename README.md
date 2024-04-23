@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2709](https://github.com/pypa/virtualenv/pull/2709#issuecomment-2072419086) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2709](https://github.com/pypa/virtualenv/pull/2709#issuecomment-2072403327) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2707](https://github.com/pypa/virtualenv/pull/2707) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#2705](https://github.com/pypa/virtualenv/pull/2705) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2063944119) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🔒 Closed issue [#1346](https://github.com/pypa/pipx/issues/1346) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#1359](https://github.com/pypa/pipx/pull/1359) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#1249](https://github.com/pypa/pipx/issues/1249) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#1351](https://github.com/pypa/pipx/pull/1351) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1357](https://github.com/pypa/pipx/pull/1357) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
