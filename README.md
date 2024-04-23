@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2707](https://github.com/pypa/virtualenv/pull/2707) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2705](https://github.com/pypa/virtualenv/pull/2705) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2063944119) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#1395](https://github.com/pypa/hatch/issues/1395#issuecomment-2063936745) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🚀 Published release [1.15.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.15.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#2709](https://github.com/pypa/virtualenv/pull/2709#issuecomment-2072419086) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2709](https://github.com/pypa/virtualenv/pull/2709#issuecomment-2072403327) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2707](https://github.com/pypa/virtualenv/pull/2707) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2705](https://github.com/pypa/virtualenv/pull/2705) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2548](https://github.com/astral-sh/uv/pull/2548#issuecomment-2063944119) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
