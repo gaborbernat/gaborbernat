@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#64](https://github.com/tox-dev/filelock/issues/64) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#325](https://github.com/tox-dev/filelock/pull/325) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🗣 Commented on [#3269](https://github.com/tox-dev/tox/pull/3269#issuecomment-2080793280) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3269](https://github.com/tox-dev/tox/pull/3269) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#2712](https://github.com/pypa/virtualenv/pull/2712#issuecomment-2080760075) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#2711](https://github.com/pypa/virtualenv/issues/2711) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2712](https://github.com/pypa/virtualenv/pull/2712) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🔒 Closed issue [#64](https://github.com/tox-dev/filelock/issues/64) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#325](https://github.com/tox-dev/filelock/pull/325) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🗣 Commented on [#3269](https://github.com/tox-dev/tox/pull/3269#issuecomment-2080793280) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
