@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/tox-dev/tox-uv/issues/49#issuecomment-2081775579) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🔒 Closed issue [#2711](https://github.com/pypa/virtualenv/issues/2711) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2712](https://github.com/pypa/virtualenv/pull/2712) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🔒 Closed issue [#64](https://github.com/tox-dev/filelock/issues/64) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#325](https://github.com/tox-dev/filelock/pull/325) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#2713](https://github.com/pypa/virtualenv/pull/2713) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2713](https://github.com/pypa/virtualenv/pull/2713) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [20.26.1](https://github.com/pypa/get-virtualenv/releases/tag/20.26.1) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+4. 🚀 Published release [3.14](https://github.com/tox-dev/filelock/releases/tag/3.14.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🗣 Commented on [#49](https://github.com/tox-dev/tox-uv/issues/49#issuecomment-2081775579) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
