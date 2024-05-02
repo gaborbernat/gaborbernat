@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1385](https://github.com/pypa/pipx/issues/1385#issuecomment-2086852806) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🚀 Published release [1.8.2](https://github.com/tox-dev/tox-uv/releases/tag/1.8.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#53](https://github.com/tox-dev/tox-uv/pull/53) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 💪 Opened PR [#53](https://github.com/tox-dev/tox-uv/pull/53) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#1385](https://github.com/pypa/pipx/issues/1385#issuecomment-2086017968) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#166](https://github.com/tox-dev/sphinx-argparse-cli/pull/166) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🗣 Commented on [#1385](https://github.com/pypa/pipx/issues/1385#issuecomment-2086852806) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🚀 Published release [1.8.2](https://github.com/tox-dev/tox-uv/releases/tag/1.8.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#53](https://github.com/tox-dev/tox-uv/pull/53) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#53](https://github.com/tox-dev/tox-uv/pull/53) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
