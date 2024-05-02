@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3276](https://github.com/tox-dev/tox/issues/3276#issuecomment-2089411377) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#166](https://github.com/tox-dev/sphinx-argparse-cli/pull/166) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. 🗣 Commented on [#1385](https://github.com/pypa/pipx/issues/1385#issuecomment-2086852806) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🚀 Published release [1.8.2](https://github.com/tox-dev/tox-uv/releases/tag/1.8.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#53](https://github.com/tox-dev/tox-uv/pull/53) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#362](https://github.com/tox-dev/pipdeptree/issues/362#issuecomment-2089466617) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#3276](https://github.com/tox-dev/tox/issues/3276#issuecomment-2089411377) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#166](https://github.com/tox-dev/sphinx-argparse-cli/pull/166) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🗣 Commented on [#1385](https://github.com/pypa/pipx/issues/1385#issuecomment-2086852806) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🚀 Published release [1.8.2](https://github.com/tox-dev/tox-uv/releases/tag/1.8.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
