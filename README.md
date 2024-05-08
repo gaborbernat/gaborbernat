@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#609](https://github.com/tamasfe/taplo/pull/609#issuecomment-2097143347) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
-2. 💪 Opened PR [#609](https://github.com/tamasfe/taplo/pull/609) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
-3. 🎉 Merged PR [#1](https://github.com/gaborbernat/pyproject-fmt-rust/pull/1) in [gaborbernat/pyproject-fmt-rust](https://github.com/gaborbernat/pyproject-fmt-rust)
-4. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16#issuecomment-2093809522) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16#issuecomment-2093792894) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16#issuecomment-2099751737) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#609](https://github.com/tamasfe/taplo/pull/609#issuecomment-2097143347) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+3. 💪 Opened PR [#609](https://github.com/tamasfe/taplo/pull/609) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+4. 🎉 Merged PR [#1](https://github.com/gaborbernat/pyproject-fmt-rust/pull/1) in [gaborbernat/pyproject-fmt-rust](https://github.com/gaborbernat/pyproject-fmt-rust)
+5. 🗣 Commented on [#16](https://github.com/tox-dev/pyproject-fmt/issues/16#issuecomment-2093809522) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
