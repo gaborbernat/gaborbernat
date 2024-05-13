@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/tox-dev/pyproject-fmt-rust/issues/8) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-2. 💪 Opened PR [#12](https://github.com/tox-dev/pyproject-fmt-rust/pull/12) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-3. 💪 Opened PR [#210](https://github.com/tox-dev/pyproject-fmt/pull/210) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🚀 Published release [1.0.5](https://github.com/tox-dev/pyproject-fmt-rust/releases/tag/1.0.5) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-5. 🎉 Merged PR [#9](https://github.com/tox-dev/pyproject-fmt-rust/pull/9) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+1. ❌ Closed PR [#13](https://github.com/tox-dev/pyproject-fmt-rust/pull/13) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+2. ❌ Reopened PR [#210](https://github.com/tox-dev/pyproject-fmt/pull/210) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. ❌ Closed PR [#210](https://github.com/tox-dev/pyproject-fmt/pull/210) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 💪 Opened PR [#13](https://github.com/tox-dev/pyproject-fmt-rust/pull/13) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+5. 🚀 Published release [1.0.6](https://github.com/tox-dev/pyproject-fmt-rust/releases/tag/1.0.6) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
 <!--END_SECTION:activity-->
