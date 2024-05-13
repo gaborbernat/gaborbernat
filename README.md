@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/gaborbernat/bump-deps-index/pull/100) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🎉 Merged PR [#105](https://github.com/gaborbernat/pypi-changes/pull/105) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-3. 🎉 Merged PR [#115](https://github.com/tox-dev/tox-gh/pull/115) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🎉 Merged PR [#54](https://github.com/tox-dev/tox-uv/pull/54) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#3268](https://github.com/tox-dev/tox/pull/3268#issuecomment-2108309813) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#200](https://github.com/tox-dev/pyproject-fmt/issues/200#issuecomment-2108517473) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#176](https://github.com/tox-dev/pyproject-fmt/issues/176#issuecomment-2108467742) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🎉 Merged PR [#2717](https://github.com/pypa/virtualenv/pull/2717) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#201](https://github.com/tox-dev/pyproject-fmt/issues/201#issuecomment-2108463475) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🔒 Closed issue [#201](https://github.com/tox-dev/pyproject-fmt/issues/201) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 <!--END_SECTION:activity-->
