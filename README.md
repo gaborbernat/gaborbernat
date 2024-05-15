@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/tox-dev/pyproject-fmt-rust/issues/18#issuecomment-2111469411) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-2. 🚀 Published release [2.1.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.1.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#218](https://github.com/tox-dev/pyproject-fmt/pull/218) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 💪 Opened PR [#218](https://github.com/tox-dev/pyproject-fmt/pull/218) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#3281](https://github.com/tox-dev/tox/pull/3281#issuecomment-2111466592) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [4.2.2](https://github.com/platformdirs/platformdirs/releases/tag/4.2.2) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+2. 🎉 Merged PR [#277](https://github.com/platformdirs/platformdirs/pull/277) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#2719](https://github.com/pypa/virtualenv/issues/2719#issuecomment-2111502625) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2719](https://github.com/pypa/virtualenv/issues/2719#issuecomment-2111501980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3281](https://github.com/tox-dev/tox/pull/3281) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
