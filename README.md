@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/tox-dev/pyproject-fmt-rust/pull/7) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-2. 🎉 Merged PR [#204](https://github.com/tox-dev/tox-ini-fmt/pull/204) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🎉 Merged PR [#3279](https://github.com/tox-dev/tox/pull/3279) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#1417](https://github.com/pypa/pipx/pull/1417) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#1416](https://github.com/pypa/pipx/pull/1416) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#609](https://github.com/tamasfe/taplo/pull/609#issuecomment-2120799240) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+2. 🗣 Commented on [#609](https://github.com/tamasfe/taplo/pull/609#issuecomment-2120759802) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+3. ❌ Closed PR [#7](https://github.com/tox-dev/pyproject-fmt-rust/pull/7) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+4. 🎉 Merged PR [#204](https://github.com/tox-dev/tox-ini-fmt/pull/204) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🎉 Merged PR [#3279](https://github.com/tox-dev/tox/pull/3279) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
