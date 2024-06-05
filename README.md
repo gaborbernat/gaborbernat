@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/ekalinin/nodeenv/issues/357#issuecomment-2148186597) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
-2. 🔒 Closed issue [#357](https://github.com/ekalinin/nodeenv/issues/357) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
-3. ❗ Opened issue [#357](https://github.com/ekalinin/nodeenv/issues/357) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
-4. 🔓 Reopened issue [#159](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/159) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#159](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/159#issuecomment-2146359184) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🔒 Closed issue [#3262](https://github.com/tox-dev/tox/issues/3262) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3289](https://github.com/tox-dev/tox/pull/3289) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#357](https://github.com/ekalinin/nodeenv/issues/357#issuecomment-2148186597) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
+4. 🔒 Closed issue [#357](https://github.com/ekalinin/nodeenv/issues/357) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
+5. ❗ Opened issue [#357](https://github.com/ekalinin/nodeenv/issues/357) in [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
 <!--END_SECTION:activity-->
