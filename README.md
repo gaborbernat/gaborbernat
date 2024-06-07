@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/tox-dev/tox-pipenv/pull/69#issuecomment-2152892464) in [tox-dev/tox-pipenv](https://github.com/tox-dev/tox-pipenv)
-2. ❌ Reopened PR [#69](https://github.com/tox-dev/tox-pipenv/pull/69) in [tox-dev/tox-pipenv](https://github.com/tox-dev/tox-pipenv)
-3. 💪 Opened PR [#17](https://github.com/tox-dev/py-discovery/pull/17) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-4. 🚀 Published release [4.15.1](https://github.com/tox-dev/tox/releases/tag/4.15.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3262](https://github.com/tox-dev/tox/issues/3262) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#2733](https://github.com/pypa/virtualenv/issues/2733) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2733](https://github.com/pypa/virtualenv/issues/2733#issuecomment-2153744607) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#69](https://github.com/tox-dev/tox-pipenv/pull/69#issuecomment-2152892464) in [tox-dev/tox-pipenv](https://github.com/tox-dev/tox-pipenv)
+4. ❌ Reopened PR [#69](https://github.com/tox-dev/tox-pipenv/pull/69) in [tox-dev/tox-pipenv](https://github.com/tox-dev/tox-pipenv)
+5. 💪 Opened PR [#17](https://github.com/tox-dev/py-discovery/pull/17) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
 <!--END_SECTION:activity-->
