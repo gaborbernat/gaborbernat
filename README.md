@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#78](https://github.com/tox-dev/filelock/issues/78) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🚀 Published release [3.15.0](https://github.com/tox-dev/filelock/releases/tag/3.15.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#331](https://github.com/tox-dev/filelock/issues/331) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#334](https://github.com/tox-dev/filelock/pull/334) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#3293](https://github.com/tox-dev/tox/issues/3293#issuecomment-2161285746) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#335](https://github.com/tox-dev/filelock/issues/335#issuecomment-2163618110) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#335](https://github.com/tox-dev/filelock/issues/335) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🔒 Closed issue [#78](https://github.com/tox-dev/filelock/issues/78) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🚀 Published release [3.15.0](https://github.com/tox-dev/filelock/releases/tag/3.15.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#331](https://github.com/tox-dev/filelock/issues/331) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
