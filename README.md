@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2736](https://github.com/pypa/virtualenv/pull/2736#issuecomment-2163687633) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❌ Closed PR [#2736](https://github.com/pypa/virtualenv/pull/2736) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#337](https://github.com/tox-dev/filelock/issues/337#issuecomment-2163685595) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🗣 Commented on [#337](https://github.com/tox-dev/filelock/issues/337#issuecomment-2163669242) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🔒 Closed issue [#336](https://github.com/tox-dev/filelock/issues/336) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#338](https://github.com/tox-dev/filelock/pull/338#issuecomment-2163765662) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#2736](https://github.com/pypa/virtualenv/pull/2736#issuecomment-2163687633) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#2736](https://github.com/pypa/virtualenv/pull/2736) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#337](https://github.com/tox-dev/filelock/issues/337#issuecomment-2163685595) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🗣 Commented on [#337](https://github.com/tox-dev/filelock/issues/337#issuecomment-2163669242) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
