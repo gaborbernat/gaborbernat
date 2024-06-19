@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#344](https://github.com/tox-dev/filelock/pull/344) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#340](https://github.com/tox-dev/filelock/pull/340#issuecomment-2178844087) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🚀 Published release [2.2.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#459](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/459) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🚀 Published release [3.15.2](https://github.com/tox-dev/filelock/releases/tag/3.15.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#343](https://github.com/tox-dev/filelock/issues/343#issuecomment-2178895117) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#340](https://github.com/tox-dev/filelock/pull/340#issuecomment-2178885467) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#344](https://github.com/tox-dev/filelock/pull/344) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🗣 Commented on [#343](https://github.com/tox-dev/filelock/issues/343#issuecomment-2178875332) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#344](https://github.com/tox-dev/filelock/pull/344) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
