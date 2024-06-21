@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2033](https://github.com/Chevrotain/chevrotain/issues/2033) in [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain)
-2. 🎉 Merged PR [#3297](https://github.com/tox-dev/tox/pull/3297) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🚀 Published release [3.15.3](https://github.com/tox-dev/filelock/releases/tag/3.15.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#345](https://github.com/tox-dev/filelock/pull/345) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#337](https://github.com/tox-dev/filelock/issues/337#issuecomment-2178993147) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [2.2.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#463](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/463) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❗ Opened issue [#2033](https://github.com/Chevrotain/chevrotain/issues/2033) in [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain)
+4. 🎉 Merged PR [#3297](https://github.com/tox-dev/tox/pull/3297) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [3.15.3](https://github.com/tox-dev/filelock/releases/tag/3.15.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
