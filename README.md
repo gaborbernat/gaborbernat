@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3286](https://github.com/tox-dev/tox/pull/3286) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#2741](https://github.com/pypa/virtualenv/pull/2741) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#122](https://github.com/tox-dev/devpi-process/pull/122) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🎉 Merged PR [#1440](https://github.com/pypa/pipx/pull/1440) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#286](https://github.com/platformdirs/platformdirs/pull/286) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+1. ❗ Opened issue [#456](https://github.com/adamchainz/time-machine/issues/456) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
+2. 🎉 Merged PR [#3286](https://github.com/tox-dev/tox/pull/3286) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#2741](https://github.com/pypa/virtualenv/pull/2741) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#122](https://github.com/tox-dev/devpi-process/pull/122) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#1440](https://github.com/pypa/pipx/pull/1440) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
