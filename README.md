@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#450](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/450) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🔒 Closed issue [#451](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/451) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#384](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/384) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🚀 Published release [2.2.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#346](https://github.com/tox-dev/filelock/issues/346#issuecomment-2184050761) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [3.15.4](https://github.com/tox-dev/filelock/releases/tag/3.15.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#346](https://github.com/tox-dev/filelock/issues/346) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#347](https://github.com/tox-dev/filelock/pull/347) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🔒 Closed issue [#450](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/450) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🔒 Closed issue [#451](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/451) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
