@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/tox-dev/py-discovery/pull/16) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-2. 🎉 Merged PR [#18](https://github.com/tox-dev/py-discovery/pull/18) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-3. 🎉 Merged PR [#17](https://github.com/tox-dev/py-discovery/pull/17) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-4. ❗ Opened issue [#456](https://github.com/adamchainz/time-machine/issues/456) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
-5. 🎉 Merged PR [#3286](https://github.com/tox-dev/tox/pull/3286) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2741](https://github.com/pypa/virtualenv/pull/2741) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#16](https://github.com/tox-dev/py-discovery/pull/16) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+3. 🎉 Merged PR [#18](https://github.com/tox-dev/py-discovery/pull/18) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+4. 🎉 Merged PR [#17](https://github.com/tox-dev/py-discovery/pull/17) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+5. ❗ Opened issue [#456](https://github.com/adamchainz/time-machine/issues/456) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
 <!--END_SECTION:activity-->
