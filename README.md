@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#733](https://github.com/yjl9903/unplugin-info/issues/733#issuecomment-2189179320) in [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info)
-2. 🔒 Closed issue [#2744](https://github.com/pypa/virtualenv/issues/2744) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#46](https://github.com/pypa/get-virtualenv/pull/46) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-4. 🗣 Commented on [#733](https://github.com/yjl9903/unplugin-info/issues/733#issuecomment-2189127533) in [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info)
-5. ❗ Opened issue [#733](https://github.com/yjl9903/unplugin-info/issues/733) in [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info)
+1. 🗣 Commented on [#2745](https://github.com/pypa/virtualenv/issues/2745#issuecomment-2191702985) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#733](https://github.com/yjl9903/unplugin-info/issues/733#issuecomment-2189179320) in [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info)
+3. 🔒 Closed issue [#2744](https://github.com/pypa/virtualenv/issues/2744) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#46](https://github.com/pypa/get-virtualenv/pull/46) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+5. 🗣 Commented on [#733](https://github.com/yjl9903/unplugin-info/issues/733#issuecomment-2189127533) in [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info)
 <!--END_SECTION:activity-->
