@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/pypa/get-virtualenv/issues/47#issuecomment-2192511386) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-2. 🗣 Commented on [#47](https://github.com/pypa/get-virtualenv/issues/47#issuecomment-2192509831) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-3. 🎉 Merged PR [#384](https://github.com/tox-dev/pipdeptree/pull/384) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🔒 Closed issue [#2745](https://github.com/pypa/virtualenv/issues/2745) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#3301](https://github.com/tox-dev/tox/issues/3301#issuecomment-2191737372) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#65](https://github.com/tox-dev/tox-uv/issues/65#issuecomment-2193712985) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🔒 Closed issue [#65](https://github.com/tox-dev/tox-uv/issues/65) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#65](https://github.com/tox-dev/tox-uv/issues/65#issuecomment-2193711550) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#47](https://github.com/pypa/get-virtualenv/issues/47#issuecomment-2192511386) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+5. 🗣 Commented on [#47](https://github.com/pypa/get-virtualenv/issues/47#issuecomment-2192509831) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
 <!--END_SECTION:activity-->
