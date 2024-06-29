@@ -108,9 +108,9 @@ You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/tox-dev/tox-uv/issues/65#issuecomment-2195061978) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🚀 Published release [1.9.1](https://github.com/tox-dev/tox-uv/releases/tag/1.9.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🔒 Closed issue [#65](https://github.com/tox-dev/tox-uv/issues/65) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-uv/pull/66) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#66](https://github.com/tox-dev/tox-uv/pull/66) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
+2. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-2197727641) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+3. 🗣 Commented on [#65](https://github.com/tox-dev/tox-uv/issues/65#issuecomment-2195061978) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🚀 Published release [1.9.1](https://github.com/tox-dev/tox-uv/releases/tag/1.9.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🔒 Closed issue [#65](https://github.com/tox-dev/tox-uv/issues/65) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
