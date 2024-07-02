@@ -28,14 +28,22 @@ segment. I am the primary maintainer (author) for the following [Python](https:/
    [![PyPI](https://img.shields.io/pypi/v/tox?style=flat-square)](https://pypi.org/project/tox)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox?style=flat-square)](https://pypistats.org/packages/tox)
+1. [pyproject-api](https://github.com/tox-dev/pyproject-api) --
+   [![PyPI](https://img.shields.io/pypi/v/pyproject-api?style=flat-square)](https://pypi.org/project/pyproject-api)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pyproject-api?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyproject-api?style=flat-square)](https://pypistats.org/packages/pyproject-api)
+1. [pipx](https://github.com/pypa/pipx) --
+   [![PyPI](https://img.shields.io/pypi/v/pipx?style=flat-square)](https://pypi.org/project/pipx)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pipx?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pipx?style=flat-square)](https://pypistats.org/packages/pipx)
+1. [pytest-env](https://github.com/tox-dev/pytest-env) --
+   [![PyPI](https://img.shields.io/pypi/v/pytest-env?style=flat-square)](https://pypi.org/project/pytest-env)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest-env?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-env?style=flat-square)](https://pypistats.org/packages/pytest-env)
 1. [pipdeptree](https://github.com/tox-dev/pipdeptree) --
    [![PyPI](https://img.shields.io/pypi/v/pipdeptree?style=flat-square)](https://pypi.org/project/pipdeptree)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pipdeptree?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/pipdeptree?style=flat-square)](https://pypistats.org/packages/pipdeptree)
-1. [pytest-env](https://github.com/tox-dev/pytest-env) --
-   [![PyPI](https://img.shields.io/pypi/v/pytest-env?style=flat-square)](https://pypi.org/project/pytest-env)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest-env?logo=python&style=flat-square)
-   [![Downloads](https://pepy.tech/badge/pytest-env/month)](https://pepy.tech/project/pytest-env)
 1. [sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) --
    [![PyPI](https://img.shields.io/pypi/v/sphinx-autodoc-typehints?style=flat-square)](https://pypi.org/project/sphinx-autodoc-typehints)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/sphinx-autodoc-typehints?logo=python&style=flat-square)
@@ -44,30 +52,26 @@ segment. I am the primary maintainer (author) for the following [Python](https:/
    [![PyPI](https://img.shields.io/pypi/v/pytest-print?style=flat-square)](https://pypi.org/project/pytest-print)
    ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest-print?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-print?style=flat-square)](https://pypistats.org/packages/pytest-print)
-1. [pytest-memray](https://github.com/bloomberg/pytest-memray) --
-   [![PyPI](https://img.shields.io/pypi/v/pytest-memray?style=flat-square)](https://pypi.org/project/pytest-memray)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/pytest-memray?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-memray?style=flat-square)](https://pypistats.org/packages/pytest-memray)
-1. [pyproject-api](https://github.com/tox-dev/pyproject-api) --
-   [![PyPI](https://img.shields.io/pypi/v/pyproject-api?style=flat-square)](https://pypi.org/project/pyproject-api)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pyproject-api?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyproject-api?style=flat-square)](https://pypistats.org/packages/pyproject-api)
-1. [attrs-strict](https://github.com/bloomberg/attrs-strict) --
-   [![PyPI](https://img.shields.io/pypi/v/attrs-strict?style=flat-square)](https://pypi.org/project/attrs-strict)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/attrs-strict?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/attrs-strict?style=flat-square)](https://pypistats.org/packages/attrs-strict)
-1. [sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli) --
-   [![PyPI](https://img.shields.io/pypi/v/sphinx-argparse-cli?style=flat-square)](https://pypi.org/project/sphinx-argparse-cli)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/sphinx-argparse-cli?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-argparse-cli?style=flat-square)](https://pypistats.org/packages/sphinx-argparse-cli)
-1. [tox-gh](https://github.com/tox-dev/tox-gh) --
-   [![PyPI](https://img.shields.io/pypi/v/tox-gh?style=flat-square)](https://pypi.org/project/tox-gh)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-gh?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-gh?style=flat-square)](https://pypistats.org/packages/tox-gh)
 1. [pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) --
    [![PyPI](https://img.shields.io/pypi/v/pyproject-fmt?style=flat-square)](https://pypi.org/project/pyproject-fmt)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pyproject-fmt?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyproject-fmt?style=flat-square)](https://pypistats.org/packages/pyproject-fmt)
+1. [pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust) --
+   [![PyPI](https://img.shields.io/pypi/v/pyproject-fmt-rust?style=flat-square)](https://pypi.org/project/pyproject-fmt-rust)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/pyproject-fmt-rust?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyproject-fmt-rust?style=flat-square)](https://pypistats.org/packages/pyproject-fmt-rust)
+1. [tox-gh](https://github.com/tox-dev/tox-gh) --
+   [![PyPI](https://img.shields.io/pypi/v/tox-gh?style=flat-square)](https://pypi.org/project/tox-gh)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-gh?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/tox-gh?style=flat-square)](https://pypistats.org/packages/tox-gh)
+1. [sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli) --
+   [![PyPI](https://img.shields.io/pypi/v/sphinx-argparse-cli?style=flat-square)](https://pypi.org/project/sphinx-argparse-cli)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/sphinx-argparse-cli?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-argparse-cli?style=flat-square)](https://pypistats.org/packages/sphinx-argparse-cli)
+1. [devpi-process](https://github.com/tox-dev/devpi-process) --
+   [![PyPI](https://img.shields.io/pypi/v/devpi-process?style=flat-square)](https://pypi.org/project/devpi-process)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/devpi-process?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/devpi-process?style=flat-square)](https://pypistats.org/packages/devpi-process)
 1. [tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt) --
    [![PyPI](https://img.shields.io/pypi/v/tox-ini-fmt?style=flat-square)](https://pypi.org/project/tox-ini-fmt)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-ini-fmt?logo=python&style=flat-square)
@@ -80,21 +84,17 @@ segment. I am the primary maintainer (author) for the following [Python](https:/
    [![PyPI](https://img.shields.io/pypi/v/pypi-changes?style=flat-square)](https://pypi.org/project/pypi-changes)
    ![GitHub last commit](https://img.shields.io/github/last-commit/gaborbernat/pypi_changes?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/pypi-changes?style=flat-square)](https://pypistats.org/packages/pypi-changes)
-1. [devpi-process](https://github.com/tox-dev/devpi-process) --
-   [![PyPI](https://img.shields.io/pypi/v/devpi-process?style=flat-square)](https://pypi.org/project/devpi-process)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/devpi-process?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/devpi-process?style=flat-square)](https://pypistats.org/packages/devpi-process)
 
-For the following projects, while I do hold the write commit bit, I only help with maintainership when needed:
+For the following projects, while I do hold the write commit bit, I only help with maintenance when needed:
 
 1. [build](https://github.com/pypa/build) --
    [![PyPI](https://img.shields.io/pypi/v/build?style=flat-square)](https://pypi.org/project/build)
    ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/build?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/build?style=flat-square)](https://pypistats.org/packages/build)
-1. [pipx](https://github.com/pypa/pipx) --
-   [![PyPI](https://img.shields.io/pypi/v/pipx?style=flat-square)](https://pypi.org/project/pipx)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pipx?logo=python&style=flat-square)
-   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pipx?style=flat-square)](https://pypistats.org/packages/pipx)
+1. [pytest-memray](https://github.com/bloomberg/pytest-memray) --
+   [![PyPI](https://img.shields.io/pypi/v/pytest-memray?style=flat-square)](https://pypi.org/project/pytest-memray)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/pytest-memray?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-memray?style=flat-square)](https://pypistats.org/packages/pytest-memray)
 1. [tox-conda](https://github.com/tox-dev/tox-conda) --
    [![PyPI](https://img.shields.io/pypi/v/tox-conda?style=flat-square)](https://pypi.org/project/tox-conda)
    ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox-conda?logo=python&style=flat-square)
@@ -103,14 +103,22 @@ For the following projects, while I do hold the write commit bit, I only help wi
    [![PyPI](https://img.shields.io/pypi/v/ipydatagrid?style=flat-square)](https://pypi.org/project/ipydatagrid)
    ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/ipydatagrid?logo=python&style=flat-square)
    [![PyPI - Downloads](https://img.shields.io/pypi/dm/ipydatagrid?style=flat-square)](https://pypistats.org/packages/ipydatagrid)
+1. [attrs-strict](https://github.com/bloomberg/attrs-strict) --
+   [![PyPI](https://img.shields.io/pypi/v/attrs-strict?style=flat-square)](https://pypi.org/project/attrs-strict)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/attrs-strict?logo=python&style=flat-square)
+   [![PyPI - Downloads](https://img.shields.io/pypi/dm/attrs-strict?style=flat-square)](https://pypistats.org/packages/attrs-strict)
 
 You can find my Curriculum Vitae (or résumé) on the following link
 [![View PDF](https://img.shields.io/badge/View%20as%20PDF-latest%20CV-blue?style=flat-square&logo=docusign)](https://gaborbernat.github.io/cv/main.pdf).
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3302](https://github.com/tox-dev/tox/issues/3302) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3303](https://github.com/tox-dev/tox/pull/3303) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3302](https://github.com/tox-dev/tox/issues/3302#issuecomment-2198601999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
-5. 🗣 Commented on [#269](https://github.com/platformdirs/platformdirs/issues/269#issuecomment-2197727641) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+
+1. 🗣 Commented on [#231](https://github.com/tox-dev/pyproject-fmt/issues/231#issuecomment-2202075307) in
+   [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🔒 Closed issue [#3302](https://github.com/tox-dev/tox/issues/3302) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3303](https://github.com/tox-dev/tox/pull/3303) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3302](https://github.com/tox-dev/tox/issues/3302#issuecomment-2198601999) in
+   [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
+[adamchainz/time-machine](https://github.com/adamchainz/time-machine)
 <!--END_SECTION:activity-->
