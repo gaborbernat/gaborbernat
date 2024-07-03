@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2743](https://github.com/pypa/virtualenv/pull/2743) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [2.1.4](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.1.4) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#232](https://github.com/tox-dev/pyproject-fmt/pull/232) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🎉 Merged PR [#124](https://github.com/tox-dev/devpi-process/pull/124) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#348](https://github.com/tox-dev/filelock/pull/348) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#19](https://github.com/tox-dev/py-discovery/pull/19) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+2. 🚀 Published release [4.16.0](https://github.com/tox-dev/tox/releases/tag/4.16.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3291](https://github.com/tox-dev/tox/pull/3291#issuecomment-2204995343) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3300](https://github.com/tox-dev/tox/pull/3300) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#2743](https://github.com/pypa/virtualenv/pull/2743) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
