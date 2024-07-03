@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#231](https://github.com/tox-dev/pyproject-fmt/issues/231#issuecomment-2202075307) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#3302](https://github.com/tox-dev/tox/issues/3302) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3303](https://github.com/tox-dev/tox/pull/3303) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3302](https://github.com/tox-dev/tox/issues/3302#issuecomment-2198601999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
+1. 🚀 Published release [2.1.4](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.1.4) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🎉 Merged PR [#232](https://github.com/tox-dev/pyproject-fmt/pull/232) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🎉 Merged PR [#124](https://github.com/tox-dev/devpi-process/pull/124) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🎉 Merged PR [#348](https://github.com/tox-dev/filelock/pull/348) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#465](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/465) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
