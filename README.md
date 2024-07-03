@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#231](https://github.com/tox-dev/pyproject-fmt/issues/231#issuecomment-2202075307) in
-   [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#231](https://github.com/tox-dev/pyproject-fmt/issues/231#issuecomment-2202075307) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 2. 🔒 Closed issue [#3302](https://github.com/tox-dev/tox/issues/3302) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🎉 Merged PR [#3303](https://github.com/tox-dev/tox/pull/3303) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3302](https://github.com/tox-dev/tox/issues/3302#issuecomment-2198601999) in
+4. 🗣 Commented on [#3302](https://github.com/tox-dev/tox/issues/3302#issuecomment-2198601999) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
