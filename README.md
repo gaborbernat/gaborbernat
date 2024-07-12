@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#233](https://github.com/tox-dev/pyproject-fmt/pull/233) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#289](https://github.com/platformdirs/platformdirs/pull/289) in [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
-3. 🎉 Merged PR [#235](https://github.com/tox-dev/pyproject-fmt/pull/235) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#234](https://github.com/tox-dev/pyproject-fmt/issues/234#issuecomment-2218569528) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#347](https://github.com/emmett-framework/granian/issues/347#issuecomment-2214824470) in [emmett-framework/granian](https://github.com/emmett-framework/granian)
+1. 🗣 Commented on [#236](https://github.com/pypa/gh-action-pypi-publish/pull/236#issuecomment-2224765908) in [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
+2. 🔒 Closed issue [#393](https://github.com/tox-dev/pipdeptree/issues/393) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#393](https://github.com/tox-dev/pipdeptree/issues/393) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#394](https://github.com/tox-dev/pipdeptree/pull/394) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#233](https://github.com/tox-dev/pyproject-fmt/pull/233) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
