@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3308](https://github.com/tox-dev/tox/issues/3308#issuecomment-2227320860) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#2753](https://github.com/tox-dev/tox/issues/2753) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3291](https://github.com/tox-dev/tox/pull/3291) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#395](https://github.com/tox-dev/pipdeptree/issues/395) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#395](https://github.com/tox-dev/pipdeptree/issues/395#issuecomment-2227214842) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#527](https://github.com/bloomberg/ipydatagrid/pull/527#issuecomment-2230698741) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+2. 🗣 Commented on [#3308](https://github.com/tox-dev/tox/issues/3308#issuecomment-2227320860) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#2753](https://github.com/tox-dev/tox/issues/2753) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3291](https://github.com/tox-dev/tox/pull/3291) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#395](https://github.com/tox-dev/pipdeptree/issues/395) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
