@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999#issuecomment-2231261265) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#527](https://github.com/bloomberg/ipydatagrid/pull/527#issuecomment-2230698741) in [bloomberg/ipydatagrid](https://github.com/bloomberg/ipydatagrid)
-3. 🗣 Commented on [#3308](https://github.com/tox-dev/tox/issues/3308#issuecomment-2227320860) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#2753](https://github.com/tox-dev/tox/issues/2753) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3291](https://github.com/tox-dev/tox/pull/3291) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [2.2.3](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.3) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#466](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/466) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#467](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/467) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#468](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/468) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#999](https://github.com/tox-dev/tox/issues/999#issuecomment-2231261265) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
