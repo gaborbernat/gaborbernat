@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#237](https://github.com/tox-dev/pyproject-fmt/issues/237#issuecomment-2241814987) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-2240073678) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🚀 Published release [2.2.3](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.3) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#466](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/466) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#467](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/467) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#3312](https://github.com/tox-dev/tox/pull/3312) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#237](https://github.com/tox-dev/pyproject-fmt/issues/237#issuecomment-2241814987) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-2240073678) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [2.2.3](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.3) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#466](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/466) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
