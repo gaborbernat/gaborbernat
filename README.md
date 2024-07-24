@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2748](https://github.com/pypa/virtualenv/pull/2748#issuecomment-2247889993) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#3312](https://github.com/tox-dev/tox/pull/3312) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#237](https://github.com/tox-dev/pyproject-fmt/issues/237#issuecomment-2241814987) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-2240073678) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [2.2.3](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.2.3) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#238](https://github.com/tox-dev/pyproject-fmt/issues/238#issuecomment-2247900698) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#2748](https://github.com/pypa/virtualenv/pull/2748#issuecomment-2247889993) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#3312](https://github.com/tox-dev/tox/pull/3312) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#237](https://github.com/tox-dev/pyproject-fmt/issues/237#issuecomment-2241814987) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#3191](https://github.com/tox-dev/tox/issues/3191#issuecomment-2240073678) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
