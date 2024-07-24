@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#69](https://github.com/tox-dev/tox-uv/pull/69#issuecomment-2248057907) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#238](https://github.com/tox-dev/pyproject-fmt/issues/238#issuecomment-2247900698) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🗣 Commented on [#2748](https://github.com/pypa/virtualenv/pull/2748#issuecomment-2247889993) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3312](https://github.com/tox-dev/tox/pull/3312) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#237](https://github.com/tox-dev/pyproject-fmt/issues/237#issuecomment-2241814987) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#69](https://github.com/tox-dev/tox-uv/pull/69#issuecomment-2248645739) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#69](https://github.com/tox-dev/tox-uv/pull/69#issuecomment-2248057907) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#238](https://github.com/tox-dev/pyproject-fmt/issues/238#issuecomment-2247900698) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#2748](https://github.com/pypa/virtualenv/pull/2748#issuecomment-2247889993) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3312](https://github.com/tox-dev/tox/pull/3312) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
