@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3309](https://github.com/tox-dev/tox/pull/3309#issuecomment-2254255398) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#71](https://github.com/tox-dev/tox-uv/pull/71#issuecomment-2253484830) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#70](https://github.com/tox-dev/tox-uv/pull/70#issuecomment-2253345292) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🚀 Published release [1.10.0](https://github.com/tox-dev/tox-uv/releases/tag/1.10.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🔒 Closed issue [#3191](https://github.com/tox-dev/tox/issues/3191) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#240](https://github.com/tox-dev/pyproject-fmt/issues/240) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#240](https://github.com/tox-dev/pyproject-fmt/issues/240#issuecomment-2254557188) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🔒 Closed issue [#241](https://github.com/tox-dev/pyproject-fmt/issues/241) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#241](https://github.com/tox-dev/pyproject-fmt/issues/241#issuecomment-2254554444) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🔒 Closed issue [#242](https://github.com/tox-dev/pyproject-fmt/issues/242) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
