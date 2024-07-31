@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [2.2.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.2.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#238](https://github.com/tox-dev/pyproject-fmt/issues/238) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#239](https://github.com/tox-dev/pyproject-fmt/pull/239) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#239](https://github.com/tox-dev/pyproject-fmt/pull/239#issuecomment-2258672027) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#244](https://github.com/tox-dev/pyproject-fmt/issues/244#issuecomment-2258624920) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. ❗ Opened issue [#129](https://github.com/rust-pretty-assertions/rust-pretty-assertions/issues/129) in [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions)
+2. 🚀 Published release [2.2.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.2.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🔒 Closed issue [#238](https://github.com/tox-dev/pyproject-fmt/issues/238) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#239](https://github.com/tox-dev/pyproject-fmt/pull/239) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#239](https://github.com/tox-dev/pyproject-fmt/pull/239#issuecomment-2258672027) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
