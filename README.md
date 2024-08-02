@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#352](https://github.com/tox-dev/filelock/pull/352) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#129](https://github.com/rust-pretty-assertions/rust-pretty-assertions/issues/129#issuecomment-2265630719) in [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions)
-3. 🗣 Commented on [#236](https://github.com/pypa/gh-action-pypi-publish/pull/236#issuecomment-2261827237) in [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
-4. 🗣 Commented on [#236](https://github.com/pypa/gh-action-pypi-publish/pull/236#issuecomment-2261676418) in [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
-5. 🚀 Published release [2.2.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.2.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#75](https://github.com/tox-dev/tox-uv/pull/75#issuecomment-2265673741) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 💪 Opened PR [#75](https://github.com/tox-dev/tox-uv/pull/75) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#74](https://github.com/tox-dev/tox-uv/pull/74) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ❌ Closed PR [#73](https://github.com/tox-dev/tox-uv/pull/73) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#74](https://github.com/tox-dev/tox-uv/pull/74) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
