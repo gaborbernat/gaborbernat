@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5739](https://github.com/astral-sh/uv/issues/5739#issuecomment-2266159159) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❗ Opened issue [#5739](https://github.com/astral-sh/uv/issues/5739) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🚀 Published release [1.11.1](https://github.com/tox-dev/tox-uv/releases/tag/1.11.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#75](https://github.com/tox-dev/tox-uv/pull/75#issuecomment-2265673741) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#75](https://github.com/tox-dev/tox-uv/pull/75) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#5739](https://github.com/astral-sh/uv/issues/5739#issuecomment-2266180883) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#5739](https://github.com/astral-sh/uv/issues/5739#issuecomment-2266159159) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. ❗ Opened issue [#5739](https://github.com/astral-sh/uv/issues/5739) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🚀 Published release [1.11.1](https://github.com/tox-dev/tox-uv/releases/tag/1.11.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#75](https://github.com/tox-dev/tox-uv/pull/75#issuecomment-2265673741) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
