@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#75](https://github.com/tox-dev/tox-uv/pull/75#issuecomment-2265673741) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 💪 Opened PR [#75](https://github.com/tox-dev/tox-uv/pull/75) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#74](https://github.com/tox-dev/tox-uv/pull/74) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. ❌ Closed PR [#73](https://github.com/tox-dev/tox-uv/pull/73) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#74](https://github.com/tox-dev/tox-uv/pull/74) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [1.11.1](https://github.com/tox-dev/tox-uv/releases/tag/1.11.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#75](https://github.com/tox-dev/tox-uv/pull/75#issuecomment-2265673741) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 💪 Opened PR [#75](https://github.com/tox-dev/tox-uv/pull/75) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#74](https://github.com/tox-dev/tox-uv/pull/74) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ❌ Closed PR [#73](https://github.com/tox-dev/tox-uv/pull/73) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
