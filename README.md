@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3315](https://github.com/tox-dev/tox/pull/3315) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3560](https://github.com/astral-sh/uv/issues/3560#issuecomment-2269462425) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#3560](https://github.com/astral-sh/uv/issues/3560#issuecomment-2269418307) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#3560](https://github.com/astral-sh/uv/issues/3560#issuecomment-2269380663) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#3314](https://github.com/tox-dev/tox/issues/3314#issuecomment-2267149337) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#3306](https://github.com/tox-dev/tox/pull/3306) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1](https://github.com/tox-dev/pre-commit-uv/pull/1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 💪 Opened PR [#1](https://github.com/tox-dev/pre-commit-uv/pull/1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 💪 Opened PR [#3315](https://github.com/tox-dev/tox/pull/3315) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3560](https://github.com/astral-sh/uv/issues/3560#issuecomment-2269462425) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
