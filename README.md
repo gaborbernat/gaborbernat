@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.17.0](https://github.com/tox-dev/tox/releases/tag/4.17.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3315](https://github.com/tox-dev/tox/pull/3315) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3306](https://github.com/tox-dev/tox/pull/3306) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#1](https://github.com/tox-dev/pre-commit-uv/pull/1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 💪 Opened PR [#1](https://github.com/tox-dev/pre-commit-uv/pull/1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🚀 Published release [4.0.0](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.0.0) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+2. 🚀 Published release [4.17.0](https://github.com/tox-dev/tox/releases/tag/4.17.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3315](https://github.com/tox-dev/tox/pull/3315) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3306](https://github.com/tox-dev/tox/pull/3306) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#1](https://github.com/tox-dev/pre-commit-uv/pull/1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
