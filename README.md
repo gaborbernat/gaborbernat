@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3318](https://github.com/tox-dev/tox/issues/3318#issuecomment-2273485067) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#94](https://github.com/pytest-dev/pytest-env/pull/94) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🎉 Merged PR [#796](https://github.com/pypa/build/pull/796) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#108](https://github.com/gaborbernat/bump-deps-index/pull/108) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🎉 Merged PR [#113](https://github.com/gaborbernat/pypi-changes/pull/113) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+1. 💪 Opened PR [#2](https://github.com/tox-dev/pre-commit-uv/pull/2) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+2. 🗣 Commented on [#3318](https://github.com/tox-dev/tox/issues/3318#issuecomment-2273485067) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#94](https://github.com/pytest-dev/pytest-env/pull/94) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#796](https://github.com/pypa/build/pull/796) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#108](https://github.com/gaborbernat/bump-deps-index/pull/108) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
