@@ -113,11 +113,11 @@ You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/tox-dev/pre-commit-uv/issues/4#issuecomment-2275855395) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-2. 🚀 Published release [4.0.2](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.0.2) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 🔒 Closed issue [#3](https://github.com/tox-dev/pre-commit-uv/issues/3) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🗣 Commented on [#3](https://github.com/tox-dev/pre-commit-uv/issues/3#issuecomment-2274400988) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 🗣 Commented on [#3](https://github.com/tox-dev/pre-commit-uv/issues/3#issuecomment-2274369626) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🗣 Commented on [#4](https://github.com/tox-dev/pre-commit-uv/issues/4#issuecomment-2276590981) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+2. 🚀 Published release [4.0.3](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.0.3) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🔒 Closed issue [#4](https://github.com/tox-dev/pre-commit-uv/issues/4) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 🎉 Merged PR [#5](https://github.com/tox-dev/pre-commit-uv/pull/5) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 💪 Opened PR [#5](https://github.com/tox-dev/pre-commit-uv/pull/5) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
