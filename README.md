@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#231](https://github.com/tox-dev/pyproject-fmt/issues/231#issuecomment-2202075307) in
-   [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#3302](https://github.com/tox-dev/tox/issues/3302) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3303](https://github.com/tox-dev/tox/pull/3303) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3302](https://github.com/tox-dev/tox/issues/3302#issuecomment-2198601999) in
+1. 🎉 Merged PR [#24](https://github.com/tox-dev/py-discovery/pull/24) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+2. 🎉 Merged PR [#22](https://github.com/tox-dev/py-discovery/pull/22) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+3. 🗣 Commented on [#1884](https://github.com/pypa/virtualenv/issues/1884#issuecomment-2336540092) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#33](https://github.com/tox-dev/PyVenvManage/pull/33) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🗣 Commented on [#292](https://github.com/tox-dev/platformdirs/issues/292#issuecomment-2336539362) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
