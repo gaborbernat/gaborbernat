@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#300](https://github.com/tox-dev/platformdirs/pull/300) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🔒 Closed issue [#3340](https://github.com/tox-dev/tox/issues/3340) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3340](https://github.com/tox-dev/tox/issues/3340#issuecomment-2336685919) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#24](https://github.com/tox-dev/py-discovery/pull/24) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
-5. 🎉 Merged PR [#22](https://github.com/tox-dev/py-discovery/pull/22) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+1. 🚀 Published release [1.0.1](https://github.com/tox-dev/devpi-process/releases/tag/1.0.1) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 🎉 Merged PR [#130](https://github.com/tox-dev/devpi-process/pull/130) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. 💪 Opened PR [#130](https://github.com/tox-dev/devpi-process/pull/130) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🚀 Published release [4.3.2](https://github.com/tox-dev/platformdirs/releases/tag/4.3.2) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#299](https://github.com/tox-dev/platformdirs/pull/299) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
