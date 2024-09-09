@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#352](https://github.com/adamchainz/blacken-docs/issues/352#issuecomment-2337120458) in [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs)
-2. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2337064956) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
-3. 🚀 Published release [4.1.1](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🎉 Merged PR [#12](https://github.com/tox-dev/pre-commit-uv/pull/12) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 💪 Opened PR [#12](https://github.com/tox-dev/pre-commit-uv/pull/12) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🚀 Published release [1.4.6](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.6) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#113](https://github.com/gaborbernat/bump-deps-index/pull/113) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 💪 Opened PR [#113](https://github.com/gaborbernat/bump-deps-index/pull/113) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🗣 Commented on [#352](https://github.com/adamchainz/blacken-docs/issues/352#issuecomment-2337120458) in [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs)
+5. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2337064956) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
