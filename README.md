@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#217](https://github.com/tox-dev/tox-ini-fmt/pull/217) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🎉 Merged PR [#88](https://github.com/tox-dev/tox-uv/pull/88) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#129](https://github.com/tox-dev/tox-gh/pull/129) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🎉 Merged PR [#478](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/478) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#3341](https://github.com/tox-dev/tox/pull/3341) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#118](https://github.com/gaborbernat/pypi-changes/pull/118) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#114](https://github.com/gaborbernat/bump-deps-index/pull/114) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#217](https://github.com/tox-dev/tox-ini-fmt/pull/217) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🎉 Merged PR [#88](https://github.com/tox-dev/tox-uv/pull/88) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#129](https://github.com/tox-dev/tox-gh/pull/129) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
