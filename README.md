@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4641](https://github.com/pypa/setuptools/issues/4641#issuecomment-2338407457) in [pypa/setuptools](https://github.com/pypa/setuptools)
-2. 🚀 Published release [1.4.6](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.6) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#113](https://github.com/gaborbernat/bump-deps-index/pull/113) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 💪 Opened PR [#113](https://github.com/gaborbernat/bump-deps-index/pull/113) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🗣 Commented on [#352](https://github.com/adamchainz/blacken-docs/issues/352#issuecomment-2337120458) in [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs)
+1. 🗣 Commented on [#4641](https://github.com/pypa/setuptools/issues/4641#issuecomment-2338464323) in [pypa/setuptools](https://github.com/pypa/setuptools)
+2. 🗣 Commented on [#4641](https://github.com/pypa/setuptools/issues/4641#issuecomment-2338407457) in [pypa/setuptools](https://github.com/pypa/setuptools)
+3. 🚀 Published release [1.4.6](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.6) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#113](https://github.com/gaborbernat/bump-deps-index/pull/113) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 💪 Opened PR [#113](https://github.com/gaborbernat/bump-deps-index/pull/113) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
