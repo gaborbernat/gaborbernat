@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.1.1](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-2. 🎉 Merged PR [#12](https://github.com/tox-dev/pre-commit-uv/pull/12) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 💪 Opened PR [#12](https://github.com/tox-dev/pre-commit-uv/pull/12) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🚀 Published release [1.0.1](https://github.com/tox-dev/devpi-process/releases/tag/1.0.1) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#130](https://github.com/tox-dev/devpi-process/pull/130) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2337064956) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
+2. 🚀 Published release [4.1.1](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.1) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🎉 Merged PR [#12](https://github.com/tox-dev/pre-commit-uv/pull/12) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 💪 Opened PR [#12](https://github.com/tox-dev/pre-commit-uv/pull/12) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🚀 Published release [1.0.1](https://github.com/tox-dev/devpi-process/releases/tag/1.0.1) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
