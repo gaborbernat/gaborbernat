@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#479](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/479#issuecomment-2344350834) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#2762](https://github.com/pypa/virtualenv/issues/2762#issuecomment-2344004099) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2763](https://github.com/pypa/virtualenv/pull/2763) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#99](https://github.com/pytest-dev/pytest-env/pull/99) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🎉 Merged PR [#121](https://github.com/pytest-dev/pytest-print/pull/121) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🗣 Commented on [#479](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/479#issuecomment-2344419883) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#479](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/479#issuecomment-2344350834) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#2762](https://github.com/pypa/virtualenv/issues/2762#issuecomment-2344004099) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2763](https://github.com/pypa/virtualenv/pull/2763) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#99](https://github.com/pytest-dev/pytest-env/pull/99) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
