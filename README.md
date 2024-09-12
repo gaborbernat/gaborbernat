@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#480](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/480) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [2.4.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.4.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 2. 🔒 Closed issue [#480](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/480) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#482](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/482) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345142716) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345078136) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🔒 Closed issue [#480](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/480) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#482](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/482) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345142716) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
