@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345070266) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345062664) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2344780351) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#479](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/479#issuecomment-2344419883) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#479](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/479#issuecomment-2344350834) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345078136) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345070266) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2345062664) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2344780351) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 🗣 Commented on [#479](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/479#issuecomment-2344419883) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
