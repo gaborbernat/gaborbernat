@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#130](https://github.com/tox-dev/tox-gh/issues/130#issuecomment-2349656887) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. 🔒 Closed issue [#130](https://github.com/tox-dev/tox-gh/issues/130) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🚀 Published release [1.4.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.4.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🎉 Merged PR [#218](https://github.com/tox-dev/tox-ini-fmt/pull/218) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 💪 Opened PR [#218](https://github.com/tox-dev/tox-ini-fmt/pull/218) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#302](https://github.com/tox-dev/platformdirs/pull/302) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 💪 Opened PR [#302](https://github.com/tox-dev/platformdirs/pull/302) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🗣 Commented on [#130](https://github.com/tox-dev/tox-gh/issues/130#issuecomment-2349656887) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🔒 Closed issue [#130](https://github.com/tox-dev/tox-gh/issues/130) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🚀 Published release [1.4.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.4.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
