@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2758](https://github.com/pypa/virtualenv/issues/2758#issuecomment-2347138549) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [2.4.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.4.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#480](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/480) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 💪 Opened PR [#218](https://github.com/tox-dev/tox-ini-fmt/pull/218) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 🗣 Commented on [#2758](https://github.com/pypa/virtualenv/issues/2758#issuecomment-2347138549) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [2.4.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.4.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. 🔒 Closed issue [#480](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/480) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#482](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/482) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🔒 Closed issue [#480](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/480) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
