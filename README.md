@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#119](https://github.com/gaborbernat/pypi-changes/pull/119) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-2. 🎉 Merged PR [#115](https://github.com/gaborbernat/bump-deps-index/pull/115) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#150](https://github.com/tox-dev/pyproject-api/pull/150) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#484](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/484) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#131](https://github.com/tox-dev/tox-gh/pull/131) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2353957134) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
+2. 🎉 Merged PR [#119](https://github.com/gaborbernat/pypi-changes/pull/119) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#115](https://github.com/gaborbernat/bump-deps-index/pull/115) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#150](https://github.com/tox-dev/pyproject-api/pull/150) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🎉 Merged PR [#484](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/484) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
