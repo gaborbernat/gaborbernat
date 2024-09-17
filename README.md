@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#7471](https://github.com/astral-sh/uv/issues/7471) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🎉 Merged PR [#304](https://github.com/tox-dev/platformdirs/pull/304) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🎉 Merged PR [#133](https://github.com/tox-dev/devpi-process/pull/133) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🔓 Reopened issue [#913](https://github.com/pypa/pipx/issues/913) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#133](https://github.com/tox-dev/tox-gh/pull/133) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🚀 Published release [4.3.4](https://github.com/tox-dev/platformdirs/releases/tag/4.3.4) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#305](https://github.com/tox-dev/platformdirs/pull/305) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🗣 Commented on [#7471](https://github.com/astral-sh/uv/issues/7471#issuecomment-2356443029) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 💪 Opened PR [#305](https://github.com/tox-dev/platformdirs/pull/305) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. ❗ Opened issue [#7471](https://github.com/astral-sh/uv/issues/7471) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
