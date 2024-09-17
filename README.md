@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2765](https://github.com/pypa/virtualenv/pull/2765) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#220](https://github.com/tox-dev/tox-ini-fmt/pull/220) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🚀 Published release [4.3.6](https://github.com/tox-dev/platformdirs/releases/tag/4.3.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🎉 Merged PR [#307](https://github.com/tox-dev/platformdirs/pull/307) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 💪 Opened PR [#307](https://github.com/tox-dev/platformdirs/pull/307) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#1](https://github.com/gaborbernat/all-repos-self/pull/1) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+2. 💪 Opened PR [#2765](https://github.com/pypa/virtualenv/pull/2765) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#220](https://github.com/tox-dev/tox-ini-fmt/pull/220) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🚀 Published release [4.3.6](https://github.com/tox-dev/platformdirs/releases/tag/4.3.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#307](https://github.com/tox-dev/platformdirs/pull/307) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
