@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#362](https://github.com/tox-dev/filelock/pull/362) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#3346](https://github.com/tox-dev/tox/pull/3346) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2356477055) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
-4. 🚀 Published release [4.3.4](https://github.com/tox-dev/platformdirs/releases/tag/4.3.4) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🎉 Merged PR [#305](https://github.com/tox-dev/platformdirs/pull/305) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#306](https://github.com/tox-dev/platformdirs/pull/306) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#3346](https://github.com/tox-dev/tox/pull/3346) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#362](https://github.com/tox-dev/filelock/pull/362) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#3346](https://github.com/tox-dev/tox/pull/3346) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2356477055) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
