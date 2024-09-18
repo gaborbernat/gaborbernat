@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#52](https://github.com/tox-dev/pyproject-fmt-rust/pull/52) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-2. 🎉 Merged PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-3. ❌ Closed PR [#1](https://github.com/gaborbernat/all-repos/pull/1) in [gaborbernat/all-repos](https://github.com/gaborbernat/all-repos)
-4. 💪 Opened PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-5. 🚀 Published release [1.4.8](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.8) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🔒 Closed issue [#913](https://github.com/pypa/pipx/issues/913) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#52](https://github.com/tox-dev/pyproject-fmt-rust/pull/52) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+3. 🎉 Merged PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+4. ❌ Closed PR [#1](https://github.com/gaborbernat/all-repos/pull/1) in [gaborbernat/all-repos](https://github.com/gaborbernat/all-repos)
+5. 💪 Opened PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
