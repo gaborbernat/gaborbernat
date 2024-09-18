@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-2. 🚀 Published release [1.4.8](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.8) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🚀 Published release [1.4.7](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.7) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🚀 Published release [1.3.1](https://github.com/gaborbernat/pypi-changes/releases/tag/1.3.1) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🚀 Published release [4.1.2](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.2) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+2. ❌ Closed PR [#1](https://github.com/gaborbernat/all-repos/pull/1) in [gaborbernat/all-repos](https://github.com/gaborbernat/all-repos)
+3. 💪 Opened PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+4. 🚀 Published release [1.4.8](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.8) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🚀 Published release [1.4.7](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.7) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
