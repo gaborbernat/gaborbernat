@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.0.2](https://github.com/tox-dev/devpi-process/releases/tag/1.0.2) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. 🎉 Merged PR [#134](https://github.com/tox-dev/devpi-process/pull/134) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-3. 💪 Opened PR [#134](https://github.com/tox-dev/devpi-process/pull/134) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🚀 Published release [1.18.2](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.18.2) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#187](https://github.com/tox-dev/sphinx-argparse-cli/pull/187) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 💪 Opened PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+2. 🚀 Published release [1.4.8](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.8) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🚀 Published release [1.4.7](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.4.7) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🚀 Published release [1.3.1](https://github.com/gaborbernat/pypi-changes/releases/tag/1.3.1) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🚀 Published release [4.1.2](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.2) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
