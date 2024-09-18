@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#308](https://github.com/tox-dev/platformdirs/pull/308) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🔒 Closed issue [#913](https://github.com/pypa/pipx/issues/913) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#52](https://github.com/tox-dev/pyproject-fmt-rust/pull/52) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-4. 🎉 Merged PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-5. ❌ Closed PR [#1](https://github.com/gaborbernat/all-repos/pull/1) in [gaborbernat/all-repos](https://github.com/gaborbernat/all-repos)
+1. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2358899728) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
+2. 💪 Opened PR [#308](https://github.com/tox-dev/platformdirs/pull/308) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🔒 Closed issue [#913](https://github.com/pypa/pipx/issues/913) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#52](https://github.com/tox-dev/pyproject-fmt-rust/pull/52) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+5. 🎉 Merged PR [#51](https://github.com/tox-dev/pyproject-fmt-rust/pull/51) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
