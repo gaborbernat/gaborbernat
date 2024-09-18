@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#257](https://github.com/tox-dev/pyproject-fmt/pull/257) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 💪 Opened PR [#123](https://github.com/pytest-dev/pytest-print/pull/123) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🚀 Published release [1.11.4](https://github.com/tox-dev/tox-uv/releases/tag/1.11.4) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#90](https://github.com/tox-dev/tox-uv/pull/90) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#90](https://github.com/tox-dev/tox-uv/pull/90) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [1.0.2](https://github.com/tox-dev/devpi-process/releases/tag/1.0.2) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+2. 🎉 Merged PR [#134](https://github.com/tox-dev/devpi-process/pull/134) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. 💪 Opened PR [#134](https://github.com/tox-dev/devpi-process/pull/134) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🚀 Published release [1.18.2](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.18.2) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#187](https://github.com/tox-dev/sphinx-argparse-cli/pull/187) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
