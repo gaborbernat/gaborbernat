@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.8.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.8.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🎉 Merged PR [#154](https://github.com/tox-dev/pyproject-api/pull/154) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#53](https://github.com/tox-dev/pyproject-fmt-rust/pull/53) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-4. 🗣 Commented on [#486](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/486#issuecomment-2359023377) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#486](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/486) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❗ Opened issue [#7528](https://github.com/astral-sh/uv/issues/7528) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#81](https://github.com/tox-dev/tox-uv/issues/81#issuecomment-2359696747) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🚀 Published release [1.8.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.8.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#154](https://github.com/tox-dev/pyproject-api/pull/154) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🎉 Merged PR [#53](https://github.com/tox-dev/pyproject-fmt-rust/pull/53) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
