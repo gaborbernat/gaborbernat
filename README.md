@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#91](https://github.com/tox-dev/tox-uv/pull/91) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ❗ Opened issue [#7528](https://github.com/astral-sh/uv/issues/7528) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#81](https://github.com/tox-dev/tox-uv/issues/81#issuecomment-2359696747) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🚀 Published release [1.8.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.8.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🎉 Merged PR [#154](https://github.com/tox-dev/pyproject-api/pull/154) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 💪 Opened PR [#3347](https://github.com/tox-dev/tox/pull/3347) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#91](https://github.com/tox-dev/tox-uv/pull/91) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ❗ Opened issue [#7528](https://github.com/astral-sh/uv/issues/7528) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🗣 Commented on [#81](https://github.com/tox-dev/tox-uv/issues/81#issuecomment-2359696747) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🚀 Published release [1.8.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.8.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
