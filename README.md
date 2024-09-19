@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#53](https://github.com/tox-dev/pyproject-fmt-rust/pull/53) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-2. 🗣 Commented on [#486](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/486#issuecomment-2359023377) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#486](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/486) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🚀 Published release [Fix broken link in README](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.4.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#60](https://github.com/astral-sh/setup-uv/issues/60#issuecomment-2358899728) in [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
+1. 🚀 Published release [1.8.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.8.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🎉 Merged PR [#154](https://github.com/tox-dev/pyproject-api/pull/154) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. 🎉 Merged PR [#53](https://github.com/tox-dev/pyproject-fmt-rust/pull/53) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+4. 🗣 Commented on [#486](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/486#issuecomment-2359023377) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🔒 Closed issue [#486](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/486) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
