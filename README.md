@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2364732330) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2363954634) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#4](https://github.com/tox-dev/pre-commit-uv/issues/4#issuecomment-2361473034) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🗣 Commented on [#17](https://github.com/tox-dev/pre-commit-uv/issues/17#issuecomment-2361471990) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 🗣 Commented on [#92](https://github.com/tox-dev/tox-uv/issues/92#issuecomment-2361444366) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2365247746) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2365247209) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#363](https://github.com/tox-dev/filelock/issues/363#issuecomment-2365246855) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2364732330) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2363954634) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
