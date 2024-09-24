@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/gaborbernat/cv/pull/1) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-2. 💪 Opened PR [#55](https://github.com/tox-dev/pyproject-fmt-rust/pull/55) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-3. 🎉 Merged PR [#136](https://github.com/tox-dev/devpi-process/pull/136) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🎉 Merged PR [#364](https://github.com/tox-dev/filelock/pull/364) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#310](https://github.com/tox-dev/platformdirs/pull/310) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#24](https://github.com/gaborbernat/bernat-tech/pull/24) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 💪 Opened PR [#24](https://github.com/gaborbernat/bernat-tech/pull/24) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+3. 🎉 Merged PR [#23](https://github.com/gaborbernat/bernat-tech/pull/23) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+4. 💪 Opened PR [#23](https://github.com/gaborbernat/bernat-tech/pull/23) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+5. 🎉 Merged PR [#3](https://github.com/gaborbernat/cv/pull/3) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
