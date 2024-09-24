@@ -18,6 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@v0.4.4
-        if: ${{ github.event_name == 'schedule' && github.ref == 'refs/heads/main'}}
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
