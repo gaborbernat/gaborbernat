@@ -1,9 +1,15 @@
 name: Update README
-
 on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+  pull_request:
   schedule:
     - cron: "*/30 * * * *"
-  workflow_dispatch:
+
+concurrency:
+  group: check-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -12,5 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@v0
+        if: github.ref == 'refs/heads/main'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
