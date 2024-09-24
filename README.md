@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#18](https://github.com/xu-cheng/texlive-action/issues/18) in [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action)
-2. 🎉 Merged PR [#311](https://github.com/tox-dev/platformdirs/pull/311) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🎉 Merged PR [#5](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/5) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-4. 💪 Opened PR [#5](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/5) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-5. 💪 Opened PR [#1](https://github.com/gaborbernat/statistics_latex/pull/1) in [gaborbernat/statistics_latex](https://github.com/gaborbernat/statistics_latex)
+1. 🎉 Merged PR [#25](https://github.com/gaborbernat/bernat-tech/pull/25) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 💪 Opened PR [#25](https://github.com/gaborbernat/bernat-tech/pull/25) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+3. ❗ Opened issue [#18](https://github.com/xu-cheng/texlive-action/issues/18) in [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action)
+4. 🎉 Merged PR [#311](https://github.com/tox-dev/platformdirs/pull/311) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#5](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/5) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
