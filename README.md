@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/gaborbernat/pugs/pull/1) in [gaborbernat/pugs](https://github.com/gaborbernat/pugs)
-2. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2371803799) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. ❌ Closed PR [#32](https://github.com/tox-dev/PyVenvManage/pull/32) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#24](https://github.com/gaborbernat/bernat-tech/pull/24) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-5. 💪 Opened PR [#24](https://github.com/gaborbernat/bernat-tech/pull/24) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+1. 🎉 Merged PR [#5](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/5) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+2. 💪 Opened PR [#5](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/5) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+3. 💪 Opened PR [#1](https://github.com/gaborbernat/statistics_latex/pull/1) in [gaborbernat/statistics_latex](https://github.com/gaborbernat/statistics_latex)
+4. 🎉 Merged PR [#158](https://github.com/tox-dev/pyproject-api/pull/158) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 💪 Opened PR [#158](https://github.com/tox-dev/pyproject-api/pull/158) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
