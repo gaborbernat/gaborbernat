@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#363](https://github.com/tox-dev/filelock/issues/363#issuecomment-2368816644) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#2767](https://github.com/pypa/virtualenv/pull/2767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#120](https://github.com/gaborbernat/pypi-changes/pull/120) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. 🎉 Merged PR [#413](https://github.com/tox-dev/pipdeptree/pull/413) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#124](https://github.com/pytest-dev/pytest-print/pull/124) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. ❗ Opened issue [#2268](https://github.com/diffplug/spotless/issues/2268) in [diffplug/spotless](https://github.com/diffplug/spotless)
+2. 🗣 Commented on [#363](https://github.com/tox-dev/filelock/issues/363#issuecomment-2368816644) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#2767](https://github.com/pypa/virtualenv/pull/2767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#120](https://github.com/gaborbernat/pypi-changes/pull/120) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🎉 Merged PR [#413](https://github.com/tox-dev/pipdeptree/pull/413) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
