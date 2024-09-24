@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#136](https://github.com/tox-dev/devpi-process/pull/136) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. 🎉 Merged PR [#364](https://github.com/tox-dev/filelock/pull/364) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#310](https://github.com/tox-dev/platformdirs/pull/310) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. ❌ Closed PR [#308](https://github.com/tox-dev/platformdirs/pull/308) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🎉 Merged PR [#365](https://github.com/tox-dev/filelock/pull/365) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1](https://github.com/gaborbernat/cv/pull/1) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+2. 💪 Opened PR [#55](https://github.com/tox-dev/pyproject-fmt-rust/pull/55) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+3. 🎉 Merged PR [#136](https://github.com/tox-dev/devpi-process/pull/136) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🎉 Merged PR [#364](https://github.com/tox-dev/filelock/pull/364) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#310](https://github.com/tox-dev/platformdirs/pull/310) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
