@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2268](https://github.com/diffplug/spotless/issues/2268) in [diffplug/spotless](https://github.com/diffplug/spotless)
-2. 🗣 Commented on [#363](https://github.com/tox-dev/filelock/issues/363#issuecomment-2368816644) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#2767](https://github.com/pypa/virtualenv/pull/2767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#120](https://github.com/gaborbernat/pypi-changes/pull/120) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🎉 Merged PR [#413](https://github.com/tox-dev/pipdeptree/pull/413) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#156](https://github.com/tox-dev/pyproject-api/pull/156) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🎉 Merged PR [#54](https://github.com/tox-dev/pyproject-fmt-rust/pull/54) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+3. 🎉 Merged PR [#3350](https://github.com/tox-dev/tox/pull/3350) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#488](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/488) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#489](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/489) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
