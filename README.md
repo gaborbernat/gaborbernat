@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3052](https://github.com/PyGithub/PyGithub/issues/3052#issuecomment-2372680400) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-2. 🔒 Closed issue [#3052](https://github.com/PyGithub/PyGithub/issues/3052) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-3. ❗ Opened issue [#3052](https://github.com/PyGithub/PyGithub/issues/3052) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-4. 🎉 Merged PR [#25](https://github.com/gaborbernat/bernat-tech/pull/25) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-5. 💪 Opened PR [#25](https://github.com/gaborbernat/bernat-tech/pull/25) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+1. 🗣 Commented on [#18](https://github.com/xu-cheng/texlive-action/issues/18#issuecomment-2373120495) in [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action)
+2. 🗣 Commented on [#3052](https://github.com/PyGithub/PyGithub/issues/3052#issuecomment-2372680400) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+3. 🔒 Closed issue [#3052](https://github.com/PyGithub/PyGithub/issues/3052) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+4. ❗ Opened issue [#3052](https://github.com/PyGithub/PyGithub/issues/3052) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+5. 🎉 Merged PR [#25](https://github.com/gaborbernat/bernat-tech/pull/25) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
