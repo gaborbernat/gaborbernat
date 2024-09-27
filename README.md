@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2377483300) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2377467126) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#3052](https://github.com/PyGithub/PyGithub/issues/3052#issuecomment-2375520350) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-4. ❌ Closed PR [#3351](https://github.com/tox-dev/tox/pull/3351) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#18](https://github.com/xu-cheng/texlive-action/issues/18#issuecomment-2373120495) in [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action)
+1. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2377779447) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2377483300) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#13321](https://github.com/astral-sh/ruff/issues/13321#issuecomment-2377467126) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#3052](https://github.com/PyGithub/PyGithub/issues/3052#issuecomment-2375520350) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+5. ❌ Closed PR [#3351](https://github.com/tox-dev/tox/pull/3351) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
