@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#312](https://github.com/tox-dev/platformdirs/issues/312#issuecomment-2380335884) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🗣 Commented on [#312](https://github.com/tox-dev/platformdirs/issues/312#issuecomment-2380300318) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🎉 Merged PR [#3352](https://github.com/tox-dev/tox/pull/3352) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3353](https://github.com/tox-dev/tox/pull/3353) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#1](https://github.com/gaborbernat/statistics_latex/pull/1) in [gaborbernat/statistics_latex](https://github.com/gaborbernat/statistics_latex)
+1. 🔒 Closed issue [#312](https://github.com/tox-dev/platformdirs/issues/312) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🗣 Commented on [#312](https://github.com/tox-dev/platformdirs/issues/312#issuecomment-2380375052) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🗣 Commented on [#312](https://github.com/tox-dev/platformdirs/issues/312#issuecomment-2380335884) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🗣 Commented on [#312](https://github.com/tox-dev/platformdirs/issues/312#issuecomment-2380300318) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#3352](https://github.com/tox-dev/tox/pull/3352) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
