@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3352](https://github.com/tox-dev/tox/pull/3352) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#3353](https://github.com/tox-dev/tox/pull/3353) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❌ Closed PR [#1](https://github.com/gaborbernat/statistics_latex/pull/1) in [gaborbernat/statistics_latex](https://github.com/gaborbernat/statistics_latex)
-4. 🎉 Merged PR [#2772](https://github.com/pypa/virtualenv/pull/2772) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🚀 Published release [20.26.6](https://github.com/pypa/get-virtualenv/releases/tag/20.26.6) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🗣 Commented on [#312](https://github.com/tox-dev/platformdirs/issues/312#issuecomment-2380300318) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#3352](https://github.com/tox-dev/tox/pull/3352) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#3353](https://github.com/tox-dev/tox/pull/3353) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#1](https://github.com/gaborbernat/statistics_latex/pull/1) in [gaborbernat/statistics_latex](https://github.com/gaborbernat/statistics_latex)
+5. 🎉 Merged PR [#2772](https://github.com/pypa/virtualenv/pull/2772) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
