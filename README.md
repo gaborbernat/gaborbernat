@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3353](https://github.com/tox-dev/tox/pull/3353#issuecomment-2384633315) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3309](https://github.com/tox-dev/tox/pull/3309#issuecomment-2384630660) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❌ Closed PR [#3309](https://github.com/tox-dev/tox/pull/3309) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3344](https://github.com/tox-dev/tox/pull/3344#issuecomment-2384630474) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#3344](https://github.com/tox-dev/tox/pull/3344) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#122](https://github.com/gaborbernat/pypi-changes/pull/122) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#104](https://github.com/pytest-dev/pytest-env/pull/104) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🎉 Merged PR [#127](https://github.com/pytest-dev/pytest-print/pull/127) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31#issuecomment-2384717169) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+5. 🗣 Commented on [#3342](https://github.com/tox-dev/tox/pull/3342#issuecomment-2384716991) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
