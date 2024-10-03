@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3388](https://github.com/tox-dev/tox/pull/3388) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#105](https://github.com/pytest-dev/pytest-env/pull/105) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🗣 Commented on [#105](https://github.com/pytest-dev/pytest-env/pull/105#issuecomment-2388946069) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 💪 Opened PR [#13592](https://github.com/astral-sh/ruff/pull/13592) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 💪 Opened PR [#13591](https://github.com/astral-sh/ruff/pull/13591) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🚀 Published release [4.21.1](https://github.com/tox-dev/tox/releases/tag/4.21.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [4.21.0](https://github.com/tox-dev/tox/releases/tag/4.21.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🚀 Published release [4.20.0](https://github.com/tox-dev/tox/releases/tag/4.20.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [4.19.0](https://github.com/tox-dev/tox/releases/tag/4.19.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3387](https://github.com/tox-dev/tox/issues/3387#issuecomment-2389687382) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
