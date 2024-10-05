@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#5093](https://github.com/Textualize/textual/issues/5093) in [Textualize/textual](https://github.com/Textualize/textual)
-2. 🗣 Commented on [#3391](https://github.com/tox-dev/tox/issues/3391#issuecomment-2394042792) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#139](https://github.com/tox-dev/devpi-process/pull/139) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🎉 Merged PR [#128](https://github.com/pytest-dev/pytest-print/pull/128) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#101](https://github.com/tox-dev/tox-uv/pull/101) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#81](https://github.com/tox-dev/tox-uv/issues/81#issuecomment-2395120288) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#81](https://github.com/tox-dev/tox-uv/issues/81#issuecomment-2395117317) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#81](https://github.com/tox-dev/tox-uv/issues/81#issuecomment-2395116542) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ❗ Opened issue [#5093](https://github.com/Textualize/textual/issues/5093) in [Textualize/textual](https://github.com/Textualize/textual)
+5. 🗣 Commented on [#3391](https://github.com/tox-dev/tox/issues/3391#issuecomment-2394042792) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
