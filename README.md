@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [2.5.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.5.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🔒 Closed issue [#429](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/429) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#494](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/494) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#3390](https://github.com/tox-dev/tox/pull/3390#issuecomment-2400054905) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#119](https://github.com/schireson/pytest-alembic/issues/119#issuecomment-2400052294) in [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic)
+1. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2401532702) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🚀 Published release [2.5.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.5.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#429](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/429) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#494](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/494) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#3390](https://github.com/tox-dev/tox/pull/3390#issuecomment-2400054905) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
