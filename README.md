@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3400](https://github.com/tox-dev/tox/issues/3400#issuecomment-2402643562) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#103](https://github.com/tox-dev/tox-uv/pull/103) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2401532702) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🚀 Published release [2.5.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/2.5.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#429](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/429) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#2780](https://github.com/pypa/virtualenv/issues/2780#issuecomment-2403001739) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#803](https://github.com/agronholm/anyio/issues/803#issuecomment-2402999856) in [agronholm/anyio](https://github.com/agronholm/anyio)
+3. 🗣 Commented on [#3400](https://github.com/tox-dev/tox/issues/3400#issuecomment-2402643562) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#103](https://github.com/tox-dev/tox-uv/pull/103) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2401532702) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
