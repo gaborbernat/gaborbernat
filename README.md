@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#143](https://github.com/tox-dev/tox-gh/pull/143) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. ❗ Opened issue [#1449](https://github.com/axodotdev/cargo-dist/issues/1449) in [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist)
-3. 🗣 Commented on [#8068](https://github.com/astral-sh/uv/issues/8068#issuecomment-2405134035) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#8068](https://github.com/astral-sh/uv/issues/8068#issuecomment-2405121695) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#8068](https://github.com/astral-sh/uv/issues/8068#issuecomment-2405105015) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🚀 Published release [1.4.3](https://github.com/tox-dev/tox-gh/releases/tag/1.4.3) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. 🎉 Merged PR [#144](https://github.com/tox-dev/tox-gh/pull/144) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. 💪 Opened PR [#144](https://github.com/tox-dev/tox-gh/pull/144) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🚀 Published release [1.4.2](https://github.com/tox-dev/tox-gh/releases/tag/1.4.2) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🎉 Merged PR [#143](https://github.com/tox-dev/tox-gh/pull/143) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
