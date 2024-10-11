@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8069](https://github.com/astral-sh/uv/issues/8069#issuecomment-2404026441) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❗ Opened issue [#8069](https://github.com/astral-sh/uv/issues/8069) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. ❗ Opened issue [#8068](https://github.com/astral-sh/uv/issues/8068) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#2780](https://github.com/pypa/virtualenv/issues/2780#issuecomment-2403001739) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#803](https://github.com/agronholm/anyio/issues/803#issuecomment-2402999856) in [agronholm/anyio](https://github.com/agronholm/anyio)
+1. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2405099672) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#8069](https://github.com/astral-sh/uv/issues/8069#issuecomment-2404026441) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. ❗ Opened issue [#8069](https://github.com/astral-sh/uv/issues/8069) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. ❗ Opened issue [#8068](https://github.com/astral-sh/uv/issues/8068) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🗣 Commented on [#2780](https://github.com/pypa/virtualenv/issues/2780#issuecomment-2403001739) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
