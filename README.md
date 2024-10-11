@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.4.3](https://github.com/tox-dev/tox-gh/releases/tag/1.4.3) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. 🎉 Merged PR [#144](https://github.com/tox-dev/tox-gh/pull/144) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 💪 Opened PR [#144](https://github.com/tox-dev/tox-gh/pull/144) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🚀 Published release [1.4.2](https://github.com/tox-dev/tox-gh/releases/tag/1.4.2) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#143](https://github.com/tox-dev/tox-gh/pull/143) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🗣 Commented on [#266](https://github.com/tox-dev/pyproject-fmt/issues/266#issuecomment-2405874066) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#3402](https://github.com/tox-dev/tox/issues/3402#issuecomment-2405872811) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#455](https://github.com/UCL-ARC/python-tooling/issues/455#issuecomment-2405855520) in [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+4. 🗣 Commented on [#8](https://github.com/tox-dev/tox-gh/issues/8#issuecomment-2405852469) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🔒 Closed issue [#8](https://github.com/tox-dev/tox-gh/issues/8) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
