@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.15.0](https://github.com/tox-dev/tox-uv/releases/tag/1.15.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#107](https://github.com/tox-dev/tox-uv/pull/107) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 💪 Opened PR [#107](https://github.com/tox-dev/tox-uv/pull/107) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🚀 Published release [1.14.2](https://github.com/tox-dev/tox-uv/releases/tag/1.14.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#106](https://github.com/tox-dev/tox-uv/pull/106) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ❗ Opened issue [#8130](https://github.com/astral-sh/uv/issues/8130) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🚀 Published release [1.15.0](https://github.com/tox-dev/tox-uv/releases/tag/1.15.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#107](https://github.com/tox-dev/tox-uv/pull/107) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 💪 Opened PR [#107](https://github.com/tox-dev/tox-uv/pull/107) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🚀 Published release [1.14.2](https://github.com/tox-dev/tox-uv/releases/tag/1.14.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
