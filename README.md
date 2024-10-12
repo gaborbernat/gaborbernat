@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#104](https://github.com/tox-dev/tox-uv/pull/104) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#269](https://github.com/tox-dev/pyproject-fmt/issues/269#issuecomment-2406419402) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#268](https://github.com/tox-dev/pyproject-fmt/pull/268) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#8](https://github.com/tox-dev/tox-gh/issues/8#issuecomment-2406149405) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🚀 Published release [2.3.0](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.3.0) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🚀 Published release [1.14.1](https://github.com/tox-dev/tox-uv/releases/tag/1.14.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#105](https://github.com/tox-dev/tox-uv/pull/105) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 💪 Opened PR [#105](https://github.com/tox-dev/tox-uv/pull/105) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2407742700) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🚀 Published release [1.13.1](https://github.com/tox-dev/tox-uv/releases/tag/1.13.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
