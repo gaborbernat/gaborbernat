@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3403](https://github.com/tox-dev/tox/issues/3403#issuecomment-2408308998) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#97](https://github.com/tox-dev/tox-uv/issues/97#issuecomment-2408184432) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#8131](https://github.com/astral-sh/uv/issues/8131#issuecomment-2408041805) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. ❗ Opened issue [#8130](https://github.com/astral-sh/uv/issues/8130) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🚀 Published release [1.15.0](https://github.com/tox-dev/tox-uv/releases/tag/1.15.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#3342](https://github.com/tox-dev/tox/pull/3342#issuecomment-2411808237) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3406](https://github.com/tox-dev/tox/pull/3406) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3404](https://github.com/tox-dev/tox/pull/3404#issuecomment-2411806182) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3405](https://github.com/tox-dev/tox/issues/3405#issuecomment-2411803886) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3405](https://github.com/tox-dev/tox/issues/3405) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
