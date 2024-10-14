@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#146](https://github.com/tox-dev/tox-gh/pull/146) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. 🎉 Merged PR [#228](https://github.com/tox-dev/tox-ini-fmt/pull/228) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🎉 Merged PR [#495](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/495) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#62](https://github.com/tox-dev/pyproject-fmt-rust/pull/62) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-5. 🎉 Merged PR [#271](https://github.com/tox-dev/pyproject-fmt/pull/271) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 💪 Opened PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🎉 Merged PR [#125](https://github.com/gaborbernat/pypi-changes/pull/125) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🚀 Published release [1.2.1](https://github.com/tox-dev/pyproject-fmt-rust/releases/tag/1.2.1) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+4. 🔒 Closed issue [#270](https://github.com/tox-dev/pyproject-fmt/issues/270) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#61](https://github.com/tox-dev/pyproject-fmt-rust/pull/61) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
