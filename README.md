@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10510](https://github.com/facebook/docusaurus/pull/10510#issuecomment-2414134625) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. 🔒 Closed issue [#97](https://github.com/tox-dev/tox-uv/issues/97) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🚀 Published release [2.3.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.3.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🎉 Merged PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 💪 Opened PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#3404](https://github.com/tox-dev/tox/pull/3404) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#10510](https://github.com/facebook/docusaurus/pull/10510#issuecomment-2414134625) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+3. 🔒 Closed issue [#97](https://github.com/tox-dev/tox-uv/issues/97) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🚀 Published release [2.3.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.3.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
