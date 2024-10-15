@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [2.3.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.3.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 💪 Opened PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🎉 Merged PR [#125](https://github.com/gaborbernat/pypi-changes/pull/125) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🚀 Published release [1.2.1](https://github.com/tox-dev/pyproject-fmt-rust/releases/tag/1.2.1) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+1. 🔒 Closed issue [#97](https://github.com/tox-dev/tox-uv/issues/97) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🚀 Published release [2.3.1](https://github.com/tox-dev/pyproject-fmt/releases/tag/2.3.1) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🎉 Merged PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 💪 Opened PR [#272](https://github.com/tox-dev/pyproject-fmt/pull/272) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#125](https://github.com/gaborbernat/pypi-changes/pull/125) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
