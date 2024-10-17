@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3411](https://github.com/tox-dev/tox/pull/3411) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#1](https://github.com/tox-dev/toml-fmt/pull/1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ❗ Opened issue [#19](https://github.com/konstin/pep508_rs/issues/19) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
-4. 🔒 Closed issue [#3408](https://github.com/tox-dev/tox/issues/3408) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3409](https://github.com/tox-dev/tox/pull/3409) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31#issuecomment-2417160477) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+2. ❌ Closed PR [#60](https://github.com/tox-dev/pyproject-fmt-rust/pull/60) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+3. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2417145513) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
+4. 🎉 Merged PR [#3411](https://github.com/tox-dev/tox/pull/3411) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#1](https://github.com/tox-dev/toml-fmt/pull/1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
