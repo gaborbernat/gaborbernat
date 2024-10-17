@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#961](https://github.com/pypa/pipx/issues/961#issuecomment-2418497739) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#2782](https://github.com/pypa/virtualenv/pull/2782#issuecomment-2418484472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❌ Closed PR [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-4. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31#issuecomment-2418480134) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-5. 🎉 Merged PR [#1](https://github.com/tox-dev/toml-fmt/pull/1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🗣 Commented on [#961](https://github.com/pypa/pipx/issues/961#issuecomment-2418497739) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#2782](https://github.com/pypa/virtualenv/pull/2782#issuecomment-2418484472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❌ Closed PR [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+5. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31#issuecomment-2418480134) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
