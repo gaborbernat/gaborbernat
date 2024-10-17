@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#295](https://github.com/PyO3/maturin-action/pull/295) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
-2. ❗ Opened issue [#294](https://github.com/PyO3/maturin-action/issues/294) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
-3. 🗣 Commented on [#4061](https://github.com/python/peps/pull/4061#issuecomment-2417281466) in [python/peps](https://github.com/python/peps)
-4. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31#issuecomment-2417160477) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
-5. ❌ Closed PR [#60](https://github.com/tox-dev/pyproject-fmt-rust/pull/60) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
+1. 🗣 Commented on [#295](https://github.com/PyO3/maturin-action/pull/295#issuecomment-2418243850) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+2. 💪 Opened PR [#295](https://github.com/PyO3/maturin-action/pull/295) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+3. ❗ Opened issue [#294](https://github.com/PyO3/maturin-action/issues/294) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+4. 🗣 Commented on [#4061](https://github.com/python/peps/pull/4061#issuecomment-2417281466) in [python/peps](https://github.com/python/peps)
+5. 🗣 Commented on [#31](https://github.com/tox-dev/pyproject-fmt-rust/pull/31#issuecomment-2417160477) in [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
