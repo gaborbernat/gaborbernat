@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#107](https://github.com/hynek/svcs/pull/107#issuecomment-2418584893) in [hynek/svcs](https://github.com/hynek/svcs)
-2. 🎉 Merged PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#961](https://github.com/pypa/pipx/issues/961#issuecomment-2418497739) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#2782](https://github.com/pypa/virtualenv/pull/2782#issuecomment-2418484472) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#295](https://github.com/PyO3/maturin-action/pull/295#issuecomment-2419808523) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+2. 🗣 Commented on [#107](https://github.com/hynek/svcs/pull/107#issuecomment-2418584893) in [hynek/svcs](https://github.com/hynek/svcs)
+3. 🎉 Merged PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🗣 Commented on [#961](https://github.com/pypa/pipx/issues/961#issuecomment-2418497739) in [pypa/pipx](https://github.com/pypa/pipx)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
