@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#273](https://github.com/tox-dev/pyproject-fmt/pull/273) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🗣 Commented on [#295](https://github.com/PyO3/maturin-action/pull/295#issuecomment-2419808523) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
-3. 🗣 Commented on [#107](https://github.com/hynek/svcs/pull/107#issuecomment-2418584893) in [hynek/svcs](https://github.com/hynek/svcs)
-4. 🎉 Merged PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#8](https://github.com/tox-dev/toml-fmt/pull/8) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#9](https://github.com/tox-dev/toml-fmt/pull/9) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#9](https://github.com/tox-dev/toml-fmt/pull/9) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#273](https://github.com/tox-dev/pyproject-fmt/pull/273) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 💪 Opened PR [#273](https://github.com/tox-dev/pyproject-fmt/pull/273) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#295](https://github.com/PyO3/maturin-action/pull/295#issuecomment-2419808523) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
