@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#235](https://github.com/pypa/distlib/issues/235) in [pypa/distlib](https://github.com/pypa/distlib)
-2. 🎉 Merged PR [#9](https://github.com/tox-dev/toml-fmt/pull/9) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#9](https://github.com/tox-dev/toml-fmt/pull/9) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#273](https://github.com/tox-dev/pyproject-fmt/pull/273) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 💪 Opened PR [#273](https://github.com/tox-dev/pyproject-fmt/pull/273) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#235](https://github.com/pypa/distlib/issues/235#issuecomment-2420662852) in [pypa/distlib](https://github.com/pypa/distlib)
+2. 🗣 Commented on [#215](https://github.com/pypa/distlib/pull/215#issuecomment-2420612271) in [pypa/distlib](https://github.com/pypa/distlib)
+3. 💪 Opened PR [#2783](https://github.com/pypa/virtualenv/pull/2783) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ❗ Opened issue [#235](https://github.com/pypa/distlib/issues/235) in [pypa/distlib](https://github.com/pypa/distlib)
+5. 🎉 Merged PR [#9](https://github.com/tox-dev/toml-fmt/pull/9) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
