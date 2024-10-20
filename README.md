@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#215](https://github.com/pypa/distlib/pull/215#issuecomment-2424097041) in [pypa/distlib](https://github.com/pypa/distlib)
-2. 🗣 Commented on [#215](https://github.com/pypa/distlib/pull/215#issuecomment-2423982779) in [pypa/distlib](https://github.com/pypa/distlib)
-3. 🗣 Commented on [#11](https://github.com/tox-dev/toml-fmt/issues/11#issuecomment-2423543972) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 💪 Opened PR [#12](https://github.com/tox-dev/toml-fmt/pull/12) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#2758](https://github.com/pypa/virtualenv/issues/2758) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [1.0.0](https://github.com/tox-dev/toml-fmt-common/releases/tag/1.0.0) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+2. 🚀 Published release [1.0.0](https://github.com/tox-dev/toml-fmt-py-common/releases/tag/1.0.0) in [tox-dev/toml-fmt-py-common](https://github.com/tox-dev/toml-fmt-py-common)
+3. 🎉 Merged PR [#2](https://github.com/tox-dev/toml-fmt-py-common/pull/2) in [tox-dev/toml-fmt-py-common](https://github.com/tox-dev/toml-fmt-py-common)
+4. 💪 Opened PR [#2](https://github.com/tox-dev/toml-fmt-py-common/pull/2) in [tox-dev/toml-fmt-py-common](https://github.com/tox-dev/toml-fmt-py-common)
+5. 🎉 Merged PR [#1](https://github.com/tox-dev/toml-fmt-py-common/pull/1) in [tox-dev/toml-fmt-py-common](https://github.com/tox-dev/toml-fmt-py-common)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
