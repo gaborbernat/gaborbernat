@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#496](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/496#issuecomment-2424603418) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#12](https://github.com/tox-dev/toml-fmt/pull/12) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🚀 Published release [1.0.1](https://github.com/tox-dev/toml-fmt-common/releases/tag/1.0.1) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
-4. 🎉 Merged PR [#3](https://github.com/tox-dev/toml-fmt-common/pull/3) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
-5. 💪 Opened PR [#3](https://github.com/tox-dev/toml-fmt-common/pull/3) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+1. 🎉 Merged PR [#14](https://github.com/tox-dev/toml-fmt/pull/14) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🗣 Commented on [#496](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/496#issuecomment-2424603418) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#12](https://github.com/tox-dev/toml-fmt/pull/12) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🚀 Published release [1.0.1](https://github.com/tox-dev/toml-fmt-common/releases/tag/1.0.1) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+5. 🎉 Merged PR [#3](https://github.com/tox-dev/toml-fmt-common/pull/3) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
