@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3354](https://github.com/encode/httpx/issues/3354) in [encode/httpx](https://github.com/encode/httpx)
-2. 🗣 Commented on [#3419](https://github.com/tox-dev/tox/pull/3419#issuecomment-2427687027) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#122](https://github.com/gaborbernat/bump-deps-index/pull/122) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🎉 Merged PR [#126](https://github.com/gaborbernat/pypi-changes/pull/126) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🎉 Merged PR [#2787](https://github.com/pypa/virtualenv/pull/2787) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❌ Closed PR [#3419](https://github.com/tox-dev/tox/pull/3419) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#131](https://github.com/pytest-dev/pytest-print/pull/131) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#109](https://github.com/pytest-dev/pytest-env/pull/109) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🗣 Commented on [#3415](https://github.com/tox-dev/tox/issues/3415#issuecomment-2428264890) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3415](https://github.com/tox-dev/tox/issues/3415#issuecomment-2428263651) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
