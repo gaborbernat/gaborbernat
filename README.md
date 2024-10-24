@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. 🚀 Published release [v.1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v.1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-3. 🚀 Published release [v1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. 🎉 Merged PR [#3](https://github.com/tox-dev/action-pre-commit-uv/pull/3) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-5. 💪 Opened PR [#3](https://github.com/tox-dev/action-pre-commit-uv/pull/3) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🗣 Commented on [#199](https://github.com/axodotdev/axoupdater/pull/199#issuecomment-2433832703) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
+2. 🚀 Published release [v1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. 🚀 Published release [v.1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v.1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+4. 🚀 Published release [v1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+5. 🎉 Merged PR [#3](https://github.com/tox-dev/action-pre-commit-uv/pull/3) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
