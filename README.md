@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/tox-dev/action-pre-commit-uv/pull/1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. 💪 Opened PR [#199](https://github.com/axodotdev/axoupdater/pull/199) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
-3. 🎉 Merged PR [#3424](https://github.com/tox-dev/tox/pull/3424) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#7](https://github.com/tox-dev/tox-gh/issues/7#issuecomment-2429753417) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🗣 Commented on [#7](https://github.com/tox-dev/tox-gh/issues/7#issuecomment-2429585162) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🚀 Published release [v1.0.0](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.0) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+2. 🎉 Merged PR [#1](https://github.com/tox-dev/action-pre-commit-uv/pull/1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. 💪 Opened PR [#199](https://github.com/axodotdev/axoupdater/pull/199) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
+4. 🎉 Merged PR [#3424](https://github.com/tox-dev/tox/pull/3424) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#7](https://github.com/tox-dev/tox-gh/issues/7#issuecomment-2429753417) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
