@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8069](https://github.com/astral-sh/uv/issues/8069#issuecomment-2435521553) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#199](https://github.com/axodotdev/axoupdater/pull/199#issuecomment-2435453723) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
-3. 🗣 Commented on [#199](https://github.com/axodotdev/axoupdater/pull/199#issuecomment-2433832703) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
-4. 🚀 Published release [v1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-5. 🚀 Published release [v.1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v.1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 💪 Opened PR [#275](https://github.com/tox-dev/pyproject-fmt/pull/275) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#8069](https://github.com/astral-sh/uv/issues/8069#issuecomment-2435521553) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#199](https://github.com/axodotdev/axoupdater/pull/199#issuecomment-2435453723) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
+4. 🗣 Commented on [#199](https://github.com/axodotdev/axoupdater/pull/199#issuecomment-2433832703) in [axodotdev/axoupdater](https://github.com/axodotdev/axoupdater)
+5. 🚀 Published release [v1.0.1](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.1) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
