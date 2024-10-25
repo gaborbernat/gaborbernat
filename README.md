@@ -13,8 +13,8 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#8549](https://github.com/astral-sh/uv/issues/8549) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 💪 Opened PR [#276](https://github.com/tox-dev/pyproject-fmt/pull/276) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#277](https://github.com/tox-dev/pyproject-fmt/pull/277) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. ❗ Opened issue [#8549](https://github.com/astral-sh/uv/issues/8549) in [astral-sh/uv](https://github.com/astral-sh/uv)
 3. ❌ Closed PR [#275](https://github.com/tox-dev/pyproject-fmt/pull/275) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 4. 💪 Opened PR [#275](https://github.com/tox-dev/pyproject-fmt/pull/275) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 5. 🗣 Commented on [#8069](https://github.com/astral-sh/uv/issues/8069#issuecomment-2435521553) in [astral-sh/uv](https://github.com/astral-sh/uv)
