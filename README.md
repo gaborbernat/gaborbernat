@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441762011) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
-2. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441717347) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
-3. 🔒 Closed issue [#2788](https://github.com/pypa/virtualenv/issues/2788) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2788](https://github.com/pypa/virtualenv/issues/2788#issuecomment-2441645862) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441636931) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
+1. 🗣 Commented on [#13961](https://github.com/astral-sh/ruff/issues/13961#issuecomment-2441870125) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#13881](https://github.com/astral-sh/ruff/pull/13881#issuecomment-2441856389) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441853996) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
+4. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441762011) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
+5. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441717347) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
