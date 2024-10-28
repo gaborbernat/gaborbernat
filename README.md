@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13961](https://github.com/astral-sh/ruff/issues/13961#issuecomment-2441870125) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#13881](https://github.com/astral-sh/ruff/pull/13881#issuecomment-2441856389) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441853996) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
-4. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441762011) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
-5. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441717347) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
+1. 🗣 Commented on [#2972](https://github.com/pallets/werkzeug/issues/2972#issuecomment-2441949866) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+2. 🔒 Closed issue [#2972](https://github.com/pallets/werkzeug/issues/2972) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+3. ❗ Opened issue [#2972](https://github.com/pallets/werkzeug/issues/2972) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+4. 🗣 Commented on [#13961](https://github.com/astral-sh/ruff/issues/13961#issuecomment-2441870125) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 🗣 Commented on [#13881](https://github.com/astral-sh/ruff/pull/13881#issuecomment-2441856389) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
