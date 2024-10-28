@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/tox-dev/toml-fmt/pull/16#issuecomment-2439169814) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔒 Closed issue [#113](https://github.com/tox-dev/tox-uv/issues/113) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#113](https://github.com/tox-dev/tox-uv/issues/113#issuecomment-2438974355) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#112](https://github.com/tox-dev/tox-uv/pull/112) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#277](https://github.com/tox-dev/pyproject-fmt/pull/277) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🔒 Closed issue [#2788](https://github.com/pypa/virtualenv/issues/2788) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2788](https://github.com/pypa/virtualenv/issues/2788#issuecomment-2441645862) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#19](https://github.com/konstin/pep508_rs/issues/19#issuecomment-2441636931) in [konstin/pep508_rs](https://github.com/konstin/pep508_rs)
+4. 🗣 Commented on [#16](https://github.com/tox-dev/toml-fmt/pull/16#issuecomment-2439169814) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🔒 Closed issue [#113](https://github.com/tox-dev/tox-uv/issues/113) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
