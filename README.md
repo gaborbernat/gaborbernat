@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2790](https://github.com/pypa/virtualenv/pull/2790) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❗ Opened issue [#27656](https://github.com/numpy/numpy/issues/27656) in [numpy/numpy](https://github.com/numpy/numpy)
-3. 🗣 Commented on [#2972](https://github.com/pallets/werkzeug/issues/2972#issuecomment-2441949866) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
-4. 🔒 Closed issue [#2972](https://github.com/pallets/werkzeug/issues/2972) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
-5. ❗ Opened issue [#2972](https://github.com/pallets/werkzeug/issues/2972) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+1. 🗣 Commented on [#2789](https://github.com/pypa/virtualenv/issues/2789#issuecomment-2442273382) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🚀 Published release [20.27.1](https://github.com/pypa/get-virtualenv/releases/tag/20.27.1) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+3. 🚀 Published release [20.27.1](https://github.com/pypa/virtualenv/releases/tag/20.27.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2791](https://github.com/pypa/virtualenv/pull/2791) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#2791](https://github.com/pypa/virtualenv/pull/2791) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
