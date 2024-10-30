@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3429](https://github.com/tox-dev/tox/issues/3429#issuecomment-2444487568) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3428](https://github.com/tox-dev/tox/issues/3428#issuecomment-2444413588) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#119](https://github.com/schireson/pytest-alembic/issues/119#issuecomment-2444407298) in [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic)
-4. 🗣 Commented on [#3429](https://github.com/tox-dev/tox/issues/3429#issuecomment-2444402150) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3429](https://github.com/tox-dev/tox/issues/3429) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#3430](https://github.com/tox-dev/tox/pull/3430) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#132](https://github.com/pytest-dev/pytest-print/pull/132) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#110](https://github.com/pytest-dev/pytest-env/pull/110) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#2792](https://github.com/pypa/virtualenv/pull/2792) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#831](https://github.com/pypa/build/pull/831) in [pypa/build](https://github.com/pypa/build)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
