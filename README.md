@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/tox-dev/pre-commit-uv/issues/28#issuecomment-2445484787) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-2. 🗣 Commented on [#4](https://github.com/tox-dev/pre-commit-uv/issues/4#issuecomment-2445484478) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 🚀 Published release [4.1.4](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.4) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🎉 Merged PR [#29](https://github.com/tox-dev/pre-commit-uv/pull/29) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 💪 Opened PR [#29](https://github.com/tox-dev/pre-commit-uv/pull/29) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🗣 Commented on [#116](https://github.com/tox-dev/tox-uv/issues/116#issuecomment-2447973118) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🗣 Commented on [#28](https://github.com/tox-dev/pre-commit-uv/issues/28#issuecomment-2445484787) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🗣 Commented on [#4](https://github.com/tox-dev/pre-commit-uv/issues/4#issuecomment-2445484478) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 🚀 Published release [4.1.4](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.4) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🎉 Merged PR [#29](https://github.com/tox-dev/pre-commit-uv/pull/29) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
