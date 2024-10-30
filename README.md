@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3429](https://github.com/tox-dev/tox/issues/3429) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3429](https://github.com/tox-dev/tox/issues/3429#issuecomment-2443320129) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3427](https://github.com/tox-dev/tox/pull/3427) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#148](https://github.com/tox-dev/tox-gh/pull/148) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#499](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/499) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#3428](https://github.com/tox-dev/tox/issues/3428#issuecomment-2444413588) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#119](https://github.com/schireson/pytest-alembic/issues/119#issuecomment-2444407298) in [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic)
+3. 🗣 Commented on [#3429](https://github.com/tox-dev/tox/issues/3429#issuecomment-2444402150) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#3429](https://github.com/tox-dev/tox/issues/3429) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3429](https://github.com/tox-dev/tox/issues/3429#issuecomment-2443320129) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
