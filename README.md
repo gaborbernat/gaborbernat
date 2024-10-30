@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3430](https://github.com/tox-dev/tox/pull/3430) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#132](https://github.com/pytest-dev/pytest-print/pull/132) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🎉 Merged PR [#110](https://github.com/pytest-dev/pytest-env/pull/110) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🎉 Merged PR [#2792](https://github.com/pypa/virtualenv/pull/2792) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#831](https://github.com/pypa/build/pull/831) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#28](https://github.com/tox-dev/pre-commit-uv/issues/28#issuecomment-2445484787) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+2. 🗣 Commented on [#4](https://github.com/tox-dev/pre-commit-uv/issues/4#issuecomment-2445484478) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🚀 Published release [4.1.4](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.4) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 🎉 Merged PR [#29](https://github.com/tox-dev/pre-commit-uv/pull/29) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 💪 Opened PR [#29](https://github.com/tox-dev/pre-commit-uv/pull/29) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
