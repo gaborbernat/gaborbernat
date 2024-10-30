@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#198](https://github.com/tox-dev/sphinx-argparse-cli/pull/198) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🎉 Merged PR [#30](https://github.com/tox-dev/pre-commit-uv/pull/30) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 🗣 Commented on [#109](https://github.com/tox-dev/tox-uv/issues/109#issuecomment-2448072088) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#116](https://github.com/tox-dev/tox-uv/issues/116#issuecomment-2447973118) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#28](https://github.com/tox-dev/pre-commit-uv/issues/28#issuecomment-2445484787) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🗣 Commented on [#8130](https://github.com/astral-sh/uv/issues/8130#issuecomment-2448372536) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#8130](https://github.com/astral-sh/uv/issues/8130#issuecomment-2448366932) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🎉 Merged PR [#198](https://github.com/tox-dev/sphinx-argparse-cli/pull/198) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#30](https://github.com/tox-dev/pre-commit-uv/pull/30) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🗣 Commented on [#109](https://github.com/tox-dev/tox-uv/issues/109#issuecomment-2448072088) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
