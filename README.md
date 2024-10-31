@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/tox-dev/pre-commit-uv/issues/28#issuecomment-2450048674) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-2. 🗣 Commented on [#3433](https://github.com/tox-dev/tox/issues/3433#issuecomment-2448965941) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#18](https://github.com/tox-dev/toml-fmt/pull/18) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#2793](https://github.com/pypa/virtualenv/pull/2793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#149](https://github.com/tox-dev/tox-gh/pull/149) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🎉 Merged PR [#423](https://github.com/tox-dev/pipdeptree/pull/423) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#28](https://github.com/tox-dev/pre-commit-uv/issues/28#issuecomment-2450048674) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🗣 Commented on [#3433](https://github.com/tox-dev/tox/issues/3433#issuecomment-2448965941) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#18](https://github.com/tox-dev/toml-fmt/pull/18) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#2793](https://github.com/pypa/virtualenv/pull/2793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
