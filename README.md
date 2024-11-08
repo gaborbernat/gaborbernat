@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#81](https://github.com/bloomberg/python-comdb2/issues/81) in [bloomberg/python-comdb2](https://github.com/bloomberg/python-comdb2)
-2. ❗ Opened issue [#80](https://github.com/bloomberg/python-comdb2/issues/80) in [bloomberg/python-comdb2](https://github.com/bloomberg/python-comdb2)
-3. 🔒 Closed issue [#121](https://github.com/tox-dev/tox-uv/issues/121) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#2794](https://github.com/pypa/virtualenv/issues/2794#issuecomment-2453021778) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#3436](https://github.com/tox-dev/tox/issues/3436#issuecomment-2453013717) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#131](https://github.com/gaborbernat/pypi-changes/pull/131) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#129](https://github.com/gaborbernat/pypi-changes/pull/129) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#127](https://github.com/gaborbernat/bump-deps-index/pull/127) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#125](https://github.com/gaborbernat/bump-deps-index/pull/125) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. ❗ Opened issue [#81](https://github.com/bloomberg/python-comdb2/issues/81) in [bloomberg/python-comdb2](https://github.com/bloomberg/python-comdb2)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
