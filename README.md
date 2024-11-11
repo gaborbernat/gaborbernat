@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#115](https://github.com/pytest-dev/pytest-env/pull/115) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#169](https://github.com/tox-dev/pyproject-api/pull/169) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#234](https://github.com/tox-dev/tox-ini-fmt/pull/234) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🗣 Commented on [#324](https://github.com/tox-dev/platformdirs/pull/324#issuecomment-2466877068) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🗣 Commented on [#14219](https://github.com/astral-sh/ruff/issues/14219#issuecomment-2466039523) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🎉 Merged PR [#129](https://github.com/gaborbernat/bump-deps-index/pull/129) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#132](https://github.com/gaborbernat/pypi-changes/pull/132) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#148](https://github.com/tox-dev/devpi-process/pull/148) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🎉 Merged PR [#377](https://github.com/tox-dev/filelock/pull/377) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#427](https://github.com/tox-dev/pipdeptree/pull/427) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
