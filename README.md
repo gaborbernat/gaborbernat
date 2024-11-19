@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#127](https://github.com/tox-dev/tox-uv/pull/127) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ❌ Reopened PR [#127](https://github.com/tox-dev/tox-uv/pull/127) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ❌ Closed PR [#127](https://github.com/tox-dev/tox-uv/pull/127) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#128](https://github.com/tox-dev/tox-uv/pull/128) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🔓 Reopened issue [#132](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/132) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#129](https://github.com/tox-dev/tox-uv/pull/129#issuecomment-2483825982) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. ❌ Closed PR [#127](https://github.com/tox-dev/tox-uv/pull/127) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ❌ Reopened PR [#127](https://github.com/tox-dev/tox-uv/pull/127) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ❌ Closed PR [#127](https://github.com/tox-dev/tox-uv/pull/127) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#128](https://github.com/tox-dev/tox-uv/pull/128) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
