@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3451](https://github.com/tox-dev/tox/pull/3451) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#172](https://github.com/tox-dev/pyproject-api/pull/172) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🗣 Commented on [#3342](https://github.com/tox-dev/tox/pull/3342#issuecomment-2499468978) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#173](https://github.com/tox-dev/pyproject-api/pull/173) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🎉 Merged PR [#131](https://github.com/tox-dev/tox-uv/pull/131) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#2](https://github.com/gaborbernat/all-repos-self/pull/2) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+2. 🎉 Merged PR [#2806](https://github.com/pypa/virtualenv/pull/2806) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#3451](https://github.com/tox-dev/tox/pull/3451) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#172](https://github.com/tox-dev/pyproject-api/pull/172) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🗣 Commented on [#3342](https://github.com/tox-dev/tox/pull/3342#issuecomment-2499468978) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
