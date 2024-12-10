@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3335](https://github.com/tox-dev/tox/issues/3335#issuecomment-2524421040) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🚀 Published release [1.16.1](https://github.com/tox-dev/tox-uv/releases/tag/1.16.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#136](https://github.com/tox-dev/tox-uv/pull/136) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#136](https://github.com/tox-dev/tox-uv/pull/136#issuecomment-2518831365) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. ❌ Closed PR [#3453](https://github.com/tox-dev/tox/pull/3453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#3458](https://github.com/tox-dev/tox/pull/3458) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#134](https://github.com/gaborbernat/bump-deps-index/pull/134) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#133](https://github.com/gaborbernat/bump-deps-index/pull/133) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#120](https://github.com/pytest-dev/pytest-env/pull/120) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#119](https://github.com/pytest-dev/pytest-env/pull/119) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
