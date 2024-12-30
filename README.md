@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#148](https://github.com/tox-dev/tox-uv/pull/148#issuecomment-2564362444) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#145](https://github.com/tox-dev/tox-uv/pull/145) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#146](https://github.com/tox-dev/tox-uv/pull/146) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#2814](https://github.com/pypa/virtualenv/issues/2814#issuecomment-2556294453) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🚀 Published release [1.16.2](https://github.com/tox-dev/tox-uv/releases/tag/1.16.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#136](https://github.com/gaborbernat/bump-deps-index/pull/136) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#137](https://github.com/gaborbernat/bump-deps-index/pull/137) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#136](https://github.com/gaborbernat/pypi-changes/pull/136) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. 🎉 Merged PR [#122](https://github.com/pytest-dev/pytest-env/pull/122) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#123](https://github.com/pytest-dev/pytest-env/pull/123) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
