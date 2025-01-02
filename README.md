@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10275](https://github.com/astral-sh/uv/issues/10275#issuecomment-2568049430) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❗ Opened issue [#10275](https://github.com/astral-sh/uv/issues/10275) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. ❌ Closed PR [#2816](https://github.com/pypa/virtualenv/pull/2816) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#136](https://github.com/gaborbernat/bump-deps-index/pull/136) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🎉 Merged PR [#137](https://github.com/gaborbernat/bump-deps-index/pull/137) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🗣 Commented on [#10275](https://github.com/astral-sh/uv/issues/10275#issuecomment-2568087028) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#10275](https://github.com/astral-sh/uv/issues/10275#issuecomment-2568049430) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. ❗ Opened issue [#10275](https://github.com/astral-sh/uv/issues/10275) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. ❌ Closed PR [#2816](https://github.com/pypa/virtualenv/pull/2816) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#136](https://github.com/gaborbernat/bump-deps-index/pull/136) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
