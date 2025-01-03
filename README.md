@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [3.0.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.0.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🔒 Closed issue [#496](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/496) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#514](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/514) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ❌ Closed PR [#511](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/511) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#512](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/512) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 💪 Opened PR [#2817](https://github.com/pypa/virtualenv/pull/2817) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❗ Opened issue [#117](https://github.com/tcsh-org/tcsh/issues/117) in [tcsh-org/tcsh](https://github.com/tcsh-org/tcsh)
+3. 🚀 Published release [3.0.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.0.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🔒 Closed issue [#496](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/496) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#514](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/514) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
