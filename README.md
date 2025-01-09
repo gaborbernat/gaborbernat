@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569507163) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569422547) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔓 Reopened issue [#3465](https://github.com/tox-dev/tox/issues/3465) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569407257) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569389097) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗ Opened issue [#13147](https://github.com/pypa/pip/issues/13147) in [pypa/pip](https://github.com/pypa/pip)
+2. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569507163) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569422547) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔓 Reopened issue [#3465](https://github.com/tox-dev/tox/issues/3465) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3465](https://github.com/tox-dev/tox/issues/3465#issuecomment-2569407257) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
