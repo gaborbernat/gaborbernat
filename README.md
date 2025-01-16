@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2776](https://github.com/pypa/virtualenv/issues/2776) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2809](https://github.com/pypa/virtualenv/pull/2809) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#84](https://github.com/bloomberg/python-comdb2/pull/84) in [bloomberg/python-comdb2](https://github.com/bloomberg/python-comdb2)
-4. 🎉 Merged PR [#126](https://github.com/pytest-dev/pytest-env/pull/126) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🎉 Merged PR [#146](https://github.com/pytest-dev/pytest-print/pull/146) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🚀 Published release [20.29.0](https://github.com/pypa/get-virtualenv/releases/tag/20.29.0) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. 🚀 Published release [20.29.0](https://github.com/pypa/virtualenv/releases/tag/20.29.0) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2824](https://github.com/pypa/virtualenv/pull/2824) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2824](https://github.com/pypa/virtualenv/pull/2824) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2823](https://github.com/pypa/virtualenv/pull/2823) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
