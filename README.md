@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2598858840) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [20.29.1](https://github.com/pypa/virtualenv/releases/tag/20.29.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2828](https://github.com/pypa/virtualenv/pull/2828) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2828](https://github.com/pypa/virtualenv/pull/2828) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#2827](https://github.com/pypa/virtualenv/pull/2827) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#168](https://github.com/tox-dev/tox-gh/pull/168#issuecomment-2598897040) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. ❌ Closed PR [#168](https://github.com/tox-dev/tox-gh/pull/168) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2598896392) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2598858840) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [20.29.1](https://github.com/pypa/virtualenv/releases/tag/20.29.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
