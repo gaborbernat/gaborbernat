@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9134](https://github.com/astral-sh/uv/issues/9134#issuecomment-2599266736) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#168](https://github.com/tox-dev/tox-gh/pull/168#issuecomment-2598897040) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. ❌ Closed PR [#168](https://github.com/tox-dev/tox-gh/pull/168) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2598896392) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2598858840) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2829](https://github.com/pypa/virtualenv/issues/2829#issuecomment-2600873971) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#9134](https://github.com/astral-sh/uv/issues/9134#issuecomment-2599266736) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#168](https://github.com/tox-dev/tox-gh/pull/168#issuecomment-2598897040) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. ❌ Closed PR [#168](https://github.com/tox-dev/tox-gh/pull/168) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2598896392) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
