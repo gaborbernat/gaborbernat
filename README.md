@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#124](https://github.com/pytest-dev/pytest-env/issues/124#issuecomment-2601036443) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🗣 Commented on [#2829](https://github.com/pypa/virtualenv/issues/2829#issuecomment-2600873971) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#9134](https://github.com/astral-sh/uv/issues/9134#issuecomment-2599266736) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#168](https://github.com/tox-dev/tox-gh/pull/168#issuecomment-2598897040) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. ❌ Closed PR [#168](https://github.com/tox-dev/tox-gh/pull/168) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🗣 Commented on [#124](https://github.com/pytest-dev/pytest-env/issues/124#issuecomment-2601152611) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🗣 Commented on [#124](https://github.com/pytest-dev/pytest-env/issues/124#issuecomment-2601036443) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🗣 Commented on [#2829](https://github.com/pypa/virtualenv/issues/2829#issuecomment-2600873971) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#9134](https://github.com/astral-sh/uv/issues/9134#issuecomment-2599266736) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🗣 Commented on [#168](https://github.com/tox-dev/tox-gh/pull/168#issuecomment-2598897040) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
