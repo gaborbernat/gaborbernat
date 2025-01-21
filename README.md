@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#934](https://github.com/apache/avro/pull/934#issuecomment-2603014072) in [apache/avro](https://github.com/apache/avro)
-2. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2603012852) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#2825](https://github.com/pypa/virtualenv/issues/2825) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#389](https://github.com/tox-dev/filelock/issues/389#issuecomment-2603010247) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🔒 Closed issue [#389](https://github.com/tox-dev/filelock/issues/389) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [1.19.1](https://github.com/tox-dev/tox-uv/releases/tag/1.19.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#158](https://github.com/tox-dev/tox-uv/pull/158) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#934](https://github.com/apache/avro/pull/934#issuecomment-2603014072) in [apache/avro](https://github.com/apache/avro)
+4. 🗣 Commented on [#2825](https://github.com/pypa/virtualenv/issues/2825#issuecomment-2603012852) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🔒 Closed issue [#2825](https://github.com/pypa/virtualenv/issues/2825) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
