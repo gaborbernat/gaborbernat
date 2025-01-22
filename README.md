@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.20.0](https://github.com/tox-dev/tox-uv/releases/tag/1.20.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#159](https://github.com/tox-dev/tox-uv/pull/159) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🗣 Commented on [#151](https://github.com/tox-dev/tox-uv/issues/151#issuecomment-2605562188) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#144](https://github.com/tox-dev/tox-uv/issues/144#issuecomment-2605559704) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#159](https://github.com/tox-dev/tox-uv/pull/159) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [3.17.0](https://github.com/tox-dev/filelock/releases/tag/3.17.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#388](https://github.com/tox-dev/filelock/pull/388) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🚀 Published release [1.20.0](https://github.com/tox-dev/tox-uv/releases/tag/1.20.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#159](https://github.com/tox-dev/tox-uv/pull/159) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🗣 Commented on [#151](https://github.com/tox-dev/tox-uv/issues/151#issuecomment-2605562188) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
