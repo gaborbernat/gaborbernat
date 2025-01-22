@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/tox-dev/tox-toml-fmt/pull/3) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-2. 🎉 Merged PR [#1](https://github.com/tox-dev/tox-toml-fmt/pull/1) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-3. 🎉 Merged PR [#280](https://github.com/tox-dev/pyproject-fmt/pull/280) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🎉 Merged PR [#279](https://github.com/tox-dev/pyproject-fmt/pull/279) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🎉 Merged PR [#139](https://github.com/gaborbernat/bump-deps-index/pull/139) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#140](https://github.com/gaborbernat/bump-deps-index/pull/140) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#3](https://github.com/tox-dev/tox-toml-fmt/pull/3) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+3. 🎉 Merged PR [#1](https://github.com/tox-dev/tox-toml-fmt/pull/1) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+4. 🎉 Merged PR [#280](https://github.com/tox-dev/pyproject-fmt/pull/280) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🎉 Merged PR [#279](https://github.com/tox-dev/pyproject-fmt/pull/279) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
