@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/tox-dev/tox-toml-fmt/pull/4) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-2. 🚀 Published release [3.17.0](https://github.com/tox-dev/filelock/releases/tag/3.17.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#388](https://github.com/tox-dev/filelock/pull/388) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🚀 Published release [1.20.0](https://github.com/tox-dev/tox-uv/releases/tag/1.20.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#159](https://github.com/tox-dev/tox-uv/pull/159) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#281](https://github.com/tox-dev/pyproject-fmt/pull/281) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🎉 Merged PR [#4](https://github.com/tox-dev/tox-toml-fmt/pull/4) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+3. 🚀 Published release [3.17.0](https://github.com/tox-dev/filelock/releases/tag/3.17.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#388](https://github.com/tox-dev/filelock/pull/388) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🚀 Published release [1.20.0](https://github.com/tox-dev/tox-uv/releases/tag/1.20.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
