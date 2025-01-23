@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608751594) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608539820) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-3. 🚀 Published release [1.20.1](https://github.com/tox-dev/tox-uv/releases/tag/1.20.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🚀 Published release [1.21.1](https://github.com/tox-dev/tox-uv/releases/tag/1.21.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#160](https://github.com/tox-dev/tox-uv/pull/160) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608833966) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+2. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608751594) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+3. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608539820) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. 🚀 Published release [1.20.1](https://github.com/tox-dev/tox-uv/releases/tag/1.20.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🚀 Published release [1.21.1](https://github.com/tox-dev/tox-uv/releases/tag/1.21.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
