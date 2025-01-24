@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608833966) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608751594) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-3. 🗣 Commented on [#13232](https://github.com/sphinx-doc/sphinx/issues/13232#issuecomment-2608539820) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-4. 🚀 Published release [1.20.1](https://github.com/tox-dev/tox-uv/releases/tag/1.20.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🚀 Published release [1.21.1](https://github.com/tox-dev/tox-uv/releases/tag/1.21.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#2831](https://github.com/pypa/virtualenv/pull/2831#issuecomment-2612876573) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#137](https://github.com/gaborbernat/pypi-changes/pull/137) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#148](https://github.com/pytest-dev/pytest-print/pull/148) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#159](https://github.com/tox-dev/devpi-process/pull/159) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#390](https://github.com/tox-dev/filelock/pull/390) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
