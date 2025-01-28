@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1308](https://github.com/argoproj-labs/hera/issues/1308) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
-2. 🗣 Commented on [#3471](https://github.com/tox-dev/tox/pull/3471#issuecomment-2616996346) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#443](https://github.com/tox-dev/pipdeptree/pull/443) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#2831](https://github.com/pypa/virtualenv/pull/2831#issuecomment-2612936329) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#544](https://github.com/pypa/build/pull/544#issuecomment-2612928988) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#3472](https://github.com/tox-dev/tox/issues/3472#issuecomment-2617477460) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗ Opened issue [#1308](https://github.com/argoproj-labs/hera/issues/1308) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+3. 🗣 Commented on [#3471](https://github.com/tox-dev/tox/pull/3471#issuecomment-2616996346) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#443](https://github.com/tox-dev/pipdeptree/pull/443) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#2831](https://github.com/pypa/virtualenv/pull/2831#issuecomment-2612936329) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
