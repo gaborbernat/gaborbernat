@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1308](https://github.com/argoproj-labs/hera/issues/1308#issuecomment-2619727801) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
-2. 🗣 Commented on [#1308](https://github.com/argoproj-labs/hera/issues/1308#issuecomment-2619726180) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
-3. 🚀 Published release [1.20.2](https://github.com/tox-dev/tox-uv/releases/tag/1.20.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. ❗ Opened issue [#2287](https://github.com/koxudaxi/datamodel-code-generator/issues/2287) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🎉 Merged PR [#162](https://github.com/tox-dev/tox-uv/pull/162) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#13209](https://github.com/OpenAPITools/openapi-generator/issues/13209#issuecomment-2620609686) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+2. 🗣 Commented on [#1308](https://github.com/argoproj-labs/hera/issues/1308#issuecomment-2619727801) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+3. 🗣 Commented on [#1308](https://github.com/argoproj-labs/hera/issues/1308#issuecomment-2619726180) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+4. 🚀 Published release [1.20.2](https://github.com/tox-dev/tox-uv/releases/tag/1.20.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ❗ Opened issue [#2287](https://github.com/koxudaxi/datamodel-code-generator/issues/2287) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
