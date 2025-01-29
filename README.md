@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3472](https://github.com/tox-dev/tox/issues/3472#issuecomment-2617477460) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❗ Opened issue [#1308](https://github.com/argoproj-labs/hera/issues/1308) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
-3. 🗣 Commented on [#3471](https://github.com/tox-dev/tox/pull/3471#issuecomment-2616996346) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#443](https://github.com/tox-dev/pipdeptree/pull/443) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#2831](https://github.com/pypa/virtualenv/pull/2831#issuecomment-2612936329) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#1308](https://github.com/argoproj-labs/hera/issues/1308#issuecomment-2619727801) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+2. 🗣 Commented on [#1308](https://github.com/argoproj-labs/hera/issues/1308#issuecomment-2619726180) in [argoproj-labs/hera](https://github.com/argoproj-labs/hera)
+3. 🚀 Published release [1.20.2](https://github.com/tox-dev/tox-uv/releases/tag/1.20.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ❗ Opened issue [#2287](https://github.com/koxudaxi/datamodel-code-generator/issues/2287) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🎉 Merged PR [#162](https://github.com/tox-dev/tox-uv/pull/162) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
