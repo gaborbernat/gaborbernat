@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10346](https://github.com/cli/cli/issues/10346#issuecomment-2628453577) in [cli/cli](https://github.com/cli/cli)
-2. 🗣 Commented on [#2292](https://github.com/koxudaxi/datamodel-code-generator/pull/2292#issuecomment-2627686313) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 💪 Opened PR [#2292](https://github.com/koxudaxi/datamodel-code-generator/pull/2292) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#2220](https://github.com/koxudaxi/datamodel-code-generator/issues/2220#issuecomment-2622756010) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2220](https://github.com/koxudaxi/datamodel-code-generator/issues/2220#issuecomment-2622693701) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🚀 Published release [1.0.1](https://github.com/tox-dev/xml-fmt/releases/tag/1.0.1) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+2. 🚀 Published release [1.0.0](https://github.com/tox-dev/xml-fmt/releases/tag/1.0.0) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+3. 🎉 Merged PR [#3](https://github.com/tox-dev/xml-fmt/pull/3) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. 🎉 Merged PR [#2](https://github.com/tox-dev/xml-fmt/pull/2) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+5. 🎉 Merged PR [#1](https://github.com/tox-dev/xml-fmt/pull/1) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
