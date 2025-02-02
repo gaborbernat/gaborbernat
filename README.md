@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2292](https://github.com/koxudaxi/datamodel-code-generator/pull/2292#issuecomment-2629236705) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 💪 Opened PR [#2296](https://github.com/koxudaxi/datamodel-code-generator/pull/2296) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#2292](https://github.com/koxudaxi/datamodel-code-generator/pull/2292#issuecomment-2629224710) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🚀 Published release [1.0.1](https://github.com/tox-dev/xml-fmt/releases/tag/1.0.1) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🚀 Published release [1.0.0](https://github.com/tox-dev/xml-fmt/releases/tag/1.0.0) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🗣 Commented on [#3456](https://github.com/tox-dev/tox/issues/3456#issuecomment-2629450850) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2292](https://github.com/koxudaxi/datamodel-code-generator/pull/2292#issuecomment-2629236705) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 💪 Opened PR [#2296](https://github.com/koxudaxi/datamodel-code-generator/pull/2296) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2292](https://github.com/koxudaxi/datamodel-code-generator/pull/2292#issuecomment-2629224710) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🚀 Published release [1.0.1](https://github.com/tox-dev/xml-fmt/releases/tag/1.0.1) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
