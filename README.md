@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632527081) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🎉 Merged PR [#130](https://github.com/pytest-dev/pytest-env/pull/130) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632473766) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632466878) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#2832](https://github.com/pypa/virtualenv/pull/2832#issuecomment-2632464838) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632535126) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632527081) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🎉 Merged PR [#130](https://github.com/pytest-dev/pytest-env/pull/130) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632473766) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632466878) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
