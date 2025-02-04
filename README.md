@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2301](https://github.com/koxudaxi/datamodel-code-generator/pull/2301) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. ❗ Opened issue [#11205](https://github.com/astral-sh/uv/issues/11205) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. ❗ Opened issue [#2300](https://github.com/koxudaxi/datamodel-code-generator/issues/2300) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#392](https://github.com/tox-dev/filelock/issues/392#issuecomment-2631510371) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#3456](https://github.com/tox-dev/tox/issues/3456#issuecomment-2629450850) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#130](https://github.com/pytest-dev/pytest-env/pull/130) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632473766) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#11205](https://github.com/astral-sh/uv/issues/11205#issuecomment-2632466878) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🗣 Commented on [#2832](https://github.com/pypa/virtualenv/pull/2832#issuecomment-2632464838) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❌ Closed PR [#2832](https://github.com/pypa/virtualenv/pull/2832) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
