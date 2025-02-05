@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2271](https://github.com/koxudaxi/datamodel-code-generator/pull/2271#issuecomment-2634815636) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2299](https://github.com/koxudaxi/datamodel-code-generator/pull/2299) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🎉 Merged PR [#6](https://github.com/tox-dev/tox-toml-fmt/pull/6) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-4. 🗣 Commented on [#144](https://github.com/tox-dev/tox-uv/issues/144#issuecomment-2634467515) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🔒 Closed issue [#144](https://github.com/tox-dev/tox-uv/issues/144) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#2271](https://github.com/koxudaxi/datamodel-code-generator/pull/2271#issuecomment-2634898985) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#2299](https://github.com/koxudaxi/datamodel-code-generator/pull/2299#issuecomment-2634889033) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#2290](https://github.com/koxudaxi/datamodel-code-generator/pull/2290#issuecomment-2634884252) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. ❌ Closed PR [#2290](https://github.com/koxudaxi/datamodel-code-generator/pull/2290) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 💪 Opened PR [#1636](https://github.com/downshift-js/downshift/pull/1636) in [downshift-js/downshift](https://github.com/downshift-js/downshift)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
