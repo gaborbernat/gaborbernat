@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2052](https://github.com/koxudaxi/datamodel-code-generator/issues/2052) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#2052](https://github.com/koxudaxi/datamodel-code-generator/issues/2052#issuecomment-2640901560) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#2137](https://github.com/koxudaxi/datamodel-code-generator/issues/2137#issuecomment-2640897963) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🔒 Closed issue [#2137](https://github.com/koxudaxi/datamodel-code-generator/issues/2137) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2252](https://github.com/koxudaxi/datamodel-code-generator/issues/2252#issuecomment-2640897587) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#151](https://github.com/tox-dev/tox-uv/issues/151#issuecomment-2641887071) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🔒 Closed issue [#2052](https://github.com/koxudaxi/datamodel-code-generator/issues/2052) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#2052](https://github.com/koxudaxi/datamodel-code-generator/issues/2052#issuecomment-2640901560) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2137](https://github.com/koxudaxi/datamodel-code-generator/issues/2137#issuecomment-2640897963) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🔒 Closed issue [#2137](https://github.com/koxudaxi/datamodel-code-generator/issues/2137) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
