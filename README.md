@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2309](https://github.com/koxudaxi/datamodel-code-generator/issues/2309) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2310](https://github.com/koxudaxi/datamodel-code-generator/pull/2310) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#11308](https://github.com/astral-sh/uv/issues/11308#issuecomment-2643726768) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 💪 Opened PR [#2310](https://github.com/koxudaxi/datamodel-code-generator/pull/2310) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2309](https://github.com/koxudaxi/datamodel-code-generator/issues/2309#issuecomment-2643698886) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#11308](https://github.com/astral-sh/uv/issues/11308#issuecomment-2643739870) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🔒 Closed issue [#2309](https://github.com/koxudaxi/datamodel-code-generator/issues/2309) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🎉 Merged PR [#2310](https://github.com/koxudaxi/datamodel-code-generator/pull/2310) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#11308](https://github.com/astral-sh/uv/issues/11308#issuecomment-2643726768) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 💪 Opened PR [#2310](https://github.com/koxudaxi/datamodel-code-generator/pull/2310) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
