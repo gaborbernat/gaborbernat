@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2318](https://github.com/koxudaxi/datamodel-code-generator/pull/2318) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2845](https://github.com/pypa/virtualenv/pull/2845) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2317](https://github.com/koxudaxi/datamodel-code-generator/pull/2317) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🎉 Merged PR [#3479](https://github.com/tox-dev/tox/pull/3479) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#2317](https://github.com/koxudaxi/datamodel-code-generator/pull/2317) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❗ Opened issue [#2319](https://github.com/koxudaxi/datamodel-code-generator/issues/2319) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#2318](https://github.com/koxudaxi/datamodel-code-generator/pull/2318#issuecomment-2649902962) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 💪 Opened PR [#2318](https://github.com/koxudaxi/datamodel-code-generator/pull/2318) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🎉 Merged PR [#2845](https://github.com/pypa/virtualenv/pull/2845) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2317](https://github.com/koxudaxi/datamodel-code-generator/pull/2317) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
