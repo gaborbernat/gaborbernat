@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#11453](https://github.com/astral-sh/uv/issues/11453) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#2271](https://github.com/koxudaxi/datamodel-code-generator/pull/2271#issuecomment-2651645216) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. ❌ Closed PR [#2271](https://github.com/koxudaxi/datamodel-code-generator/pull/2271) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. ❗ Opened issue [#2321](https://github.com/koxudaxi/datamodel-code-generator/issues/2321) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2319](https://github.com/koxudaxi/datamodel-code-generator/issues/2319#issuecomment-2651629132) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#11453](https://github.com/astral-sh/uv/issues/11453#issuecomment-2654386875) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🔒 Closed issue [#8068](https://github.com/astral-sh/uv/issues/8068) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#8069](https://github.com/astral-sh/uv/issues/8069#issuecomment-2654352373) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🔒 Closed issue [#8069](https://github.com/astral-sh/uv/issues/8069) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ❗ Opened issue [#11455](https://github.com/astral-sh/uv/issues/11455) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
