@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [0.28.1](https://github.com/koxudaxi/datamodel-code-generator/releases/tag/0.28.1) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2323](https://github.com/koxudaxi/datamodel-code-generator/pull/2323) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. ❗ Opened issue [#11530](https://github.com/astral-sh/uv/issues/11530) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#11525](https://github.com/astral-sh/uv/issues/11525#issuecomment-2660290410) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. ❗ Opened issue [#11525](https://github.com/astral-sh/uv/issues/11525) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🗣 Commented on [#11530](https://github.com/astral-sh/uv/issues/11530#issuecomment-2660738400) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🔒 Closed issue [#11530](https://github.com/astral-sh/uv/issues/11530) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🚀 Published release [1.23.2](https://github.com/tox-dev/tox-uv/releases/tag/1.23.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#177](https://github.com/tox-dev/tox-uv/pull/177) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#177](https://github.com/tox-dev/tox-uv/pull/177) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
