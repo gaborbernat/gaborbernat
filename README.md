@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#152](https://github.com/pytest-dev/pytest-print/issues/152) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🎉 Merged PR [#153](https://github.com/pytest-dev/pytest-print/pull/153) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🗣 Commented on [#3403](https://github.com/tox-dev/tox/issues/3403#issuecomment-2659940208) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2324](https://github.com/koxudaxi/datamodel-code-generator/pull/2324#issuecomment-2659819847) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2324](https://github.com/koxudaxi/datamodel-code-generator/pull/2324#issuecomment-2659750134) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❗ Opened issue [#11523](https://github.com/astral-sh/uv/issues/11523) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🔒 Closed issue [#152](https://github.com/pytest-dev/pytest-print/issues/152) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#153](https://github.com/pytest-dev/pytest-print/pull/153) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🗣 Commented on [#3403](https://github.com/tox-dev/tox/issues/3403#issuecomment-2659940208) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#2324](https://github.com/koxudaxi/datamodel-code-generator/pull/2324#issuecomment-2659819847) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
