@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#11525](https://github.com/astral-sh/uv/issues/11525) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#11523](https://github.com/astral-sh/uv/issues/11523#issuecomment-2660238116) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🔒 Closed issue [#11523](https://github.com/astral-sh/uv/issues/11523) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. ❗ Opened issue [#11523](https://github.com/astral-sh/uv/issues/11523) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🔒 Closed issue [#152](https://github.com/pytest-dev/pytest-print/issues/152) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🗣 Commented on [#11525](https://github.com/astral-sh/uv/issues/11525#issuecomment-2660290410) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. ❗ Opened issue [#11525](https://github.com/astral-sh/uv/issues/11525) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. 🗣 Commented on [#11523](https://github.com/astral-sh/uv/issues/11523#issuecomment-2660238116) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🔒 Closed issue [#11523](https://github.com/astral-sh/uv/issues/11523) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ❗ Opened issue [#11523](https://github.com/astral-sh/uv/issues/11523) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
