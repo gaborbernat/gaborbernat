@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#179](https://github.com/tox-dev/tox-uv/issues/179#issuecomment-2669078643) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🔒 Closed issue [#2319](https://github.com/koxudaxi/datamodel-code-generator/issues/2319) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🔒 Closed issue [#2320](https://github.com/koxudaxi/datamodel-code-generator/issues/2320) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🚀 Published release [3.1.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.1.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#523](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/523) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#179](https://github.com/tox-dev/tox-uv/issues/179#issuecomment-2669098001) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🔒 Closed issue [#179](https://github.com/tox-dev/tox-uv/issues/179) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#179](https://github.com/tox-dev/tox-uv/issues/179#issuecomment-2669078643) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🔒 Closed issue [#2319](https://github.com/koxudaxi/datamodel-code-generator/issues/2319) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🔒 Closed issue [#2320](https://github.com/koxudaxi/datamodel-code-generator/issues/2320) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
