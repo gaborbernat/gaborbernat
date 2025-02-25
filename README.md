@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Pretty print supports](https://github.com/pytest-dev/pytest-print/releases/tag/1.1.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🎉 Merged PR [#155](https://github.com/pytest-dev/pytest-print/pull/155) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🗣 Commented on [#402](https://github.com/tox-dev/filelock/issues/402#issuecomment-2680155988) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#3486](https://github.com/tox-dev/tox/pull/3486) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#145](https://github.com/gaborbernat/bump-deps-index/pull/145) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🗣 Commented on [#399](https://github.com/tox-dev/filelock/pull/399#issuecomment-2680815292) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🚀 Published release [Pretty print supports](https://github.com/pytest-dev/pytest-print/releases/tag/1.1.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🎉 Merged PR [#155](https://github.com/pytest-dev/pytest-print/pull/155) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🗣 Commented on [#402](https://github.com/tox-dev/filelock/issues/402#issuecomment-2680155988) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#3486](https://github.com/tox-dev/tox/pull/3486) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
