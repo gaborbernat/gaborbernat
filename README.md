@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2822](https://github.com/pypa/virtualenv/issues/2822) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2850](https://github.com/pypa/virtualenv/pull/2850) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#399](https://github.com/tox-dev/filelock/pull/399#issuecomment-2680815292) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🚀 Published release [Pretty print supports](https://github.com/pytest-dev/pytest-print/releases/tag/1.1.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#155](https://github.com/pytest-dev/pytest-print/pull/155) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🎉 Merged PR [#2849](https://github.com/pypa/virtualenv/pull/2849) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#2822](https://github.com/pypa/virtualenv/issues/2822) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2850](https://github.com/pypa/virtualenv/pull/2850) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#399](https://github.com/tox-dev/filelock/pull/399#issuecomment-2680815292) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🚀 Published release [Pretty print supports](https://github.com/pytest-dev/pytest-print/releases/tag/1.1.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
