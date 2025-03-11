@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3478](https://github.com/tox-dev/tox/pull/3478#issuecomment-2707162797) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3495](https://github.com/tox-dev/tox/pull/3495#issuecomment-2707162473) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3482](https://github.com/tox-dev/tox/pull/3482#issuecomment-2707162102) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3481](https://github.com/tox-dev/tox/pull/3481#issuecomment-2707161999) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3480](https://github.com/tox-dev/tox/pull/3480#issuecomment-2707161885) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [0.28.3](https://github.com/koxudaxi/datamodel-code-generator/releases/tag/0.28.3) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🔒 Closed issue [#2333](https://github.com/koxudaxi/datamodel-code-generator/issues/2333) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🔒 Closed issue [#2333](https://github.com/koxudaxi/datamodel-code-generator/issues/2333) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🎉 Merged PR [#2334](https://github.com/koxudaxi/datamodel-code-generator/pull/2334) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🎉 Merged PR [#2339](https://github.com/koxudaxi/datamodel-code-generator/pull/2339) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
