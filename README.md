@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [0.28.3](https://github.com/koxudaxi/datamodel-code-generator/releases/tag/0.28.3) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🔒 Closed issue [#2333](https://github.com/koxudaxi/datamodel-code-generator/issues/2333) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🔒 Closed issue [#2333](https://github.com/koxudaxi/datamodel-code-generator/issues/2333) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🎉 Merged PR [#2334](https://github.com/koxudaxi/datamodel-code-generator/pull/2334) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🎉 Merged PR [#2339](https://github.com/koxudaxi/datamodel-code-generator/pull/2339) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🎉 Merged PR [#184](https://github.com/tox-dev/pyproject-api/pull/184) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🎉 Merged PR [#3496](https://github.com/tox-dev/tox/pull/3496) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#221](https://github.com/tox-dev/sphinx-argparse-cli/pull/221) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#528](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/528) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#178](https://github.com/tox-dev/tox-gh/pull/178) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
