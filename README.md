@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#290](https://github.com/tox-dev/pyproject-fmt/pull/290) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🎉 Merged PR [#858](https://github.com/pypa/build/pull/858) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#873](https://github.com/pypa/build/pull/873) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#2857](https://github.com/pypa/virtualenv/pull/2857) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#147](https://github.com/gaborbernat/bump-deps-index/pull/147) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🗣 Commented on [#186](https://github.com/tox-dev/tox-uv/issues/186#issuecomment-2714784765) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🔒 Closed issue [#186](https://github.com/tox-dev/tox-uv/issues/186) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#290](https://github.com/tox-dev/pyproject-fmt/pull/290) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#858](https://github.com/pypa/build/pull/858) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#873](https://github.com/pypa/build/pull/873) in [pypa/build](https://github.com/pypa/build)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
