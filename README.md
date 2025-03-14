@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#707](https://github.com/jenkinsci/JenkinsPipelineUnit/issues/707#issuecomment-2722149236) in [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
-2. ❗ Opened issue [#707](https://github.com/jenkinsci/JenkinsPipelineUnit/issues/707) in [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
-3. 🗣 Commented on [#186](https://github.com/tox-dev/tox-uv/issues/186#issuecomment-2715587453) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#7](https://github.com/tox-dev/xml-fmt/pull/7) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#11](https://github.com/tox-dev/tox-toml-fmt/pull/11) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+1. 🗣 Commented on [#398](https://github.com/tox-dev/filelock/pull/398#issuecomment-2723831632) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🚀 Published release [3.18.0](https://github.com/tox-dev/filelock/releases/tag/3.18.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🗣 Commented on [#707](https://github.com/jenkinsci/JenkinsPipelineUnit/issues/707#issuecomment-2722149236) in [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
+4. ❗ Opened issue [#707](https://github.com/jenkinsci/JenkinsPipelineUnit/issues/707) in [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
+5. 🗣 Commented on [#186](https://github.com/tox-dev/tox-uv/issues/186#issuecomment-2715587453) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
