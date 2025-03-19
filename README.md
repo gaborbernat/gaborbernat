@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3499](https://github.com/tox-dev/tox/pull/3499) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3500](https://github.com/tox-dev/tox/pull/3500) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#399](https://github.com/tox-dev/filelock/pull/399#issuecomment-2730069030) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#530](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/530) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#398](https://github.com/tox-dev/filelock/pull/398#issuecomment-2723831632) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#5507](https://github.com/Hacker0x01/react-datepicker/pull/5507) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+2. 🎉 Merged PR [#3499](https://github.com/tox-dev/tox/pull/3499) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3500](https://github.com/tox-dev/tox/pull/3500) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#399](https://github.com/tox-dev/filelock/pull/399#issuecomment-2730069030) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#530](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/530) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
