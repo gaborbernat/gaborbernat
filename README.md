@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5507](https://github.com/Hacker0x01/react-datepicker/pull/5507) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
-2. 🎉 Merged PR [#3499](https://github.com/tox-dev/tox/pull/3499) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3500](https://github.com/tox-dev/tox/pull/3500) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#399](https://github.com/tox-dev/filelock/pull/399#issuecomment-2730069030) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#530](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/530) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#343](https://github.com/tox-dev/platformdirs/issues/343#issuecomment-2738043839) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🔒 Closed issue [#343](https://github.com/tox-dev/platformdirs/issues/343) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🚀 Published release [4.3.7](https://github.com/tox-dev/platformdirs/releases/tag/4.3.7) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🎉 Merged PR [#342](https://github.com/tox-dev/platformdirs/pull/342) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 💪 Opened PR [#5507](https://github.com/Hacker0x01/react-datepicker/pull/5507) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
