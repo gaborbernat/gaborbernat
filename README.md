@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1749](https://github.com/koxudaxi/datamodel-code-generator/issues/1749#issuecomment-2741667882) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#344](https://github.com/tox-dev/platformdirs/issues/344#issuecomment-2740714182) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🗣 Commented on [#3502](https://github.com/tox-dev/tox/issues/3502#issuecomment-2740432147) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#343](https://github.com/tox-dev/platformdirs/issues/343#issuecomment-2738043839) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🔒 Closed issue [#343](https://github.com/tox-dev/platformdirs/issues/343) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🔓 Reopened issue [#21](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/21) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#1749](https://github.com/koxudaxi/datamodel-code-generator/issues/1749#issuecomment-2741667882) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#344](https://github.com/tox-dev/platformdirs/issues/344#issuecomment-2740714182) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🗣 Commented on [#3502](https://github.com/tox-dev/tox/issues/3502#issuecomment-2740432147) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#343](https://github.com/tox-dev/platformdirs/issues/343#issuecomment-2738043839) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
