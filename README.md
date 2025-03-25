@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔓 Reopened issue [#21](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/21) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#1749](https://github.com/koxudaxi/datamodel-code-generator/issues/1749#issuecomment-2741667882) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#344](https://github.com/tox-dev/platformdirs/issues/344#issuecomment-2740714182) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🗣 Commented on [#3502](https://github.com/tox-dev/tox/issues/3502#issuecomment-2740432147) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#343](https://github.com/tox-dev/platformdirs/issues/343#issuecomment-2738043839) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#148](https://github.com/gaborbernat/bump-deps-index/pull/148) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#145](https://github.com/gaborbernat/pypi-changes/pull/145) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#2858](https://github.com/pypa/virtualenv/pull/2858) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#135](https://github.com/pytest-dev/pytest-env/pull/135) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🚀 Published release [2.26.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.26.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
