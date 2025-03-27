@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7592](https://github.com/astral-sh/uv/pull/7592#issuecomment-2755620717) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❗ Opened issue [#4006](https://github.com/date-fns/date-fns/issues/4006) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
-3. 🎉 Merged PR [#148](https://github.com/gaborbernat/bump-deps-index/pull/148) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🎉 Merged PR [#145](https://github.com/gaborbernat/pypi-changes/pull/145) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🎉 Merged PR [#2858](https://github.com/pypa/virtualenv/pull/2858) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#3506](https://github.com/tox-dev/tox/issues/3506#issuecomment-2758415534) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1956](https://github.com/koxudaxi/datamodel-code-generator/pull/1956#issuecomment-2758405364) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#7592](https://github.com/astral-sh/uv/pull/7592#issuecomment-2755620717) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. ❗ Opened issue [#4006](https://github.com/date-fns/date-fns/issues/4006) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
+5. 🎉 Merged PR [#148](https://github.com/gaborbernat/bump-deps-index/pull/148) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
