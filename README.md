@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3506](https://github.com/tox-dev/tox/issues/3506#issuecomment-2758889148) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🚀 Published release [4.25.0](https://github.com/tox-dev/tox/releases/tag/4.25.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3503](https://github.com/tox-dev/tox/pull/3503) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3506](https://github.com/tox-dev/tox/issues/3506#issuecomment-2758415534) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#1956](https://github.com/koxudaxi/datamodel-code-generator/pull/1956#issuecomment-2758405364) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❗ Opened issue [#12521](https://github.com/astral-sh/uv/issues/12521) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#3506](https://github.com/tox-dev/tox/issues/3506#issuecomment-2758889148) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🚀 Published release [4.25.0](https://github.com/tox-dev/tox/releases/tag/4.25.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3503](https://github.com/tox-dev/tox/pull/3503) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3506](https://github.com/tox-dev/tox/issues/3506#issuecomment-2758415534) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
