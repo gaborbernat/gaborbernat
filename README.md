@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2865](https://github.com/pypa/virtualenv/issues/2865#issuecomment-2770793820) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🔒 Closed issue [#2865](https://github.com/pypa/virtualenv/issues/2865) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#12584](https://github.com/astral-sh/uv/issues/12584#issuecomment-2769641496) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🗣 Commented on [#12584](https://github.com/astral-sh/uv/issues/12584#issuecomment-2769626269) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🚀 Published release [20.30.0](https://github.com/pypa/get-virtualenv/releases/tag/20.30.0) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🎉 Merged PR [#407](https://github.com/tox-dev/filelock/pull/407) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#2865](https://github.com/pypa/virtualenv/issues/2865#issuecomment-2770793820) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🔒 Closed issue [#2865](https://github.com/pypa/virtualenv/issues/2865) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#12584](https://github.com/astral-sh/uv/issues/12584#issuecomment-2769641496) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🗣 Commented on [#12584](https://github.com/astral-sh/uv/issues/12584#issuecomment-2769626269) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
