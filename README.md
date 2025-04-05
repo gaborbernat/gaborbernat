@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779684500) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779680920) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779673262) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#407](https://github.com/tox-dev/filelock/pull/407) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#2865](https://github.com/pypa/virtualenv/issues/2865#issuecomment-2770793820) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779824438) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779684500) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779680920) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779673262) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#407](https://github.com/tox-dev/filelock/pull/407) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
