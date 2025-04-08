@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2866](https://github.com/pypa/virtualenv/pull/2866) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2780200938) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779824438) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779684500) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779680920) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-2784725798) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. ❌ Closed PR [#2866](https://github.com/pypa/virtualenv/pull/2866) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2780200938) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779824438) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3510](https://github.com/tox-dev/tox/issues/3510#issuecomment-2779684500) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
