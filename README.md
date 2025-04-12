@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#278](https://github.com/tldr-pages/tldr-python-client/issues/278) in [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client)
-2. 🎉 Merged PR [#3511](https://github.com/tox-dev/tox/pull/3511) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#48](https://github.com/tox-dev/PyVenvManage/pull/48) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#168](https://github.com/tox-dev/devpi-process/pull/168) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#410](https://github.com/tox-dev/filelock/pull/410) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1](https://github.com/gaborbernat/new-wave-of-python-packaging-binder/issues/1) in [gaborbernat/new-wave-of-python-packaging-binder](https://github.com/gaborbernat/new-wave-of-python-packaging-binder)
+2. ❗ Opened issue [#278](https://github.com/tldr-pages/tldr-python-client/issues/278) in [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client)
+3. 🎉 Merged PR [#3511](https://github.com/tox-dev/tox/pull/3511) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#48](https://github.com/tox-dev/PyVenvManage/pull/48) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🎉 Merged PR [#168](https://github.com/tox-dev/devpi-process/pull/168) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
