@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#169](https://github.com/tox-dev/devpi-process/pull/169) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. 🎉 Merged PR [#56](https://github.com/tox-dev/pre-commit-uv/pull/56) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 🎉 Merged PR [#411](https://github.com/tox-dev/filelock/pull/411) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#349](https://github.com/tox-dev/platformdirs/pull/349) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🎉 Merged PR [#187](https://github.com/tox-dev/pyproject-api/pull/187) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🎉 Merged PR [#2372](https://github.com/koxudaxi/datamodel-code-generator/pull/2372) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🎉 Merged PR [#2376](https://github.com/koxudaxi/datamodel-code-generator/pull/2376) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🎉 Merged PR [#2375](https://github.com/koxudaxi/datamodel-code-generator/pull/2375) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🔒 Closed issue [#2362](https://github.com/koxudaxi/datamodel-code-generator/issues/2362) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🎉 Merged PR [#2379](https://github.com/koxudaxi/datamodel-code-generator/pull/2379) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
