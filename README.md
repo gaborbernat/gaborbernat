@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#47](https://github.com/EverythingSmartHome/everything-presence-addons/issues/47#issuecomment-2822822271) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
-2. 🗣 Commented on [#293](https://github.com/tox-dev/pyproject-fmt/issues/293#issuecomment-2819769338) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🔒 Closed issue [#293](https://github.com/tox-dev/pyproject-fmt/issues/293) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. ❌ Closed PR [#2872](https://github.com/pypa/virtualenv/pull/2872) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#9](https://github.com/tox-dev/xml-fmt/pull/9) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🎉 Merged PR [#226](https://github.com/tox-dev/sphinx-argparse-cli/pull/226) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#540](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/540) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#541](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/541) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#47](https://github.com/tox-dev/toml-fmt/pull/47) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#49](https://github.com/tox-dev/toml-fmt/pull/49) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
