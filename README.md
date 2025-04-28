@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2370](https://github.com/koxudaxi/datamodel-code-generator/issues/2370) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2389](https://github.com/koxudaxi/datamodel-code-generator/pull/2389) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#2365](https://github.com/koxudaxi/datamodel-code-generator/pull/2365#issuecomment-2835298292) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🔒 Closed issue [#2387](https://github.com/koxudaxi/datamodel-code-generator/issues/2387) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ❗ Opened issue [#474](https://github.com/tox-dev/pipdeptree/issues/474) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🚀 Published release [0.30.1](https://github.com/koxudaxi/datamodel-code-generator/releases/tag/0.30.1) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🔒 Closed issue [#2370](https://github.com/koxudaxi/datamodel-code-generator/issues/2370) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🎉 Merged PR [#2389](https://github.com/koxudaxi/datamodel-code-generator/pull/2389) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2365](https://github.com/koxudaxi/datamodel-code-generator/pull/2365#issuecomment-2835298292) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🔒 Closed issue [#2387](https://github.com/koxudaxi/datamodel-code-generator/issues/2387) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
