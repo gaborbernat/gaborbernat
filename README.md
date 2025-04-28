@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#474](https://github.com/tox-dev/pipdeptree/issues/474#issuecomment-2835837341) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 💪 Opened PR [#51](https://github.com/tox-dev/toml-fmt/pull/51) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🚀 Published release [0.30.1](https://github.com/koxudaxi/datamodel-code-generator/releases/tag/0.30.1) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🔒 Closed issue [#2370](https://github.com/koxudaxi/datamodel-code-generator/issues/2370) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🎉 Merged PR [#2389](https://github.com/koxudaxi/datamodel-code-generator/pull/2389) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🎉 Merged PR [#151](https://github.com/gaborbernat/bump-deps-index/pull/151) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#149](https://github.com/gaborbernat/pypi-changes/pull/149) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#172](https://github.com/tox-dev/devpi-process/pull/172) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🎉 Merged PR [#414](https://github.com/tox-dev/filelock/pull/414) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#353](https://github.com/tox-dev/platformdirs/pull/353) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
