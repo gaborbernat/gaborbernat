@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#296](https://github.com/tox-dev/pyproject-fmt/issues/296#issuecomment-2832423194) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🚀 Published release [3.2.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.2.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#535](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/535) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#537](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/537) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#538](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/538) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#295](https://github.com/tox-dev/pyproject-fmt/issues/295#issuecomment-2833934067) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#295](https://github.com/tox-dev/pyproject-fmt/issues/295#issuecomment-2833933734) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🔒 Closed issue [#295](https://github.com/tox-dev/pyproject-fmt/issues/295) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🗣 Commented on [#2874](https://github.com/pypa/virtualenv/pull/2874#issuecomment-2833931693) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❌ Closed PR [#2874](https://github.com/pypa/virtualenv/pull/2874) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
