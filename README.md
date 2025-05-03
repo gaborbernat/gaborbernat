@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#187](https://github.com/tox-dev/tox-uv/issues/187#issuecomment-2845163369) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🗣 Commented on [#348](https://github.com/PyO3/maturin-action/issues/348#issuecomment-2845016992) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
-3. 🗣 Commented on [#2391](https://github.com/koxudaxi/datamodel-code-generator/issues/2391#issuecomment-2842602715) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#348](https://github.com/PyO3/maturin-action/issues/348#issuecomment-2842497952) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
-5. 🎉 Merged PR [#18](https://github.com/tox-dev/toml-fmt-common/pull/18) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+1. 🎉 Merged PR [#2394](https://github.com/koxudaxi/datamodel-code-generator/pull/2394) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#187](https://github.com/tox-dev/tox-uv/issues/187#issuecomment-2845163369) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#348](https://github.com/PyO3/maturin-action/issues/348#issuecomment-2845016992) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+4. 🗣 Commented on [#2391](https://github.com/koxudaxi/datamodel-code-generator/issues/2391#issuecomment-2842602715) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#348](https://github.com/PyO3/maturin-action/issues/348#issuecomment-2842497952) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
