@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2878](https://github.com/pypa/virtualenv/pull/2878) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2876](https://github.com/pypa/virtualenv/pull/2876) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#2394](https://github.com/koxudaxi/datamodel-code-generator/pull/2394) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#187](https://github.com/tox-dev/tox-uv/issues/187#issuecomment-2845163369) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🗣 Commented on [#348](https://github.com/PyO3/maturin-action/issues/348#issuecomment-2845016992) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+1. 🎉 Merged PR [#2877](https://github.com/pypa/virtualenv/pull/2877) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#2878](https://github.com/pypa/virtualenv/pull/2878) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2876](https://github.com/pypa/virtualenv/pull/2876) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2394](https://github.com/koxudaxi/datamodel-code-generator/pull/2394) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#187](https://github.com/tox-dev/tox-uv/issues/187#issuecomment-2845163369) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
