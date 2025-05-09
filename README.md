@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#478](https://github.com/tox-dev/pipdeptree/pull/478) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🚀 Published release [4.3.8](https://github.com/tox-dev/platformdirs/releases/tag/4.3.8) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🎉 Merged PR [#355](https://github.com/tox-dev/platformdirs/pull/355) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🗣 Commented on [#2885](https://github.com/pypa/virtualenv/issues/2885#issuecomment-2857124700) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2883](https://github.com/pypa/virtualenv/issues/2883#issuecomment-2855189470) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗ Opened issue [#11160](https://github.com/facebook/docusaurus/issues/11160) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. 🎉 Merged PR [#478](https://github.com/tox-dev/pipdeptree/pull/478) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🚀 Published release [4.3.8](https://github.com/tox-dev/platformdirs/releases/tag/4.3.8) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🎉 Merged PR [#355](https://github.com/tox-dev/platformdirs/pull/355) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🗣 Commented on [#2885](https://github.com/pypa/virtualenv/issues/2885#issuecomment-2857124700) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
