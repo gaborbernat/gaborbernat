@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#192](https://github.com/tox-dev/pyproject-api/pull/192) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2872822517) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-3. 🗣 Commented on [#3528](https://github.com/tox-dev/tox/pull/3528#issuecomment-2872780468) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#416](https://github.com/tox-dev/filelock/issues/416#issuecomment-2872768739) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#39](https://github.com/pypa/get-virtualenv/issues/39#issuecomment-2872766539) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2872895509) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. 🗣 Commented on [#3528](https://github.com/tox-dev/tox/pull/3528#issuecomment-2872853483) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🚀 Published release [1.9.1](https://github.com/tox-dev/pyproject-api/releases/tag/1.9.1) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#192](https://github.com/tox-dev/pyproject-api/pull/192) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 💪 Opened PR [#192](https://github.com/tox-dev/pyproject-api/pull/192) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
