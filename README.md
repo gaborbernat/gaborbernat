@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2873032739) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2872987565) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-3. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2872895509) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-4. 🗣 Commented on [#3528](https://github.com/tox-dev/tox/pull/3528#issuecomment-2872853483) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [1.9.1](https://github.com/tox-dev/pyproject-api/releases/tag/1.9.1) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🗣 Commented on [#3529](https://github.com/tox-dev/tox/pull/3529#issuecomment-2873079481) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2873032739) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+3. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2872987565) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. 🗣 Commented on [#11160](https://github.com/facebook/docusaurus/issues/11160#issuecomment-2872895509) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+5. 🗣 Commented on [#3528](https://github.com/tox-dev/tox/pull/3528#issuecomment-2872853483) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
