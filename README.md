@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.26.0](https://github.com/tox-dev/tox/releases/tag/4.26.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3391](https://github.com/tox-dev/tox/issues/3391) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3526](https://github.com/tox-dev/tox/pull/3526) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#356](https://github.com/tox-dev/platformdirs/pull/356) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🎉 Merged PR [#141](https://github.com/pytest-dev/pytest-env/pull/141) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#3512](https://github.com/tox-dev/tox/issues/3512#issuecomment-2877025736) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3526](https://github.com/tox-dev/tox/pull/3526#issuecomment-2877013010) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#479](https://github.com/tox-dev/pipdeptree/pull/479) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🚀 Published release [4.26.0](https://github.com/tox-dev/tox/releases/tag/4.26.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3391](https://github.com/tox-dev/tox/issues/3391) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
