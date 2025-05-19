@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#55](https://github.com/tox-dev/toml-fmt/pull/55) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🗣 Commented on [#61](https://github.com/tox-dev/pre-commit-uv/issues/61#issuecomment-2877298740) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 🎉 Merged PR [#3534](https://github.com/tox-dev/tox/pull/3534) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#1089](https://github.com/devpi/devpi/issues/1089#issuecomment-2877292486) in [devpi/devpi](https://github.com/devpi/devpi)
-5. 🗣 Commented on [#3512](https://github.com/tox-dev/tox/issues/3512#issuecomment-2877025736) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#51](https://github.com/tox-dev/toml-fmt/pull/51) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🎉 Merged PR [#153](https://github.com/gaborbernat/bump-deps-index/pull/153) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#151](https://github.com/gaborbernat/pypi-changes/pull/151) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. 🎉 Merged PR [#2888](https://github.com/pypa/virtualenv/pull/2888) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#55](https://github.com/tox-dev/toml-fmt/pull/55) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
