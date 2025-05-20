@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#480](https://github.com/tox-dev/pipdeptree/pull/480) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#58](https://github.com/tox-dev/toml-fmt/pull/58) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#3537](https://github.com/tox-dev/tox/issues/3537#issuecomment-2892280979) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3537](https://github.com/tox-dev/tox/issues/3537#issuecomment-2891919507) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3537](https://github.com/tox-dev/tox/issues/3537) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#2890](https://github.com/pypa/virtualenv/issues/2890) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2890](https://github.com/pypa/virtualenv/issues/2890#issuecomment-2893677931) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#480](https://github.com/tox-dev/pipdeptree/pull/480) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#58](https://github.com/tox-dev/toml-fmt/pull/58) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🗣 Commented on [#3537](https://github.com/tox-dev/tox/issues/3537#issuecomment-2892280979) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
