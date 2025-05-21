@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2890](https://github.com/pypa/virtualenv/issues/2890) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2890](https://github.com/pypa/virtualenv/issues/2890#issuecomment-2893677931) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#480](https://github.com/tox-dev/pipdeptree/pull/480) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🎉 Merged PR [#58](https://github.com/tox-dev/toml-fmt/pull/58) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🗣 Commented on [#3537](https://github.com/tox-dev/tox/issues/3537#issuecomment-2892280979) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#26167](https://github.com/containers/podman/issues/26167#issuecomment-2896073700) in [containers/podman](https://github.com/containers/podman)
+2. 🔒 Closed issue [#26167](https://github.com/containers/podman/issues/26167) in [containers/podman](https://github.com/containers/podman)
+3. ❗ Opened issue [#26167](https://github.com/containers/podman/issues/26167) in [containers/podman](https://github.com/containers/podman)
+4. 🔒 Closed issue [#2890](https://github.com/pypa/virtualenv/issues/2890) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2890](https://github.com/pypa/virtualenv/issues/2890#issuecomment-2893677931) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
