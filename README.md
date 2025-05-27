@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13633](https://github.com/astral-sh/uv/issues/13633#issuecomment-2906476165) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#26167](https://github.com/containers/podman/issues/26167#issuecomment-2896073700) in [containers/podman](https://github.com/containers/podman)
-3. 🔒 Closed issue [#26167](https://github.com/containers/podman/issues/26167) in [containers/podman](https://github.com/containers/podman)
-4. ❗ Opened issue [#26167](https://github.com/containers/podman/issues/26167) in [containers/podman](https://github.com/containers/podman)
-5. 🔒 Closed issue [#2890](https://github.com/pypa/virtualenv/issues/2890) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#896](https://github.com/pypa/build/pull/896) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#260](https://github.com/tox-dev/tox-ini-fmt/pull/260) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🎉 Merged PR [#194](https://github.com/tox-dev/pyproject-api/pull/194) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#231](https://github.com/tox-dev/sphinx-argparse-cli/pull/231) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#3538](https://github.com/tox-dev/tox/pull/3538) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
