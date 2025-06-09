@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#548](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/548) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❗ Opened issue [#484](https://github.com/tox-dev/pipdeptree/issues/484) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2955771674) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2955770213) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🗣 Commented on [#3526](https://github.com/tox-dev/tox/pull/3526#issuecomment-2937626555) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#10](https://github.com/tox-dev/xml-fmt/pull/10#issuecomment-2955858891) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+2. ❌ Closed PR [#10](https://github.com/tox-dev/xml-fmt/pull/10) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+3. 🎉 Merged PR [#14](https://github.com/tox-dev/xml-fmt/pull/14) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. 🎉 Merged PR [#15](https://github.com/tox-dev/xml-fmt/pull/15) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+5. 💪 Opened PR [#15](https://github.com/tox-dev/xml-fmt/pull/15) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
