@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2957122598) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🗣 Commented on [#10](https://github.com/tox-dev/xml-fmt/pull/10#issuecomment-2955858891) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-3. ❌ Closed PR [#10](https://github.com/tox-dev/xml-fmt/pull/10) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-4. 🎉 Merged PR [#14](https://github.com/tox-dev/xml-fmt/pull/14) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#15](https://github.com/tox-dev/xml-fmt/pull/15) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. ❗ Opened issue [#212](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/212) in [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)
+2. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2957122598) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#10](https://github.com/tox-dev/xml-fmt/pull/10#issuecomment-2955858891) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. ❌ Closed PR [#10](https://github.com/tox-dev/xml-fmt/pull/10) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+5. 🎉 Merged PR [#14](https://github.com/tox-dev/xml-fmt/pull/14) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
