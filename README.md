@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#212](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/212) in [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)
-2. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2957122598) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#10](https://github.com/tox-dev/xml-fmt/pull/10#issuecomment-2955858891) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-4. ❌ Closed PR [#10](https://github.com/tox-dev/xml-fmt/pull/10) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#14](https://github.com/tox-dev/xml-fmt/pull/14) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🎉 Merged PR [#485](https://github.com/tox-dev/pipdeptree/pull/485) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#65](https://github.com/tox-dev/pre-commit-uv/pull/65) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🎉 Merged PR [#195](https://github.com/tox-dev/pyproject-api/pull/195) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#232](https://github.com/tox-dev/sphinx-argparse-cli/pull/232) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#547](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/547) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
