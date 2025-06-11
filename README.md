@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2959812667) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2959764310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#212](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/212#issuecomment-2959319543) in [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)
-4. 🎉 Merged PR [#153](https://github.com/gaborbernat/pypi-changes/pull/153) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🎉 Merged PR [#143](https://github.com/pytest-dev/pytest-env/pull/143) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#3546](https://github.com/tox-dev/tox/pull/3546) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2959812667) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2959764310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🗣 Commented on [#212](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/212#issuecomment-2959319543) in [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)
+5. 🎉 Merged PR [#153](https://github.com/gaborbernat/pypi-changes/pull/153) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
