@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3546](https://github.com/tox-dev/tox/pull/3546) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2959812667) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#53](https://github.com/tox-dev/toml-fmt/issues/53#issuecomment-2959764310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#212](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/212#issuecomment-2959319543) in [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)
-5. 🎉 Merged PR [#153](https://github.com/gaborbernat/pypi-changes/pull/153) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+1. 🎉 Merged PR [#2415](https://github.com/koxudaxi/datamodel-code-generator/pull/2415) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🎉 Merged PR [#2417](https://github.com/koxudaxi/datamodel-code-generator/pull/2417) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🔒 Closed issue [#2395](https://github.com/koxudaxi/datamodel-code-generator/issues/2395) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🎉 Merged PR [#2418](https://github.com/koxudaxi/datamodel-code-generator/pull/2418) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🎉 Merged PR [#906](https://github.com/pypa/build/pull/906) in [pypa/build](https://github.com/pypa/build)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
