@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.26.1](https://github.com/tox-dev/tox-uv/releases/tag/1.26.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#217](https://github.com/tox-dev/tox-uv/pull/217) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#216](https://github.com/tox-dev/tox-uv/pull/216) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🗣 Commented on [#215](https://github.com/tox-dev/tox-uv/pull/215#issuecomment-2991763074) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🔒 Closed issue [#170](https://github.com/tox-dev/tox-uv/issues/170) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#50](https://github.com/tox-dev/PyVenvManage/pull/50#issuecomment-3001215688) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 🎉 Merged PR [#50](https://github.com/tox-dev/PyVenvManage/pull/50) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 🚀 Published release [1.26.1](https://github.com/tox-dev/tox-uv/releases/tag/1.26.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#217](https://github.com/tox-dev/tox-uv/pull/217) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#216](https://github.com/tox-dev/tox-uv/pull/216) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
