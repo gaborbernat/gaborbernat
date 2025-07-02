@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#53](https://github.com/tox-dev/PyVenvManage/issues/53#issuecomment-3024928539) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 🗣 Commented on [#53](https://github.com/tox-dev/PyVenvManage/issues/53#issuecomment-3024736911) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🗣 Commented on [#53](https://github.com/tox-dev/PyVenvManage/issues/53#issuecomment-3023846614) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#905](https://github.com/pypa/build/pull/905) in [pypa/build](https://github.com/pypa/build)
-5. 🎉 Merged PR [#59](https://github.com/tox-dev/toml-fmt/pull/59) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🗣 Commented on [#53](https://github.com/tox-dev/PyVenvManage/issues/53#issuecomment-3025220468) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 🗣 Commented on [#53](https://github.com/tox-dev/PyVenvManage/issues/53#issuecomment-3025220231) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 🔒 Closed issue [#53](https://github.com/tox-dev/PyVenvManage/issues/53) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. 🗣 Commented on [#3555](https://github.com/tox-dev/tox/issues/3555#issuecomment-3025213539) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3555](https://github.com/tox-dev/tox/issues/3555) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
