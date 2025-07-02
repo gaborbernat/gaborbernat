@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#905](https://github.com/pypa/build/pull/905) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#59](https://github.com/tox-dev/toml-fmt/pull/59) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#21](https://github.com/tox-dev/toml-fmt-common/pull/21) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
-4. 🎉 Merged PR [#3554](https://github.com/tox-dev/tox/pull/3554) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#144](https://github.com/pytest-dev/pytest-env/pull/144) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#53](https://github.com/tox-dev/PyVenvManage/issues/53#issuecomment-3023846614) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 🎉 Merged PR [#905](https://github.com/pypa/build/pull/905) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#59](https://github.com/tox-dev/toml-fmt/pull/59) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#21](https://github.com/tox-dev/toml-fmt-common/pull/21) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+5. 🎉 Merged PR [#3554](https://github.com/tox-dev/tox/pull/3554) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
