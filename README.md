@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#453](https://github.com/tox-dev/pipdeptree/issues/453) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#488](https://github.com/tox-dev/pipdeptree/pull/488) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#2430](https://github.com/koxudaxi/datamodel-code-generator/pull/2430) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🎉 Merged PR [#17](https://github.com/tox-dev/xml-fmt/pull/17) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#15](https://github.com/tox-dev/tox-toml-fmt/pull/15) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+1. 🔒 Closed issue [#3550](https://github.com/tox-dev/tox/issues/3550) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3556](https://github.com/tox-dev/tox/pull/3556) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#453](https://github.com/tox-dev/pipdeptree/issues/453) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#488](https://github.com/tox-dev/pipdeptree/pull/488) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#2430](https://github.com/koxudaxi/datamodel-code-generator/pull/2430) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
