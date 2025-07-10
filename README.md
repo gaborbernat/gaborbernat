@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3556](https://github.com/tox-dev/tox/pull/3556#issuecomment-3053445222) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3555](https://github.com/tox-dev/tox/issues/3555#issuecomment-3040443317) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2901](https://github.com/pypa/virtualenv/issues/2901#issuecomment-3032822587) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2900](https://github.com/pypa/virtualenv/pull/2900) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2899](https://github.com/pypa/virtualenv/issues/2899#issuecomment-3032546064) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2430](https://github.com/koxudaxi/datamodel-code-generator/pull/2430) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🎉 Merged PR [#17](https://github.com/tox-dev/xml-fmt/pull/17) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+3. 🎉 Merged PR [#15](https://github.com/tox-dev/tox-toml-fmt/pull/15) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+4. 🎉 Merged PR [#3558](https://github.com/tox-dev/tox/pull/3558) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#22](https://github.com/tox-dev/toml-fmt-common/pull/22) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
