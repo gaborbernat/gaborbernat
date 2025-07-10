@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2903](https://github.com/pypa/virtualenv/pull/2903) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#2904](https://github.com/pypa/virtualenv/pull/2904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#2903](https://github.com/pypa/virtualenv/pull/2903) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#233](https://github.com/tox-dev/sphinx-argparse-cli/pull/233) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 🎉 Merged PR [#154](https://github.com/gaborbernat/bump-deps-index/pull/154) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#3560](https://github.com/tox-dev/tox/pull/3560) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#2903](https://github.com/pypa/virtualenv/pull/2903) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#2904](https://github.com/pypa/virtualenv/pull/2904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2903](https://github.com/pypa/virtualenv/pull/2903) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#233](https://github.com/tox-dev/sphinx-argparse-cli/pull/233) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
