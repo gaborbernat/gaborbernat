@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2902](https://github.com/pypa/virtualenv/pull/2902#issuecomment-3066626434) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#359](https://github.com/tox-dev/platformdirs/pull/359) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 💪 Opened PR [#3560](https://github.com/tox-dev/tox/pull/3560) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❌ Closed PR [#2903](https://github.com/pypa/virtualenv/pull/2903) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2904](https://github.com/pypa/virtualenv/pull/2904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#2439](https://github.com/koxudaxi/datamodel-code-generator/pull/2439) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#2902](https://github.com/pypa/virtualenv/pull/2902#issuecomment-3066626434) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#359](https://github.com/tox-dev/platformdirs/pull/359) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 💪 Opened PR [#3560](https://github.com/tox-dev/tox/pull/3560) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❌ Closed PR [#2903](https://github.com/pypa/virtualenv/pull/2903) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
