@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2449](https://github.com/koxudaxi/datamodel-code-generator/pull/2449) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#2902](https://github.com/pypa/virtualenv/pull/2902#issuecomment-3092402904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-3089950552) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 💪 Opened PR [#14728](https://github.com/astral-sh/uv/pull/14728) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#13060](https://github.com/astral-sh/uv/issues/13060#issuecomment-3084855745) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. ❗ Opened issue [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
+2. 🎉 Merged PR [#2449](https://github.com/koxudaxi/datamodel-code-generator/pull/2449) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#2902](https://github.com/pypa/virtualenv/pull/2902#issuecomment-3092402904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-3089950552) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 💪 Opened PR [#14728](https://github.com/astral-sh/uv/pull/14728) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
