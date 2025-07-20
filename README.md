@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
-2. 🎉 Merged PR [#2449](https://github.com/koxudaxi/datamodel-code-generator/pull/2449) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#2902](https://github.com/pypa/virtualenv/pull/2902#issuecomment-3092402904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-3089950552) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 💪 Opened PR [#14728](https://github.com/astral-sh/uv/pull/14728) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🚀 Published release [4.28.0](https://github.com/tox-dev/tox/releases/tag/4.28.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#3468](https://github.com/tox-dev/tox/issues/3468) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3560](https://github.com/tox-dev/tox/pull/3560) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗ Opened issue [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
+5. 🎉 Merged PR [#2449](https://github.com/koxudaxi/datamodel-code-generator/pull/2449) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
