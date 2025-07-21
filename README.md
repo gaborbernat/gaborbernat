@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#382](https://github.com/astral-sh/python-build-standalone/issues/382#issuecomment-3094981128) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
-2. ❗ Opened issue [#707](https://github.com/astral-sh/python-build-standalone/issues/707) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
-3. 🎉 Merged PR [#3563](https://github.com/tox-dev/tox/pull/3563) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [4.28.0](https://github.com/tox-dev/tox/releases/tag/4.28.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3468](https://github.com/tox-dev/tox/issues/3468) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2904](https://github.com/pypa/virtualenv/pull/2904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#382](https://github.com/astral-sh/python-build-standalone/issues/382#issuecomment-3094981128) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
+3. ❗ Opened issue [#707](https://github.com/astral-sh/python-build-standalone/issues/707) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
+4. 🎉 Merged PR [#3563](https://github.com/tox-dev/tox/pull/3563) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [4.28.0](https://github.com/tox-dev/tox/releases/tag/4.28.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
