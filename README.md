@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2904](https://github.com/pypa/virtualenv/pull/2904) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#382](https://github.com/astral-sh/python-build-standalone/issues/382#issuecomment-3094981128) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
-3. ❗ Opened issue [#707](https://github.com/astral-sh/python-build-standalone/issues/707) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
-4. 🎉 Merged PR [#3563](https://github.com/tox-dev/tox/pull/3563) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.28.0](https://github.com/tox-dev/tox/releases/tag/4.28.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [20.32.0](https://github.com/pypa/get-virtualenv/releases/tag/20.32.0) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+2. 🚀 Published release [20.32.0](https://github.com/pypa/virtualenv/releases/tag/20.32.0) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2908](https://github.com/pypa/virtualenv/pull/2908) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#2908](https://github.com/pypa/virtualenv/pull/2908) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#2900](https://github.com/pypa/virtualenv/pull/2900) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
