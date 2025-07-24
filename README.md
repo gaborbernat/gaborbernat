@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#484](https://github.com/tox-dev/pipdeptree/issues/484) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#173](https://github.com/pytest-dev/pytest-print/pull/173) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🎉 Merged PR [#148](https://github.com/pytest-dev/pytest-env/pull/148) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🎉 Merged PR [#19](https://github.com/tox-dev/xml-fmt/pull/19) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#910](https://github.com/pypa/build/pull/910) in [pypa/build](https://github.com/pypa/build)
+1. ❗ Opened issue [#633](https://github.com/jawah/charset_normalizer/issues/633) in [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer)
+2. 🔒 Closed issue [#484](https://github.com/tox-dev/pipdeptree/issues/484) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#173](https://github.com/pytest-dev/pytest-print/pull/173) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🎉 Merged PR [#148](https://github.com/pytest-dev/pytest-env/pull/148) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#19](https://github.com/tox-dev/xml-fmt/pull/19) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
