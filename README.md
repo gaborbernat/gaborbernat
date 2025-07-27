@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2911](https://github.com/pypa/virtualenv/pull/2911) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [4.28.3](https://github.com/tox-dev/tox/releases/tag/4.28.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3565](https://github.com/tox-dev/tox/issues/3565) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3569](https://github.com/tox-dev/tox/pull/3569) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3565](https://github.com/tox-dev/tox/issues/3565#issuecomment-3120667411) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#2844](https://github.com/tox-dev/tox/issues/2844#issuecomment-3123677577) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2911](https://github.com/pypa/virtualenv/pull/2911) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [4.28.3](https://github.com/tox-dev/tox/releases/tag/4.28.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#3565](https://github.com/tox-dev/tox/issues/3565) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#3569](https://github.com/tox-dev/tox/pull/3569) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
