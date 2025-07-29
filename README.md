@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#301](https://github.com/tox-dev/pyproject-fmt/issues/301#issuecomment-3128156627) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#301](https://github.com/tox-dev/pyproject-fmt/issues/301) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 💪 Opened PR [#157](https://github.com/gaborbernat/bump-deps-index/pull/157) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 🗣 Commented on [#2844](https://github.com/tox-dev/tox/issues/2844#issuecomment-3123677577) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2911](https://github.com/pypa/virtualenv/pull/2911) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#10074](https://github.com/astral-sh/uv/issues/10074#issuecomment-3128225815) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#301](https://github.com/tox-dev/pyproject-fmt/issues/301#issuecomment-3128156627) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🔒 Closed issue [#301](https://github.com/tox-dev/pyproject-fmt/issues/301) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 💪 Opened PR [#157](https://github.com/gaborbernat/bump-deps-index/pull/157) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🗣 Commented on [#2844](https://github.com/tox-dev/tox/issues/2844#issuecomment-3123677577) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
