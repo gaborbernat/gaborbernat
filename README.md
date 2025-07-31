@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.8.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.8.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🎉 Merged PR [#162](https://github.com/gaborbernat/bump-deps-index/pull/162) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#161](https://github.com/gaborbernat/bump-deps-index/pull/161) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 💪 Opened PR [#162](https://github.com/gaborbernat/bump-deps-index/pull/162) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 💪 Opened PR [#161](https://github.com/gaborbernat/bump-deps-index/pull/161) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🔒 Closed issue [#2668](https://github.com/pypa/virtualenv/issues/2668) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🚀 Published release [1.8.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.8.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#162](https://github.com/gaborbernat/bump-deps-index/pull/162) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🎉 Merged PR [#161](https://github.com/gaborbernat/bump-deps-index/pull/161) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 💪 Opened PR [#162](https://github.com/gaborbernat/bump-deps-index/pull/162) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
