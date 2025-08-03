@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2441](https://github.com/koxudaxi/datamodel-code-generator/issues/2441) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#2442](https://github.com/koxudaxi/datamodel-code-generator/pull/2442) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. ❌ Closed PR [#2453](https://github.com/koxudaxi/datamodel-code-generator/pull/2453) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#2927](https://github.com/pypa/virtualenv/issues/2927#issuecomment-3146898953) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Closed issue [#2462](https://github.com/koxudaxi/datamodel-code-generator/issues/2462) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🔒 Closed issue [#425](https://github.com/pypa/virtualenv/issues/425) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#93](https://github.com/pypa/virtualenv/issues/93) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2928](https://github.com/pypa/virtualenv/pull/2928) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔒 Closed issue [#2441](https://github.com/koxudaxi/datamodel-code-generator/issues/2441) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🎉 Merged PR [#2442](https://github.com/koxudaxi/datamodel-code-generator/pull/2442) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
