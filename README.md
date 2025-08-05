@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#159](https://github.com/gaborbernat/pypi-changes/pull/159) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-2. 🎉 Merged PR [#164](https://github.com/gaborbernat/bump-deps-index/pull/164) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🗣 Commented on [#2469](https://github.com/koxudaxi/datamodel-code-generator/pull/2469#issuecomment-3151868913) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🎉 Merged PR [#21](https://github.com/tox-dev/xml-fmt/pull/21) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#3573](https://github.com/tox-dev/tox/pull/3573) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#2937](https://github.com/pypa/virtualenv/pull/2937) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#2933](https://github.com/pypa/virtualenv/issues/2933) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2938](https://github.com/pypa/virtualenv/pull/2938) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#159](https://github.com/gaborbernat/pypi-changes/pull/159) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🎉 Merged PR [#164](https://github.com/gaborbernat/bump-deps-index/pull/164) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
