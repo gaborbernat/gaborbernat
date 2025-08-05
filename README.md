@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#183](https://github.com/tox-dev/devpi-process/pull/183) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-2. 🎉 Merged PR [#427](https://github.com/tox-dev/filelock/pull/427) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#495](https://github.com/tox-dev/pipdeptree/pull/495) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🎉 Merged PR [#363](https://github.com/tox-dev/platformdirs/pull/363) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🎉 Merged PR [#72](https://github.com/tox-dev/pre-commit-uv/pull/72) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#21](https://github.com/tox-dev/xml-fmt/pull/21) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+2. 🎉 Merged PR [#3573](https://github.com/tox-dev/tox/pull/3573) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#26](https://github.com/tox-dev/toml-fmt-common/pull/26) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+4. 🎉 Merged PR [#183](https://github.com/tox-dev/devpi-process/pull/183) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#427](https://github.com/tox-dev/filelock/pull/427) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
