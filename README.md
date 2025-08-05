@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2931](https://github.com/pypa/virtualenv/issues/2931#issuecomment-3151329793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🔒 Closed issue [#2931](https://github.com/pypa/virtualenv/issues/2931) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2933](https://github.com/pypa/virtualenv/issues/2933#issuecomment-3151328258) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#2935](https://github.com/pypa/virtualenv/issues/2935#issuecomment-3151326907) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2935](https://github.com/pypa/virtualenv/issues/2935#issuecomment-3151255377) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#2829](https://github.com/pypa/virtualenv/issues/2829#issuecomment-3151531782) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#2829](https://github.com/pypa/virtualenv/issues/2829) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2931](https://github.com/pypa/virtualenv/issues/2931#issuecomment-3151329793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔒 Closed issue [#2931](https://github.com/pypa/virtualenv/issues/2931) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2933](https://github.com/pypa/virtualenv/issues/2933#issuecomment-3151328258) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
