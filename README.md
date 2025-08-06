@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#102](https://github.com/ofek/hatch-vcs/issues/102#issuecomment-3157621118) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-2. 🗣 Commented on [#102](https://github.com/ofek/hatch-vcs/issues/102#issuecomment-3157552360) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-3. 🗣 Commented on [#102](https://github.com/ofek/hatch-vcs/issues/102#issuecomment-3157522679) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-4. ❗ Opened issue [#102](https://github.com/ofek/hatch-vcs/issues/102) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-5. 🎉 Merged PR [#22](https://github.com/tox-dev/xml-fmt/pull/22) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🎉 Merged PR [#176](https://github.com/pytest-dev/pytest-print/pull/176) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#184](https://github.com/tox-dev/devpi-process/pull/184) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. 🎉 Merged PR [#428](https://github.com/tox-dev/filelock/pull/428) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#496](https://github.com/tox-dev/pipdeptree/pull/496) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🎉 Merged PR [#364](https://github.com/tox-dev/platformdirs/pull/364) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
