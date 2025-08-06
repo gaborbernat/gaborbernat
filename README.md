@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/gaborbernat/cv/pull/5) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-2. 🎉 Merged PR [#160](https://github.com/gaborbernat/pypi-changes/pull/160) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-3. 🎉 Merged PR [#202](https://github.com/tox-dev/pyproject-api/pull/202) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#195](https://github.com/tox-dev/tox-gh/pull/195) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🔒 Closed issue [#2471](https://github.com/koxudaxi/datamodel-code-generator/issues/2471) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❗ Opened issue [#102](https://github.com/ofek/hatch-vcs/issues/102) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+2. 🎉 Merged PR [#22](https://github.com/tox-dev/xml-fmt/pull/22) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+3. 🎉 Merged PR [#5](https://github.com/gaborbernat/cv/pull/5) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+4. 🎉 Merged PR [#160](https://github.com/gaborbernat/pypi-changes/pull/160) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🎉 Merged PR [#202](https://github.com/tox-dev/pyproject-api/pull/202) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
