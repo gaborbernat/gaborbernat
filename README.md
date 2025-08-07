@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#925](https://github.com/pypa/build/pull/925) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#27](https://github.com/tox-dev/toml-fmt-common/pull/27) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
-3. 🎉 Merged PR [#176](https://github.com/pytest-dev/pytest-print/pull/176) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🎉 Merged PR [#184](https://github.com/tox-dev/devpi-process/pull/184) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#428](https://github.com/tox-dev/filelock/pull/428) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#13147](https://github.com/pypa/pip/issues/13147#issuecomment-3160714371) in [pypa/pip](https://github.com/pypa/pip)
+2. 🎉 Merged PR [#925](https://github.com/pypa/build/pull/925) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#27](https://github.com/tox-dev/toml-fmt-common/pull/27) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+4. 🎉 Merged PR [#176](https://github.com/pytest-dev/pytest-print/pull/176) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#184](https://github.com/tox-dev/devpi-process/pull/184) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
