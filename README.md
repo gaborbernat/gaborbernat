@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603#issuecomment-3160992381) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
-2. 🎉 Merged PR [#73](https://github.com/tox-dev/pre-commit-uv/pull/73) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-3. 🗣 Commented on [#13147](https://github.com/pypa/pip/issues/13147#issuecomment-3160714371) in [pypa/pip](https://github.com/pypa/pip)
-4. 🎉 Merged PR [#925](https://github.com/pypa/build/pull/925) in [pypa/build](https://github.com/pypa/build)
-5. 🎉 Merged PR [#27](https://github.com/tox-dev/toml-fmt-common/pull/27) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
+1. 🎉 Merged PR [#27](https://github.com/gaborbernat/bernat-tech/pull/27) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 🎉 Merged PR [#271](https://github.com/tox-dev/tox-ini-fmt/pull/271) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🗣 Commented on [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603#issuecomment-3160992381) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
+4. 🎉 Merged PR [#73](https://github.com/tox-dev/pre-commit-uv/pull/73) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🗣 Commented on [#13147](https://github.com/pypa/pip/issues/13147#issuecomment-3160714371) in [pypa/pip](https://github.com/pypa/pip)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
