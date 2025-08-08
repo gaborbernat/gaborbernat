@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#151](https://github.com/pytest-dev/pytest-env/pull/151) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#27](https://github.com/gaborbernat/bernat-tech/pull/27) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-3. 🎉 Merged PR [#271](https://github.com/tox-dev/tox-ini-fmt/pull/271) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🗣 Commented on [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603#issuecomment-3160992381) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
-5. 🎉 Merged PR [#73](https://github.com/tox-dev/pre-commit-uv/pull/73) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#2946](https://github.com/pypa/virtualenv/pull/2946) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#151](https://github.com/pytest-dev/pytest-env/pull/151) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🎉 Merged PR [#27](https://github.com/gaborbernat/bernat-tech/pull/27) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+4. 🎉 Merged PR [#271](https://github.com/tox-dev/tox-ini-fmt/pull/271) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🗣 Commented on [#603](https://github.com/koxudaxi/ruff-pycharm-plugin/issues/603#issuecomment-3160992381) in [koxudaxi/ruff-pycharm-plugin](https://github.com/koxudaxi/ruff-pycharm-plugin)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
