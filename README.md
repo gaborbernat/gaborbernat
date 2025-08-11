@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3393](https://github.com/tox-dev/tox/issues/3393#issuecomment-3168347121) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3393](https://github.com/tox-dev/tox/issues/3393#issuecomment-3168169786) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#2946](https://github.com/pypa/virtualenv/pull/2946) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#151](https://github.com/pytest-dev/pytest-env/pull/151) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🎉 Merged PR [#27](https://github.com/gaborbernat/bernat-tech/pull/27) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+1. 🗣 Commented on [#3580](https://github.com/tox-dev/tox/issues/3580#issuecomment-3175011567) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#3580](https://github.com/tox-dev/tox/issues/3580) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#2932](https://github.com/pypa/virtualenv/issues/2932) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#2934](https://github.com/pypa/virtualenv/pull/2934) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2934](https://github.com/pypa/virtualenv/pull/2934#issuecomment-3174987973) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
