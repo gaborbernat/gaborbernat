@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2482](https://github.com/koxudaxi/datamodel-code-generator/pull/2482) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#305](https://github.com/tox-dev/pyproject-fmt/pull/305) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#20](https://github.com/tox-dev/tox-toml-fmt/pull/20) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-4. 🎉 Merged PR [#178](https://github.com/pytest-dev/pytest-print/pull/178) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#25](https://github.com/tox-dev/xml-fmt/pull/25) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🎉 Merged PR [#2961](https://github.com/pypa/virtualenv/pull/2961) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#928](https://github.com/pypa/build/pull/928) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#237](https://github.com/tox-dev/tox-uv/pull/237) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#2482](https://github.com/koxudaxi/datamodel-code-generator/pull/2482) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🎉 Merged PR [#305](https://github.com/tox-dev/pyproject-fmt/pull/305) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
