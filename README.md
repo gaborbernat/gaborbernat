@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3584](https://github.com/tox-dev/tox/pull/3584#issuecomment-3207409111) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#2959](https://github.com/pypa/virtualenv/issues/2959#issuecomment-3207403818) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ❗ Opened issue [#18](https://github.com/hukkin/mdformat-toc/issues/18) in [hukkin/mdformat-toc](https://github.com/hukkin/mdformat-toc)
-4. 🎉 Merged PR [#2961](https://github.com/pypa/virtualenv/pull/2961) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#928](https://github.com/pypa/build/pull/928) in [pypa/build](https://github.com/pypa/build)
+1. 🔒 Closed issue [#2959](https://github.com/pypa/virtualenv/issues/2959) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#3589](https://github.com/tox-dev/tox/pull/3589) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3584](https://github.com/tox-dev/tox/pull/3584#issuecomment-3207409111) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#2959](https://github.com/pypa/virtualenv/issues/2959#issuecomment-3207403818) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❗ Opened issue [#18](https://github.com/hukkin/mdformat-toc/issues/18) in [hukkin/mdformat-toc](https://github.com/hukkin/mdformat-toc)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
