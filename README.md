@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#18](https://github.com/hukkin/mdformat-toc/issues/18) in [hukkin/mdformat-toc](https://github.com/hukkin/mdformat-toc)
-2. 🎉 Merged PR [#2961](https://github.com/pypa/virtualenv/pull/2961) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#928](https://github.com/pypa/build/pull/928) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#237](https://github.com/tox-dev/tox-uv/pull/237) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🎉 Merged PR [#2482](https://github.com/koxudaxi/datamodel-code-generator/pull/2482) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#3584](https://github.com/tox-dev/tox/pull/3584#issuecomment-3207409111) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#2959](https://github.com/pypa/virtualenv/issues/2959#issuecomment-3207403818) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❗ Opened issue [#18](https://github.com/hukkin/mdformat-toc/issues/18) in [hukkin/mdformat-toc](https://github.com/hukkin/mdformat-toc)
+4. 🎉 Merged PR [#2961](https://github.com/pypa/virtualenv/pull/2961) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#928](https://github.com/pypa/build/pull/928) in [pypa/build](https://github.com/pypa/build)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
