@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/tox-dev/action-pre-commit-uv/issues/5#issuecomment-3224446757) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. 🔒 Closed issue [#402](https://github.com/tox-dev/filelock/issues/402) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#438](https://github.com/tox-dev/filelock/pull/438) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#2475](https://github.com/koxudaxi/datamodel-code-generator/pull/2475) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#78](https://github.com/tox-dev/pre-commit-uv/issues/78#issuecomment-3221698247) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#47](https://github.com/conda-forge/platformdirs-feedstock/pull/47) in [conda-forge/platformdirs-feedstock](https://github.com/conda-forge/platformdirs-feedstock)
+2. 🗣 Commented on [#5](https://github.com/tox-dev/action-pre-commit-uv/issues/5#issuecomment-3224446757) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. 🔒 Closed issue [#402](https://github.com/tox-dev/filelock/issues/402) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#438](https://github.com/tox-dev/filelock/pull/438) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#2475](https://github.com/koxudaxi/datamodel-code-generator/pull/2475) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
