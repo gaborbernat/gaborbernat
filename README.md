@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3587](https://github.com/tox-dev/tox/pull/3587) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#560](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/560) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#13](https://github.com/tox-dev/action-pre-commit-uv/pull/13#issuecomment-3220979526) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. 🗣 Commented on [#13](https://github.com/tox-dev/action-pre-commit-uv/pull/13#issuecomment-3220918032) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-5. 🚀 Published release [1.0.3](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/1.0.3) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🎉 Merged PR [#164](https://github.com/gaborbernat/pypi-changes/pull/164) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#501](https://github.com/tox-dev/pipdeptree/pull/501) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#372](https://github.com/tox-dev/platformdirs/pull/372) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🎉 Merged PR [#77](https://github.com/tox-dev/pre-commit-uv/pull/77) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🎉 Merged PR [#206](https://github.com/tox-dev/pyproject-api/pull/206) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
