@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.0.3](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/1.0.3) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. 🎉 Merged PR [#8](https://github.com/tox-dev/action-pre-commit-uv/pull/8) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-3. 🗣 Commented on [#9](https://github.com/tox-dev/action-pre-commit-uv/pull/9#issuecomment-3220871583) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. ❌ Closed PR [#9](https://github.com/tox-dev/action-pre-commit-uv/pull/9) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-5. ❌ Closed PR [#10](https://github.com/tox-dev/action-pre-commit-uv/pull/10) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🗣 Commented on [#13](https://github.com/tox-dev/action-pre-commit-uv/pull/13#issuecomment-3220918032) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+2. 🚀 Published release [1.0.3](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/1.0.3) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. 🎉 Merged PR [#8](https://github.com/tox-dev/action-pre-commit-uv/pull/8) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+4. 🗣 Commented on [#9](https://github.com/tox-dev/action-pre-commit-uv/pull/9#issuecomment-3220871583) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+5. ❌ Closed PR [#9](https://github.com/tox-dev/action-pre-commit-uv/pull/9) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
