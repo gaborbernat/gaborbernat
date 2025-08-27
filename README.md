@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#373](https://github.com/tox-dev/platformdirs/pull/373#issuecomment-3226259149) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. ❌ Closed PR [#373](https://github.com/tox-dev/platformdirs/pull/373) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3226256509) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🗣 Commented on [#373](https://github.com/tox-dev/platformdirs/pull/373#issuecomment-3226246787) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🗣 Commented on [#5](https://github.com/tox-dev/action-pre-commit-uv/issues/5#issuecomment-3225769768) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3226273152) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🗣 Commented on [#373](https://github.com/tox-dev/platformdirs/pull/373#issuecomment-3226259149) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. ❌ Closed PR [#373](https://github.com/tox-dev/platformdirs/pull/373) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3226256509) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🗣 Commented on [#373](https://github.com/tox-dev/platformdirs/pull/373#issuecomment-3226246787) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
