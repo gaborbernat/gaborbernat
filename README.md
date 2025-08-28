@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3228361667) in [pola-rs/polars](https://github.com/pola-rs/polars)
-2. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3228301554) in [pola-rs/polars](https://github.com/pola-rs/polars)
-3. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3226446449) in [pola-rs/polars](https://github.com/pola-rs/polars)
-4. ❗ Opened issue [#24217](https://github.com/pola-rs/polars/issues/24217) in [pola-rs/polars](https://github.com/pola-rs/polars)
-5. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3226273152) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3228519609) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🚀 Published release [4.1.5](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.5) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🔒 Closed issue [#78](https://github.com/tox-dev/pre-commit-uv/issues/78) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 🎉 Merged PR [#79](https://github.com/tox-dev/pre-commit-uv/pull/79) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3228361667) in [pola-rs/polars](https://github.com/pola-rs/polars)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
