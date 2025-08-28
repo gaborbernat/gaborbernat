@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3228301554) in [pola-rs/polars](https://github.com/pola-rs/polars)
-2. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3226446449) in [pola-rs/polars](https://github.com/pola-rs/polars)
-3. ❗ Opened issue [#24217](https://github.com/pola-rs/polars/issues/24217) in [pola-rs/polars](https://github.com/pola-rs/polars)
-4. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3226273152) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🗣 Commented on [#373](https://github.com/tox-dev/platformdirs/pull/373#issuecomment-3226259149) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3228361667) in [pola-rs/polars](https://github.com/pola-rs/polars)
+2. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3228301554) in [pola-rs/polars](https://github.com/pola-rs/polars)
+3. 🗣 Commented on [#24217](https://github.com/pola-rs/polars/issues/24217#issuecomment-3226446449) in [pola-rs/polars](https://github.com/pola-rs/polars)
+4. ❗ Opened issue [#24217](https://github.com/pola-rs/polars/issues/24217) in [pola-rs/polars](https://github.com/pola-rs/polars)
+5. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3226273152) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
