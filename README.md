@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3228577527) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3228519609) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🚀 Published release [4.1.5](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.5) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🔒 Closed issue [#78](https://github.com/tox-dev/pre-commit-uv/issues/78) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 🎉 Merged PR [#79](https://github.com/tox-dev/pre-commit-uv/pull/79) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🗣 Commented on [#3591](https://github.com/tox-dev/tox/pull/3591#issuecomment-3238446347) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [4.29.0](https://github.com/tox-dev/tox/releases/tag/4.29.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3228577527) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🗣 Commented on [#347](https://github.com/tox-dev/platformdirs/issues/347#issuecomment-3228519609) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🚀 Published release [4.1.5](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.1.5) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
