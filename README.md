@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.30.1](https://github.com/tox-dev/tox/releases/tag/4.30.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🚀 Published release [4.30.0](https://github.com/tox-dev/tox/releases/tag/4.30.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3512](https://github.com/tox-dev/tox/issues/3512) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3530](https://github.com/tox-dev/tox/pull/3530) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#375](https://github.com/tox-dev/platformdirs/pull/375#issuecomment-3246913615) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🗣 Commented on [#2](https://github.com/holy-two/mdformat-recover-urls/pull/2#issuecomment-3249750238) in [holy-two/mdformat-recover-urls](https://github.com/holy-two/mdformat-recover-urls)
+2. 🚀 Published release [4.30.1](https://github.com/tox-dev/tox/releases/tag/4.30.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🚀 Published release [4.30.0](https://github.com/tox-dev/tox/releases/tag/4.30.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#3512](https://github.com/tox-dev/tox/issues/3512) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#3530](https://github.com/tox-dev/tox/pull/3530) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
