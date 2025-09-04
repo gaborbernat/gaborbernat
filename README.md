@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3600](https://github.com/tox-dev/tox/issues/3600) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3601](https://github.com/tox-dev/tox/pull/3601) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#29](https://github.com/tox-dev/toml-fmt-common/pull/29) in [tox-dev/toml-fmt-common](https://github.com/tox-dev/toml-fmt-common)
-4. 🎉 Merged PR [#933](https://github.com/pypa/build/pull/933) in [pypa/build](https://github.com/pypa/build)
-5. 🎉 Merged PR [#189](https://github.com/tox-dev/devpi-process/pull/189) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#3604](https://github.com/tox-dev/tox/pull/3604) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#2495](https://github.com/koxudaxi/datamodel-code-generator/pull/2495) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🎉 Merged PR [#565](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/565) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#2964](https://github.com/pypa/virtualenv/pull/2964) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#441](https://github.com/tox-dev/filelock/pull/441) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
