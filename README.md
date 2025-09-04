@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3586](https://github.com/tox-dev/tox/issues/3586#issuecomment-3250037828) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3586](https://github.com/tox-dev/tox/issues/3586) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#2](https://github.com/holy-two/mdformat-recover-urls/pull/2#issuecomment-3249750238) in [holy-two/mdformat-recover-urls](https://github.com/holy-two/mdformat-recover-urls)
-4. 🚀 Published release [4.30.1](https://github.com/tox-dev/tox/releases/tag/4.30.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.30.0](https://github.com/tox-dev/tox/releases/tag/4.30.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#933](https://github.com/pypa/build/pull/933) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#189](https://github.com/tox-dev/devpi-process/pull/189) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. 🎉 Merged PR [#166](https://github.com/gaborbernat/pypi-changes/pull/166) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. 🎉 Merged PR [#242](https://github.com/tox-dev/tox-uv/pull/242) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#3603](https://github.com/tox-dev/tox/pull/3603) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
