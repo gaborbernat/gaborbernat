@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#243](https://github.com/tox-dev/tox-uv/issues/243#issuecomment-3254632203) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🚀 Published release [4.30.2](https://github.com/tox-dev/tox/releases/tag/4.30.2) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#82](https://github.com/tox-dev/pre-commit-uv/pull/82) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. 🎉 Merged PR [#3604](https://github.com/tox-dev/tox/pull/3604) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2495](https://github.com/koxudaxi/datamodel-code-generator/pull/2495) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🎉 Merged PR [#277](https://github.com/tox-dev/tox-ini-fmt/pull/277) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 🗣 Commented on [#243](https://github.com/tox-dev/tox-uv/issues/243#issuecomment-3254632203) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🚀 Published release [4.30.2](https://github.com/tox-dev/tox/releases/tag/4.30.2) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#82](https://github.com/tox-dev/pre-commit-uv/pull/82) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🎉 Merged PR [#3604](https://github.com/tox-dev/tox/pull/3604) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
