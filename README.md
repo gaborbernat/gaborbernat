@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#156](https://github.com/pytest-dev/pytest-env/pull/156) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#244](https://github.com/tox-dev/sphinx-argparse-cli/pull/244) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. 🎉 Merged PR [#277](https://github.com/tox-dev/tox-ini-fmt/pull/277) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🗣 Commented on [#243](https://github.com/tox-dev/tox-uv/issues/243#issuecomment-3254632203) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🚀 Published release [4.30.2](https://github.com/tox-dev/tox/releases/tag/4.30.2) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#380](https://github.com/tox-dev/platformdirs/pull/380#issuecomment-3264446750) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🗣 Commented on [#1197](https://github.com/ovity/octotree/issues/1197#issuecomment-3264441001) in [ovity/octotree](https://github.com/ovity/octotree)
+3. 🎉 Merged PR [#156](https://github.com/pytest-dev/pytest-env/pull/156) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🎉 Merged PR [#244](https://github.com/tox-dev/sphinx-argparse-cli/pull/244) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#277](https://github.com/tox-dev/tox-ini-fmt/pull/277) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
