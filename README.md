@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#566](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/566) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#190](https://github.com/tox-dev/devpi-process/pull/190) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-3. 🎉 Merged PR [#442](https://github.com/tox-dev/filelock/pull/442) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#504](https://github.com/tox-dev/pipdeptree/pull/504) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#167](https://github.com/gaborbernat/pypi-changes/pull/167) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+1. 🗣 Commented on [#1668](https://github.com/pypa/pipx/issues/1668#issuecomment-3285544652) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#566](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/566) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#190](https://github.com/tox-dev/devpi-process/pull/190) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🎉 Merged PR [#442](https://github.com/tox-dev/filelock/pull/442) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#504](https://github.com/tox-dev/pipdeptree/pull/504) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
