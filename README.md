@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#296](https://github.com/tox-dev/pyproject-fmt/issues/296#issuecomment-3292479625) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🔒 Closed issue [#2966](https://github.com/pypa/virtualenv/issues/2966) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#382](https://github.com/tox-dev/platformdirs/pull/382) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🗣 Commented on [#8](https://github.com/pytest-dev/pytest-print/issues/8#issuecomment-3285667580) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🗣 Commented on [#1668](https://github.com/pypa/pipx/issues/1668#issuecomment-3285544652) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#168](https://github.com/gaborbernat/pypi-changes/pull/168) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#191](https://github.com/tox-dev/devpi-process/pull/191) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+3. 🎉 Merged PR [#443](https://github.com/tox-dev/filelock/pull/443) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#383](https://github.com/tox-dev/platformdirs/pull/383) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#84](https://github.com/tox-dev/pre-commit-uv/pull/84) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
