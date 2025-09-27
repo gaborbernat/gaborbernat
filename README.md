@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3614](https://github.com/tox-dev/tox/issues/3614#issuecomment-3339728089) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#1197](https://github.com/ovity/octotree/issues/1197#issuecomment-3339693315) in [ovity/octotree](https://github.com/ovity/octotree)
-3. 🎉 Merged PR [#3608](https://github.com/tox-dev/tox/pull/3608) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#506](https://github.com/tox-dev/pipdeptree/pull/506) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🔒 Closed issue [#3611](https://github.com/tox-dev/tox/issues/3611) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3571](https://github.com/tox-dev/tox/issues/3571#issuecomment-3339932952) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1197](https://github.com/ovity/octotree/issues/1197#issuecomment-3339864990) in [ovity/octotree](https://github.com/ovity/octotree)
+3. 🗣 Commented on [#3614](https://github.com/tox-dev/tox/issues/3614#issuecomment-3339728089) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#1197](https://github.com/ovity/octotree/issues/1197#issuecomment-3339693315) in [ovity/octotree](https://github.com/ovity/octotree)
+5. 🎉 Merged PR [#3608](https://github.com/tox-dev/tox/pull/3608) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
