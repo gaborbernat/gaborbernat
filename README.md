@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#53](https://github.com/tox-dev/toml-fmt/issues/53) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🗣 Commented on [#60](https://github.com/tox-dev/toml-fmt/pull/60#issuecomment-3352439681) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#63](https://github.com/tox-dev/toml-fmt/pull/63) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#76](https://github.com/tox-dev/toml-fmt/pull/76) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🎉 Merged PR [#78](https://github.com/tox-dev/toml-fmt/pull/78) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#84](https://github.com/tox-dev/toml-fmt/pull/84) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🔒 Closed issue [#53](https://github.com/tox-dev/toml-fmt/issues/53) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#60](https://github.com/tox-dev/toml-fmt/pull/60#issuecomment-3352439681) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#63](https://github.com/tox-dev/toml-fmt/pull/63) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#76](https://github.com/tox-dev/toml-fmt/pull/76) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
