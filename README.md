@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2506](https://github.com/koxudaxi/datamodel-code-generator/pull/2506) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. ❌ Closed PR [#82](https://github.com/tox-dev/toml-fmt/pull/82) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ❗ Opened issue [#375](https://github.com/PyO3/maturin-action/issues/375) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
-4. 💪 Opened PR [#84](https://github.com/tox-dev/toml-fmt/pull/84) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#53](https://github.com/tox-dev/toml-fmt/issues/53) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🗣 Commented on [#375](https://github.com/PyO3/maturin-action/issues/375#issuecomment-3356656740) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+2. ❌ Closed PR [#85](https://github.com/tox-dev/toml-fmt/pull/85) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#2506](https://github.com/koxudaxi/datamodel-code-generator/pull/2506) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. ❌ Closed PR [#82](https://github.com/tox-dev/toml-fmt/pull/82) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ❗ Opened issue [#375](https://github.com/PyO3/maturin-action/issues/375) in [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
