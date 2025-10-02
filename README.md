@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3584](https://github.com/tox-dev/tox/pull/3584#issuecomment-3362053995) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#3584](https://github.com/tox-dev/tox/pull/3584) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❗ Opened issue [#4866](https://github.com/oracle/opengrok/issues/4866) in [oracle/opengrok](https://github.com/oracle/opengrok)
-4. 🗣 Commented on [#4740](https://github.com/oracle/opengrok/issues/4740#issuecomment-3361195349) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 🎉 Merged PR [#86](https://github.com/tox-dev/toml-fmt/pull/86) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [4.30.3](https://github.com/tox-dev/tox/releases/tag/4.30.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3615](https://github.com/tox-dev/tox/pull/3615) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3584](https://github.com/tox-dev/tox/pull/3584#issuecomment-3362053995) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#3584](https://github.com/tox-dev/tox/pull/3584) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❗ Opened issue [#4866](https://github.com/oracle/opengrok/issues/4866) in [oracle/opengrok](https://github.com/oracle/opengrok)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
