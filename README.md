@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2509](https://github.com/koxudaxi/datamodel-code-generator/pull/2509) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🎉 Merged PR [#567](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/567) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#2968](https://github.com/pypa/virtualenv/pull/2968#issuecomment-3372041247) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ❌ Closed PR [#2968](https://github.com/pypa/virtualenv/pull/2968) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Closed issue [#16](https://github.com/MobileDynasty/pytest-env/issues/16) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
+1. 🎉 Merged PR [#161](https://github.com/pytest-dev/pytest-env/pull/161) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🎉 Merged PR [#2509](https://github.com/koxudaxi/datamodel-code-generator/pull/2509) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🎉 Merged PR [#567](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/567) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🗣 Commented on [#2968](https://github.com/pypa/virtualenv/pull/2968#issuecomment-3372041247) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❌ Closed PR [#2968](https://github.com/pypa/virtualenv/pull/2968) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
