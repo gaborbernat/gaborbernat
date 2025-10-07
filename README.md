@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2968](https://github.com/pypa/virtualenv/pull/2968#issuecomment-3372041247) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❌ Closed PR [#2968](https://github.com/pypa/virtualenv/pull/2968) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#16](https://github.com/MobileDynasty/pytest-env/issues/16) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
-4. 🗣 Commented on [#16](https://github.com/MobileDynasty/pytest-env/issues/16#issuecomment-3371966765) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
-5. 🔒 Closed issue [#386](https://github.com/tox-dev/platformdirs/issues/386) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#567](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/567) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#2968](https://github.com/pypa/virtualenv/pull/2968#issuecomment-3372041247) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#2968](https://github.com/pypa/virtualenv/pull/2968) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔒 Closed issue [#16](https://github.com/MobileDynasty/pytest-env/issues/16) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
+5. 🗣 Commented on [#16](https://github.com/MobileDynasty/pytest-env/issues/16#issuecomment-3371966765) in [MobileDynasty/pytest-env](https://github.com/MobileDynasty/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
