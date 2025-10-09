@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [3.4.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.4.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#569](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/569) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#2972](https://github.com/pypa/virtualenv/issues/2972#issuecomment-3383561923) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#162](https://github.com/pytest-dev/pytest-env/pull/162) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🗣 Commented on [#90](https://github.com/tox-dev/toml-fmt/issues/90#issuecomment-3377252241) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🗣 Commented on [#2972](https://github.com/pypa/virtualenv/issues/2972#issuecomment-3383725847) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#2972](https://github.com/pypa/virtualenv/issues/2972#issuecomment-3383723426) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#2972](https://github.com/pypa/virtualenv/issues/2972#issuecomment-3383716989) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#2972](https://github.com/pypa/virtualenv/issues/2972#issuecomment-3383715438) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#2973](https://github.com/pypa/virtualenv/issues/2973#issuecomment-3383710701) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
