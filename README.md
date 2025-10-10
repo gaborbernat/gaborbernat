@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#175](https://github.com/tox-dev/tox-gh/issues/175) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. 🔒 Closed issue [#187](https://github.com/tox-dev/tox-uv/issues/187) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#241](https://github.com/tox-dev/tox-uv/pull/241) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#255](https://github.com/tox-dev/tox-uv/pull/255) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#255](https://github.com/tox-dev/tox-uv/pull/255) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#284](https://github.com/tox-dev/tox-ini-fmt/pull/284) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 💪 Opened PR [#284](https://github.com/tox-dev/tox-ini-fmt/pull/284) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🚀 Published release [1.1.0](https://github.com/tox-dev/devpi-process/releases/tag/1.1.0) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. 🎉 Merged PR [#196](https://github.com/tox-dev/devpi-process/pull/196) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#209](https://github.com/tox-dev/tox-gh/pull/209) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
