@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#284](https://github.com/tox-dev/tox-ini-fmt/pull/284) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 💪 Opened PR [#284](https://github.com/tox-dev/tox-ini-fmt/pull/284) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🚀 Published release [1.1.0](https://github.com/tox-dev/devpi-process/releases/tag/1.1.0) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 🎉 Merged PR [#196](https://github.com/tox-dev/devpi-process/pull/196) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. 🎉 Merged PR [#209](https://github.com/tox-dev/tox-gh/pull/209) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🚀 Published release [1.10.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.10.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#172](https://github.com/gaborbernat/bump-deps-index/pull/172) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 💪 Opened PR [#172](https://github.com/gaborbernat/bump-deps-index/pull/172) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. ❌ Closed PR [#171](https://github.com/gaborbernat/bump-deps-index/pull/171) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🚀 Published release [1.4.0](https://github.com/gaborbernat/pypi-changes/releases/tag/1.4.0) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
