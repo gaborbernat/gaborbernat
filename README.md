@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#152](https://github.com/ICRAR/ijson/issues/152#issuecomment-3391427568) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
-2. 🔒 Closed issue [#152](https://github.com/ICRAR/ijson/issues/152) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
-3. 🎉 Merged PR [#512](https://github.com/tox-dev/pipdeptree/pull/512) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🚀 Published release [20.35.2](https://github.com/pypa/virtualenv/releases/tag/20.35.2) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#4740](https://github.com/oracle/opengrok/issues/4740#issuecomment-3391322951) in [oracle/opengrok](https://github.com/oracle/opengrok)
+1. 🎉 Merged PR [#2980](https://github.com/pypa/virtualenv/pull/2980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#2980](https://github.com/pypa/virtualenv/pull/2980) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#2979](https://github.com/pypa/virtualenv/pull/2979) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔓 Reopened issue [#2935](https://github.com/pypa/virtualenv/issues/2935) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#152](https://github.com/ICRAR/ijson/issues/152#issuecomment-3391427568) in [ICRAR/ijson](https://github.com/ICRAR/ijson)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
