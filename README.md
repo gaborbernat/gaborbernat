@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.2.0](https://github.com/pytest-dev/pytest-print/releases/tag/1.2.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🎉 Merged PR [#188](https://github.com/pytest-dev/pytest-print/pull/188) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 💪 Opened PR [#188](https://github.com/pytest-dev/pytest-print/pull/188) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🚀 Published release [1.2.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.2.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🎉 Merged PR [#163](https://github.com/pytest-dev/pytest-env/pull/163) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🚀 Published release [4.2.0](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.2.0) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+2. 🎉 Merged PR [#91](https://github.com/tox-dev/pre-commit-uv/pull/91) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 💪 Opened PR [#91](https://github.com/tox-dev/pre-commit-uv/pull/91) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. 🚀 Published release [0.35.0](https://github.com/koxudaxi/datamodel-code-generator/releases/tag/0.35.0) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 💪 Opened PR [#512](https://github.com/tox-dev/pipdeptree/pull/512) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
