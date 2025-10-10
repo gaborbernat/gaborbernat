@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2977](https://github.com/pypa/virtualenv/issues/2977) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#2978](https://github.com/pypa/virtualenv/pull/2978) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#3621](https://github.com/tox-dev/tox/pull/3621#issuecomment-3391076411) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#2977](https://github.com/pypa/virtualenv/issues/2977#issuecomment-3391057566) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#2977](https://github.com/pypa/virtualenv/issues/2977#issuecomment-3391050846) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#512](https://github.com/tox-dev/pipdeptree/pull/512) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🚀 Published release [20.35.2](https://github.com/pypa/virtualenv/releases/tag/20.35.2) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#4740](https://github.com/oracle/opengrok/issues/4740#issuecomment-3391322951) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. 🎉 Merged PR [#210](https://github.com/tox-dev/tox-gh/pull/210) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🔒 Closed issue [#2977](https://github.com/pypa/virtualenv/issues/2977) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
