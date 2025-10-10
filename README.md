@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#137065](https://github.com/python/cpython/issues/137065#issuecomment-3386210938) in [python/cpython](https://github.com/python/cpython)
-2. 🎉 Merged PR [#2974](https://github.com/pypa/virtualenv/pull/2974) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#408](https://github.com/tox-dev/filelock/pull/408#issuecomment-3386205463) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🗣 Commented on [#92](https://github.com/tox-dev/toml-fmt/pull/92#issuecomment-3384243426) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🗣 Commented on [#92](https://github.com/tox-dev/toml-fmt/pull/92#issuecomment-3384242896) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🔒 Closed issue [#253](https://github.com/tox-dev/tox-uv/issues/253) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🚀 Published release [1.28.1](https://github.com/tox-dev/tox-uv/releases/tag/1.28.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#254](https://github.com/tox-dev/tox-uv/pull/254) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#137065](https://github.com/python/cpython/issues/137065#issuecomment-3386210938) in [python/cpython](https://github.com/python/cpython)
+5. 🎉 Merged PR [#2974](https://github.com/pypa/virtualenv/pull/2974) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
