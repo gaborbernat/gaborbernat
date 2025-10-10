@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#216](https://github.com/tox-dev/pyproject-api/pull/216) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 🚀 Published release [4.31.0](https://github.com/tox-dev/tox/releases/tag/4.31.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3624](https://github.com/tox-dev/tox/pull/3624) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [3.5.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.5.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#571](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/571) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [1.2.0](https://github.com/pytest-dev/pytest-print/releases/tag/1.2.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#188](https://github.com/pytest-dev/pytest-print/pull/188) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 💪 Opened PR [#188](https://github.com/pytest-dev/pytest-print/pull/188) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🚀 Published release [1.2.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.2.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#163](https://github.com/pytest-dev/pytest-env/pull/163) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
