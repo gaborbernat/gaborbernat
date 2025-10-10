@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [3.5.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.5.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#571](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/571) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#3624](https://github.com/tox-dev/tox/pull/3624#issuecomment-3387028759) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#571](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/571) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🚀 Published release [3.5.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.5.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 💪 Opened PR [#216](https://github.com/tox-dev/pyproject-api/pull/216) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 🚀 Published release [4.31.0](https://github.com/tox-dev/tox/releases/tag/4.31.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3624](https://github.com/tox-dev/tox/pull/3624) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [3.5.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.5.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#571](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/571) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
