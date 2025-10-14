@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2983](https://github.com/pypa/virtualenv/issues/2983) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2983](https://github.com/pypa/virtualenv/issues/2983#issuecomment-3396328399) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#2969](https://github.com/pypa/virtualenv/issues/2969#issuecomment-3393502430) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3626](https://github.com/tox-dev/tox/pull/3626) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❗ Opened issue [#23757](https://github.com/scipy/scipy/issues/23757) in [scipy/scipy](https://github.com/scipy/scipy)
+1. 🗣 Commented on [#99](https://github.com/tox-dev/toml-fmt/issues/99#issuecomment-3401719779) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🗣 Commented on [#258](https://github.com/tox-dev/tox-uv/issues/258#issuecomment-3401686930) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3401635327) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. 🗣 Commented on [#572](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/572#issuecomment-3398108239) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🔒 Closed issue [#2983](https://github.com/pypa/virtualenv/issues/2983) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
