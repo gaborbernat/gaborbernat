@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/tox-dev/toml-fmt/issues/5#issuecomment-3406427527) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔒 Closed issue [#2972](https://github.com/pypa/virtualenv/issues/2972) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#6](https://github.com/tox-dev/toml-fmt/issues/6) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#26](https://github.com/tox-dev/toml-fmt/issues/26#issuecomment-3404854352) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#26](https://github.com/tox-dev/toml-fmt/issues/26) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1.  Labeled issue [#2040](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/2040) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
+2. ❗ Opened issue [#2040](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/2040) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
+3. 🗣 Commented on [#5](https://github.com/tox-dev/toml-fmt/issues/5#issuecomment-3406427527) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🔒 Closed issue [#2972](https://github.com/pypa/virtualenv/issues/2972) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🔒 Closed issue [#6](https://github.com/tox-dev/toml-fmt/issues/6) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
