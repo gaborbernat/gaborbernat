@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4872](undefined) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 💪 Opened PR [#62](undefined) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🗣 Commented on [#534](https://github.com/hukkin/mdformat/pull/534#issuecomment-3403551380) in [hukkin/mdformat](https://github.com/hukkin/mdformat)
-4. 🗣 Commented on [#99](https://github.com/tox-dev/toml-fmt/issues/99#issuecomment-3401719779) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🗣 Commented on [#258](https://github.com/tox-dev/tox-uv/issues/258#issuecomment-3401686930) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🗣 Commented on [#100](https://github.com/tox-dev/toml-fmt/pull/100#issuecomment-3404568961) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2.  Assigned issue [#90](https://github.com/tox-dev/toml-fmt/issues/90) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 💪 Opened PR [#4872](undefined) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. 💪 Opened PR [#62](undefined) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🗣 Commented on [#534](https://github.com/hukkin/mdformat/pull/534#issuecomment-3403551380) in [hukkin/mdformat](https://github.com/hukkin/mdformat)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
