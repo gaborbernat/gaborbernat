@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#105](undefined) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔒 Closed issue [#104](https://github.com/tox-dev/toml-fmt/issues/104) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#104](https://github.com/tox-dev/toml-fmt/issues/104#issuecomment-3411191885) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🔒 Closed issue [#2040](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/2040) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
-5. 🚀 Published release [3.5.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.5.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#4872](https://github.com/oracle/opengrok/pull/4872#issuecomment-3411514605) in [oracle/opengrok](https://github.com/oracle/opengrok)
+2. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3411513599) in [oracle/opengrok](https://github.com/oracle/opengrok)
+3. 💪 Opened PR [#105](undefined) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🔒 Closed issue [#104](https://github.com/tox-dev/toml-fmt/issues/104) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🗣 Commented on [#104](https://github.com/tox-dev/toml-fmt/issues/104#issuecomment-3411191885) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
