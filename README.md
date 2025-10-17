@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#80](https://github.com/tox-dev/toml-fmt/issues/80#issuecomment-3413389308) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔒 Closed issue [#2969](https://github.com/pypa/virtualenv/issues/2969) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#4872](https://github.com/oracle/opengrok/pull/4872#issuecomment-3411514605) in [oracle/opengrok](https://github.com/oracle/opengrok)
-4. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3411513599) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 💪 Opened PR [#105](undefined) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ❗ Opened issue [#83](https://github.com/amol-/dukpy/issues/83) in [amol-/dukpy](https://github.com/amol-/dukpy)
+2. 🗣 Commented on [#3629](https://github.com/tox-dev/tox/pull/3629#issuecomment-3416131690) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3629](https://github.com/tox-dev/tox/pull/3629#issuecomment-3416122404) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#80](https://github.com/tox-dev/toml-fmt/issues/80#issuecomment-3413389308) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🔒 Closed issue [#2969](https://github.com/pypa/virtualenv/issues/2969) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
