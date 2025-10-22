@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3427367173) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. ❗ Opened issue [#83](https://github.com/amol-/dukpy/issues/83) in [amol-/dukpy](https://github.com/amol-/dukpy)
-3. 🗣 Commented on [#3629](https://github.com/tox-dev/tox/pull/3629#issuecomment-3416131690) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3629](https://github.com/tox-dev/tox/pull/3629#issuecomment-3416122404) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#80](https://github.com/tox-dev/toml-fmt/issues/80#issuecomment-3413389308) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🗣 Commented on [#16381](https://github.com/astral-sh/uv/issues/16381#issuecomment-3432573623) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3427367173) in [oracle/opengrok](https://github.com/oracle/opengrok)
+3. ❗ Opened issue [#83](https://github.com/amol-/dukpy/issues/83) in [amol-/dukpy](https://github.com/amol-/dukpy)
+4. 🗣 Commented on [#3629](https://github.com/tox-dev/tox/pull/3629#issuecomment-3416131690) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#3629](https://github.com/tox-dev/tox/pull/3629#issuecomment-3416122404) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
