@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3443812551) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-2. 💪 Opened PR [#4324](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. ❌ Labeled PR [#3634](undefined) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3437747220) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 🗣 Commented on [#16381](https://github.com/astral-sh/uv/issues/16381#issuecomment-3433304497) in [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3443996469) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+2. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3443812551) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+3. 💪 Opened PR [#4324](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. ❌ Labeled PR [#3634](undefined) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3437747220) in [oracle/opengrok](https://github.com/oracle/opengrok)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
