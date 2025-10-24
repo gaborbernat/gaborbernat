@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3444178080) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-2. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3444114393) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3444033171) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3443996469) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-5. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3443812551) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+1. 🔒 Closed issue [#3632](https://github.com/tox-dev/tox/issues/3632) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#3571](https://github.com/tox-dev/tox/issues/3571) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3614](https://github.com/tox-dev/tox/issues/3614) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3444178080) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+5. 🗣 Commented on [#4324](https://github.com/universal-ctags/ctags/pull/4324#issuecomment-3444114393) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
