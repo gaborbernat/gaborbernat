@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4344](https://github.com/universal-ctags/ctags/issues/4344) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-2. ❗ Opened issue [#4343](https://github.com/universal-ctags/ctags/issues/4343) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. ❗ Opened issue [#4342](https://github.com/universal-ctags/ctags/issues/4342) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🔒 Closed issue [#313](https://github.com/tox-dev/pyproject-fmt/issues/313) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 🗣 Commented on [#313](https://github.com/tox-dev/pyproject-fmt/issues/313#issuecomment-3503151822) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 💪 Opened PR [#4348](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+2. 💪 Opened PR [#4347](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+3. ❌ Closed PR [#4346](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 💪 Opened PR [#4346](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+5. ❌ Closed PR [#4345](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
