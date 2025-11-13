@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#313](https://github.com/tox-dev/pyproject-fmt/issues/313) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-2. 🗣 Commented on [#313](https://github.com/tox-dev/pyproject-fmt/issues/313#issuecomment-3503151822) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3502632307) in [oracle/opengrok](https://github.com/oracle/opengrok)
-4. 🔒 Closed issue [#244](https://github.com/koxudaxi/datamodel-code-generator/issues/244) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🔒 Closed issue [#260](https://github.com/tox-dev/tox-uv/issues/260) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ❗ Opened issue [#4344](https://github.com/universal-ctags/ctags/issues/4344) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+2. ❗ Opened issue [#4343](https://github.com/universal-ctags/ctags/issues/4343) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+3. ❗ Opened issue [#4342](https://github.com/universal-ctags/ctags/issues/4342) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 🔒 Closed issue [#313](https://github.com/tox-dev/pyproject-fmt/issues/313) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#313](https://github.com/tox-dev/pyproject-fmt/issues/313#issuecomment-3503151822) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
