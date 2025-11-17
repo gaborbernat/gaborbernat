@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1361](https://github.com/koxudaxi/datamodel-code-generator/issues/1361) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 💪 Opened PR [#4349](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. 💪 Opened PR [#4348](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 💪 Opened PR [#4347](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-5. ❌ Closed PR [#4346](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+1. 🔒 Closed issue [#1912](https://github.com/koxudaxi/datamodel-code-generator/issues/1912) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🔒 Closed issue [#1361](https://github.com/koxudaxi/datamodel-code-generator/issues/1361) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 💪 Opened PR [#4349](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 💪 Opened PR [#4348](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+5. 💪 Opened PR [#4347](undefined) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
