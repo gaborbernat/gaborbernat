@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2458](https://github.com/koxudaxi/datamodel-code-generator/issues/2458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#4344](https://github.com/universal-ctags/ctags/issues/4344#issuecomment-3548068308) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. 🗣 Commented on [#4344](https://github.com/universal-ctags/ctags/issues/4344#issuecomment-3548008076) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3542587239) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 🔒 Closed issue [#1912](https://github.com/koxudaxi/datamodel-code-generator/issues/1912) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❌ Closed PR [#82](undefined) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 🔒 Closed issue [#2458](https://github.com/koxudaxi/datamodel-code-generator/issues/2458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#4344](https://github.com/universal-ctags/ctags/issues/4344#issuecomment-3548068308) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 🗣 Commented on [#4344](https://github.com/universal-ctags/ctags/issues/4344#issuecomment-3548008076) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+5. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3542587239) in [oracle/opengrok](https://github.com/oracle/opengrok)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
