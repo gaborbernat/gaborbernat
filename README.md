@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4348](https://github.com/universal-ctags/ctags/pull/4348#issuecomment-3583419843) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-2. 🗣 Commented on [#2994](https://github.com/pypa/virtualenv/issues/2994#issuecomment-3571281499) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#39](https://github.com/butler54/mdformat-frontmatter/issues/39#issuecomment-3564264697) in [butler54/mdformat-frontmatter](https://github.com/butler54/mdformat-frontmatter)
-4. 🗣 Commented on [#529](https://github.com/hukkin/mdformat/issues/529#issuecomment-3564009494) in [hukkin/mdformat](https://github.com/hukkin/mdformat)
-5. 🔒 Closed issue [#2458](https://github.com/koxudaxi/datamodel-code-generator/issues/2458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-3583457259) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+2. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-3583457130) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+3. 🗣 Commented on [#4348](https://github.com/universal-ctags/ctags/pull/4348#issuecomment-3583419843) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 🗣 Commented on [#2994](https://github.com/pypa/virtualenv/issues/2994#issuecomment-3571281499) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🗣 Commented on [#39](https://github.com/butler54/mdformat-frontmatter/issues/39#issuecomment-3564264697) in [butler54/mdformat-frontmatter](https://github.com/butler54/mdformat-frontmatter)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
