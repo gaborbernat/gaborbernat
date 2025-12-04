@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-3586424622) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-2. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-3583457259) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-3583457130) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🗣 Commented on [#4348](https://github.com/universal-ctags/ctags/pull/4348#issuecomment-3583419843) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-5. 🗣 Commented on [#2994](https://github.com/pypa/virtualenv/issues/2994#issuecomment-3571281499) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3585](https://github.com/tox-dev/tox/issues/3585) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-3586424622) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+3. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-3583457259) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-3583457130) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+5. 🗣 Commented on [#4348](https://github.com/universal-ctags/ctags/pull/4348#issuecomment-3583419843) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
