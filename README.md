@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#226](undefined) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ❌ Closed PR [#3](undefined) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-3. 🔒 Closed issue [#2999](https://github.com/pypa/virtualenv/issues/2999) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🚀 Published release [4.5.1](https://github.com/tox-dev/platformdirs/releases/tag/4.5.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🔒 Closed issue [#3585](https://github.com/tox-dev/tox/issues/3585) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [3.6.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.6.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. ❌ Merged PR [#589](undefined) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 💪 Opened PR [#589](undefined) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❌ Closed PR [#226](undefined) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ❌ Closed PR [#3](undefined) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
