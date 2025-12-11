@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3642482616) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3638710362) in [oracle/opengrok](https://github.com/oracle/opengrok)
-3. 🗣 Commented on [#3656](https://github.com/tox-dev/tox/issues/3656#issuecomment-3638003451) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3656](https://github.com/tox-dev/tox/issues/3656#issuecomment-3637782594) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3202](https://github.com/tox-dev/tox/issues/3202) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#117](https://github.com/tox-dev/toml-fmt/issues/117#issuecomment-3642588993) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🔒 Closed issue [#117](https://github.com/tox-dev/toml-fmt/issues/117) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3642482616) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3638710362) in [oracle/opengrok](https://github.com/oracle/opengrok)
+5. 🗣 Commented on [#3656](https://github.com/tox-dev/tox/issues/3656#issuecomment-3638003451) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
