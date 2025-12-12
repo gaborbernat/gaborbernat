@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#223](https://github.com/tox-dev/tox-gh/issues/223) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. 🗣 Commented on [#222](https://github.com/tox-dev/tox-gh/pull/222#issuecomment-3647466182) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 🔒 Closed issue [#188](https://github.com/pypa/build/issues/188) in [pypa/build](https://github.com/pypa/build)
-4. 🚀 Published release [1.7.1](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.7.1) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🔒 Closed issue [#199](https://github.com/tox-dev/tox-ini-fmt/issues/199) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🚀 Published release [1.6.1](https://github.com/tox-dev/tox-gh/releases/tag/1.6.1) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. 🗣 Commented on [#222](https://github.com/tox-dev/tox-gh/pull/222#issuecomment-3647699071) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+3. 🔒 Closed issue [#223](https://github.com/tox-dev/tox-gh/issues/223) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. 🗣 Commented on [#222](https://github.com/tox-dev/tox-gh/pull/222#issuecomment-3647466182) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 🔒 Closed issue [#188](https://github.com/pypa/build/issues/188) in [pypa/build](https://github.com/pypa/build)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
