@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3000](https://github.com/pypa/virtualenv/issues/3000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [3.20.1](https://github.com/tox-dev/filelock/releases/tag/3.20.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ❌ Merged PR [#461](undefined) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#461](undefined) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🚀 Published release [1.6.1](https://github.com/tox-dev/tox-gh/releases/tag/1.6.1) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. ❌ Merged PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 💪 Opened PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 🔒 Closed issue [#3000](https://github.com/pypa/virtualenv/issues/3000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🚀 Published release [3.20.1](https://github.com/tox-dev/filelock/releases/tag/3.20.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ❌ Merged PR [#461](undefined) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
