@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 💪 Opened PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. 🔒 Closed issue [#3000](https://github.com/pypa/virtualenv/issues/3000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🚀 Published release [3.20.1](https://github.com/tox-dev/filelock/releases/tag/3.20.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ❌ Merged PR [#461](undefined) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3661955292) in [oracle/opengrok](https://github.com/oracle/opengrok)
+2. ❌ Merged PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. 💪 Opened PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🔒 Closed issue [#3000](https://github.com/pypa/virtualenv/issues/3000) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [3.20.1](https://github.com/tox-dev/filelock/releases/tag/3.20.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
