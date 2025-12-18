@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4890](undefined) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3662013328) in [oracle/opengrok](https://github.com/oracle/opengrok)
-3. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-3661997873) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-3661977795) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-5. ❌ Merged PR [#267](undefined) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🗣 Commented on [#179](https://github.com/pytest-dev/pytest-env/issues/179#issuecomment-3671276632) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🗣 Commented on [#179](https://github.com/pytest-dev/pytest-env/issues/179#issuecomment-3671276577) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🗣 Commented on [#462](https://github.com/tox-dev/filelock/issues/462#issuecomment-3671269092) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#4890](undefined) in [oracle/opengrok](https://github.com/oracle/opengrok)
+5. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3662013328) in [oracle/opengrok](https://github.com/oracle/opengrok)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
