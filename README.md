@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#179](https://github.com/pytest-dev/pytest-env/issues/179) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🔒 Closed issue [#2040](https://github.com/koxudaxi/datamodel-code-generator/issues/2040) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#179](https://github.com/pytest-dev/pytest-env/issues/179#issuecomment-3671276632) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🗣 Commented on [#179](https://github.com/pytest-dev/pytest-env/issues/179#issuecomment-3671276577) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🗣 Commented on [#462](https://github.com/tox-dev/filelock/issues/462#issuecomment-3671269092) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#3639](https://github.com/tox-dev/tox/issues/3639) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#179](https://github.com/pytest-dev/pytest-env/issues/179) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🔒 Closed issue [#2040](https://github.com/koxudaxi/datamodel-code-generator/issues/2040) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#179](https://github.com/pytest-dev/pytest-env/issues/179#issuecomment-3671276632) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🗣 Commented on [#179](https://github.com/pytest-dev/pytest-env/issues/179#issuecomment-3671276577) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
