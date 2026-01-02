@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3663](https://github.com/tox-dev/tox/pull/3663) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3662](https://github.com/tox-dev/tox/pull/3662) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#3662](https://github.com/tox-dev/tox/pull/3662) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3662](https://github.com/tox-dev/tox/pull/3662) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [3.6.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.6.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [4.33.0](https://github.com/tox-dev/tox/releases/tag/4.33.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3663](https://github.com/tox-dev/tox/pull/3663) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#3663](https://github.com/tox-dev/tox/pull/3663) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3662](https://github.com/tox-dev/tox/pull/3662) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#3662](https://github.com/tox-dev/tox/pull/3662) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
