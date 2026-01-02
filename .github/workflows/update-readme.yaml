@@ -17,7 +17,7 @@ jobs:
     name: Update this repo's README with recent activity
     steps:
       - uses: actions/checkout@v6
-      - uses: jamesgeorge007/github-activity-readme@v0.4.5
+      - uses: jamesgeorge007/github-activity-readme@v0.4.6
         if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
