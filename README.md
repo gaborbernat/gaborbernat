@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#106](https://github.com/tox-dev/PyVenvManage/pull/106) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 💪 Opened PR [#106](https://github.com/tox-dev/PyVenvManage/pull/106) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🎉 Merged PR [#104](https://github.com/tox-dev/PyVenvManage/pull/104) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3706690873) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 🎉 Merged PR [#105](https://github.com/tox-dev/PyVenvManage/pull/105) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🔒 Closed issue [#320](https://github.com/tox-dev/pyproject-fmt/issues/320) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#320](https://github.com/tox-dev/pyproject-fmt/issues/320#issuecomment-3708468702) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. ❌ Closed PR [#106](https://github.com/tox-dev/PyVenvManage/pull/106) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. 💪 Opened PR [#106](https://github.com/tox-dev/PyVenvManage/pull/106) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🎉 Merged PR [#104](https://github.com/tox-dev/PyVenvManage/pull/104) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
