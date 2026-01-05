@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4865](https://github.com/oracle/opengrok/pull/4865) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 💪 Opened PR [#109](https://github.com/tox-dev/PyVenvManage/pull/109) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🎉 Merged PR [#4891](https://github.com/oracle/opengrok/pull/4891) in [oracle/opengrok](https://github.com/oracle/opengrok)
-4. 🎉 Merged PR [#4890](https://github.com/oracle/opengrok/pull/4890) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 🔒 Closed issue [#320](https://github.com/tox-dev/pyproject-fmt/issues/320) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🗣 Commented on [#4865](https://github.com/oracle/opengrok/pull/4865#issuecomment-3710723981) in [oracle/opengrok](https://github.com/oracle/opengrok)
+2. 🎉 Merged PR [#109](https://github.com/tox-dev/PyVenvManage/pull/109) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 🎉 Merged PR [#4865](https://github.com/oracle/opengrok/pull/4865) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. 💪 Opened PR [#109](https://github.com/tox-dev/PyVenvManage/pull/109) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🎉 Merged PR [#4891](https://github.com/oracle/opengrok/pull/4891) in [oracle/opengrok](https://github.com/oracle/opengrok)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
