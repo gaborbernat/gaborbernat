@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#3005](https://github.com/pypa/virtualenv/pull/3005) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🔒 Closed issue [#2994](https://github.com/pypa/virtualenv/issues/2994) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#34](https://github.com/tox-dev/PyVenvManage/issues/34#issuecomment-3711452787) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🔒 Closed issue [#34](https://github.com/tox-dev/PyVenvManage/issues/34) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 🗣 Commented on [#3009](https://github.com/pypa/virtualenv/issues/3009#issuecomment-3710938018) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#2812](https://github.com/pypa/virtualenv/issues/2812) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❌ Closed PR [#3005](https://github.com/pypa/virtualenv/pull/3005) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🔒 Closed issue [#2994](https://github.com/pypa/virtualenv/issues/2994) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#34](https://github.com/tox-dev/PyVenvManage/issues/34#issuecomment-3711452787) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🔒 Closed issue [#34](https://github.com/tox-dev/PyVenvManage/issues/34) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
