@@ -13,10 +13,10 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#17440](https://github.com/astral-sh/uv/pull/17440) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🔒 Closed issue [#2662](https://github.com/pypa/virtualenv/issues/2662) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#2985](https://github.com/pypa/virtualenv/issues/2985) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3014](https://github.com/pypa/virtualenv/pull/3014) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled issue [#24364](https://github.com/scipy/scipy/issues/24364) in [scipy/scipy](https://github.com/scipy/scipy)
+2. ❗ Opened issue [#24364](https://github.com/scipy/scipy/issues/24364) in [scipy/scipy](https://github.com/scipy/scipy)
+3. 💪 Opened PR [#17440](https://github.com/astral-sh/uv/pull/17440) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🔒 Closed issue [#2662](https://github.com/pypa/virtualenv/issues/2662) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. 💪 Opened PR [#3014](https://github.com/pypa/virtualenv/pull/3014) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
