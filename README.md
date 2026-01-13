@@ -13,9 +13,9 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2662](https://github.com/pypa/virtualenv/issues/2662) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🔒 Closed issue [#2985](https://github.com/pypa/virtualenv/issues/2985) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🚀 Published release [20.36.1](https://github.com/pypa/virtualenv/releases/tag/20.36.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#17440](https://github.com/astral-sh/uv/pull/17440) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🔒 Closed issue [#2662](https://github.com/pypa/virtualenv/issues/2662) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🔒 Closed issue [#2985](https://github.com/pypa/virtualenv/issues/2985) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. 🎉 Merged PR [#3014](https://github.com/pypa/virtualenv/pull/3014) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. 💪 Opened PR [#3014](https://github.com/pypa/virtualenv/pull/3014) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
