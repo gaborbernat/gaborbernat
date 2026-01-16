@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.11.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.11.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🎉 Merged PR [#192](https://github.com/gaborbernat/bump-deps-index/pull/192) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 💪 Opened PR [#192](https://github.com/gaborbernat/bump-deps-index/pull/192) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. 💪 Opened PR [#17456](https://github.com/astral-sh/uv/pull/17456) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. ℹ️ Labeled issue [#24364](https://github.com/scipy/scipy/issues/24364) in [scipy/scipy](https://github.com/scipy/scipy)
+1. 🔒 Closed issue [#3398](https://github.com/tox-dev/tox/issues/3398) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [1.11.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.11.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#192](https://github.com/gaborbernat/bump-deps-index/pull/192) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 💪 Opened PR [#192](https://github.com/gaborbernat/bump-deps-index/pull/192) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 💪 Opened PR [#17456](https://github.com/astral-sh/uv/pull/17456) in [astral-sh/uv](https://github.com/astral-sh/uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
