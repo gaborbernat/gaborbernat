@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2540](https://github.com/astral-sh/ty/issues/2540#issuecomment-3762521134) in [astral-sh/ty](https://github.com/astral-sh/ty)
-2. ❗ Opened issue [#2540](https://github.com/astral-sh/ty/issues/2540) in [astral-sh/ty](https://github.com/astral-sh/ty)
-3. 🔒 Closed issue [#3398](https://github.com/tox-dev/tox/issues/3398) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [1.11.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.11.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🎉 Merged PR [#192](https://github.com/gaborbernat/bump-deps-index/pull/192) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ❗ Opened issue [#2543](https://github.com/astral-sh/ty/issues/2543) in [astral-sh/ty](https://github.com/astral-sh/ty)
+2. ❗ Opened issue [#2542](https://github.com/astral-sh/ty/issues/2542) in [astral-sh/ty](https://github.com/astral-sh/ty)
+3. ❗ Opened issue [#2541](https://github.com/astral-sh/ty/issues/2541) in [astral-sh/ty](https://github.com/astral-sh/ty)
+4. 🗣 Commented on [#2540](https://github.com/astral-sh/ty/issues/2540#issuecomment-3762521134) in [astral-sh/ty](https://github.com/astral-sh/ty)
+5. ❗ Opened issue [#2540](https://github.com/astral-sh/ty/issues/2540) in [astral-sh/ty](https://github.com/astral-sh/ty)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
