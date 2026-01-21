@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#194](https://github.com/gaborbernat/bump-deps-index/pull/194) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-3778406000) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#184](https://github.com/pytest-dev/pytest-env/issues/184#issuecomment-3778310027) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-3778250177) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. 🗣 Commented on [#3010](https://github.com/pypa/virtualenv/pull/3010#issuecomment-3778234478) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [1.12.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.12.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#194](https://github.com/gaborbernat/bump-deps-index/pull/194) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 💪 Opened PR [#194](https://github.com/gaborbernat/bump-deps-index/pull/194) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-3778406000) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🗣 Commented on [#184](https://github.com/pytest-dev/pytest-env/issues/184#issuecomment-3778310027) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
