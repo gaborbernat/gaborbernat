@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.1.7](https://github.com/tox-dev/jetbrains-fish/releases/tag/v0.1.7) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-2. 🎉 Merged PR [#21](https://github.com/tox-dev/jetbrains-fish/pull/21) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-3. 💪 Opened PR [#21](https://github.com/tox-dev/jetbrains-fish/pull/21) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-4. 🎉 Merged PR [#121](https://github.com/tox-dev/PyVenvManage/pull/121) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 💪 Opened PR [#121](https://github.com/tox-dev/PyVenvManage/pull/121) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🎉 Merged PR [#22](https://github.com/tox-dev/jetbrains-fish/pull/22) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+2. 💪 Opened PR [#122](https://github.com/tox-dev/PyVenvManage/pull/122) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 💪 Opened PR [#22](https://github.com/tox-dev/jetbrains-fish/pull/22) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+4. 🚀 Published release [v0.1.7](https://github.com/tox-dev/jetbrains-fish/releases/tag/v0.1.7) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+5. 🎉 Merged PR [#21](https://github.com/tox-dev/jetbrains-fish/pull/21) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
