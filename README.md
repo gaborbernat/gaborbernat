@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#125](https://github.com/tox-dev/PyVenvManage/pull/125) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 💪 Opened PR [#126](https://github.com/tox-dev/PyVenvManage/pull/126) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 💪 Opened PR [#125](https://github.com/tox-dev/PyVenvManage/pull/125) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🚀 Published release [v2.2.4](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.2.4) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 🎉 Merged PR [#124](https://github.com/tox-dev/PyVenvManage/pull/124) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 💪 Opened PR [#125](https://github.com/tox-dev/toml-fmt/pull/125) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. ❌ Closed PR [#103](https://github.com/tox-dev/toml-fmt/pull/103) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#103](https://github.com/tox-dev/toml-fmt/pull/103#issuecomment-3821702127) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#127](https://github.com/tox-dev/PyVenvManage/pull/127) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 💪 Opened PR [#127](https://github.com/tox-dev/PyVenvManage/pull/127) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
