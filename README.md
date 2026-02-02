@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔓 Reopened issue [#146](https://github.com/tox-dev/toml-fmt/issues/146) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔓 Reopened issue [#124](https://github.com/tox-dev/toml-fmt/issues/124) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#146](https://github.com/tox-dev/toml-fmt/issues/146#issuecomment-3829305118) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#155](https://github.com/tox-dev/toml-fmt/pull/155) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#149](https://github.com/tox-dev/toml-fmt/issues/149) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🔒 Closed issue [#2770](https://github.com/pypa/virtualenv/issues/2770) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔓 Reopened issue [#146](https://github.com/tox-dev/toml-fmt/issues/146) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🔓 Reopened issue [#124](https://github.com/tox-dev/toml-fmt/issues/124) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🗣 Commented on [#146](https://github.com/tox-dev/toml-fmt/issues/146#issuecomment-3829305118) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#155](https://github.com/tox-dev/toml-fmt/pull/155) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
