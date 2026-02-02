@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#843](https://github.com/tamasfe/taplo/pull/843) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
-2. 💪 Opened PR [#843](https://github.com/tamasfe/taplo/pull/843) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
-3. 🔒 Closed issue [#146](https://github.com/tox-dev/toml-fmt/issues/146) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#160](https://github.com/tox-dev/toml-fmt/pull/160) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#150](https://github.com/tox-dev/toml-fmt/issues/150) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🔒 Closed issue [#390](https://github.com/tox-dev/pipdeptree/issues/390) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. ❌ Closed PR [#843](https://github.com/tamasfe/taplo/pull/843) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+3. 💪 Opened PR [#843](https://github.com/tamasfe/taplo/pull/843) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+4. 🔒 Closed issue [#146](https://github.com/tox-dev/toml-fmt/issues/146) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#160](https://github.com/tox-dev/toml-fmt/pull/160) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
