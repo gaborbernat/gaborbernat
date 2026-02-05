@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4921](https://github.com/oracle/opengrok/pull/4921) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 💪 Opened PR [#4921](https://github.com/oracle/opengrok/pull/4921) in [oracle/opengrok](https://github.com/oracle/opengrok)
-3. ❗ Opened issue [#4920](https://github.com/oracle/opengrok/issues/4920) in [oracle/opengrok](https://github.com/oracle/opengrok)
-4. 🔒 Closed issue [#390](https://github.com/tox-dev/pipdeptree/issues/390) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. ❌ Closed PR [#843](https://github.com/tamasfe/taplo/pull/843) in [tamasfe/taplo](https://github.com/tamasfe/taplo)
+1. 🗣 Commented on [#4921](https://github.com/oracle/opengrok/pull/4921#issuecomment-3855529345) in [oracle/opengrok](https://github.com/oracle/opengrok)
+2. 🎉 Merged PR [#4921](https://github.com/oracle/opengrok/pull/4921) in [oracle/opengrok](https://github.com/oracle/opengrok)
+3. 💪 Opened PR [#4921](https://github.com/oracle/opengrok/pull/4921) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. ❗ Opened issue [#4920](https://github.com/oracle/opengrok/issues/4920) in [oracle/opengrok](https://github.com/oracle/opengrok)
+5. 🔒 Closed issue [#390](https://github.com/tox-dev/pipdeptree/issues/390) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
