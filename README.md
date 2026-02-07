@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11027](https://github.com/oss-review-toolkit/ort/issues/11027#issuecomment-3862005910) in [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort)
-2. 🗣 Commented on [#17708](https://github.com/astral-sh/uv/pull/17708#issuecomment-3861760783) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🗣 Commented on [#4921](https://github.com/oracle/opengrok/pull/4921#issuecomment-3855529345) in [oracle/opengrok](https://github.com/oracle/opengrok)
-4. 🎉 Merged PR [#4921](https://github.com/oracle/opengrok/pull/4921) in [oracle/opengrok](https://github.com/oracle/opengrok)
-5. 💪 Opened PR [#4921](https://github.com/oracle/opengrok/pull/4921) in [oracle/opengrok](https://github.com/oracle/opengrok)
+1. 🔒 Closed issue [#152](https://github.com/tox-dev/toml-fmt/issues/152) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🎉 Merged PR [#159](https://github.com/tox-dev/toml-fmt/pull/159) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#11027](https://github.com/oss-review-toolkit/ort/issues/11027#issuecomment-3862005910) in [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort)
+4. 🗣 Commented on [#17708](https://github.com/astral-sh/uv/pull/17708#issuecomment-3861760783) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🗣 Commented on [#4921](https://github.com/oracle/opengrok/pull/4921#issuecomment-3855529345) in [oracle/opengrok](https://github.com/oracle/opengrok)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
