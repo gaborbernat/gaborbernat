@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#206](https://github.com/tox-dev/toml-fmt/pull/206) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#205](https://github.com/tox-dev/toml-fmt/pull/205) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🔒 Closed issue [#3029](https://github.com/pypa/virtualenv/issues/3029) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🚀 Published release [pyproject-fmt/2.15.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.15.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🎉 Merged PR [#204](https://github.com/tox-dev/toml-fmt/pull/204) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🗣 Commented on [#1282](https://github.com/pypa/twine/pull/1282#issuecomment-3879780857) in [pypa/twine](https://github.com/pypa/twine)
+2. 💪 Opened PR [#206](https://github.com/tox-dev/toml-fmt/pull/206) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 💪 Opened PR [#205](https://github.com/tox-dev/toml-fmt/pull/205) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🔒 Closed issue [#3029](https://github.com/pypa/virtualenv/issues/3029) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [pyproject-fmt/2.15.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.15.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
