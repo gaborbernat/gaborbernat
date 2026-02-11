@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#192](https://github.com/pytest-dev/pytest-env/pull/192) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 💪 Opened PR [#192](https://github.com/pytest-dev/pytest-env/pull/192) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🗣 Commented on [#212](https://github.com/tox-dev/toml-fmt/issues/212#issuecomment-3885955755) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🔒 Closed issue [#212](https://github.com/tox-dev/toml-fmt/issues/212) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🚀 Published release [1.3.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.3.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 💪 Opened PR [#216](https://github.com/tox-dev/toml-fmt/pull/216) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#215](https://github.com/tox-dev/toml-fmt/pull/215) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#193](https://github.com/pytest-dev/pytest-env/pull/193) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 💪 Opened PR [#193](https://github.com/pytest-dev/pytest-env/pull/193) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 🎉 Merged PR [#192](https://github.com/pytest-dev/pytest-env/pull/192) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
