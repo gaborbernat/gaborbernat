@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [pyproject-fmt/2.15.2](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.15.2) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔓 Reopened issue [#202](https://github.com/tox-dev/toml-fmt/issues/202) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#208](https://github.com/tox-dev/toml-fmt/pull/208) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🔒 Closed issue [#207](https://github.com/tox-dev/toml-fmt/issues/207) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#208](https://github.com/tox-dev/toml-fmt/pull/208) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [tox-toml-fmt/1.5.4](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.5.4) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🔒 Closed issue [#202](https://github.com/tox-dev/toml-fmt/issues/202) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#202](https://github.com/tox-dev/toml-fmt/issues/202#issuecomment-3881425635) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🚀 Published release [pyproject-fmt/2.15.2](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.15.2) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🔓 Reopened issue [#202](https://github.com/tox-dev/toml-fmt/issues/202) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
