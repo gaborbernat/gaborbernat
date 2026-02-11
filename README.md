@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#14186](https://github.com/pytest-dev/pytest/issues/14186) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2. 🔒 Closed issue [#213](https://github.com/tox-dev/toml-fmt/issues/213) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#216](https://github.com/tox-dev/toml-fmt/pull/216) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ❌ Closed PR [#469](https://github.com/tox-dev/filelock/pull/469) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🚀 Published release [1.2.1](https://github.com/pytest-dev/pytest-print/releases/tag/1.2.1) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 💪 Opened PR [#470](https://github.com/tox-dev/filelock/pull/470) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ❗ Opened issue [#14186](https://github.com/pytest-dev/pytest/issues/14186) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. 🔒 Closed issue [#213](https://github.com/tox-dev/toml-fmt/issues/213) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#216](https://github.com/tox-dev/toml-fmt/pull/216) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ❌ Closed PR [#469](https://github.com/tox-dev/filelock/pull/469) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
