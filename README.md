@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#472](https://github.com/tox-dev/filelock/pull/472) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ❌ Closed PR [#416](https://github.com/tox-dev/platformdirs/pull/416) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 💪 Opened PR [#417](https://github.com/tox-dev/platformdirs/pull/417) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 💪 Opened PR [#416](https://github.com/tox-dev/platformdirs/pull/416) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 💪 Opened PR [#472](https://github.com/tox-dev/filelock/pull/472) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [3.21.0](https://github.com/tox-dev/filelock/releases/tag/3.21.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#418](https://github.com/tox-dev/platformdirs/pull/418) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🎉 Merged PR [#472](https://github.com/tox-dev/filelock/pull/472) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ❌ Closed PR [#416](https://github.com/tox-dev/platformdirs/pull/416) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 💪 Opened PR [#417](https://github.com/tox-dev/platformdirs/pull/417) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
