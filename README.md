@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [pyproject-fmt/2.15.3](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.15.3) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🎉 Merged PR [#470](https://github.com/tox-dev/filelock/pull/470) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🚀 Published release [1.2.2](https://github.com/pytest-dev/pytest-print/releases/tag/1.2.2) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🎉 Merged PR [#203](https://github.com/pytest-dev/pytest-print/pull/203) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 💪 Opened PR [#203](https://github.com/pytest-dev/pytest-print/pull/203) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🗣 Commented on [#280](https://github.com/tox-dev/tox-uv/issues/280#issuecomment-3888606978) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🚀 Published release [pyproject-fmt/2.15.3](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.15.3) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#470](https://github.com/tox-dev/filelock/pull/470) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🚀 Published release [1.2.2](https://github.com/pytest-dev/pytest-print/releases/tag/1.2.2) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. 🎉 Merged PR [#203](https://github.com/pytest-dev/pytest-print/pull/203) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
