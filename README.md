@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#218](https://github.com/tox-dev/toml-fmt/pull/218) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. ❌ Closed PR [#201](https://github.com/pytest-dev/pytest-print/pull/201) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🔒 Closed issue [#187](https://github.com/pytest-dev/pytest-env/issues/187) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🗣 Commented on [#187](https://github.com/pytest-dev/pytest-env/issues/187#issuecomment-3888719927) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. ❌ Closed PR [#414](https://github.com/tox-dev/platformdirs/pull/414) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#471](https://github.com/tox-dev/filelock/pull/471) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#218](https://github.com/tox-dev/toml-fmt/pull/218) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 💪 Opened PR [#471](https://github.com/tox-dev/filelock/pull/471) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🚀 Published release [4.6.0](https://github.com/tox-dev/platformdirs/releases/tag/4.6.0) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 💪 Opened PR [#218](https://github.com/tox-dev/toml-fmt/pull/218) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
