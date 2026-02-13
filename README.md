@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3672](https://github.com/tox-dev/tox/issues/3672) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#221](https://github.com/tox-dev/toml-fmt/pull/221) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#1](https://github.com/gaborbernat/mdformat-hugo/pull/1) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-4. 🚀 Published release [3.21.2](https://github.com/tox-dev/filelock/releases/tag/3.21.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🔒 Closed issue [#474](https://github.com/tox-dev/filelock/issues/474) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1](https://github.com/gaborbernat/mdformat-hugo/pull/1) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+2. 💪 Opened PR [#422](https://github.com/tox-dev/platformdirs/pull/422) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🔒 Closed issue [#3672](https://github.com/tox-dev/tox/issues/3672) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#221](https://github.com/tox-dev/toml-fmt/pull/221) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#1](https://github.com/gaborbernat/mdformat-hugo/pull/1) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
