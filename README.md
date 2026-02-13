@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.7.1](https://github.com/tox-dev/platformdirs/releases/tag/4.7.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🔒 Closed issue [#421](https://github.com/tox-dev/platformdirs/issues/421) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🎉 Merged PR [#422](https://github.com/tox-dev/platformdirs/pull/422) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🗣 Commented on [#3683](https://github.com/tox-dev/tox/pull/3683#issuecomment-3898261272) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [0.1.0](https://github.com/gaborbernat/mdformat-hugo/releases/tag/0.1.0) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+1. 🔒 Closed issue [#58](https://github.com/tox-dev/filelock/issues/58) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#58](https://github.com/tox-dev/filelock/issues/58#issuecomment-3899762648) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🗣 Commented on [#215](https://github.com/tox-dev/platformdirs/issues/215#issuecomment-3899738603) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🔒 Closed issue [#416](https://github.com/tox-dev/filelock/issues/416) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🗣 Commented on [#416](https://github.com/tox-dev/filelock/issues/416#issuecomment-3899736787) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
