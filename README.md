@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#474](https://github.com/tox-dev/filelock/issues/474#issuecomment-3894207412) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#473](https://github.com/tox-dev/filelock/pull/473#issuecomment-3894126035) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🚀 Published release [4.35.0](https://github.com/tox-dev/tox/releases/tag/4.35.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🚀 Published release [pyproject-fmt/2.16.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.16.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🚀 Published release [tox-toml-fmt/1.6.0](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.6.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#1](https://github.com/gaborbernat/mdformat-hugo/pull/1) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+2. 🚀 Published release [3.21.2](https://github.com/tox-dev/filelock/releases/tag/3.21.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🔒 Closed issue [#474](https://github.com/tox-dev/filelock/issues/474) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#475](https://github.com/tox-dev/filelock/pull/475) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#475](https://github.com/tox-dev/filelock/pull/475) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
