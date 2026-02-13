@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#58](https://github.com/tox-dev/filelock/issues/58) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#58](https://github.com/tox-dev/filelock/issues/58#issuecomment-3899762648) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🗣 Commented on [#215](https://github.com/tox-dev/platformdirs/issues/215#issuecomment-3899738603) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🔒 Closed issue [#416](https://github.com/tox-dev/filelock/issues/416) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#416](https://github.com/tox-dev/filelock/issues/416#issuecomment-3899736787) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#424](https://github.com/tox-dev/platformdirs/pull/424) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🔒 Closed issue [#215](https://github.com/tox-dev/platformdirs/issues/215) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🔒 Closed issue [#77](https://github.com/tox-dev/filelock/issues/77) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🗣 Commented on [#77](https://github.com/tox-dev/filelock/issues/77#issuecomment-3899933991) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#101](https://github.com/tox-dev/filelock/issues/101) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
