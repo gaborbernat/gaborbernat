@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.9.1](https://github.com/tox-dev/platformdirs/releases/tag/4.9.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🗣 Commented on [#444](https://github.com/tox-dev/platformdirs/issues/444#issuecomment-3902516739) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🔒 Closed issue [#444](https://github.com/tox-dev/platformdirs/issues/444) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🎉 Merged PR [#445](https://github.com/tox-dev/platformdirs/pull/445) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🔒 Closed issue [#3588](https://github.com/tox-dev/tox/issues/3588) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#3692](https://github.com/tox-dev/tox/pull/3692) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [4.9.1](https://github.com/tox-dev/platformdirs/releases/tag/4.9.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🗣 Commented on [#444](https://github.com/tox-dev/platformdirs/issues/444#issuecomment-3902516739) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🔒 Closed issue [#444](https://github.com/tox-dev/platformdirs/issues/444) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#445](https://github.com/tox-dev/platformdirs/pull/445) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
