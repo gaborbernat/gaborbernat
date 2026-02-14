@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#485](https://github.com/tox-dev/filelock/pull/485) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#482](https://github.com/tox-dev/filelock/pull/482) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#400](https://github.com/tox-dev/filelock/issues/400) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#484](https://github.com/tox-dev/filelock/pull/484) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#1636](https://github.com/downshift-js/downshift/pull/1636#issuecomment-3901018083) in [downshift-js/downshift](https://github.com/downshift-js/downshift)
+1. 🔒 Closed issue [#3483](https://github.com/tox-dev/tox/issues/3483) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❗ Opened issue [#144812](https://github.com/python/cpython/issues/144812) in [python/cpython](https://github.com/python/cpython)
+3. 🗣 Commented on [#86718](https://github.com/python/cpython/issues/86718#issuecomment-3901083511) in [python/cpython](https://github.com/python/cpython)
+4. 💪 Opened PR [#485](https://github.com/tox-dev/filelock/pull/485) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#482](https://github.com/tox-dev/filelock/pull/482) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
