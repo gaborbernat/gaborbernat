@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3035](https://github.com/pypa/virtualenv/pull/3035) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#3035](https://github.com/pypa/virtualenv/pull/3035) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#3703](https://github.com/tox-dev/tox/pull/3703) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#223](https://github.com/tox-dev/toml-fmt/pull/223) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#220](https://github.com/tox-dev/toml-fmt/issues/220) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#14](https://github.com/gaborbernat/cv/pull/14) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+2. ❌ Closed PR [#13](https://github.com/gaborbernat/cv/pull/13) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+3. 💪 Opened PR [#3036](https://github.com/pypa/virtualenv/pull/3036) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#13](https://github.com/gaborbernat/cv/pull/13) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+5. 🎉 Merged PR [#12](https://github.com/gaborbernat/cv/pull/12) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
