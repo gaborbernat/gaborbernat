@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [3.24.2](https://github.com/tox-dev/filelock/releases/tag/3.24.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#491](https://github.com/tox-dev/filelock/pull/491) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#448](https://github.com/tox-dev/platformdirs/pull/448) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🔒 Closed issue [#2090](https://github.com/pypa/virtualenv/issues/2090) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Closed issue [#3021](https://github.com/pypa/virtualenv/issues/3021) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [4.9.2](https://github.com/tox-dev/platformdirs/releases/tag/4.9.2) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🚀 Published release [3.24.2](https://github.com/tox-dev/filelock/releases/tag/3.24.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#491](https://github.com/tox-dev/filelock/pull/491) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#448](https://github.com/tox-dev/platformdirs/pull/448) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🔒 Closed issue [#2090](https://github.com/pypa/virtualenv/issues/2090) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
