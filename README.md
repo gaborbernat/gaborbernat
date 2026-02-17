@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.4.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.4.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#197](https://github.com/pytest-dev/pytest-env/pull/197) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🔒 Closed issue [#196](https://github.com/pytest-dev/pytest-env/issues/196) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 💪 Opened PR [#197](https://github.com/pytest-dev/pytest-env/pull/197) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. ❗ Opened issue [#3048](https://github.com/pypa/virtualenv/issues/3048) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3728](https://github.com/tox-dev/tox/pull/3728) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [1.4.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.4.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🎉 Merged PR [#197](https://github.com/pytest-dev/pytest-env/pull/197) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. 🔒 Closed issue [#196](https://github.com/pytest-dev/pytest-env/issues/196) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 💪 Opened PR [#197](https://github.com/pytest-dev/pytest-env/pull/197) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
