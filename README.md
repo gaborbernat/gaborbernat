@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v4.37.0](https://github.com/tox-dev/tox/releases/tag/4.37.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#198](https://github.com/pytest-dev/pytest-env/issues/198#issuecomment-3916458606) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🚀 Published release [1.5.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.5.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🎉 Merged PR [#199](https://github.com/pytest-dev/pytest-env/pull/199) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🔒 Closed issue [#198](https://github.com/pytest-dev/pytest-env/issues/198) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#3732](https://github.com/tox-dev/tox/pull/3732) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#3732](https://github.com/tox-dev/tox/pull/3732) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#3732](https://github.com/tox-dev/tox/pull/3732) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [v4.37.0](https://github.com/tox-dev/tox/releases/tag/4.37.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#198](https://github.com/pytest-dev/pytest-env/issues/198#issuecomment-3916458606) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
