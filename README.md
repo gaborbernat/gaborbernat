@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#193](https://github.com/gaborbernat/pypi-changes/pull/193) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-2. ℹ️ Labeled PR [#3749](https://github.com/tox-dev/tox/pull/3749) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#3749](https://github.com/tox-dev/tox/pull/3749) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#3748](https://github.com/tox-dev/tox/pull/3748) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#3748](https://github.com/tox-dev/tox/pull/3748) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#3752](https://github.com/tox-dev/tox/pull/3752) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#3751](https://github.com/tox-dev/tox/pull/3751) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#3751](https://github.com/tox-dev/tox/pull/3751) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Assigned issue [#3051](https://github.com/pypa/virtualenv/issues/3051) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Assigned issue [#3051](https://github.com/pypa/virtualenv/issues/3051) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
