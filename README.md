@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#236](https://github.com/tox-dev/toml-fmt/pull/236) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🎉 Merged PR [#235](https://github.com/tox-dev/toml-fmt/pull/235) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🔒 Closed issue [#3055](https://github.com/pypa/virtualenv/issues/3055) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#3055](https://github.com/pypa/virtualenv/issues/3055#issuecomment-3927334529) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#236](https://github.com/tox-dev/toml-fmt/pull/236) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#3056](https://github.com/pypa/virtualenv/pull/3056) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#205](https://github.com/pytest-dev/pytest-print/pull/205) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 💪 Opened PR [#612](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/612) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 💪 Opened PR [#240](https://github.com/tox-dev/pyproject-api/pull/240) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 💪 Opened PR [#118](https://github.com/tox-dev/pre-commit-uv/pull/118) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
