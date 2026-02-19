@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#198](https://github.com/gaborbernat/bump-deps-index/pull/198) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 🎉 Merged PR [#611](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/611) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#494](https://github.com/tox-dev/pipdeptree/issues/494) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#611](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/611) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#3773](https://github.com/tox-dev/tox/issues/3773) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3635](https://github.com/tox-dev/tox/issues/3635#issuecomment-3924810849) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#117](https://github.com/tox-dev/pre-commit-uv/pull/117) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🎉 Merged PR [#239](https://github.com/tox-dev/pyproject-api/pull/239) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#285](https://github.com/tox-dev/tox-uv/pull/285) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🎉 Merged PR [#276](https://github.com/tox-dev/sphinx-argparse-cli/pull/276) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
