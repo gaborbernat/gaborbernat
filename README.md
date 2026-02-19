@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1578](https://github.com/tox-dev/tox/issues/1578) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3772](https://github.com/tox-dev/tox/pull/3772) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#3772](https://github.com/tox-dev/tox/pull/3772) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3772](https://github.com/tox-dev/tox/pull/3772) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3650](https://github.com/tox-dev/tox/issues/3650) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#198](https://github.com/gaborbernat/bump-deps-index/pull/198) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#611](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/611) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#494](https://github.com/tox-dev/pipdeptree/issues/494) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 💪 Opened PR [#611](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/611) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🔒 Closed issue [#3773](https://github.com/tox-dev/tox/issues/3773) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
