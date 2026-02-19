@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3054](https://github.com/pypa/virtualenv/pull/3054) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#495](https://github.com/tox-dev/filelock/pull/495) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 💪 Opened PR [#495](https://github.com/tox-dev/filelock/pull/495) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🚀 Published release [v4.39.0](https://github.com/tox-dev/tox/releases/tag/4.39.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#2692](https://github.com/tox-dev/tox/issues/2692) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [3.24.3](https://github.com/tox-dev/filelock/releases/tag/3.24.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#495](https://github.com/tox-dev/filelock/pull/495) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🔒 Closed issue [#494](https://github.com/tox-dev/filelock/issues/494) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#3050](https://github.com/pypa/virtualenv/pull/3050) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3054](https://github.com/pypa/virtualenv/pull/3054) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
