@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3188](https://github.com/tox-dev/tox/issues/3188) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3795](https://github.com/tox-dev/tox/pull/3795) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3195](https://github.com/tox-dev/tox/issues/3195) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3789](https://github.com/tox-dev/tox/pull/3789) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3423](https://github.com/tox-dev/tox/issues/3423) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#3310](https://github.com/tox-dev/tox/issues/3310) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3792](https://github.com/tox-dev/tox/pull/3792) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3188](https://github.com/tox-dev/tox/issues/3188) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3795](https://github.com/tox-dev/tox/pull/3795) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3195](https://github.com/tox-dev/tox/issues/3195) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
