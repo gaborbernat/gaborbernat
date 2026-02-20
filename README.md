@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3125](https://github.com/tox-dev/tox/issues/3125) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3800](https://github.com/tox-dev/tox/pull/3800) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#3800](https://github.com/tox-dev/tox/pull/3800) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3800](https://github.com/tox-dev/tox/pull/3800) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3796](https://github.com/tox-dev/tox/issues/3796) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#3801](https://github.com/tox-dev/tox/pull/3801) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#3801](https://github.com/tox-dev/tox/pull/3801) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3796](https://github.com/tox-dev/tox/issues/3796#issuecomment-3936322098) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🚀 Published release [v4.43.0](https://github.com/tox-dev/tox/releases/tag/4.43.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3125](https://github.com/tox-dev/tox/issues/3125) in [tox-dev/tox](https://github.com/tox-dev/tox)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
