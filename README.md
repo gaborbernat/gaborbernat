@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5402](https://github.com/SchemaStore/schemastore/pull/5402) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-2. 🔒 Closed issue [#3049](https://github.com/pypa/virtualenv/issues/3049) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#3067](https://github.com/pypa/virtualenv/pull/3067) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🔒 Closed issue [#2939](https://github.com/pypa/virtualenv/issues/2939) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3065](https://github.com/pypa/virtualenv/pull/3065) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#3815](https://github.com/tox-dev/tox/pull/3815#issuecomment-3946467265) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#3059](https://github.com/pypa/virtualenv/issues/3059) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#5402](https://github.com/SchemaStore/schemastore/pull/5402) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+4. 🔒 Closed issue [#3049](https://github.com/pypa/virtualenv/issues/3049) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3067](https://github.com/pypa/virtualenv/pull/3067) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
