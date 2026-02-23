@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3815](https://github.com/tox-dev/tox/pull/3815#issuecomment-3946467265) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3059](https://github.com/pypa/virtualenv/issues/3059) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#5402](https://github.com/SchemaStore/schemastore/pull/5402) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-4. 🔒 Closed issue [#3049](https://github.com/pypa/virtualenv/issues/3049) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3067](https://github.com/pypa/virtualenv/pull/3067) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#183](https://github.com/tox-dev/tox-uv/issues/183) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#287](https://github.com/tox-dev/tox-uv/pull/287) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ℹ️ Labeled PR [#287](https://github.com/tox-dev/tox-uv/pull/287) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 💪 Opened PR [#287](https://github.com/tox-dev/tox-uv/pull/287) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ℹ️ Labeled issue [#407](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/407) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
