@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2811](https://github.com/pypa/virtualenv/issues/2811) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#2811](https://github.com/pypa/virtualenv/issues/2811#issuecomment-3944552517) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#3020](https://github.com/pypa/virtualenv/issues/3020) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#3020](https://github.com/pypa/virtualenv/issues/3020#issuecomment-3944536316) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🗣 Commented on [#1774](https://github.com/pypa/virtualenv/issues/1774#issuecomment-3944527170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#498](https://github.com/tox-dev/filelock/pull/498) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#3066](https://github.com/pypa/virtualenv/pull/3066) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#1](https://github.com/gaborbernat/virtualenv/pull/1) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+4. ❌ Closed PR [#497](https://github.com/tox-dev/filelock/pull/497) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🗣 Commented on [#497](https://github.com/tox-dev/filelock/pull/497#issuecomment-3944658520) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
