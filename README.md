@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#297](https://github.com/tox-dev/tox-uv/pull/297) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ℹ️ Labeled PR [#629](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/629) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 💪 Opened PR [#629](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/629) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#280](https://github.com/tox-dev/tox-uv/issues/280#issuecomment-3953358906) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. ❌ Closed PR [#25](https://github.com/tox-dev/py-discovery/pull/25) in [tox-dev/py-discovery](https://github.com/tox-dev/py-discovery)
+1. ℹ️ Labeled PR [#3820](https://github.com/tox-dev/tox/pull/3820) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#3821](https://github.com/tox-dev/tox/pull/3821) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#3821](https://github.com/tox-dev/tox/pull/3821) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#630](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/630) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#630](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/630) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
