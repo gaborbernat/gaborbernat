@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#630](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/630#issuecomment-3955090540) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ℹ️ Labeled PR [#631](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/631) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 💪 Opened PR [#631](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/631) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#630](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/630) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#161](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/161) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 💪 Opened PR [#247](https://github.com/tox-dev/toml-fmt/pull/247) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#246](https://github.com/tox-dev/toml-fmt/pull/246) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#630](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/630#issuecomment-3955090540) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ℹ️ Labeled PR [#631](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/631) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#631](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/631) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
