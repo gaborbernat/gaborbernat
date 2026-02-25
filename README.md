@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#247](https://github.com/tox-dev/toml-fmt/pull/247) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#246](https://github.com/tox-dev/toml-fmt/pull/246) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#630](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/630#issuecomment-3955090540) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ℹ️ Labeled PR [#631](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/631) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 💪 Opened PR [#631](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/631) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ℹ️ Labeled issue [#3822](https://github.com/tox-dev/tox/issues/3822) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#3822](https://github.com/tox-dev/tox/issues/3822#issuecomment-3958162343) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#280](https://github.com/tox-dev/tox-uv/issues/280#issuecomment-3958154076) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 💪 Opened PR [#247](https://github.com/tox-dev/toml-fmt/pull/247) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#246](https://github.com/tox-dev/toml-fmt/pull/246) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
