@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#247](https://github.com/tox-dev/toml-fmt/pull/247) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. ℹ️ Labeled issue [#3823](https://github.com/tox-dev/tox/issues/3823) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled issue [#3822](https://github.com/tox-dev/tox/issues/3822) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3822](https://github.com/tox-dev/tox/issues/3822#issuecomment-3958162343) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#280](https://github.com/tox-dev/tox-uv/issues/280#issuecomment-3958154076) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🔒 Closed issue [#539](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/539) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🗣 Commented on [#539](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/539#issuecomment-3959243682) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🚀 Published release [1.33.0](https://github.com/tox-dev/tox-uv/releases/tag/1.33.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🔒 Closed issue [#175](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/175) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🗣 Commented on [#175](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/175#issuecomment-3959216264) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
