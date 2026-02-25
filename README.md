@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#3822](https://github.com/tox-dev/tox/issues/3822) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#3822](https://github.com/tox-dev/tox/issues/3822#issuecomment-3958162343) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#280](https://github.com/tox-dev/tox-uv/issues/280#issuecomment-3958154076) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 💪 Opened PR [#247](https://github.com/tox-dev/toml-fmt/pull/247) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#246](https://github.com/tox-dev/toml-fmt/pull/246) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled issue [#3823](https://github.com/tox-dev/tox/issues/3823) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled issue [#3822](https://github.com/tox-dev/tox/issues/3822) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#3822](https://github.com/tox-dev/tox/issues/3822#issuecomment-3958162343) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#280](https://github.com/tox-dev/tox-uv/issues/280#issuecomment-3958154076) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#247](https://github.com/tox-dev/toml-fmt/pull/247) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
