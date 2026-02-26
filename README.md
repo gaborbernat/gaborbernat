@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2193](https://github.com/pypa/hatch/issues/2193#issuecomment-3965396097) in [pypa/hatch](https://github.com/pypa/hatch)
-2. 🚀 Published release [1.1.0](https://github.com/tox-dev/python-discovery/releases/tag/1.1.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 🎉 Merged PR [#32](https://github.com/tox-dev/python-discovery/pull/32) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-discovery/pull/32) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 💪 Opened PR [#32](https://github.com/tox-dev/python-discovery/pull/32) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. ℹ️ Labeled PR [#635](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/635) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 💪 Opened PR [#635](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/635) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#500](https://github.com/tox-dev/filelock/pull/500) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#137](https://github.com/tox-dev/PyVenvManage/pull/137) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 💪 Opened PR [#500](https://github.com/tox-dev/filelock/pull/500) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
