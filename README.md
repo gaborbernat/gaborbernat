@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#30](https://github.com/tox-dev/python-discovery/issues/30) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. 🗣 Commented on [#30](https://github.com/tox-dev/python-discovery/issues/30#issuecomment-3965064420) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 💪 Opened PR [#248](https://github.com/tox-dev/toml-fmt/pull/248) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#3797](https://github.com/tox-dev/tox/pull/3797#issuecomment-3962552505) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#42](https://github.com/tox-dev/tox-ini-fmt/issues/42) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🗣 Commented on [#2193](https://github.com/pypa/hatch/issues/2193#issuecomment-3965396097) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🚀 Published release [1.1.0](https://github.com/tox-dev/python-discovery/releases/tag/1.1.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. 🎉 Merged PR [#32](https://github.com/tox-dev/python-discovery/pull/32) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-discovery/pull/32) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. 💪 Opened PR [#32](https://github.com/tox-dev/python-discovery/pull/32) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
