@@ -13,11 +13,11 @@ Any kind of sponsorship for these effort is much appreciated.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3797](https://github.com/tox-dev/tox/pull/3797#issuecomment-3962552505) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#42](https://github.com/tox-dev/tox-ini-fmt/issues/42) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🗣 Commented on [#42](https://github.com/tox-dev/tox-ini-fmt/issues/42#issuecomment-3962039660) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🔒 Closed issue [#49](https://github.com/tox-dev/tox-ini-fmt/issues/49) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🗣 Commented on [#49](https://github.com/tox-dev/tox-ini-fmt/issues/49#issuecomment-3962039437) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 💪 Opened PR [#248](https://github.com/tox-dev/toml-fmt/pull/248) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🗣 Commented on [#3797](https://github.com/tox-dev/tox/pull/3797#issuecomment-3962552505) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#42](https://github.com/tox-dev/tox-ini-fmt/issues/42) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🗣 Commented on [#42](https://github.com/tox-dev/tox-ini-fmt/issues/42#issuecomment-3962039660) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. 🔒 Closed issue [#49](https://github.com/tox-dev/tox-ini-fmt/issues/49) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
    [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
 [adamchainz/time-machine](https://github.com/adamchainz/time-machine)
