@@ -17,16 +17,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 
 ---
 
+## GitHub Stats
+
+<a href="https://github.com/gaborbernat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaborbernat&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaborbernat&hide_border=true" />
+</a>
+
+---
+
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#635](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/635) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#635](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/635) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#500](https://github.com/tox-dev/filelock/pull/500) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#137](https://github.com/tox-dev/PyVenvManage/pull/137) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 💪 Opened PR [#500](https://github.com/tox-dev/filelock/pull/500) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-   [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#457](https://github.com/adamchainz/time-machine/pull/457#issuecomment-2197730644) in
-[adamchainz/time-machine](https://github.com/adamchainz/time-machine)
 <!--END_SECTION:activity-->
