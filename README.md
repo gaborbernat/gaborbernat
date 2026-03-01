@@ -8,8 +8,9 @@
 [![MAIL Badge](https://img.shields.io/badge/-gaborjbernat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaborjbernat@gmail.com)](mailto:gaborjbernat@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@gabor__bernat-845EC2?style=flat-square&labelColor=white&logo=Instagram&link=https://instagram.com/gabor_bernat/)](https://instagram.com/gabor_bernat)
 
-[Please check out my blog](https://bernat.tech/about/) for a full list of projects I am the primary author and maintain.
-Any kind of sponsorship for these effort is much appreciated.
+I work at [Bloomberg US - Los Angeles](https://www.bloomberg.com/company/values/tech-at-bloomberg/) within the Developer
+Experience organizations Artifact Repository Hosting team. I am the primary maintainer (and author) for various
+[open-source projects](https://bernat.tech/about/). Any kind of sponsorship for these efforts is much appreciated.
 
 <!--START_SECTION:activity-->
 
