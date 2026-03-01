@@ -1,12 +1,15 @@
 # Bernát Gábor (from 🇭🇺🇷🇴🇬🇧), living in Los Angeles 🇺🇸
 
+[![GitHub](https://img.shields.io/badge/-gaborbernat-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gaborbernat/)
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/gaborbernat&style=flat-square)](https://github.com/sponsors/gaborbernat)
+[![Twitter Badge](https://img.shields.io/badge/-@gjbernat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/gjbernat/)
+[![Bluesky Badge](https://img.shields.io/badge/-@gjbernat-0085ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/gjbernat.bsky.social)
+[![Mastodon Badge](https://img.shields.io/badge/-@gaborbernat-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://fosstodon.org/@gaborbernat)
+[![PyPI](https://img.shields.io/badge/-gaborbernat-0073b7?style=flat-square&logo=Python&logoColor=white)](https://pypi.org/user/gaborbernat/)
+[![Linkedin Badge](https://img.shields.io/badge/-gaborbernat-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaborbernat/)
+[![MAIL Badge](https://img.shields.io/badge/-gaborjbernat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gaborjbernat@gmail.com)
 [![Twitch Status](https://img.shields.io/twitch/status/gaborbernat?style=flat-square)](https://www.twitch.tv/gaborbernat)
-[![Twitter Badge](https://img.shields.io/badge/-@gjbernat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gjbernat)](https://twitter.com/gjbernat)
-[![PyPI](https://img.shields.io/badge/-gaborbernat-0073b7?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/gaborbernat/)](https://pypi.org/user/gaborbernat/)
-[![Linkedin Badge](https://img.shields.io/badge/-gaborbernat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaborbernat/)](https://www.linkedin.com/in/gaborbernat/)
-[![MAIL Badge](https://img.shields.io/badge/-gaborjbernat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaborjbernat@gmail.com)](mailto:gaborjbernat@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@gabor__bernat-845EC2?style=flat-square&labelColor=white&logo=Instagram&link=https://instagram.com/gabor_bernat/)](https://instagram.com/gabor_bernat)
+[![Instagram Badge](https://img.shields.io/badge/-@gabor__bernat-845EC2?style=flat-square&labelColor=white&logo=Instagram)](https://instagram.com/gabor_bernat)
 
 I work at [Bloomberg US - Los Angeles](https://www.bloomberg.com/company/values/tech-at-bloomberg/) within the Developer
 Experience organizations Artifact Repository Hosting team. I am the primary maintainer (and author) for various
