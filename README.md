@@ -15,6 +15,10 @@ I work at [Bloomberg US - Los Angeles](https://www.bloomberg.com/company/values/
 Experience organizations Artifact Repository Hosting team. I am the primary maintainer (and author) for various
 [open-source projects](https://bernat.tech/about/). Any kind of sponsorship for these efforts is much appreciated.
 
+---
+
+## Recent Activity
+
 <!--START_SECTION:activity-->
 
 1. ℹ️ Labeled PR [#635](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/635) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
