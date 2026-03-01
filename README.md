@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#255](https://github.com/tox-dev/toml-fmt/issues/255) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🎉 Merged PR [#258](https://github.com/tox-dev/toml-fmt/pull/258) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ℹ️ Labeled PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🎉 Merged PR [#507](https://github.com/tox-dev/filelock/pull/507) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#459](https://github.com/tox-dev/platformdirs/pull/459) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 🚀 Published release [3.9.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🎉 Merged PR [#648](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/648) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. ℹ️ Labeled PR [#648](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/648) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [pyproject-fmt/2.17.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.17.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🚀 Published release [tox-toml-fmt/1.8.0](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.8.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🔒 Closed issue [#255](https://github.com/tox-dev/toml-fmt/issues/255) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#258](https://github.com/tox-dev/toml-fmt/pull/258) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. ℹ️ Labeled PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 💪 Opened PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🎉 Merged PR [#507](https://github.com/tox-dev/filelock/pull/507) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🎉 Merged PR [#459](https://github.com/tox-dev/platformdirs/pull/459) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🚀 Published release [3.9.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
