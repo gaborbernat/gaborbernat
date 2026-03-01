@@ -19,10 +19,7 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 
 ## GitHub Stats
 
-<a href="https://github.com/gaborbernat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaborbernat&show_icons=true&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaborbernat&hide_border=true" />
-</a>
+![GitHub Stats](/github-metrics.svg)
 
 ---
 
