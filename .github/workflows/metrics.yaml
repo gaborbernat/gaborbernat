@@ -27,3 +27,9 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_stars: yes
+          plugin_stars_limit: 4

@@ -21,6 +21,8 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 
 ![GitHub Stats](/github-metrics.svg)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaborbernat&hide_border=true" alt="GitHub Streak" />
+
 ---
 
 ## Recent Activity
