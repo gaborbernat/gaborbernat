@@ -17,14 +17,6 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](/github-metrics.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaborbernat&hide_border=true" alt="GitHub Streak" />
-
----
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
@@ -39,3 +31,11 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 9. ℹ️ Labeled PR [#647](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/647) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 10. 💪 Opened PR [#647](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/647) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](/github-metrics.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaborbernat&hide_border=true" alt="GitHub Streak" />
