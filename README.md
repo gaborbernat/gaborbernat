@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#650](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/650) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#650](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/650) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#286](https://github.com/tox-dev/sphinx-argparse-cli/pull/286) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. ℹ️ Labeled PR [#286](https://github.com/tox-dev/sphinx-argparse-cli/pull/286) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. 💪 Opened PR [#286](https://github.com/tox-dev/sphinx-argparse-cli/pull/286) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-6. 🚀 Published release [pyproject-fmt/2.17.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.17.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🚀 Published release [tox-toml-fmt/1.8.0](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.8.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 🔒 Closed issue [#255](https://github.com/tox-dev/toml-fmt/issues/255) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🎉 Merged PR [#258](https://github.com/tox-dev/toml-fmt/pull/258) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 🎉 Merged PR [#259](https://github.com/tox-dev/toml-fmt/pull/259) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+3. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+6. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+7. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+8. 💪 Opened PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+9. 🔒 Closed issue [#260](https://github.com/tox-dev/toml-fmt/issues/260) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🎉 Merged PR [#261](https://github.com/tox-dev/toml-fmt/pull/261) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
