@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#460](https://github.com/tox-dev/platformdirs/issues/460) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🗣 Commented on [#460](https://github.com/tox-dev/platformdirs/issues/460#issuecomment-3984704506) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 🎉 Merged PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-6. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-7. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-10. 💪 Opened PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🚀 Published release [3.9.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#651](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/651) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ℹ️ Labeled PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🔒 Closed issue [#460](https://github.com/tox-dev/platformdirs/issues/460) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🗣 Commented on [#460](https://github.com/tox-dev/platformdirs/issues/460#issuecomment-3984704506) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+9. 🎉 Merged PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+10. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
 
 ---
