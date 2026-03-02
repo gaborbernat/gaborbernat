@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🎉 Merged PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🔒 Closed issue [#460](https://github.com/tox-dev/platformdirs/issues/460) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🗣 Commented on [#460](https://github.com/tox-dev/platformdirs/issues/460#issuecomment-3984704506) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 6. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 7. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. 💪 Opened PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. 🔒 Closed issue [#260](https://github.com/tox-dev/toml-fmt/issues/260) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 🎉 Merged PR [#261](https://github.com/tox-dev/toml-fmt/pull/261) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+9. ℹ️ Labeled PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+10. 💪 Opened PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
 
 ---
