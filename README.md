@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.33.1](https://github.com/tox-dev/tox-uv/releases/tag/1.33.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🚀 Published release [3.9.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#651](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/651) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. ℹ️ Labeled PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 💪 Opened PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🔒 Closed issue [#460](https://github.com/tox-dev/platformdirs/issues/460) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 🗣 Commented on [#460](https://github.com/tox-dev/platformdirs/issues/460#issuecomment-3984704506) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-10. 🎉 Merged PR [#292](https://github.com/tox-dev/sphinx-argparse-cli/pull/292) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🎉 Merged PR [#5424](https://github.com/SchemaStore/schemastore/pull/5424) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 🚀 Published release [1.33.1](https://github.com/tox-dev/tox-uv/releases/tag/1.33.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🚀 Published release [3.9.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🔒 Closed issue [#651](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/651) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ℹ️ Labeled PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 💪 Opened PR [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 🔒 Closed issue [#460](https://github.com/tox-dev/platformdirs/issues/460) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 🗣 Commented on [#460](https://github.com/tox-dev/platformdirs/issues/460#issuecomment-3984704506) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🚀 Published release [1.21.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 <!--END_SECTION:activity-->
 
 ---
