@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com/tox-dev/toml-fmt/pull/264) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🚀 Published release [3.9.5](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.5) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ℹ️ Labeled PR [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 💪 Opened PR [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🗣 Commented on [#652](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/652#issuecomment-3986303148) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🎉 Merged PR [#5424](https://github.com/SchemaStore/schemastore/pull/5424) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-8. 🚀 Published release [1.33.1](https://github.com/tox-dev/tox-uv/releases/tag/1.33.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. 🚀 Published release [3.9.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. 🔒 Closed issue [#651](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/651) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [tox-toml-fmt/1.9.0](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🚀 Published release [pyproject-fmt/2.18.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.18.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#530](https://github.com/tox-dev/pipdeptree/issues/530#issuecomment-3988691967) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ℹ️ Labeled issue [#547](https://github.com/tox-dev/pipdeptree/issues/547) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ❗ Opened issue [#547](https://github.com/tox-dev/pipdeptree/issues/547) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🎉 Merged PR [#264](https://github.com/tox-dev/toml-fmt/pull/264) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 💪 Opened PR [#264](https://github.com/tox-dev/toml-fmt/pull/264) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🚀 Published release [3.9.5](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.5) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🎉 Merged PR [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. ℹ️ Labeled PR [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
