@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3845](https://github.com/tox-dev/tox/issues/3845#issuecomment-3993022679) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3845](https://github.com/tox-dev/tox/issues/3845) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔓 Reopened issue [#3845](https://github.com/tox-dev/tox/issues/3845) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#266](https://github.com/tox-dev/toml-fmt/pull/266) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#266](https://github.com/tox-dev/toml-fmt/pull/266) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3992648966) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3992629057) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3992565189) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🎉 Merged PR [#3848](https://github.com/tox-dev/tox/pull/3848) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ❌ Closed PR [#5435](https://github.com/SchemaStore/schemastore/pull/5435) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+1. 🚀 Published release [pyproject-fmt/2.18.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.18.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🗣 Commented on [#3850](https://github.com/tox-dev/tox/issues/3850#issuecomment-3993094604) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#265](https://github.com/tox-dev/toml-fmt/issues/265) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#266](https://github.com/tox-dev/toml-fmt/pull/266) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🗣 Commented on [#3845](https://github.com/tox-dev/tox/issues/3845#issuecomment-3993022679) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🔒 Closed issue [#3845](https://github.com/tox-dev/tox/issues/3845) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🔓 Reopened issue [#3845](https://github.com/tox-dev/tox/issues/3845) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#266](https://github.com/tox-dev/toml-fmt/pull/266) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 💪 Opened PR [#266](https://github.com/tox-dev/toml-fmt/pull/266) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3992648966) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
