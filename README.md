@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#548](https://github.com/tox-dev/pipdeptree/pull/548) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. ℹ️ Labeled PR [#548](https://github.com/tox-dev/pipdeptree/pull/548) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 💪 Opened PR [#548](https://github.com/tox-dev/pipdeptree/pull/548) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🚀 Published release [tox-toml-fmt/1.9.0](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🚀 Published release [pyproject-fmt/2.18.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.18.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🗣 Commented on [#530](https://github.com/tox-dev/pipdeptree/issues/530#issuecomment-3988691967) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. ℹ️ Labeled issue [#547](https://github.com/tox-dev/pipdeptree/issues/547) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. ❗ Opened issue [#547](https://github.com/tox-dev/pipdeptree/issues/547) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#264](https://github.com/tox-dev/toml-fmt/pull/264) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 💪 Opened PR [#264](https://github.com/tox-dev/toml-fmt/pull/264) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#549](https://github.com/tox-dev/pipdeptree/pull/549) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 💪 Opened PR [#549](https://github.com/tox-dev/pipdeptree/pull/549) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#548](https://github.com/tox-dev/pipdeptree/pull/548) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ℹ️ Labeled PR [#548](https://github.com/tox-dev/pipdeptree/pull/548) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 💪 Opened PR [#548](https://github.com/tox-dev/pipdeptree/pull/548) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🚀 Published release [tox-toml-fmt/1.9.0](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🚀 Published release [pyproject-fmt/2.18.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.18.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🗣 Commented on [#530](https://github.com/tox-dev/pipdeptree/issues/530#issuecomment-3988691967) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. ℹ️ Labeled issue [#547](https://github.com/tox-dev/pipdeptree/issues/547) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. ❗ Opened issue [#547](https://github.com/tox-dev/pipdeptree/issues/547) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 ---
