@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3848](https://github.com/tox-dev/tox/pull/3848) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654#issuecomment-3992022254) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ❌ Closed PR [#5434](https://github.com/SchemaStore/schemastore/pull/5434) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-4. ℹ️ Labeled PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 💪 Opened PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🗣 Commented on [#3845](https://github.com/tox-dev/tox/issues/3845#issuecomment-3991975804) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 💪 Opened PR [#5434](https://github.com/SchemaStore/schemastore/pull/5434) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-8. 🚀 Published release [v4.47.1](https://github.com/tox-dev/tox/releases/tag/4.47.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🔒 Closed issue [#3845](https://github.com/tox-dev/tox/issues/3845) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 🎉 Merged PR [#3846](https://github.com/tox-dev/tox/pull/3846) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#3848](https://github.com/tox-dev/tox/pull/3848) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#5435](https://github.com/SchemaStore/schemastore/pull/5435) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+3. 💪 Opened PR [#5435](https://github.com/SchemaStore/schemastore/pull/5435) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+4. 🚀 Published release [v4.47.2](https://github.com/tox-dev/tox/releases/tag/4.47.2) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#3848](https://github.com/tox-dev/tox/pull/3848) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🗣 Commented on [#654](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/654#issuecomment-3992022254) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. ❌ Closed PR [#5434](https://github.com/SchemaStore/schemastore/pull/5434) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+8. ℹ️ Labeled PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 💪 Opened PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🗣 Commented on [#3845](https://github.com/tox-dev/tox/issues/3845#issuecomment-3991975804) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ---
