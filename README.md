@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.9.6](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.6) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ℹ️ Labeled PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
-4. 💪 Opened PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
-5. 🔓 Reopened issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
-6. 🔒 Closed issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
-7. ❗ Opened issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
-8. 🚀 Published release [v4.47.3](https://github.com/tox-dev/tox/releases/tag/4.47.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994847567) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994798875) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+2. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+3. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+4. 🚀 Published release [3.9.6](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.6) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ℹ️ Labeled PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+7. 💪 Opened PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+8. 🔓 Reopened issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
+9. 🔒 Closed issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
+10. ❗ Opened issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
 <!--END_SECTION:activity-->
 
 ---
