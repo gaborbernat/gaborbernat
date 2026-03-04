@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#725](https://github.com/pypa/build/issues/725) in [pypa/build](https://github.com/pypa/build)
-2. 🔒 Closed issue [#3850](https://github.com/tox-dev/tox/issues/3850) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3851](https://github.com/tox-dev/tox/pull/3851) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#725](https://github.com/pypa/build/issues/725#issuecomment-3994346998) in [pypa/build](https://github.com/pypa/build)
-5. ℹ️ Labeled issue [#727](https://github.com/pypa/build/issues/727) in [pypa/build](https://github.com/pypa/build)
-6. 🗣 Commented on [#727](https://github.com/pypa/build/issues/727#issuecomment-3994341026) in [pypa/build](https://github.com/pypa/build)
-7. ℹ️ Labeled issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
-8. 🗣 Commented on [#781](https://github.com/pypa/build/issues/781#issuecomment-3994336791) in [pypa/build](https://github.com/pypa/build)
-9. 🔒 Closed issue [#856](https://github.com/pypa/build/issues/856) in [pypa/build](https://github.com/pypa/build)
-10. 🗣 Commented on [#856](https://github.com/pypa/build/issues/856#issuecomment-3994332268) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#266](https://github.com/pypa/build/issues/266#issuecomment-3994515041) in [pypa/build](https://github.com/pypa/build)
+2. ℹ️ Labeled issue [#268](https://github.com/pypa/build/issues/268) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#268](https://github.com/pypa/build/issues/268#issuecomment-3994511778) in [pypa/build](https://github.com/pypa/build)
+4. ℹ️ Labeled issue [#455](https://github.com/pypa/build/issues/455) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#455](https://github.com/pypa/build/issues/455#issuecomment-3994433119) in [pypa/build](https://github.com/pypa/build)
+6. 🔒 Closed issue [#447](https://github.com/pypa/build/issues/447) in [pypa/build](https://github.com/pypa/build)
+7. 🗣 Commented on [#447](https://github.com/pypa/build/issues/447#issuecomment-3994410193) in [pypa/build](https://github.com/pypa/build)
+8. 🔒 Closed issue [#465](https://github.com/pypa/build/issues/465) in [pypa/build](https://github.com/pypa/build)
+9. 🗣 Commented on [#465](https://github.com/pypa/build/issues/465#issuecomment-3994400843) in [pypa/build](https://github.com/pypa/build)
+10. ℹ️ Labeled issue [#482](https://github.com/pypa/build/issues/482) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
