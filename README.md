@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994650917) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994636849) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994618092) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994556371) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🔒 Closed issue [#43](https://github.com/pypa/build/issues/43) in [pypa/build](https://github.com/pypa/build)
-6. 🗣 Commented on [#43](https://github.com/pypa/build/issues/43#issuecomment-3994523953) in [pypa/build](https://github.com/pypa/build)
-7. 🔒 Closed issue [#373](https://github.com/pypa/build/issues/373) in [pypa/build](https://github.com/pypa/build)
-8. 🗣 Commented on [#373](https://github.com/pypa/build/issues/373#issuecomment-3994520377) in [pypa/build](https://github.com/pypa/build)
-9. 🔒 Closed issue [#104](https://github.com/pypa/build/issues/104) in [pypa/build](https://github.com/pypa/build)
-10. 🗣 Commented on [#104](https://github.com/pypa/build/issues/104#issuecomment-3994518111) in [pypa/build](https://github.com/pypa/build)
+1. 🚀 Published release [v4.47.3](https://github.com/tox-dev/tox/releases/tag/4.47.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994847567) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994798875) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ❗ Opened issue [#987](https://github.com/pypa/build/issues/987) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994676398) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994650917) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994636849) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994618092) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3994556371) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🔒 Closed issue [#43](https://github.com/pypa/build/issues/43) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
