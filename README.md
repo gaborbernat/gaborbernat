@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#656](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/656) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#657](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/657) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ℹ️ Labeled PR [#3857](https://github.com/tox-dev/tox/pull/3857) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3857](https://github.com/tox-dev/tox/pull/3857) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ℹ️ Labeled PR [#657](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/657) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 💪 Opened PR [#657](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/657) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. ℹ️ Assigned issue [#3854](https://github.com/tox-dev/tox/issues/3854) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ❗ Opened issue [#3856](https://github.com/tox-dev/tox/issues/3856) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ❗ Opened issue [#3855](https://github.com/tox-dev/tox/issues/3855) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 🗣 Commented on [#3854](https://github.com/tox-dev/tox/issues/3854#issuecomment-4006521405) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#463](https://github.com/tox-dev/platformdirs/pull/463) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. ℹ️ Labeled issue [#3830](https://github.com/tox-dev/tox/issues/3830) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled issue [#3830](https://github.com/tox-dev/tox/issues/3830) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3830](https://github.com/tox-dev/tox/issues/3830#issuecomment-4007067980) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled issue [#3862](https://github.com/tox-dev/tox/issues/3862) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled issue [#3862](https://github.com/tox-dev/tox/issues/3862) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled issue [#3862](https://github.com/tox-dev/tox/issues/3862) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled issue [#3861](https://github.com/tox-dev/tox/issues/3861) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled issue [#3861](https://github.com/tox-dev/tox/issues/3861) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#463](https://github.com/tox-dev/platformdirs/pull/463) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 <!--END_SECTION:activity-->
 
 ---
