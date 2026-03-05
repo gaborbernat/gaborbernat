@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#988](https://github.com/pypa/build/pull/988#issuecomment-3999637854) in [pypa/build](https://github.com/pypa/build)
-2. 🔒 Closed issue [#987](https://github.com/pypa/build/issues/987) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#987](https://github.com/pypa/build/issues/987#issuecomment-3999627097) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3997568079) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#549](https://github.com/tox-dev/pipdeptree/pull/549#issuecomment-4002312513) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#988](https://github.com/pypa/build/pull/988#issuecomment-3999637854) in [pypa/build](https://github.com/pypa/build)
+3. 🔒 Closed issue [#987](https://github.com/pypa/build/issues/987) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#987](https://github.com/pypa/build/issues/987#issuecomment-3999627097) in [pypa/build](https://github.com/pypa/build)
+5. 🗣 Commented on [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655#issuecomment-3997568079) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 6. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
 7. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
-8. 🚀 Published release [3.9.6](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.6) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🎉 Merged PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. ℹ️ Labeled PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+8. ℹ️ Assigned PR [#988](https://github.com/pypa/build/pull/988) in [pypa/build](https://github.com/pypa/build)
+9. 🚀 Published release [3.9.6](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.6) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🎉 Merged PR [#655](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/655) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
