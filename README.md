@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5450](https://github.com/SchemaStore/schemastore/pull/5450) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-2. 🚀 Published release [v4.49.0](https://github.com/tox-dev/tox/releases/tag/4.49.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3866](https://github.com/tox-dev/tox/issues/3866) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3854](https://github.com/tox-dev/tox/issues/3854#issuecomment-4013177628) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3865](https://github.com/tox-dev/tox/pull/3865) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🗣 Commented on [#3854](https://github.com/tox-dev/tox/issues/3854#issuecomment-4013014090) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ℹ️ Labeled issue [#41](https://github.com/tox-dev/python-discovery/issues/41) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 🚀 Published release [v4.48.1](https://github.com/tox-dev/tox/releases/tag/4.48.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#3865](https://github.com/tox-dev/tox/pull/3865) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 💪 Opened PR [#3865](https://github.com/tox-dev/tox/pull/3865) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#42](https://github.com/tox-dev/python-discovery/pull/42) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. 💪 Opened PR [#42](https://github.com/tox-dev/python-discovery/pull/42) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. 💪 Opened PR [#5450](https://github.com/SchemaStore/schemastore/pull/5450) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+4. 🚀 Published release [v4.49.0](https://github.com/tox-dev/tox/releases/tag/4.49.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3866](https://github.com/tox-dev/tox/issues/3866) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🗣 Commented on [#3854](https://github.com/tox-dev/tox/issues/3854#issuecomment-4013177628) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#3865](https://github.com/tox-dev/tox/pull/3865) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🗣 Commented on [#3854](https://github.com/tox-dev/tox/issues/3854#issuecomment-4013014090) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled issue [#41](https://github.com/tox-dev/python-discovery/issues/41) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. 🚀 Published release [v4.48.1](https://github.com/tox-dev/tox/releases/tag/4.48.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ---
