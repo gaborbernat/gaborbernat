@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3863](https://github.com/tox-dev/tox/pull/3863) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#3863](https://github.com/tox-dev/tox/pull/3863) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🚀 Published release [v4.48.0](https://github.com/tox-dev/tox/releases/tag/4.48.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3857](https://github.com/tox-dev/tox/pull/3857) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3854](https://github.com/tox-dev/tox/issues/3854) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#463](https://github.com/tox-dev/platformdirs/pull/463) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Labeled issue [#3830](https://github.com/tox-dev/tox/issues/3830) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled issue [#3830](https://github.com/tox-dev/tox/issues/3830) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled issue [#3862](https://github.com/tox-dev/tox/issues/3862) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled issue [#3862](https://github.com/tox-dev/tox/issues/3862) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#3830](https://github.com/tox-dev/tox/issues/3830) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#3863](https://github.com/tox-dev/tox/pull/3863) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3855](https://github.com/tox-dev/tox/issues/3855) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#3863](https://github.com/tox-dev/tox/pull/3863) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#3863](https://github.com/tox-dev/tox/pull/3863) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🚀 Published release [v4.48.0](https://github.com/tox-dev/tox/releases/tag/4.48.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#3857](https://github.com/tox-dev/tox/pull/3857) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🔒 Closed issue [#3854](https://github.com/tox-dev/tox/issues/3854) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🎉 Merged PR [#463](https://github.com/tox-dev/platformdirs/pull/463) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. ℹ️ Labeled issue [#3830](https://github.com/tox-dev/tox/issues/3830) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ---
