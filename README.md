@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#552](https://github.com/tox-dev/pipdeptree/pull/552) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 💪 Opened PR [#552](https://github.com/tox-dev/pipdeptree/pull/552) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. ℹ️ Labeled PR [#551](https://github.com/tox-dev/pipdeptree/pull/551) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#551](https://github.com/tox-dev/pipdeptree/pull/551) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🚀 Published release [v4.49.1](https://github.com/tox-dev/tox/releases/tag/4.49.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ℹ️ Labeled PR [#308](https://github.com/tox-dev/tox-uv/pull/308) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 💪 Opened PR [#308](https://github.com/tox-dev/tox-uv/pull/308) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. 🗣 Commented on [#45](https://github.com/tox-dev/python-discovery/issues/45#issuecomment-4026717895) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🔒 Closed issue [#45](https://github.com/tox-dev/python-discovery/issues/45) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 🚀 Published release [1.1.2](https://github.com/tox-dev/python-discovery/releases/tag/1.1.2) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#551](https://github.com/tox-dev/pipdeptree/pull/551) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🔒 Closed issue [#380](https://github.com/tox-dev/pipdeptree/issues/380) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. ℹ️ Labeled PR [#552](https://github.com/tox-dev/pipdeptree/pull/552) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 💪 Opened PR [#552](https://github.com/tox-dev/pipdeptree/pull/552) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#551](https://github.com/tox-dev/pipdeptree/pull/551) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 💪 Opened PR [#551](https://github.com/tox-dev/pipdeptree/pull/551) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. 🚀 Published release [v4.49.1](https://github.com/tox-dev/tox/releases/tag/4.49.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#308](https://github.com/tox-dev/tox-uv/pull/308) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. 💪 Opened PR [#308](https://github.com/tox-dev/tox-uv/pull/308) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+10. 🗣 Commented on [#45](https://github.com/tox-dev/python-discovery/issues/45#issuecomment-4026717895) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ---
