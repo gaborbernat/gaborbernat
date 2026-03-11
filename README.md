@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#513](https://github.com/tox-dev/filelock/pull/513) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#513](https://github.com/tox-dev/filelock/pull/513) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#330](https://github.com/tox-dev/pyproject-fmt/pull/330) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. ℹ️ Labeled PR [#330](https://github.com/tox-dev/pyproject-fmt/pull/330) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-5. 💪 Opened PR [#330](https://github.com/tox-dev/pyproject-fmt/pull/330) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-6. 🚀 Published release [tox-toml-fmt/1.9.1](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🎉 Merged PR [#268](https://github.com/tox-dev/toml-fmt/pull/268) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. ℹ️ Labeled PR [#268](https://github.com/tox-dev/toml-fmt/pull/268) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 💪 Opened PR [#268](https://github.com/tox-dev/toml-fmt/pull/268) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 🔒 Closed issue [#3862](https://github.com/tox-dev/tox/issues/3862) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [3.25.2](https://github.com/tox-dev/filelock/releases/tag/3.25.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#512](https://github.com/tox-dev/filelock/issues/512) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#513](https://github.com/tox-dev/filelock/pull/513) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ℹ️ Labeled PR [#513](https://github.com/tox-dev/filelock/pull/513) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#513](https://github.com/tox-dev/filelock/pull/513) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#330](https://github.com/tox-dev/pyproject-fmt/pull/330) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+7. ℹ️ Labeled PR [#330](https://github.com/tox-dev/pyproject-fmt/pull/330) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+8. 💪 Opened PR [#330](https://github.com/tox-dev/pyproject-fmt/pull/330) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+9. 🚀 Published release [tox-toml-fmt/1.9.1](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🎉 Merged PR [#268](https://github.com/tox-dev/toml-fmt/pull/268) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
