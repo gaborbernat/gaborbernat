@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.33.3](https://github.com/tox-dev/tox-uv/releases/tag/1.33.3) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#313](https://github.com/tox-dev/tox-uv/pull/313) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🔒 Closed issue [#311](https://github.com/tox-dev/tox-uv/issues/311) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#312](https://github.com/tox-dev/tox-uv/pull/312) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 🔒 Closed issue [#310](https://github.com/tox-dev/tox-uv/issues/310) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-6. ❌ Closed PR [#3876](https://github.com/tox-dev/tox/pull/3876) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ℹ️ Labeled PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 💪 Opened PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ❌ Closed PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
-10. ℹ️ Labeled PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
+1. 🚀 Published release [1.5.1](https://github.com/pytest-dev/pytest-env/releases/tag/1.5.1) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. 🚀 Published release [1.33.4](https://github.com/tox-dev/tox-uv/releases/tag/1.33.4) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🔒 Closed issue [#309](https://github.com/tox-dev/tox-uv/issues/309) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#314](https://github.com/tox-dev/tox-uv/pull/314) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ℹ️ Labeled PR [#314](https://github.com/tox-dev/tox-uv/pull/314) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+6. 💪 Opened PR [#314](https://github.com/tox-dev/tox-uv/pull/314) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+7. 🚀 Published release [1.33.3](https://github.com/tox-dev/tox-uv/releases/tag/1.33.3) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+8. 🎉 Merged PR [#313](https://github.com/tox-dev/tox-uv/pull/313) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. 🔒 Closed issue [#311](https://github.com/tox-dev/tox-uv/issues/311) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+10. 🎉 Merged PR [#312](https://github.com/tox-dev/tox-uv/pull/312) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
 
 ---
