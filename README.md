@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ❌ Closed PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
-4. ℹ️ Labeled PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
-5. 💪 Opened PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
-6. ℹ️ Labeled PR [#313](https://github.com/tox-dev/tox-uv/pull/313) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 💪 Opened PR [#313](https://github.com/tox-dev/tox-uv/pull/313) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. ℹ️ Labeled PR [#312](https://github.com/tox-dev/tox-uv/pull/312) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. 💪 Opened PR [#312](https://github.com/tox-dev/tox-uv/pull/312) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. 🗣 Commented on [#298](https://github.com/tox-dev/tox-uv/pull/298#issuecomment-4048247840) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [1.33.3](https://github.com/tox-dev/tox-uv/releases/tag/1.33.3) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#313](https://github.com/tox-dev/tox-uv/pull/313) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🔒 Closed issue [#311](https://github.com/tox-dev/tox-uv/issues/311) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#312](https://github.com/tox-dev/tox-uv/pull/312) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 🔒 Closed issue [#310](https://github.com/tox-dev/tox-uv/issues/310) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+6. ❌ Closed PR [#3876](https://github.com/tox-dev/tox/pull/3876) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 💪 Opened PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ❌ Closed PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
+10. ℹ️ Labeled PR [#1](https://github.com/gaborbernat/tox/pull/1) in [gaborbernat/tox](https://github.com/gaborbernat/tox)
 <!--END_SECTION:activity-->
 
 ---
