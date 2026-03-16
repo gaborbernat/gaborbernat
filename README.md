@@ -20,14 +20,14 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#273](https://github.com/tox-dev/toml-fmt/issues/273) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ℹ️ Labeled PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. ❗ Opened issue [#273](https://github.com/tox-dev/toml-fmt/issues/273) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🎉 Merged PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 💪 Opened PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [pyproject-fmt/2.19.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.19.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🎉 Merged PR [#3875](https://github.com/tox-dev/tox/pull/3875) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#273](https://github.com/tox-dev/toml-fmt/issues/273) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ℹ️ Labeled PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ❗ Opened issue [#273](https://github.com/tox-dev/toml-fmt/issues/273) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🎉 Merged PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 9. 💪 Opened PR [#269](https://github.com/tox-dev/toml-fmt/pull/269) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 10. 🔒 Closed issue [#309](https://github.com/tox-dev/tox-uv/issues/309) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
