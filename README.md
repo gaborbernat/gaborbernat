@@ -20,12 +20,12 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#269](https://github.com/tox-dev/toml-fmt/pull/269) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🔒 Closed issue [#212](https://github.com/pytest-dev/pytest-env/issues/212) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 🗣 Commented on [#212](https://github.com/pytest-dev/pytest-env/issues/212#issuecomment-4050689677) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-6. 🎉 Merged PR [#213](https://github.com/pytest-dev/pytest-env/pull/213) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Labeled PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#274](https://github.com/tox-dev/toml-fmt/pull/274) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. ❗ Opened issue [#273](https://github.com/tox-dev/toml-fmt/issues/273) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#269](https://github.com/tox-dev/toml-fmt/pull/269) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 7. 💪 Opened PR [#213](https://github.com/pytest-dev/pytest-env/pull/213) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 8. 🚀 Published release [1.5.1](https://github.com/pytest-dev/pytest-env/releases/tag/1.5.1) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 9. 🚀 Published release [1.33.4](https://github.com/tox-dev/tox-uv/releases/tag/1.33.4) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
