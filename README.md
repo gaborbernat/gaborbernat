@@ -20,9 +20,9 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#269](https://github.com/tox-dev/toml-fmt/pull/269) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🚀 Published release [1.6.0](https://github.com/pytest-dev/pytest-env/releases/tag/1.6.0) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#270](https://github.com/tox-dev/toml-fmt/pull/270) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 💪 Opened PR [#269](https://github.com/tox-dev/toml-fmt/pull/269) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 4. 🔒 Closed issue [#212](https://github.com/pytest-dev/pytest-env/issues/212) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 5. 🗣 Commented on [#212](https://github.com/pytest-dev/pytest-env/issues/212#issuecomment-4050689677) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 6. 🎉 Merged PR [#213](https://github.com/pytest-dev/pytest-env/pull/213) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
