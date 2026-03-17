@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1723](https://github.com/pypa/pipx/issues/1723) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ❌ Closed PR [#1457](https://github.com/pypa/pipx/pull/1457) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🗣 Commented on [#1457](https://github.com/pypa/pipx/pull/1457#issuecomment-4076886178) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#1701](https://github.com/pypa/pipx/pull/1701#issuecomment-4076811555) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ❌ Closed PR [#1701](https://github.com/pypa/pipx/pull/1701) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🎉 Merged PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#1520](https://github.com/pypa/pipx/issues/1520) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🚀 Published release [v4.50.0](https://github.com/tox-dev/tox/releases/tag/4.50.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 💪 Opened PR [#5473](https://github.com/SchemaStore/schemastore/pull/5473) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-10. 🎉 Merged PR [#3884](https://github.com/tox-dev/tox/pull/3884) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3885](https://github.com/tox-dev/tox/issues/3885#issuecomment-4077644082) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#1723](https://github.com/pypa/pipx/issues/1723) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❌ Closed PR [#1457](https://github.com/pypa/pipx/pull/1457) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#1457](https://github.com/pypa/pipx/pull/1457#issuecomment-4076886178) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#1701](https://github.com/pypa/pipx/pull/1701#issuecomment-4076811555) in [pypa/pipx](https://github.com/pypa/pipx)
+6. ❌ Closed PR [#1701](https://github.com/pypa/pipx/pull/1701) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🎉 Merged PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🔒 Closed issue [#1520](https://github.com/pypa/pipx/issues/1520) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🚀 Published release [v4.50.0](https://github.com/tox-dev/tox/releases/tag/4.50.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 💪 Opened PR [#5473](https://github.com/SchemaStore/schemastore/pull/5473) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 <!--END_SECTION:activity-->
 
 ---
