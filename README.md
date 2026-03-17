@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1641](https://github.com/pypa/pipx/issues/1641) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ℹ️ Labeled issue [#1635](https://github.com/pypa/pipx/issues/1635) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled issue [#1582](https://github.com/pypa/pipx/issues/1582) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled issue [#1553](https://github.com/pypa/pipx/issues/1553) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled issue [#1547](https://github.com/pypa/pipx/issues/1547) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled issue [#1538](https://github.com/pypa/pipx/issues/1538) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled issue [#1537](https://github.com/pypa/pipx/issues/1537) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled issue [#1443](https://github.com/pypa/pipx/issues/1443) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled issue [#1421](https://github.com/pypa/pipx/issues/1421) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled issue [#1381](https://github.com/pypa/pipx/issues/1381) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 💪 Opened PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ℹ️ Labeled issue [#1619](https://github.com/pypa/pipx/issues/1619) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled issue [#1593](https://github.com/pypa/pipx/issues/1593) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ℹ️ Labeled issue [#1545](https://github.com/pypa/pipx/issues/1545) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ℹ️ Labeled issue [#1527](https://github.com/pypa/pipx/issues/1527) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
