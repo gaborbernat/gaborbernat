@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 💪 Opened PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled issue [#1619](https://github.com/pypa/pipx/issues/1619) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled issue [#1593](https://github.com/pypa/pipx/issues/1593) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🚀 Published release [v4.50.0](https://github.com/tox-dev/tox/releases/tag/4.50.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#5473](https://github.com/SchemaStore/schemastore/pull/5473) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+3. 🎉 Merged PR [#3884](https://github.com/tox-dev/tox/pull/3884) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#3858](https://github.com/tox-dev/tox/issues/3858) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#3882](https://github.com/tox-dev/tox/pull/3882) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 💪 Opened PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🎉 Merged PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ℹ️ Labeled PR [#1729](https://github.com/pypa/pipx/pull/1729) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
