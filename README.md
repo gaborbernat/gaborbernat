@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
-2. 🔓 Reopened issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
-3. 🔒 Closed issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#781](https://github.com/pypa/build/issues/781#issuecomment-4086094166) in [pypa/build](https://github.com/pypa/build)
-5. 🔒 Closed issue [#3885](https://github.com/tox-dev/tox/issues/3885) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🔒 Closed issue [#1449](https://github.com/pypa/pipx/issues/1449) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🔒 Closed issue [#812](https://github.com/pypa/pipx/issues/812) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ❌ Closed PR [#3886](https://github.com/tox-dev/tox/pull/3886) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#3886](https://github.com/tox-dev/tox/pull/3886) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🗣 Commented on [#1718](https://github.com/pypa/pipx/issues/1718#issuecomment-4086235614) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🔒 Closed issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
+5. 🔓 Reopened issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
+6. 🔒 Closed issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
+7. 🗣 Commented on [#781](https://github.com/pypa/build/issues/781#issuecomment-4086094166) in [pypa/build](https://github.com/pypa/build)
+8. 🔒 Closed issue [#3885](https://github.com/tox-dev/tox/issues/3885) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🔒 Closed issue [#1449](https://github.com/pypa/pipx/issues/1449) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🎉 Merged PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
