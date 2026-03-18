@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#276](https://github.com/tox-dev/toml-fmt/pull/276) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#276](https://github.com/tox-dev/toml-fmt/pull/276) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ℹ️ Labeled PR [#1742](https://github.com/pypa/pipx/pull/1742) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 💪 Opened PR [#1742](https://github.com/pypa/pipx/pull/1742) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#2](https://github.com/tox-dev/workflow/issues/2#issuecomment-4083162101) in [tox-dev/workflow](https://github.com/tox-dev/workflow)
-6. 🔒 Closed issue [#2](https://github.com/tox-dev/workflow/issues/2) in [tox-dev/workflow](https://github.com/tox-dev/workflow)
-7. 🎉 Merged PR [#1741](https://github.com/pypa/pipx/pull/1741) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled PR [#1741](https://github.com/pypa/pipx/pull/1741) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#1741](https://github.com/pypa/pipx/pull/1741) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🎉 Merged PR [#1740](https://github.com/pypa/pipx/pull/1740) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🚀 Published release [pyproject-fmt/2.20.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.20.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🔒 Closed issue [#275](https://github.com/tox-dev/toml-fmt/issues/275) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#276](https://github.com/tox-dev/toml-fmt/pull/276) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. ℹ️ Labeled PR [#276](https://github.com/tox-dev/toml-fmt/pull/276) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#276](https://github.com/tox-dev/toml-fmt/pull/276) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. ℹ️ Labeled PR [#1742](https://github.com/pypa/pipx/pull/1742) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 💪 Opened PR [#1742](https://github.com/pypa/pipx/pull/1742) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#2](https://github.com/tox-dev/workflow/issues/2#issuecomment-4083162101) in [tox-dev/workflow](https://github.com/tox-dev/workflow)
+9. 🔒 Closed issue [#2](https://github.com/tox-dev/workflow/issues/2) in [tox-dev/workflow](https://github.com/tox-dev/workflow)
+10. 🎉 Merged PR [#1741](https://github.com/pypa/pipx/pull/1741) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
