@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/williambailey/pacproxy/pull/18) in [williambailey/pacproxy](https://github.com/williambailey/pacproxy)
-2. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-4078419069) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-4078418373) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🗣 Commented on [#3885](https://github.com/tox-dev/tox/issues/3885#issuecomment-4077644082) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#1723](https://github.com/pypa/pipx/issues/1723) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ❌ Closed PR [#1457](https://github.com/pypa/pipx/pull/1457) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🗣 Commented on [#1457](https://github.com/pypa/pipx/pull/1457#issuecomment-4076886178) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#1701](https://github.com/pypa/pipx/pull/1701#issuecomment-4076811555) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ❌ Closed PR [#1701](https://github.com/pypa/pipx/pull/1701) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🎉 Merged PR [#1733](https://github.com/pypa/pipx/pull/1733) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-4078722247) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+2. 💪 Opened PR [#18](https://github.com/williambailey/pacproxy/pull/18) in [williambailey/pacproxy](https://github.com/williambailey/pacproxy)
+3. 🗣 Commented on [#4349](https://github.com/universal-ctags/ctags/pull/4349#issuecomment-4078419069) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+4. 🗣 Commented on [#4347](https://github.com/universal-ctags/ctags/pull/4347#issuecomment-4078418373) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+5. 🗣 Commented on [#3885](https://github.com/tox-dev/tox/issues/3885#issuecomment-4077644082) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🔒 Closed issue [#1723](https://github.com/pypa/pipx/issues/1723) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ❌ Closed PR [#1457](https://github.com/pypa/pipx/pull/1457) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#1457](https://github.com/pypa/pipx/pull/1457#issuecomment-4076886178) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🗣 Commented on [#1701](https://github.com/pypa/pipx/pull/1701#issuecomment-4076811555) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ❌ Closed PR [#1701](https://github.com/pypa/pipx/pull/1701) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
