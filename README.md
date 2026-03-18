@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🔒 Closed issue [#812](https://github.com/pypa/pipx/issues/812) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1751](https://github.com/pypa/pipx/pull/1751) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🔒 Closed issue [#609](https://github.com/pypa/pipx/issues/609) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🎉 Merged PR [#1746](https://github.com/pypa/pipx/pull/1746) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#1524](https://github.com/pypa/pipx/issues/1524) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#1750](https://github.com/pypa/pipx/pull/1750) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Unlabeled issue [#1660](https://github.com/pypa/pipx/issues/1660) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled issue [#1660](https://github.com/pypa/pipx/issues/1660) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🔒 Closed issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
+2. 🔓 Reopened issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
+3. 🔒 Closed issue [#781](https://github.com/pypa/build/issues/781) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#781](https://github.com/pypa/build/issues/781#issuecomment-4086094166) in [pypa/build](https://github.com/pypa/build)
+5. 🔒 Closed issue [#3885](https://github.com/tox-dev/tox/issues/3885) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🔒 Closed issue [#1449](https://github.com/pypa/pipx/issues/1449) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🎉 Merged PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#1752](https://github.com/pypa/pipx/pull/1752) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🔒 Closed issue [#812](https://github.com/pypa/pipx/issues/812) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
