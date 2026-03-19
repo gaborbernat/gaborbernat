@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.50.1](https://github.com/tox-dev/tox/releases/tag/4.50.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3888](https://github.com/tox-dev/tox/pull/3888) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#1508](https://github.com/pypa/pipx/issues/1508) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1756](https://github.com/pypa/pipx/pull/1756) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#52](https://github.com/tox-dev/python-discovery/issues/52#issuecomment-4086954898) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🔒 Closed issue [#52](https://github.com/tox-dev/python-discovery/issues/52) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-7. 🚀 Published release [1.2.0](https://github.com/tox-dev/python-discovery/releases/tag/1.2.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 🎉 Merged PR [#53](https://github.com/tox-dev/python-discovery/pull/53) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. ℹ️ Labeled PR [#53](https://github.com/tox-dev/python-discovery/pull/53) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 💪 Opened PR [#53](https://github.com/tox-dev/python-discovery/pull/53) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#5473](https://github.com/SchemaStore/schemastore/pull/5473) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 🚀 Published release [v4.50.1](https://github.com/tox-dev/tox/releases/tag/4.50.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#3888](https://github.com/tox-dev/tox/pull/3888) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#1508](https://github.com/pypa/pipx/issues/1508) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1756](https://github.com/pypa/pipx/pull/1756) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🗣 Commented on [#52](https://github.com/tox-dev/python-discovery/issues/52#issuecomment-4086954898) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. 🔒 Closed issue [#52](https://github.com/tox-dev/python-discovery/issues/52) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 🚀 Published release [1.2.0](https://github.com/tox-dev/python-discovery/releases/tag/1.2.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+9. 🎉 Merged PR [#53](https://github.com/tox-dev/python-discovery/pull/53) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. ℹ️ Labeled PR [#53](https://github.com/tox-dev/python-discovery/pull/53) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ---
