@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#3314](https://github.com/tox-dev/tox/issues/3314) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#18](https://github.com/williambailey/pacproxy/pull/18) in [williambailey/pacproxy](https://github.com/williambailey/pacproxy)
-3. 🎉 Merged PR [#5473](https://github.com/SchemaStore/schemastore/pull/5473) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-4. 🚀 Published release [v4.50.1](https://github.com/tox-dev/tox/releases/tag/4.50.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3888](https://github.com/tox-dev/tox/pull/3888) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🔒 Closed issue [#1508](https://github.com/pypa/pipx/issues/1508) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#1756](https://github.com/pypa/pipx/pull/1756) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#52](https://github.com/tox-dev/python-discovery/issues/52#issuecomment-4086954898) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🔒 Closed issue [#52](https://github.com/tox-dev/python-discovery/issues/52) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 🚀 Published release [1.2.0](https://github.com/tox-dev/python-discovery/releases/tag/1.2.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🚀 Published release [2.32.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.32.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🔒 Closed issue [#530](https://github.com/tox-dev/pipdeptree/issues/530) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔓 Reopened issue [#3314](https://github.com/tox-dev/tox/issues/3314) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#18](https://github.com/williambailey/pacproxy/pull/18) in [williambailey/pacproxy](https://github.com/williambailey/pacproxy)
+5. 🎉 Merged PR [#5473](https://github.com/SchemaStore/schemastore/pull/5473) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+6. 🚀 Published release [v4.50.1](https://github.com/tox-dev/tox/releases/tag/4.50.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#3888](https://github.com/tox-dev/tox/pull/3888) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🔒 Closed issue [#1508](https://github.com/pypa/pipx/issues/1508) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🎉 Merged PR [#1756](https://github.com/pypa/pipx/pull/1756) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🗣 Commented on [#52](https://github.com/tox-dev/python-discovery/issues/52#issuecomment-4086954898) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ---
