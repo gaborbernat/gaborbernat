@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🔒 Closed issue [#3892](https://github.com/tox-dev/tox/issues/3892) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3892](https://github.com/tox-dev/tox/issues/3892#issuecomment-4097866103) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [v4.50.3](https://github.com/tox-dev/tox/releases/tag/4.50.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🔒 Closed issue [#3314](https://github.com/tox-dev/tox/issues/3314) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🎉 Merged PR [#3891](https://github.com/tox-dev/tox/pull/3891) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled PR [#3891](https://github.com/tox-dev/tox/pull/3891) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#3891](https://github.com/tox-dev/tox/pull/3891) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 💪 Opened PR [#3891](https://github.com/tox-dev/tox/pull/3891) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🚀 Published release [3.9.9](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.9) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#662](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/662) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ℹ️ Labeled PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🔒 Closed issue [#3892](https://github.com/tox-dev/tox/issues/3892) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🗣 Commented on [#3892](https://github.com/tox-dev/tox/issues/3892#issuecomment-4097866103) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🚀 Published release [v4.50.3](https://github.com/tox-dev/tox/releases/tag/4.50.3) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🔒 Closed issue [#3314](https://github.com/tox-dev/tox/issues/3314) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🎉 Merged PR [#3891](https://github.com/tox-dev/tox/pull/3891) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ---
