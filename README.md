@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1757](https://github.com/pypa/pipx/pull/1757) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#1757](https://github.com/pypa/pipx/pull/1757) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🔒 Closed issue [#277](https://github.com/tox-dev/toml-fmt/issues/277) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#278](https://github.com/tox-dev/toml-fmt/pull/278) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. ℹ️ Labeled PR [#278](https://github.com/tox-dev/toml-fmt/pull/278) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 💪 Opened PR [#278](https://github.com/tox-dev/toml-fmt/pull/278) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🚀 Published release [3.9.9](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.9) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 🔒 Closed issue [#662](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/662) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🎉 Merged PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. ℹ️ Labeled PR [#663](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/663) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#1757](https://github.com/pypa/pipx/pull/1757) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🔒 Closed issue [#1441](https://github.com/pypa/pipx/issues/1441) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#1757](https://github.com/pypa/pipx/pull/1757) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 💪 Opened PR [#1757](https://github.com/pypa/pipx/pull/1757) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🔒 Closed issue [#277](https://github.com/tox-dev/toml-fmt/issues/277) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🎉 Merged PR [#278](https://github.com/tox-dev/toml-fmt/pull/278) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ℹ️ Labeled PR [#278](https://github.com/tox-dev/toml-fmt/pull/278) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#278](https://github.com/tox-dev/toml-fmt/pull/278) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 🚀 Published release [3.9.9](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.9) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🔒 Closed issue [#662](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/662) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
