@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
-2. 🔒 Closed issue [#1698](https://github.com/pypa/pipx/issues/1698) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🔒 Closed issue [#1503](https://github.com/pypa/pipx/issues/1503) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1761](https://github.com/pypa/pipx/pull/1761) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled PR [#1761](https://github.com/pypa/pipx/pull/1761) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 💪 Opened PR [#1761](https://github.com/pypa/pipx/pull/1761) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#552](https://github.com/tox-dev/pipdeptree/pull/552) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🎉 Merged PR [#1759](https://github.com/pypa/pipx/pull/1759) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🔒 Closed issue [#1582](https://github.com/pypa/pipx/issues/1582) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🎉 Merged PR [#1760](https://github.com/pypa/pipx/pull/1760) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#515](https://github.com/tox-dev/filelock/issues/515#issuecomment-4111398555) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#515](https://github.com/tox-dev/filelock/issues/515) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🚀 Published release [3.20.4](https://github.com/tox-dev/filelock/releases/tag/3.20.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🔒 Closed issue [#176](https://github.com/LilSpazJoekp/docstrfmt/issues/176) in [LilSpazJoekp/docstrfmt](https://github.com/LilSpazJoekp/docstrfmt)
+5. 🔒 Closed issue [#1698](https://github.com/pypa/pipx/issues/1698) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🔒 Closed issue [#1503](https://github.com/pypa/pipx/issues/1503) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🎉 Merged PR [#1761](https://github.com/pypa/pipx/pull/1761) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled PR [#1761](https://github.com/pypa/pipx/pull/1761) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#1761](https://github.com/pypa/pipx/pull/1761) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🎉 Merged PR [#552](https://github.com/tox-dev/pipdeptree/pull/552) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 ---
