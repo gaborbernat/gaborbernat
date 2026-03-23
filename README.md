@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1769](https://github.com/pypa/pipx/pull/1769) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#1769](https://github.com/pypa/pipx/pull/1769) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🔒 Closed issue [#780](https://github.com/pypa/pipx/issues/780) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🔒 Closed issue [#1368](https://github.com/pypa/pipx/issues/1368) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🗣 Commented on [#1368](https://github.com/pypa/pipx/issues/1368#issuecomment-4114134251) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#1648](https://github.com/pypa/pipx/issues/1648) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#1648](https://github.com/pypa/pipx/issues/1648#issuecomment-4114107016) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🔒 Closed issue [#666](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/666) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. 🎉 Merged PR [#667](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/667) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🔒 Closed issue [#1364](https://github.com/pypa/pipx/issues/1364) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#1771](https://github.com/pypa/pipx/pull/1771) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#735](https://github.com/pypa/pipx/issues/735) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#1770](https://github.com/pypa/pipx/pull/1770) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled PR [#1771](https://github.com/pypa/pipx/pull/1771) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 💪 Opened PR [#1771](https://github.com/pypa/pipx/pull/1771) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🚀 Published release [3.9.10](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.10) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 🎉 Merged PR [#668](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/668) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🔒 Closed issue [#664](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/664) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🔒 Closed issue [#795](https://github.com/pypa/pipx/issues/795) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
