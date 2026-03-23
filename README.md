@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ℹ️ Labeled PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 💪 Opened PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#667](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/667) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 💪 Opened PR [#667](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/667) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. ❌ Closed PR [#993](https://github.com/pypa/build/pull/993) in [pypa/build](https://github.com/pypa/build)
-7. 🗣 Commented on [#994](https://github.com/pypa/build/pull/994#issuecomment-4113952053) in [pypa/build](https://github.com/pypa/build)
-8. 🔒 Closed issue [#561](https://github.com/pypa/build/issues/561) in [pypa/build](https://github.com/pypa/build)
-9. 🎉 Merged PR [#991](https://github.com/pypa/build/pull/991) in [pypa/build](https://github.com/pypa/build)
-10. 🔒 Closed issue [#1672](https://github.com/pypa/pipx/issues/1672) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#1769](https://github.com/pypa/pipx/pull/1769) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 💪 Opened PR [#1769](https://github.com/pypa/pipx/pull/1769) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#780](https://github.com/pypa/pipx/issues/780) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🔒 Closed issue [#1368](https://github.com/pypa/pipx/issues/1368) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🗣 Commented on [#1368](https://github.com/pypa/pipx/issues/1368#issuecomment-4114134251) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🔒 Closed issue [#1648](https://github.com/pypa/pipx/issues/1648) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#1648](https://github.com/pypa/pipx/issues/1648#issuecomment-4114107016) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🔒 Closed issue [#666](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/666) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🎉 Merged PR [#667](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/667) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
