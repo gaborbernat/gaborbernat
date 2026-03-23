@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#561](https://github.com/pypa/build/issues/561) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#991](https://github.com/pypa/build/pull/991) in [pypa/build](https://github.com/pypa/build)
-3. 🔒 Closed issue [#1672](https://github.com/pypa/pipx/issues/1672) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1767](https://github.com/pypa/pipx/pull/1767) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled PR [#1767](https://github.com/pypa/pipx/pull/1767) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 💪 Opened PR [#1767](https://github.com/pypa/pipx/pull/1767) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🗣 Commented on [#991](https://github.com/pypa/build/pull/991#issuecomment-4113543514) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 💪 Opened PR [#1768](https://github.com/pypa/pipx/pull/1768) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#667](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/667) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#667](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/667) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ❌ Closed PR [#993](https://github.com/pypa/build/pull/993) in [pypa/build](https://github.com/pypa/build)
+7. 🗣 Commented on [#994](https://github.com/pypa/build/pull/994#issuecomment-4113952053) in [pypa/build](https://github.com/pypa/build)
+8. 🔒 Closed issue [#561](https://github.com/pypa/build/issues/561) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#991](https://github.com/pypa/build/pull/991) in [pypa/build](https://github.com/pypa/build)
+10. 🔒 Closed issue [#1672](https://github.com/pypa/pipx/issues/1672) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
