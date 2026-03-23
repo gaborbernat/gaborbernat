@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1260](https://github.com/pypa/pipx/issues/1260#issuecomment-4112710484) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#7772](https://github.com/ScoopInstaller/Main/pull/7772) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
-3. ❌ Closed PR [#1724](https://github.com/pypa/pipx/pull/1724) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🔒 Closed issue [#1570](https://github.com/pypa/pipx/issues/1570) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#557](https://github.com/tox-dev/pipdeptree/pull/557) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. 💪 Opened PR [#557](https://github.com/tox-dev/pipdeptree/pull/557) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. 🔒 Closed issue [#1621](https://github.com/pypa/pipx/issues/1621) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#515](https://github.com/tox-dev/filelock/issues/515#issuecomment-4111398555) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🔒 Closed issue [#515](https://github.com/tox-dev/filelock/issues/515) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🚀 Published release [3.20.4](https://github.com/tox-dev/filelock/releases/tag/3.20.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 💪 Opened PR [#1765](https://github.com/pypa/pipx/pull/1765) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🚀 Published release [2.34.0](https://github.com/tox-dev/pipdeptree/releases/tag/2.34.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🎉 Merged PR [#558](https://github.com/tox-dev/pipdeptree/pull/558) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. 💪 Opened PR [#558](https://github.com/tox-dev/pipdeptree/pull/558) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. 🗣 Commented on [#1260](https://github.com/pypa/pipx/issues/1260#issuecomment-4112710484) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#7772](https://github.com/ScoopInstaller/Main/pull/7772) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
+10. ❌ Closed PR [#1724](https://github.com/pypa/pipx/pull/1724) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
