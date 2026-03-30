@@ -20,15 +20,15 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/tox-dev/xml-fmt/pull/66) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-2. 💪 Opened PR [#3099](https://github.com/pypa/virtualenv/pull/3099) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#317](https://github.com/tox-dev/tox-uv/pull/317) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 💪 Opened PR [#321](https://github.com/tox-dev/tox-ini-fmt/pull/321) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 💪 Opened PR [#251](https://github.com/tox-dev/tox-gh/pull/251) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-6. 💪 Opened PR [#3896](https://github.com/tox-dev/tox/pull/3896) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 💪 Opened PR [#280](https://github.com/tox-dev/toml-fmt/pull/280) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 💪 Opened PR [#672](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/672) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 💪 Opened PR [#299](https://github.com/tox-dev/sphinx-argparse-cli/pull/299) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 💪 Opened PR [#5511](https://github.com/SchemaStore/schemastore/pull/5511) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 🚀 Published release [v4.52.0](https://github.com/tox-dev/tox/releases/tag/4.52.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#3897](https://github.com/tox-dev/tox/issues/3897) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#3878](https://github.com/tox-dev/tox/issues/3878) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🎉 Merged PR [#3911](https://github.com/tox-dev/tox/pull/3911) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 💪 Opened PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🎉 Merged PR [#3910](https://github.com/tox-dev/tox/pull/3910) in [tox-dev/tox](https://github.com/tox-dev/tox)
 10. 💪 Opened PR [#217](https://github.com/pytest-dev/pytest-print/pull/217) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 <!--END_SECTION:activity-->
 
