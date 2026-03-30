@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5511](https://github.com/SchemaStore/schemastore/pull/5511) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-2. 🚀 Published release [v4.52.0](https://github.com/tox-dev/tox/releases/tag/4.52.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#3897](https://github.com/tox-dev/tox/issues/3897) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#3878](https://github.com/tox-dev/tox/issues/3878) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#3911](https://github.com/tox-dev/tox/pull/3911) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ℹ️ Labeled PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 💪 Opened PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🎉 Merged PR [#3910](https://github.com/tox-dev/tox/pull/3910) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 💪 Opened PR [#217](https://github.com/pytest-dev/pytest-print/pull/217) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🎉 Merged PR [#5511](https://github.com/SchemaStore/schemastore/pull/5511) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 💪 Opened PR [#5511](https://github.com/SchemaStore/schemastore/pull/5511) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+3. 🚀 Published release [v4.52.0](https://github.com/tox-dev/tox/releases/tag/4.52.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🔒 Closed issue [#3897](https://github.com/tox-dev/tox/issues/3897) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🔒 Closed issue [#3878](https://github.com/tox-dev/tox/issues/3878) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#3911](https://github.com/tox-dev/tox/pull/3911) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 💪 Opened PR [#3912](https://github.com/tox-dev/tox/pull/3912) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🎉 Merged PR [#3910](https://github.com/tox-dev/tox/pull/3910) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ---
