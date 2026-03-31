@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#472](https://github.com/tox-dev/platformdirs/pull/472) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🚀 Published release [v2.2.7](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.2.7) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🎉 Merged PR [#159](https://github.com/tox-dev/PyVenvManage/pull/159) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#161](https://github.com/tox-dev/PyVenvManage/pull/161) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 💪 Opened PR [#161](https://github.com/tox-dev/PyVenvManage/pull/161) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. 🎉 Merged PR [#60](https://github.com/tox-dev/jetbrains-fish/pull/60) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-7. 🎉 Merged PR [#160](https://github.com/tox-dev/PyVenvManage/pull/160) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-8. ℹ️ Labeled PR [#160](https://github.com/tox-dev/PyVenvManage/pull/160) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-9. 💪 Opened PR [#160](https://github.com/tox-dev/PyVenvManage/pull/160) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 💪 Opened PR [#60](https://github.com/tox-dev/jetbrains-fish/pull/60) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 🎉 Merged PR [#162](https://github.com/tox-dev/PyVenvManage/pull/162) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 💪 Opened PR [#162](https://github.com/tox-dev/PyVenvManage/pull/162) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 🎉 Merged PR [#335](https://github.com/tox-dev/pyproject-fmt/pull/335) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 🎉 Merged PR [#3102](https://github.com/pypa/virtualenv/pull/3102) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#520](https://github.com/tox-dev/filelock/pull/520) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#472](https://github.com/tox-dev/platformdirs/pull/472) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🚀 Published release [v2.2.7](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.2.7) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 🎉 Merged PR [#159](https://github.com/tox-dev/PyVenvManage/pull/159) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+9. 🎉 Merged PR [#161](https://github.com/tox-dev/PyVenvManage/pull/161) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 💪 Opened PR [#161](https://github.com/tox-dev/PyVenvManage/pull/161) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 <!--END_SECTION:activity-->
 
 ---
