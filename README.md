@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#285](https://github.com/tox-dev/toml-fmt/pull/285) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🚀 Published release [pyproject-fmt/2.21.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.21.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🔒 Closed issue [#284](https://github.com/tox-dev/toml-fmt/issues/284) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#284](https://github.com/tox-dev/toml-fmt/issues/284#issuecomment-4163398302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#285](https://github.com/tox-dev/toml-fmt/pull/285) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. ℹ️ Labeled PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. 💪 Opened PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🔒 Closed issue [#282](https://github.com/tox-dev/toml-fmt/issues/282) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🎉 Merged PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. ℹ️ Labeled PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#334](https://github.com/tox-dev/pyproject-fmt/pull/334) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🎉 Merged PR [#285](https://github.com/tox-dev/toml-fmt/pull/285) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🚀 Published release [pyproject-fmt/2.21.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.21.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🔒 Closed issue [#284](https://github.com/tox-dev/toml-fmt/issues/284) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🗣 Commented on [#284](https://github.com/tox-dev/toml-fmt/issues/284#issuecomment-4163398302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#285](https://github.com/tox-dev/toml-fmt/pull/285) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ℹ️ Labeled PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. 💪 Opened PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 🔒 Closed issue [#282](https://github.com/tox-dev/toml-fmt/issues/282) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🎉 Merged PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
