@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 💪 Opened PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🔒 Closed issue [#282](https://github.com/tox-dev/toml-fmt/issues/282) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. ℹ️ Labeled PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 💪 Opened PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🚀 Published release [1.34.0](https://github.com/tox-dev/tox-uv/releases/tag/1.34.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. 🎉 Merged PR [#319](https://github.com/tox-dev/tox-uv/pull/319) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. ℹ️ Labeled PR [#319](https://github.com/tox-dev/tox-uv/pull/319) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. 💪 Opened PR [#319](https://github.com/tox-dev/tox-uv/pull/319) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [pyproject-fmt/2.21.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.21.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🔒 Closed issue [#284](https://github.com/tox-dev/toml-fmt/issues/284) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#284](https://github.com/tox-dev/toml-fmt/issues/284#issuecomment-4163398302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#285](https://github.com/tox-dev/toml-fmt/pull/285) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ℹ️ Labeled PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 💪 Opened PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. 🔒 Closed issue [#282](https://github.com/tox-dev/toml-fmt/issues/282) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🎉 Merged PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. ℹ️ Labeled PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 💪 Opened PR [#283](https://github.com/tox-dev/toml-fmt/pull/283) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
