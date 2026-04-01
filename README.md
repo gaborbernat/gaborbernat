@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#287](https://github.com/tox-dev/toml-fmt/pull/287) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🎉 Merged PR [#286](https://github.com/tox-dev/toml-fmt/pull/286) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#287](https://github.com/tox-dev/toml-fmt/pull/287) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 💪 Opened PR [#286](https://github.com/tox-dev/toml-fmt/pull/286) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🎉 Merged PR [#162](https://github.com/tox-dev/PyVenvManage/pull/162) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. 💪 Opened PR [#162](https://github.com/tox-dev/PyVenvManage/pull/162) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-7. 🎉 Merged PR [#335](https://github.com/tox-dev/pyproject-fmt/pull/335) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-8. 🎉 Merged PR [#3102](https://github.com/pypa/virtualenv/pull/3102) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#520](https://github.com/tox-dev/filelock/pull/520) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#472](https://github.com/tox-dev/platformdirs/pull/472) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Reopened PR [#163](https://github.com/tox-dev/PyVenvManage/pull/163) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. ❌ Closed PR [#163](https://github.com/tox-dev/PyVenvManage/pull/163) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. ℹ️ Labeled PR [#163](https://github.com/tox-dev/PyVenvManage/pull/163) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. 💪 Opened PR [#163](https://github.com/tox-dev/PyVenvManage/pull/163) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🎉 Merged PR [#287](https://github.com/tox-dev/toml-fmt/pull/287) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🎉 Merged PR [#286](https://github.com/tox-dev/toml-fmt/pull/286) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 💪 Opened PR [#287](https://github.com/tox-dev/toml-fmt/pull/287) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#286](https://github.com/tox-dev/toml-fmt/pull/286) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 🎉 Merged PR [#162](https://github.com/tox-dev/PyVenvManage/pull/162) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 💪 Opened PR [#162](https://github.com/tox-dev/PyVenvManage/pull/162) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 <!--END_SECTION:activity-->
 
 ---
