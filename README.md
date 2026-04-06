@@ -20,9 +20,9 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/tox-dev/python-discovery/issues/59#issuecomment-4192504032) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. 🗣 Commented on [#564](https://github.com/tox-dev/pipdeptree/pull/564#issuecomment-4181228202) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#165](https://github.com/tox-dev/PyVenvManage/pull/165) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🗣 Commented on [#3105](https://github.com/pypa/virtualenv/issues/3105#issuecomment-4192632988) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#103](https://github.com/tox-dev/pipdeptree/issues/103) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#59](https://github.com/tox-dev/python-discovery/issues/59#issuecomment-4192504032) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 4. 🚀 Published release [v2.3.0](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.3.0) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 5. 🎉 Merged PR [#163](https://github.com/tox-dev/PyVenvManage/pull/163) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 6. 🗣 Commented on [#564](https://github.com/tox-dev/pipdeptree/pull/564#issuecomment-4173631522) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
