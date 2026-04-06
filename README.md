@@ -20,10 +20,10 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#563](https://github.com/tox-dev/pipdeptree/pull/563#issuecomment-4194074849) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🗣 Commented on [#59](https://github.com/tox-dev/python-discovery/issues/59#issuecomment-4193370563) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 🗣 Commented on [#3105](https://github.com/pypa/virtualenv/issues/3105#issuecomment-4192632988) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🔒 Closed issue [#103](https://github.com/tox-dev/pipdeptree/issues/103) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ❌ Closed PR [#334](https://github.com/tox-dev/pyproject-fmt/pull/334) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+2. 🗣 Commented on [#563](https://github.com/tox-dev/pipdeptree/pull/563#issuecomment-4194074849) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#59](https://github.com/tox-dev/python-discovery/issues/59#issuecomment-4193370563) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. 🗣 Commented on [#3105](https://github.com/pypa/virtualenv/issues/3105#issuecomment-4192632988) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. 🗣 Commented on [#59](https://github.com/tox-dev/python-discovery/issues/59#issuecomment-4192504032) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 6. 🗣 Commented on [#564](https://github.com/tox-dev/pipdeptree/pull/564#issuecomment-4173631522) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 7. ℹ️ Reopened PR [#163](https://github.com/tox-dev/PyVenvManage/pull/163) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
