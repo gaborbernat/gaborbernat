@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3110](https://github.com/pypa/virtualenv/pull/3110#issuecomment-4196248793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 💪 Opened PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🔒 Closed issue [#521](https://github.com/tox-dev/filelock/issues/521) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🔒 Closed issue [#59](https://github.com/tox-dev/python-discovery/issues/59) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-7. ℹ️ Labeled PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ❗ Opened issue [#3231](https://github.com/astral-sh/ty/issues/3231) in [astral-sh/ty](https://github.com/astral-sh/ty)
-10. 🔒 Closed issue [#471](https://github.com/tox-dev/platformdirs/issues/471) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🔒 Closed issue [#3105](https://github.com/pypa/virtualenv/issues/3105) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#3110](https://github.com/pypa/virtualenv/pull/3110#issuecomment-4196248793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 💪 Opened PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🔒 Closed issue [#521](https://github.com/tox-dev/filelock/issues/521) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 🔒 Closed issue [#59](https://github.com/tox-dev/python-discovery/issues/59) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. ℹ️ Labeled PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. ❗ Opened issue [#3231](https://github.com/astral-sh/ty/issues/3231) in [astral-sh/ty](https://github.com/astral-sh/ty)
 <!--END_SECTION:activity-->
 
 ---
