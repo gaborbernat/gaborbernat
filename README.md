@@ -20,14 +20,14 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#518](https://github.com/tox-dev/filelock/pull/518) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#325](https://github.com/tox-dev/tox-uv/pull/325) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#3921](https://github.com/tox-dev/tox/pull/3921) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3921](https://github.com/tox-dev/tox/pull/3921) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.9.6](https://github.com/tox-dev/platformdirs/releases/tag/4.9.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🎉 Merged PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. 🔒 Closed issue [#3105](https://github.com/pypa/virtualenv/issues/3105) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#3112](https://github.com/pypa/virtualenv/pull/3112) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3112](https://github.com/pypa/virtualenv/pull/3112) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#518](https://github.com/tox-dev/filelock/pull/518) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#325](https://github.com/tox-dev/tox-uv/pull/325) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ℹ️ Labeled PR [#3921](https://github.com/tox-dev/tox/pull/3921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#3921](https://github.com/tox-dev/tox/pull/3921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🚀 Published release [4.9.6](https://github.com/tox-dev/platformdirs/releases/tag/4.9.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 🎉 Merged PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 9. 💪 Opened PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 10. ❗ Opened issue [#3231](https://github.com/astral-sh/ty/issues/3231) in [astral-sh/ty](https://github.com/astral-sh/ty)
 <!--END_SECTION:activity-->
