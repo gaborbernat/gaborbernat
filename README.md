@@ -20,12 +20,12 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3105](https://github.com/pypa/virtualenv/issues/3105) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🗣 Commented on [#3110](https://github.com/pypa/virtualenv/pull/3110#issuecomment-4196248793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 💪 Opened PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🔒 Closed issue [#521](https://github.com/tox-dev/filelock/issues/521) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🎉 Merged PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🚀 Published release [4.9.6](https://github.com/tox-dev/platformdirs/releases/tag/4.9.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🔒 Closed issue [#3105](https://github.com/pypa/virtualenv/issues/3105) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#3110](https://github.com/pypa/virtualenv/pull/3110#issuecomment-4196248793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. 💪 Opened PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 7. 🔒 Closed issue [#59](https://github.com/tox-dev/python-discovery/issues/59) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 8. ℹ️ Labeled PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 9. 💪 Opened PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
