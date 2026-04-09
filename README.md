@@ -20,13 +20,13 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [4.9.6](https://github.com/tox-dev/platformdirs/releases/tag/4.9.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🎉 Merged PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🔒 Closed issue [#3105](https://github.com/pypa/virtualenv/issues/3105) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#3110](https://github.com/pypa/virtualenv/pull/3110#issuecomment-4196248793) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 💪 Opened PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. 🔒 Closed issue [#59](https://github.com/tox-dev/python-discovery/issues/59) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. ℹ️ Labeled PR [#518](https://github.com/tox-dev/filelock/pull/518) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#325](https://github.com/tox-dev/tox-uv/pull/325) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ℹ️ Labeled PR [#3921](https://github.com/tox-dev/tox/pull/3921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#3921](https://github.com/tox-dev/tox/pull/3921) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🚀 Published release [4.9.6](https://github.com/tox-dev/platformdirs/releases/tag/4.9.6) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. 🎉 Merged PR [#477](https://github.com/tox-dev/platformdirs/pull/477) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🔒 Closed issue [#3105](https://github.com/pypa/virtualenv/issues/3105) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 8. ℹ️ Labeled PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 9. 💪 Opened PR [#524](https://github.com/tox-dev/filelock/pull/524) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 10. ❗ Opened issue [#3231](https://github.com/astral-sh/ty/issues/3231) in [astral-sh/ty](https://github.com/astral-sh/ty)
