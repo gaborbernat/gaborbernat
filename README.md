@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#569](https://github.com/tox-dev/pipdeptree/pull/569) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🔓 Reopened issue [#405](https://github.com/pypa/build/issues/405) in [pypa/build](https://github.com/pypa/build)
-3. 💪 Opened PR [#569](https://github.com/tox-dev/pipdeptree/pull/569) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🎉 Merged PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🔒 Closed issue [#875](https://github.com/pypa/build/issues/875) in [pypa/build](https://github.com/pypa/build)
-6. 🎉 Merged PR [#1019](https://github.com/pypa/build/pull/1019) in [pypa/build](https://github.com/pypa/build)
-7. 🔒 Closed issue [#1007](https://github.com/pypa/build/issues/1007) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#1017](https://github.com/pypa/build/pull/1017) in [pypa/build](https://github.com/pypa/build)
-9. 💪 Opened PR [#1019](https://github.com/pypa/build/pull/1019) in [pypa/build](https://github.com/pypa/build)
-10. ℹ️ Labeled PR [#1018](https://github.com/pypa/build/pull/1018) in [pypa/build](https://github.com/pypa/build)
+1. 🚀 Published release [2.35.1](https://github.com/tox-dev/pipdeptree/releases/tag/2.35.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🚀 Published release [1.35.1](https://github.com/tox-dev/tox-uv/releases/tag/1.35.1) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🔒 Closed issue [#326](https://github.com/tox-dev/tox-uv/issues/326) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🗣 Commented on [#1018](https://github.com/pypa/build/pull/1018#issuecomment-4225128479) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#569](https://github.com/tox-dev/pipdeptree/pull/569) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🔓 Reopened issue [#405](https://github.com/pypa/build/issues/405) in [pypa/build](https://github.com/pypa/build)
+7. 💪 Opened PR [#569](https://github.com/tox-dev/pipdeptree/pull/569) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. 🎉 Merged PR [#563](https://github.com/tox-dev/pipdeptree/pull/563) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 🔒 Closed issue [#875](https://github.com/pypa/build/issues/875) in [pypa/build](https://github.com/pypa/build)
+10. 🎉 Merged PR [#1019](https://github.com/pypa/build/pull/1019) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
