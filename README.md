@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3118](https://github.com/pypa/virtualenv/pull/3118) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#3119](https://github.com/pypa/virtualenv/pull/3119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#3120](https://github.com/pypa/virtualenv/pull/3120) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3121](https://github.com/pypa/virtualenv/pull/3121) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🚀 Published release [v4.53.0](https://github.com/tox-dev/tox/releases/tag/4.53.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4244348445) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-4241160342) in [astral-sh/uv](https://github.com/astral-sh/uv)
-10. ℹ️ Labeled PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [3.27.0](https://github.com/tox-dev/filelock/releases/tag/3.27.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#526](https://github.com/tox-dev/filelock/issues/526) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#528](https://github.com/tox-dev/filelock/pull/528) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#3118](https://github.com/pypa/virtualenv/pull/3118) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3119](https://github.com/pypa/virtualenv/pull/3119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🎉 Merged PR [#3120](https://github.com/pypa/virtualenv/pull/3120) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#3121](https://github.com/pypa/virtualenv/pull/3121) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🚀 Published release [v4.53.0](https://github.com/tox-dev/tox/releases/tag/4.53.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4244348445) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
