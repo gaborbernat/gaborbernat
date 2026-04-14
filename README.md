@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#528](https://github.com/tox-dev/filelock/pull/528) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#528](https://github.com/tox-dev/filelock/pull/528) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 3. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 💪 Opened PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4240103316) in [pypa/build](https://github.com/pypa/build)
-8. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4240020561) in [pypa/build](https://github.com/pypa/build)
-9. 🗣 Commented on [#526](https://github.com/tox-dev/filelock/issues/526#issuecomment-4238255575) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#1032](https://github.com/pypa/build/pull/1032) in [pypa/build](https://github.com/pypa/build)
+6. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 💪 Opened PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4240103316) in [pypa/build](https://github.com/pypa/build)
+10. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4240020561) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
