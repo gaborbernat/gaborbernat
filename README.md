@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-4241160342) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ℹ️ Labeled PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3121](https://github.com/pypa/virtualenv/pull/3121) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#3121](https://github.com/pypa/virtualenv/pull/3121) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3120](https://github.com/pypa/virtualenv/pull/3120) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 💪 Opened PR [#3120](https://github.com/pypa/virtualenv/pull/3120) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#3119](https://github.com/pypa/virtualenv/pull/3119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 💪 Opened PR [#3119](https://github.com/pypa/virtualenv/pull/3119) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#3118](https://github.com/pypa/virtualenv/pull/3118) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [v4.53.0](https://github.com/tox-dev/tox/releases/tag/4.53.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#1027](https://github.com/pypa/build/pull/1027#issuecomment-4244348445) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#3923](https://github.com/tox-dev/tox/pull/3923) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#14728](https://github.com/astral-sh/uv/pull/14728#issuecomment-4241160342) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ℹ️ Labeled PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 💪 Opened PR [#3122](https://github.com/pypa/virtualenv/pull/3122) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. ℹ️ Labeled PR [#3121](https://github.com/pypa/virtualenv/pull/3121) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 💪 Opened PR [#3121](https://github.com/pypa/virtualenv/pull/3121) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ℹ️ Labeled PR [#3120](https://github.com/pypa/virtualenv/pull/3120) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#3120](https://github.com/pypa/virtualenv/pull/3120) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
