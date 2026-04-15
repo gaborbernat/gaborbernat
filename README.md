@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.10.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.10.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🔒 Closed issue [#683](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/683) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#684](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/684) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ℹ️ Labeled PR [#684](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/684) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 💪 Opened PR [#684](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/684) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🎉 Merged PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. ℹ️ Labeled PR [#3124](https://github.com/pypa/virtualenv/pull/3124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#3124](https://github.com/pypa/virtualenv/pull/3124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. 💪 Opened PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ❌ Closed PR [#17708](https://github.com/astral-sh/uv/pull/17708) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. ❌ Closed PR [#1636](https://github.com/downshift-js/downshift/pull/1636) in [downshift-js/downshift](https://github.com/downshift-js/downshift)
+3. 🎉 Merged PR [#3924](https://github.com/tox-dev/tox/pull/3924) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3124](https://github.com/pypa/virtualenv/pull/3124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [3.10.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.10.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🔒 Closed issue [#683](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/683) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 🎉 Merged PR [#684](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/684) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. ℹ️ Labeled PR [#684](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/684) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 💪 Opened PR [#684](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/684) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🎉 Merged PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 ---
