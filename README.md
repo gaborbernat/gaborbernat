@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#295](https://github.com/tox-dev/toml-fmt/pull/295) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🎉 Merged PR [#296](https://github.com/tox-dev/toml-fmt/pull/296) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#296](https://github.com/tox-dev/toml-fmt/pull/296) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 💪 Opened PR [#295](https://github.com/tox-dev/toml-fmt/pull/295) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. ℹ️ Labeled PR [#3924](https://github.com/tox-dev/tox/pull/3924) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 💪 Opened PR [#3924](https://github.com/tox-dev/tox/pull/3924) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🚀 Published release [3.28.0](https://github.com/tox-dev/filelock/releases/tag/3.28.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🎉 Merged PR [#529](https://github.com/tox-dev/filelock/pull/529) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ℹ️ Labeled PR [#529](https://github.com/tox-dev/filelock/pull/529) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 💪 Opened PR [#529](https://github.com/tox-dev/filelock/pull/529) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. ℹ️ Labeled PR [#3124](https://github.com/pypa/virtualenv/pull/3124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#3124](https://github.com/pypa/virtualenv/pull/3124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ℹ️ Labeled PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 💪 Opened PR [#571](https://github.com/tox-dev/pipdeptree/pull/571) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. ❌ Closed PR [#3123](https://github.com/pypa/virtualenv/pull/3123) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3123](https://github.com/pypa/virtualenv/pull/3123) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🗣 Commented on [#1739](https://github.com/pypa/pipx/pull/1739#issuecomment-4252951880) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🎉 Merged PR [#295](https://github.com/tox-dev/toml-fmt/pull/295) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🎉 Merged PR [#296](https://github.com/tox-dev/toml-fmt/pull/296) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
