@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#3128](https://github.com/pypa/virtualenv/pull/3128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3128](https://github.com/pypa/virtualenv/pull/3128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#4937](https://github.com/oracle/opengrok/pull/4937) in [oracle/opengrok](https://github.com/oracle/opengrok)
-9. 🎉 Merged PR [#3924](https://github.com/tox-dev/tox/pull/3924) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 🎉 Merged PR [#3124](https://github.com/pypa/virtualenv/pull/3124) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [3.29.0](https://github.com/tox-dev/filelock/releases/tag/3.29.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ℹ️ Labeled PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Labeled PR [#3128](https://github.com/pypa/virtualenv/pull/3128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 💪 Opened PR [#3128](https://github.com/pypa/virtualenv/pull/3128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. ℹ️ Labeled PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 💪 Opened PR [#4937](https://github.com/oracle/opengrok/pull/4937) in [oracle/opengrok](https://github.com/oracle/opengrok)
 <!--END_SECTION:activity-->
 
 ---
