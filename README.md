@@ -20,10 +20,10 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4937](https://github.com/oracle/opengrok/pull/4937) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 💪 Opened PR [#1791](https://github.com/pypa/pipx/pull/1791) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#44](https://github.com/gaborbernat/bernat-tech/pull/44) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-4. 🗣 Commented on [#65](https://github.com/tox-dev/python-discovery/issues/65#issuecomment-4256308025) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 💪 Opened PR [#533](https://github.com/tox-dev/filelock/pull/533) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#4937](https://github.com/oracle/opengrok/pull/4937) in [oracle/opengrok](https://github.com/oracle/opengrok)
 5. ℹ️ Labeled PR [#44](https://github.com/gaborbernat/bernat-tech/pull/44) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
 6. 💪 Opened PR [#44](https://github.com/gaborbernat/bernat-tech/pull/44) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
 7. ❌ Closed PR [#17708](https://github.com/astral-sh/uv/pull/17708) in [astral-sh/uv](https://github.com/astral-sh/uv)
