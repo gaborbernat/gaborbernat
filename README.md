@@ -20,9 +20,9 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4309125696) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4305474388) in [oracle/opengrok](https://github.com/oracle/opengrok)
-3. 🎉 Merged PR [#4935](https://github.com/oracle/opengrok/pull/4935) in [oracle/opengrok](https://github.com/oracle/opengrok)
+1. 🔒 Closed issue [#1054](https://github.com/pypa/build/issues/1054) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#1054](https://github.com/pypa/build/issues/1054#issuecomment-4327599537) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4309125696) in [oracle/opengrok](https://github.com/oracle/opengrok)
 4. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4292032740) in [oracle/opengrok](https://github.com/oracle/opengrok)
 5. ❌ Closed PR [#1739](https://github.com/pypa/pipx/pull/1739) in [pypa/pipx](https://github.com/pypa/pipx)
 6. 🚀 Published release [3.29.0](https://github.com/tox-dev/filelock/releases/tag/3.29.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
