@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4328665707) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. ❌ Closed PR [#4349](https://github.com/universal-ctags/ctags/pull/4349) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-3. ❌ Closed PR [#4347](https://github.com/universal-ctags/ctags/pull/4347) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-4. 🔒 Closed issue [#1054](https://github.com/pypa/build/issues/1054) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#1054](https://github.com/pypa/build/issues/1054#issuecomment-4327599537) in [pypa/build](https://github.com/pypa/build)
-6. 🚀 Published release [3.29.0](https://github.com/tox-dev/filelock/releases/tag/3.29.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. ℹ️ Labeled PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 💪 Opened PR [#534](https://github.com/tox-dev/filelock/pull/534) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Labeled PR [#3128](https://github.com/pypa/virtualenv/pull/3128) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#1797](https://github.com/pypa/pipx/pull/1797#issuecomment-4328815814) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ❌ Closed PR [#1053](https://github.com/pypa/build/pull/1053) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#1053](https://github.com/pypa/build/pull/1053#issuecomment-4328809695) in [pypa/build](https://github.com/pypa/build)
+4. 🔒 Closed issue [#1575](https://github.com/pypa/pipx/issues/1575) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🔒 Closed issue [#1523](https://github.com/pypa/pipx/issues/1523) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#1791](https://github.com/pypa/pipx/pull/1791) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🗣 Commented on [#1775](https://github.com/pypa/pipx/pull/1775#issuecomment-4328777614) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ❌ Closed PR [#1775](https://github.com/pypa/pipx/pull/1775) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ❌ Closed PR [#1684](https://github.com/pypa/pipx/pull/1684) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🗣 Commented on [#1684](https://github.com/pypa/pipx/pull/1684#issuecomment-4328775747) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ---
