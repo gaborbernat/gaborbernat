@@ -20,8 +20,8 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1056](https://github.com/pypa/build/pull/1056#issuecomment-4345401713) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#1053](https://github.com/pypa/build/pull/1053#issuecomment-4329046006) in [pypa/build](https://github.com/pypa/build)
+1. 🔒 Closed issue [#577](https://github.com/tox-dev/pipdeptree/issues/577) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🗣 Commented on [#1056](https://github.com/pypa/build/pull/1056#issuecomment-4345401713) in [pypa/build](https://github.com/pypa/build)
 3. ❌ Closed PR [#1053](https://github.com/pypa/build/pull/1053) in [pypa/build](https://github.com/pypa/build)
 4. 🗣 Commented on [#1053](https://github.com/pypa/build/pull/1053#issuecomment-4328809695) in [pypa/build](https://github.com/pypa/build)
 5. 🔒 Closed issue [#1575](https://github.com/pypa/pipx/issues/1575) in [pypa/pipx](https://github.com/pypa/pipx)
