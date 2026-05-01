@@ -20,15 +20,15 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2380](https://github.com/jazzband/pip-tools/pull/2380) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-2. 🎉 Merged PR [#302](https://github.com/tox-dev/toml-fmt/pull/302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#301](https://github.com/tox-dev/toml-fmt/pull/301) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 💪 Opened PR [#302](https://github.com/tox-dev/toml-fmt/pull/302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#301](https://github.com/tox-dev/toml-fmt/pull/301) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4358460314) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-7. 🔒 Closed issue [#577](https://github.com/tox-dev/pipdeptree/issues/577) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🗣 Commented on [#1056](https://github.com/pypa/build/pull/1056#issuecomment-4345401713) in [pypa/build](https://github.com/pypa/build)
-9. ❌ Closed PR [#1775](https://github.com/pypa/pipx/pull/1775) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 💪 Opened PR [#1](https://github.com/gaborbernat/pip-tools/pull/1) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+2. 💪 Opened PR [#2380](https://github.com/jazzband/pip-tools/pull/2380) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+3. 🎉 Merged PR [#302](https://github.com/tox-dev/toml-fmt/pull/302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#301](https://github.com/tox-dev/toml-fmt/pull/301) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#302](https://github.com/tox-dev/toml-fmt/pull/302) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#301](https://github.com/tox-dev/toml-fmt/pull/301) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4358460314) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+8. 🔒 Closed issue [#577](https://github.com/tox-dev/pipdeptree/issues/577) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 🗣 Commented on [#1056](https://github.com/pypa/build/pull/1056#issuecomment-4345401713) in [pypa/build](https://github.com/pypa/build)
 10. ❌ Closed PR [#1684](https://github.com/pypa/pipx/pull/1684) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
