@@ -20,8 +20,8 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.53.1](https://github.com/tox-dev/tox/releases/tag/4.53.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#3929](https://github.com/tox-dev/tox/issues/3929) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#690](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/690) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🚀 Published release [v4.53.1](https://github.com/tox-dev/tox/releases/tag/4.53.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. 🎉 Merged PR [#3932](https://github.com/tox-dev/tox/pull/3932) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 💪 Opened PR [#3932](https://github.com/tox-dev/tox/pull/3932) in [tox-dev/tox](https://github.com/tox-dev/tox)
 5. 🎉 Merged PR [#3930](https://github.com/tox-dev/tox/pull/3930) in [tox-dev/tox](https://github.com/tox-dev/tox)
