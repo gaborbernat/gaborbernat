@@ -20,11 +20,11 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#690](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/690) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🚀 Published release [v4.53.1](https://github.com/tox-dev/tox/releases/tag/4.53.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#3932](https://github.com/tox-dev/tox/pull/3932) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3932](https://github.com/tox-dev/tox/pull/3932) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#3930](https://github.com/tox-dev/tox/pull/3930) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#299](https://github.com/tox-dev/toml-fmt/issues/299) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🎉 Merged PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. ℹ️ Labeled PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🔒 Closed issue [#690](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/690) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 6. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4361016359) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
 7. 🗣 Commented on [#3389](https://github.com/astral-sh/ty/issues/3389#issuecomment-4360980726) in [astral-sh/ty](https://github.com/astral-sh/ty)
 8. ❗ Opened issue [#3389](https://github.com/astral-sh/ty/issues/3389) in [astral-sh/ty](https://github.com/astral-sh/ty)
