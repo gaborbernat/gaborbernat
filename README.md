@@ -20,8 +20,8 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#299](https://github.com/tox-dev/toml-fmt/issues/299) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🎉 Merged PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 3. ℹ️ Labeled PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 4. 💪 Opened PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 5. 🔒 Closed issue [#690](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/690) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
