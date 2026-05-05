@@ -20,14 +20,14 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ℹ️ Labeled PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 💪 Opened PR [#304](https://github.com/tox-dev/toml-fmt/pull/304) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#690](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/690) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4361016359) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-7. 🗣 Commented on [#3389](https://github.com/astral-sh/ty/issues/3389#issuecomment-4360980726) in [astral-sh/ty](https://github.com/astral-sh/ty)
-8. ❗ Opened issue [#3389](https://github.com/astral-sh/ty/issues/3389) in [astral-sh/ty](https://github.com/astral-sh/ty)
+1. ℹ️ Labeled PR [#3138](https://github.com/pypa/virtualenv/pull/3138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3138](https://github.com/pypa/virtualenv/pull/3138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [pyproject-fmt/2.21.2](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.21.2) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🚀 Published release [tox-toml-fmt/1.9.3](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.3) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🔒 Closed issue [#305](https://github.com/tox-dev/toml-fmt/issues/305) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ℹ️ Labeled PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 9. 💪 Opened PR [#1](https://github.com/gaborbernat/pip-tools/pull/1) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
 10. 💪 Opened PR [#2380](https://github.com/jazzband/pip-tools/pull/2380) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
 <!--END_SECTION:activity-->
