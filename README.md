@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.0](https://github.com/tox-dev/python-discovery/releases/tag/1.3.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. 🔒 Closed issue [#65](https://github.com/tox-dev/python-discovery/issues/65) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 🎉 Merged PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. ℹ️ Labeled PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. ℹ️ Labeled PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. 💪 Opened PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. ℹ️ Labeled PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 💪 Opened PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🚀 Published release [1.35.2](https://github.com/tox-dev/tox-uv/releases/tag/1.35.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. 🔒 Closed issue [#336](https://github.com/tox-dev/tox-uv/issues/336) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🔒 Closed issue [#1535](https://github.com/pypa/pipx/issues/1535) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#1544](https://github.com/pypa/pipx/pull/1544#issuecomment-4380840205) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❌ Closed PR [#1544](https://github.com/pypa/pipx/pull/1544) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🚀 Published release [1.3.0](https://github.com/tox-dev/python-discovery/releases/tag/1.3.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. 🔒 Closed issue [#65](https://github.com/tox-dev/python-discovery/issues/65) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. 🎉 Merged PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. ℹ️ Labeled PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. ℹ️ Labeled PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 💪 Opened PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. ℹ️ Labeled PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ---
