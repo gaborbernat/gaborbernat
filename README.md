@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3138](https://github.com/pypa/virtualenv/pull/3138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#3138](https://github.com/pypa/virtualenv/pull/3138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🚀 Published release [pyproject-fmt/2.21.2](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.21.2) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🚀 Published release [tox-toml-fmt/1.9.3](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.9.3) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🎉 Merged PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🔒 Closed issue [#305](https://github.com/tox-dev/toml-fmt/issues/305) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. ℹ️ Labeled PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 💪 Opened PR [#307](https://github.com/tox-dev/toml-fmt/pull/307) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 💪 Opened PR [#1](https://github.com/gaborbernat/pip-tools/pull/1) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-10. 💪 Opened PR [#2380](https://github.com/jazzband/pip-tools/pull/2380) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+1. 🚀 Published release [1.35.2](https://github.com/tox-dev/tox-uv/releases/tag/1.35.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🔒 Closed issue [#336](https://github.com/tox-dev/tox-uv/issues/336) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#338](https://github.com/tox-dev/tox-uv/pull/338) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#3138](https://github.com/pypa/virtualenv/pull/3138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3139](https://github.com/pypa/virtualenv/pull/3139) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🔒 Closed issue [#3135](https://github.com/pypa/virtualenv/issues/3135) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🗣 Commented on [#3135](https://github.com/pypa/virtualenv/issues/3135#issuecomment-4375872435) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🔒 Closed issue [#3134](https://github.com/pypa/virtualenv/issues/3134) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🗣 Commented on [#3134](https://github.com/pypa/virtualenv/issues/3134#issuecomment-4375871715) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. ℹ️ Labeled PR [#338](https://github.com/tox-dev/tox-uv/pull/338) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
 
 ---
