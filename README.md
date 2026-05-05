@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.35.2](https://github.com/tox-dev/tox-uv/releases/tag/1.35.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🔒 Closed issue [#336](https://github.com/tox-dev/tox-uv/issues/336) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#338](https://github.com/tox-dev/tox-uv/pull/338) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#3138](https://github.com/pypa/virtualenv/pull/3138) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3139](https://github.com/pypa/virtualenv/pull/3139) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🔒 Closed issue [#3135](https://github.com/pypa/virtualenv/issues/3135) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🗣 Commented on [#3135](https://github.com/pypa/virtualenv/issues/3135#issuecomment-4375872435) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🔒 Closed issue [#3134](https://github.com/pypa/virtualenv/issues/3134) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🗣 Commented on [#3134](https://github.com/pypa/virtualenv/issues/3134#issuecomment-4375871715) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#338](https://github.com/tox-dev/tox-uv/pull/338) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🚀 Published release [1.3.0](https://github.com/tox-dev/python-discovery/releases/tag/1.3.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. 🔒 Closed issue [#65](https://github.com/tox-dev/python-discovery/issues/65) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. 🎉 Merged PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. ℹ️ Labeled PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 💪 Opened PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. ℹ️ Labeled PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 💪 Opened PR [#71](https://github.com/tox-dev/python-discovery/pull/71) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+9. 🚀 Published release [1.35.2](https://github.com/tox-dev/tox-uv/releases/tag/1.35.2) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+10. 🔒 Closed issue [#336](https://github.com/tox-dev/tox-uv/issues/336) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
 
 ---
