@@ -20,10 +20,10 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#1057](https://github.com/pypa/build/pull/1057) in [pypa/build](https://github.com/pypa/build)
-4. 💪 Opened PR [#1057](https://github.com/pypa/build/pull/1057) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
+2. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 💪 Opened PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#1057](https://github.com/pypa/build/pull/1057) in [pypa/build](https://github.com/pypa/build)
 5. ℹ️ Assigned issue [#311](https://github.com/pypa/build/issues/311) in [pypa/build](https://github.com/pypa/build)
 6. 🔒 Closed issue [#451](https://github.com/pypa/build/issues/451) in [pypa/build](https://github.com/pypa/build)
 7. 🗣 Commented on [#451](https://github.com/pypa/build/issues/451#issuecomment-4383484753) in [pypa/build](https://github.com/pypa/build)
