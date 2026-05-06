@@ -20,14 +20,14 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13986](https://github.com/pypa/pip/pull/13986) in [pypa/pip](https://github.com/pypa/pip)
-2. 🔒 Closed issue [#1392](https://github.com/pypa/pipx/issues/1392) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🔒 Closed issue [#1370](https://github.com/pypa/pipx/issues/1370) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
-6. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 💪 Opened PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4382696880) in [oracle/opengrok](https://github.com/oracle/opengrok)
+1. 💪 Opened PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
+2. 💪 Opened PR [#13986](https://github.com/pypa/pip/pull/13986) in [pypa/pip](https://github.com/pypa/pip)
+3. 🔒 Closed issue [#1392](https://github.com/pypa/pipx/issues/1392) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🔒 Closed issue [#1370](https://github.com/pypa/pipx/issues/1370) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
+7. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 💪 Opened PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
 9. 🔒 Closed issue [#1794](https://github.com/pypa/pipx/issues/1794) in [pypa/pipx](https://github.com/pypa/pipx)
 10. ❌ Closed PR [#1544](https://github.com/pypa/pipx/pull/1544) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
