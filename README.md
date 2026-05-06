@@ -20,12 +20,12 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
-2. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 💪 Opened PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#1057](https://github.com/pypa/build/pull/1057) in [pypa/build](https://github.com/pypa/build)
-5. ℹ️ Assigned issue [#311](https://github.com/pypa/build/issues/311) in [pypa/build](https://github.com/pypa/build)
-6. 🔒 Closed issue [#451](https://github.com/pypa/build/issues/451) in [pypa/build](https://github.com/pypa/build)
+1. 🔒 Closed issue [#1392](https://github.com/pypa/pipx/issues/1392) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🔒 Closed issue [#1370](https://github.com/pypa/pipx/issues/1370) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
+5. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 💪 Opened PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
 7. 🗣 Commented on [#451](https://github.com/pypa/build/issues/451#issuecomment-4383484753) in [pypa/build](https://github.com/pypa/build)
 8. 🗣 Commented on [#4937](https://github.com/oracle/opengrok/pull/4937#issuecomment-4382696880) in [oracle/opengrok](https://github.com/oracle/opengrok)
 9. 🔒 Closed issue [#1794](https://github.com/pypa/pipx/issues/1794) in [pypa/pipx](https://github.com/pypa/pipx)
