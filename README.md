@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13986](https://github.com/pypa/pip/pull/13986#issuecomment-4391777209) in [pypa/pip](https://github.com/pypa/pip)
-2. ❌ Closed PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
-3. 🗣 Commented on [#13985](https://github.com/pypa/pip/pull/13985#issuecomment-4391766240) in [pypa/pip](https://github.com/pypa/pip)
-4. 💪 Opened PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
-5. 💪 Opened PR [#13986](https://github.com/pypa/pip/pull/13986) in [pypa/pip](https://github.com/pypa/pip)
-6. 🔒 Closed issue [#1392](https://github.com/pypa/pipx/issues/1392) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#1370](https://github.com/pypa/pipx/issues/1370) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
-10. ℹ️ Labeled PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4398684254) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+2. 🗣 Commented on [#13986](https://github.com/pypa/pip/pull/13986#issuecomment-4391777209) in [pypa/pip](https://github.com/pypa/pip)
+3. ❌ Closed PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
+4. 🗣 Commented on [#13985](https://github.com/pypa/pip/pull/13985#issuecomment-4391766240) in [pypa/pip](https://github.com/pypa/pip)
+5. 💪 Opened PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
+6. 💪 Opened PR [#13986](https://github.com/pypa/pip/pull/13986) in [pypa/pip](https://github.com/pypa/pip)
+7. 🔒 Closed issue [#1392](https://github.com/pypa/pipx/issues/1392) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🔒 Closed issue [#1370](https://github.com/pypa/pipx/issues/1370) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🎉 Merged PR [#1806](https://github.com/pypa/pipx/pull/1806) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 💪 Opened PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
 <!--END_SECTION:activity-->
 
 ---
