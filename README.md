@@ -20,11 +20,11 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2382](https://github.com/jazzband/pip-tools/pull/2382) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-2. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4401435381) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-3. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4398684254) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-4. 🗣 Commented on [#13986](https://github.com/pypa/pip/pull/13986#issuecomment-4391777209) in [pypa/pip](https://github.com/pypa/pip)
-5. ❌ Closed PR [#13985](https://github.com/pypa/pip/pull/13985) in [pypa/pip](https://github.com/pypa/pip)
+1. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4403328096) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+2. 🗣 Commented on [#2382](https://github.com/jazzband/pip-tools/pull/2382#issuecomment-4403260374) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+3. 💪 Opened PR [#2382](https://github.com/jazzband/pip-tools/pull/2382) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+4. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4401435381) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+5. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4398684254) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
 6. 🗣 Commented on [#13985](https://github.com/pypa/pip/pull/13985#issuecomment-4391766240) in [pypa/pip](https://github.com/pypa/pip)
 7. 💪 Opened PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
 8. 💪 Opened PR [#13986](https://github.com/pypa/pip/pull/13986) in [pypa/pip](https://github.com/pypa/pip)
