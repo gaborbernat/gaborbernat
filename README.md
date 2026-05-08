@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2388](https://github.com/jazzband/pip-tools/pull/2388) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-2. 🗣 Commented on [#2383](https://github.com/jazzband/pip-tools/pull/2383#issuecomment-4406913209) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-3. 💪 Opened PR [#6](https://github.com/gaborbernat/pip-tools/pull/6) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-4. 💪 Opened PR [#5](https://github.com/gaborbernat/pip-tools/pull/5) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-5. 💪 Opened PR [#4](https://github.com/gaborbernat/pip-tools/pull/4) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-6. 💪 Opened PR [#3](https://github.com/gaborbernat/pip-tools/pull/3) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-7. 💪 Opened PR [#2](https://github.com/gaborbernat/pip-tools/pull/2) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-8. 🗣 Commented on [#2175](https://github.com/jazzband/pip-tools/pull/2175#issuecomment-4403771556) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-9. 💪 Opened PR [#2387](https://github.com/jazzband/pip-tools/pull/2387) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-10. 💪 Opened PR [#2386](https://github.com/jazzband/pip-tools/pull/2386) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+1. 💪 Opened PR [#10](https://github.com/gaborbernat/pip-tools/pull/10) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+2. 💪 Opened PR [#9](https://github.com/gaborbernat/pip-tools/pull/9) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+3. 💪 Opened PR [#8](https://github.com/gaborbernat/pip-tools/pull/8) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+4. 💪 Opened PR [#7](https://github.com/gaborbernat/pip-tools/pull/7) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+5. 💪 Opened PR [#2391](https://github.com/jazzband/pip-tools/pull/2391) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+6. 💪 Opened PR [#2390](https://github.com/jazzband/pip-tools/pull/2390) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+7. 💪 Opened PR [#2389](https://github.com/jazzband/pip-tools/pull/2389) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+8. 💪 Opened PR [#2388](https://github.com/jazzband/pip-tools/pull/2388) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+9. 🗣 Commented on [#2383](https://github.com/jazzband/pip-tools/pull/2383#issuecomment-4406913209) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+10. 💪 Opened PR [#6](https://github.com/gaborbernat/pip-tools/pull/6) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
 <!--END_SECTION:activity-->
 
 ---
