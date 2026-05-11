@@ -20,12 +20,12 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13989](https://github.com/pypa/pip/pull/13989#issuecomment-4413517308) in [pypa/pip](https://github.com/pypa/pip)
-2. 🎉 Merged PR [#2389](https://github.com/jazzband/pip-tools/pull/2389) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-3. 🗣 Commented on [#13989](https://github.com/pypa/pip/pull/13989#issuecomment-4410603531) in [pypa/pip](https://github.com/pypa/pip)
-4. 🗣 Commented on [#2392](https://github.com/jazzband/pip-tools/pull/2392#issuecomment-4410462308) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-5. 🗣 Commented on [#13989](https://github.com/pypa/pip/pull/13989#issuecomment-4410257567) in [pypa/pip](https://github.com/pypa/pip)
-6. 🗣 Commented on [#2384](https://github.com/jazzband/pip-tools/pull/2384#issuecomment-4409808254) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+1. ❌ Closed PR [#55](https://github.com/gaborbernat/bernat-tech/pull/55) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 🗣 Commented on [#13989](https://github.com/pypa/pip/pull/13989#issuecomment-4413517308) in [pypa/pip](https://github.com/pypa/pip)
+3. 🎉 Merged PR [#2389](https://github.com/jazzband/pip-tools/pull/2389) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+4. 🗣 Commented on [#13989](https://github.com/pypa/pip/pull/13989#issuecomment-4410603531) in [pypa/pip](https://github.com/pypa/pip)
+5. 🗣 Commented on [#2392](https://github.com/jazzband/pip-tools/pull/2392#issuecomment-4410462308) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+6. 🗣 Commented on [#13989](https://github.com/pypa/pip/pull/13989#issuecomment-4410257567) in [pypa/pip](https://github.com/pypa/pip)
 7. 💪 Opened PR [#13989](https://github.com/pypa/pip/pull/13989) in [pypa/pip](https://github.com/pypa/pip)
 8. 🎉 Merged PR [#2391](https://github.com/jazzband/pip-tools/pull/2391) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
 9. 🎉 Merged PR [#2388](https://github.com/jazzband/pip-tools/pull/2388) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
