@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/Pylons/pastedeploy/pull/52) in [Pylons/pastedeploy](https://github.com/Pylons/pastedeploy)
-2. 🔒 Closed issue [#3934](https://github.com/tox-dev/tox/issues/3934) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🗣 Commented on [#3934](https://github.com/tox-dev/tox/issues/3934#issuecomment-4425471005) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🗣 Commented on [#3935](https://github.com/tox-dev/tox/pull/3935#issuecomment-4423523192) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ℹ️ Labeled PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#33](https://github.com/repoze/repoze.lru/pull/33) in [repoze/repoze.lru](https://github.com/repoze/repoze.lru)
+2. 💪 Opened PR [#52](https://github.com/Pylons/pastedeploy/pull/52) in [Pylons/pastedeploy](https://github.com/Pylons/pastedeploy)
+3. 🔒 Closed issue [#3934](https://github.com/tox-dev/tox/issues/3934) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🗣 Commented on [#3934](https://github.com/tox-dev/tox/issues/3934#issuecomment-4425471005) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🗣 Commented on [#3935](https://github.com/tox-dev/tox/pull/3935#issuecomment-4423523192) in [tox-dev/tox](https://github.com/tox-dev/tox)
 7. ℹ️ Labeled PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 💪 Opened PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🗣 Commented on [#3140](https://github.com/pypa/virtualenv/pull/3140#issuecomment-4417575892) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ❌ Closed PR [#55](https://github.com/gaborbernat/bernat-tech/pull/55) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+8. ℹ️ Labeled PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 💪 Opened PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🗣 Commented on [#3140](https://github.com/pypa/virtualenv/pull/3140#issuecomment-4417575892) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
