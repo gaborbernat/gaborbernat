@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. ℹ️ Labeled PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-3. 💪 Opened PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. ❌ Closed PR [#3142](https://github.com/pypa/virtualenv/pull/3142) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3143](https://github.com/pypa/virtualenv/pull/3143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3143](https://github.com/pypa/virtualenv/pull/3143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 💪 Opened PR [#3143](https://github.com/pypa/virtualenv/pull/3143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ❌ Closed PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
-9. ℹ️ Labeled PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
-10. 💪 Opened PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+1. ❌ Closed PR [#7](https://github.com/gaborbernat/pip-tools/pull/7) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+2. ❌ Closed PR [#8](https://github.com/gaborbernat/pip-tools/pull/8) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+3. ❌ Closed PR [#2](https://github.com/gaborbernat/pip-tools/pull/2) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+4. ❌ Closed PR [#10](https://github.com/gaborbernat/pip-tools/pull/10) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+5. 💪 Opened PR [#3941](https://github.com/tox-dev/tox/pull/3941) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#3940](https://github.com/tox-dev/tox/pull/3940) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 💪 Opened PR [#3940](https://github.com/tox-dev/tox/pull/3940) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🎉 Merged PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+9. ℹ️ Labeled PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+10. 💪 Opened PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
 <!--END_SECTION:activity-->
 
 ---
