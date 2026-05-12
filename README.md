@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2383](https://github.com/jazzband/pip-tools/pull/2383) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-2. 🔒 Closed issue [#311](https://github.com/pypa/build/issues/311) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#1057](https://github.com/pypa/build/pull/1057) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#33](https://github.com/repoze/repoze.lru/pull/33) in [repoze/repoze.lru](https://github.com/repoze/repoze.lru)
-6. 💪 Opened PR [#52](https://github.com/Pylons/pastedeploy/pull/52) in [Pylons/pastedeploy](https://github.com/Pylons/pastedeploy)
-7. 🔒 Closed issue [#3934](https://github.com/tox-dev/tox/issues/3934) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 🗣 Commented on [#3934](https://github.com/tox-dev/tox/issues/3934#issuecomment-4425471005) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#3937](https://github.com/tox-dev/tox/pull/3937) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 🗣 Commented on [#3935](https://github.com/tox-dev/tox/pull/3935#issuecomment-4423523192) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+2. ℹ️ Labeled PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. 💪 Opened PR [#26](https://github.com/tox-dev/action-pre-commit-uv/pull/26) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+4. ❌ Closed PR [#3142](https://github.com/pypa/virtualenv/pull/3142) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3143](https://github.com/pypa/virtualenv/pull/3143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3143](https://github.com/pypa/virtualenv/pull/3143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3143](https://github.com/pypa/virtualenv/pull/3143) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ❌ Closed PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+9. ℹ️ Labeled PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
+10. 💪 Opened PR [#2](https://github.com/gaborbernat/virtualenv/pull/2) in [gaborbernat/virtualenv](https://github.com/gaborbernat/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
