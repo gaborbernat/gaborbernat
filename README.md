@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3938](https://github.com/tox-dev/tox/issues/3938) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#3940](https://github.com/tox-dev/tox/pull/3940) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#3941](https://github.com/tox-dev/tox/pull/3941) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#3941](https://github.com/tox-dev/tox/pull/3941) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ❌ Closed PR [#7](https://github.com/gaborbernat/pip-tools/pull/7) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-6. ❌ Closed PR [#8](https://github.com/gaborbernat/pip-tools/pull/8) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-7. ❌ Closed PR [#2](https://github.com/gaborbernat/pip-tools/pull/2) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-8. ❌ Closed PR [#10](https://github.com/gaborbernat/pip-tools/pull/10) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
-9. 💪 Opened PR [#3941](https://github.com/tox-dev/tox/pull/3941) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#3940](https://github.com/tox-dev/tox/pull/3940) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 🎉 Merged PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. 💪 Opened PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 💪 Opened PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+6. ℹ️ Labeled PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 💪 Opened PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+9. ℹ️ Labeled PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 💪 Opened PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ---
