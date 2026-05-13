@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.1](https://github.com/tox-dev/python-discovery/releases/tag/1.3.1) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. 🎉 Merged PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 🎉 Merged PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-4. 🎉 Merged PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ℹ️ Labeled PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. 💪 Opened PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-7. 💪 Opened PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-8. ℹ️ Labeled PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 💪 Opened PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 🚀 Published release [v1.3.1](https://github.com/tox-dev/python-discovery/releases/tag/1.3.1) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. 🎉 Merged PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. 🎉 Merged PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+5. 🎉 Merged PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+7. 💪 Opened PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 💪 Opened PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+9. ℹ️ Labeled PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ---
