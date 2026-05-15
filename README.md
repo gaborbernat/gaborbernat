@@ -20,10 +20,10 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4451409955) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-2. 🎉 Merged PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🚀 Published release [v1.3.1](https://github.com/tox-dev/python-discovery/releases/tag/1.3.1) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. 🎉 Merged PR [#74](https://github.com/tox-dev/python-discovery/pull/74) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 💪 Opened PR [#311](https://github.com/tox-dev/toml-fmt/pull/311) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#310](https://github.com/tox-dev/toml-fmt/pull/310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4451409955) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+4. 🎉 Merged PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 5. 🎉 Merged PR [#5680](https://github.com/SchemaStore/schemastore/pull/5680) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 6. 🎉 Merged PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
 7. ℹ️ Labeled PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
