@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2387](https://github.com/jazzband/pip-tools/pull/2387) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-2. 🎉 Merged PR [#310](https://github.com/tox-dev/toml-fmt/pull/310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🗣 Commented on [#2384](https://github.com/jazzband/pip-tools/pull/2384#issuecomment-4461205300) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-4. ℹ️ Labeled PR [#1061](https://github.com/pypa/build/pull/1061) in [pypa/build](https://github.com/pypa/build)
-5. 💪 Opened PR [#1061](https://github.com/pypa/build/pull/1061) in [pypa/build](https://github.com/pypa/build)
-6. 💪 Opened PR [#311](https://github.com/tox-dev/toml-fmt/pull/311) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 💪 Opened PR [#310](https://github.com/tox-dev/toml-fmt/pull/310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4451409955) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-9. 🎉 Merged PR [#178](https://github.com/tox-dev/PyVenvManage/pull/178) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. ℹ️ Labeled PR [#3942](https://github.com/tox-dev/tox/pull/3942) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❌ Closed PR [#4](https://github.com/gaborbernat/pip-tools/pull/4) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+2. ❌ Closed PR [#5](https://github.com/gaborbernat/pip-tools/pull/5) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+3. ❌ Closed PR [#6](https://github.com/gaborbernat/pip-tools/pull/6) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+4. ❌ Closed PR [#2390](https://github.com/jazzband/pip-tools/pull/2390) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+5. ❌ Closed PR [#9](https://github.com/gaborbernat/pip-tools/pull/9) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+6. ❌ Closed PR [#11](https://github.com/gaborbernat/pip-tools/pull/11) in [gaborbernat/pip-tools](https://github.com/gaborbernat/pip-tools)
+7. 🗣 Commented on [#2380](https://github.com/jazzband/pip-tools/pull/2380#issuecomment-4464654195) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+8. ❌ Closed PR [#2380](https://github.com/jazzband/pip-tools/pull/2380) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+9. 🎉 Merged PR [#2387](https://github.com/jazzband/pip-tools/pull/2387) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+10. 🎉 Merged PR [#310](https://github.com/tox-dev/toml-fmt/pull/310) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
