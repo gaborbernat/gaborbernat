@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. ℹ️ Labeled PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#580](https://github.com/tox-dev/pipdeptree/pull/580#issuecomment-4468758686) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🔒 Closed issue [#695](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/695) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🗣 Commented on [#6426](https://github.com/astral-sh/uv/issues/6426#issuecomment-4467615516) in [astral-sh/uv](https://github.com/astral-sh/uv)
-7. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4467406150) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-8. 🗣 Commented on [#4](https://github.com/notatallshaw/nab/issues/4#issuecomment-4467398426) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-9. 🗣 Commented on [#4](https://github.com/notatallshaw/nab/issues/4#issuecomment-4467276535) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-10. 🗣 Commented on [#1061](https://github.com/pypa/build/pull/1061#issuecomment-4467097684) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#313](https://github.com/tox-dev/toml-fmt/pull/313) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#313](https://github.com/tox-dev/toml-fmt/pull/313) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🗣 Commented on [#580](https://github.com/tox-dev/pipdeptree/pull/580#issuecomment-4468758686) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. 🔒 Closed issue [#695](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/695) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🗣 Commented on [#6426](https://github.com/astral-sh/uv/issues/6426#issuecomment-4467615516) in [astral-sh/uv](https://github.com/astral-sh/uv)
+10. 🗣 Commented on [#2124](https://github.com/jazzband/pip-tools/issues/2124#issuecomment-4467406150) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
 <!--END_SECTION:activity-->
 
 ---
