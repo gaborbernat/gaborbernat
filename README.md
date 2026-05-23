@@ -20,10 +20,10 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4937](https://github.com/oracle/opengrok/pull/4937) in [oracle/opengrok](https://github.com/oracle/opengrok)
-2. 🎉 Merged PR [#2392](https://github.com/jazzband/pip-tools/pull/2392) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-3. 🗣 Commented on [#1061](https://github.com/pypa/build/pull/1061#issuecomment-4499366047) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#179](https://github.com/tox-dev/PyVenvManage/pull/179#issuecomment-4480572169) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🎉 Merged PR [#2390](https://github.com/jazzband/pip-tools/pull/2390) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+2. 🎉 Merged PR [#4937](https://github.com/oracle/opengrok/pull/4937) in [oracle/opengrok](https://github.com/oracle/opengrok)
+3. 🎉 Merged PR [#2392](https://github.com/jazzband/pip-tools/pull/2392) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+4. 🗣 Commented on [#1061](https://github.com/pypa/build/pull/1061#issuecomment-4499366047) in [pypa/build](https://github.com/pypa/build)
 5. 🗣 Commented on [#1061](https://github.com/pypa/build/pull/1061#issuecomment-4480536741) in [pypa/build](https://github.com/pypa/build)
 6. 🎉 Merged PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 7. 🎉 Merged PR [#580](https://github.com/tox-dev/pipdeptree/pull/580) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
