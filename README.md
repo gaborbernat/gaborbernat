@@ -20,9 +20,9 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/notatallshaw/nab/issues/23#issuecomment-4551648271) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-2. 🗣 Commented on [#23](https://github.com/notatallshaw/nab/issues/23#issuecomment-4551580733) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-3. 🎉 Merged PR [#2386](https://github.com/jazzband/pip-tools/pull/2386) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
+1. 🔒 Closed issue [#3146](https://github.com/pypa/virtualenv/issues/3146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🗣 Commented on [#23](https://github.com/notatallshaw/nab/issues/23#issuecomment-4551648271) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+3. 🗣 Commented on [#23](https://github.com/notatallshaw/nab/issues/23#issuecomment-4551580733) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
 4. 🎉 Merged PR [#2390](https://github.com/jazzband/pip-tools/pull/2390) in [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
 5. 🗣 Commented on [#1061](https://github.com/pypa/build/pull/1061#issuecomment-4499366047) in [pypa/build](https://github.com/pypa/build)
 6. 🎉 Merged PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
