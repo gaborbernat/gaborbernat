@@ -20,15 +20,15 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.4](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.4) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. ℹ️ Reopened PR [#267](https://github.com/tox-dev/pyproject-api/pull/267) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. ❌ Closed PR [#267](https://github.com/tox-dev/pyproject-api/pull/267) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🗣 Commented on [#267](https://github.com/tox-dev/pyproject-api/pull/267#issuecomment-4557032966) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. ❌ Closed PR [#701](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/701) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 💪 Opened PR [#701](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/701) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🔒 Closed issue [#3146](https://github.com/pypa/virtualenv/issues/3146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 💪 Opened PR [#312](https://github.com/tox-dev/toml-fmt/pull/312) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#3149](https://github.com/pypa/virtualenv/pull/3149) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3149](https://github.com/pypa/virtualenv/pull/3149) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🚀 Published release [v1.0.4](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.4) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+4. ℹ️ Reopened PR [#267](https://github.com/tox-dev/pyproject-api/pull/267) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. ❌ Closed PR [#267](https://github.com/tox-dev/pyproject-api/pull/267) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+6. 🗣 Commented on [#267](https://github.com/tox-dev/pyproject-api/pull/267#issuecomment-4557032966) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+7. ❌ Closed PR [#701](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/701) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 💪 Opened PR [#701](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/701) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🔒 Closed issue [#3146](https://github.com/pypa/virtualenv/issues/3146) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 10. 🗣 Commented on [#580](https://github.com/tox-dev/pipdeptree/pull/580#issuecomment-4468758686) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
