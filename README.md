@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3150](https://github.com/pypa/virtualenv/pull/3150) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#319](https://github.com/tox-dev/toml-fmt/pull/319) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🔒 Closed issue [#316](https://github.com/tox-dev/toml-fmt/issues/316) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🚀 Published release [v1.4.0](https://github.com/tox-dev/python-discovery/releases/tag/1.4.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 🎉 Merged PR [#79](https://github.com/tox-dev/python-discovery/pull/79) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. ℹ️ Labeled PR [#491](https://github.com/tox-dev/platformdirs/pull/491) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Labeled PR [#491](https://github.com/tox-dev/platformdirs/pull/491) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 💪 Opened PR [#491](https://github.com/tox-dev/platformdirs/pull/491) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 💪 Opened PR [#3150](https://github.com/pypa/virtualenv/pull/3150) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#319](https://github.com/tox-dev/toml-fmt/pull/319) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#3151](https://github.com/pypa/virtualenv/pull/3151) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3151](https://github.com/pypa/virtualenv/pull/3151) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#320](https://github.com/tox-dev/toml-fmt/pull/320) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🚀 Published release [4.10.0](https://github.com/tox-dev/platformdirs/releases/tag/4.10.0) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#491](https://github.com/tox-dev/platformdirs/pull/491) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. ℹ️ Labeled PR [#320](https://github.com/tox-dev/toml-fmt/pull/320) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 💪 Opened PR [#320](https://github.com/tox-dev/toml-fmt/pull/320) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🎉 Merged PR [#3150](https://github.com/pypa/virtualenv/pull/3150) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🎉 Merged PR [#319](https://github.com/tox-dev/toml-fmt/pull/319) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🔒 Closed issue [#316](https://github.com/tox-dev/toml-fmt/issues/316) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 <!--END_SECTION:activity-->
 
 ---
