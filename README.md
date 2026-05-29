@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#33](https://github.com/repoze/repoze.lru/pull/33) in [repoze/repoze.lru](https://github.com/repoze/repoze.lru)
-2. ❌ Closed PR [#52](https://github.com/Pylons/pastedeploy/pull/52) in [Pylons/pastedeploy](https://github.com/Pylons/pastedeploy)
-3. ❌ Closed PR [#14728](https://github.com/astral-sh/uv/pull/14728) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🎉 Merged PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. ℹ️ Labeled PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 💪 Opened PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🎉 Merged PR [#189](https://github.com/tox-dev/PyVenvManage/pull/189) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-8. 💪 Opened PR [#189](https://github.com/tox-dev/PyVenvManage/pull/189) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-9. 🚀 Published release [v2.4.1](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.4.1) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 🎉 Merged PR [#188](https://github.com/tox-dev/PyVenvManage/pull/188) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580576013) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580565207) in [pypa/build](https://github.com/pypa/build)
+3. ❌ Closed PR [#33](https://github.com/repoze/repoze.lru/pull/33) in [repoze/repoze.lru](https://github.com/repoze/repoze.lru)
+4. ❌ Closed PR [#52](https://github.com/Pylons/pastedeploy/pull/52) in [Pylons/pastedeploy](https://github.com/Pylons/pastedeploy)
+5. ❌ Closed PR [#14728](https://github.com/astral-sh/uv/pull/14728) in [astral-sh/uv](https://github.com/astral-sh/uv)
+6. 🎉 Merged PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ℹ️ Labeled PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 🎉 Merged PR [#189](https://github.com/tox-dev/PyVenvManage/pull/189) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 💪 Opened PR [#189](https://github.com/tox-dev/PyVenvManage/pull/189) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 <!--END_SECTION:activity-->
 
 ---
