@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580576013) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580565207) in [pypa/build](https://github.com/pypa/build)
-3. ❌ Closed PR [#33](https://github.com/repoze/repoze.lru/pull/33) in [repoze/repoze.lru](https://github.com/repoze/repoze.lru)
-4. ❌ Closed PR [#52](https://github.com/Pylons/pastedeploy/pull/52) in [Pylons/pastedeploy](https://github.com/Pylons/pastedeploy)
-5. ❌ Closed PR [#14728](https://github.com/astral-sh/uv/pull/14728) in [astral-sh/uv](https://github.com/astral-sh/uv)
-6. 🎉 Merged PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. ℹ️ Labeled PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 💪 Opened PR [#363](https://github.com/tox-dev/toml-fmt/pull/363) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🎉 Merged PR [#189](https://github.com/tox-dev/PyVenvManage/pull/189) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 💪 Opened PR [#189](https://github.com/tox-dev/PyVenvManage/pull/189) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🔒 Closed issue [#1584](https://github.com/pypa/pipx/issues/1584) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🔒 Closed issue [#1650](https://github.com/pypa/pipx/issues/1650) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 💪 Opened PR [#4967](https://github.com/oracle/opengrok/pull/4967) in [oracle/opengrok](https://github.com/oracle/opengrok)
+4. 🎉 Merged PR [#364](https://github.com/tox-dev/toml-fmt/pull/364) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ℹ️ Labeled PR [#364](https://github.com/tox-dev/toml-fmt/pull/364) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#364](https://github.com/tox-dev/toml-fmt/pull/364) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580662715) in [pypa/build](https://github.com/pypa/build)
+8. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580576013) in [pypa/build](https://github.com/pypa/build)
+9. 🗣 Commented on [#1074](https://github.com/pypa/build/pull/1074#issuecomment-4580565207) in [pypa/build](https://github.com/pypa/build)
+10. ❌ Closed PR [#33](https://github.com/repoze/repoze.lru/pull/33) in [repoze/repoze.lru](https://github.com/repoze/repoze.lru)
 <!--END_SECTION:activity-->
 
 ---
