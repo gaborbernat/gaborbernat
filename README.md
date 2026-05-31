@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3152](https://github.com/pypa/virtualenv/pull/3152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#3152](https://github.com/pypa/virtualenv/pull/3152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#3152](https://github.com/pypa/virtualenv/pull/3152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-4587297866) in [python/cpython](https://github.com/python/cpython)
-5. 🎉 Merged PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-6. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-7. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-8. 💪 Opened PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-9. 🎉 Merged PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-10. 🔒 Closed issue [#28](https://github.com/tox-dev/action-pre-commit-uv/issues/28) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 💪 Opened PR [#150682](https://github.com/python/cpython/pull/150682) in [python/cpython](https://github.com/python/cpython)
+2. 💪 Opened PR [#150681](https://github.com/python/cpython/pull/150681) in [python/cpython](https://github.com/python/cpython)
+3. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-4587457821) in [python/cpython](https://github.com/python/cpython)
+4. 💪 Opened PR [#3154](https://github.com/pypa/virtualenv/pull/3154) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#150678](https://github.com/python/cpython/pull/150678) in [python/cpython](https://github.com/python/cpython)
+6. 💪 Opened PR [#150677](https://github.com/python/cpython/pull/150677) in [python/cpython](https://github.com/python/cpython)
+7. 💪 Opened PR [#150676](https://github.com/python/cpython/pull/150676) in [python/cpython](https://github.com/python/cpython)
+8. ❌ Closed PR [#3153](https://github.com/pypa/virtualenv/pull/3153) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🗣 Commented on [#3153](https://github.com/pypa/virtualenv/pull/3153#issuecomment-4587420821) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#3153](https://github.com/pypa/virtualenv/pull/3153) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
