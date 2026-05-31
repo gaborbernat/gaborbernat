@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-3. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. 💪 Opened PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-5. 🎉 Merged PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-6. 🔒 Closed issue [#28](https://github.com/tox-dev/action-pre-commit-uv/issues/28) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-7. ℹ️ Labeled PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-8. ℹ️ Labeled PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-9. 💪 Opened PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-10. 🚀 Published release [3.10.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.10.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#3152](https://github.com/pypa/virtualenv/pull/3152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ℹ️ Labeled PR [#3152](https://github.com/pypa/virtualenv/pull/3152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#3152](https://github.com/pypa/virtualenv/pull/3152) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-4587297866) in [python/cpython](https://github.com/python/cpython)
+5. 🎉 Merged PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+6. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+7. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+8. 💪 Opened PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+9. 🎉 Merged PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+10. 🔒 Closed issue [#28](https://github.com/tox-dev/action-pre-commit-uv/issues/28) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
 <!--END_SECTION:activity-->
 
 ---
