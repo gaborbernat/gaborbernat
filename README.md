@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-4585016139) in [python/cpython](https://github.com/python/cpython)
-2. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-4584569774) in [python/cpython](https://github.com/python/cpython)
-3. 🗣 Commented on [#150597](https://github.com/python/cpython/pull/150597#issuecomment-4583219506) in [python/cpython](https://github.com/python/cpython)
-4. 💪 Opened PR [#150597](https://github.com/python/cpython/pull/150597) in [python/cpython](https://github.com/python/cpython)
-5. 🚀 Published release [pyproject-fmt/2.23.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.23.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🎉 Merged PR [#366](https://github.com/tox-dev/toml-fmt/pull/366) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. ℹ️ Labeled PR [#366](https://github.com/tox-dev/toml-fmt/pull/366) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. ℹ️ Labeled PR [#366](https://github.com/tox-dev/toml-fmt/pull/366) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 💪 Opened PR [#366](https://github.com/tox-dev/toml-fmt/pull/366) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. ℹ️ Labeled PR [#704](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/704) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+2. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. ℹ️ Labeled PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+4. 💪 Opened PR [#30](https://github.com/tox-dev/action-pre-commit-uv/pull/30) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+5. 🎉 Merged PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+6. 🔒 Closed issue [#28](https://github.com/tox-dev/action-pre-commit-uv/issues/28) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+7. ℹ️ Labeled PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+8. ℹ️ Labeled PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+9. 💪 Opened PR [#29](https://github.com/tox-dev/action-pre-commit-uv/pull/29) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+10. 🚀 Published release [3.10.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.10.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ---
