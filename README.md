@@ -20,12 +20,12 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 💪 Opened PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#150719](https://github.com/python/cpython/pull/150719#issuecomment-4596834136) in [python/cpython](https://github.com/python/cpython)
-4. 🗣 Commented on [#150718](https://github.com/python/cpython/pull/150718#issuecomment-4596347485) in [python/cpython](https://github.com/python/cpython)
-5. ℹ️ Reopened PR [#4967](https://github.com/oracle/opengrok/pull/4967) in [oracle/opengrok](https://github.com/oracle/opengrok)
-6. ❌ Closed PR [#4967](https://github.com/oracle/opengrok/pull/4967) in [oracle/opengrok](https://github.com/oracle/opengrok)
+1. 🔒 Closed issue [#1444](https://github.com/pypa/pipx/issues/1444) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 💪 Opened PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🗣 Commented on [#150719](https://github.com/python/cpython/pull/150719#issuecomment-4596834136) in [python/cpython](https://github.com/python/cpython)
+5. 🗣 Commented on [#150718](https://github.com/python/cpython/pull/150718#issuecomment-4596347485) in [python/cpython](https://github.com/python/cpython)
+6. ℹ️ Reopened PR [#4967](https://github.com/oracle/opengrok/pull/4967) in [oracle/opengrok](https://github.com/oracle/opengrok)
 7. 🗣 Commented on [#559](https://github.com/tox-dev/pipdeptree/issues/559#issuecomment-4594445637) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 8. 💪 Opened PR [#150719](https://github.com/python/cpython/pull/150719) in [python/cpython](https://github.com/python/cpython)
 9. 💪 Opened PR [#150718](https://github.com/python/cpython/pull/150718) in [python/cpython](https://github.com/python/cpython)
