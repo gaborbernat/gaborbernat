@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150677](https://github.com/python/cpython/pull/150677) in [python/cpython](https://github.com/python/cpython)
-2. 🎉 Merged PR [#150676](https://github.com/python/cpython/pull/150676) in [python/cpython](https://github.com/python/cpython)
-3. 🎉 Merged PR [#150678](https://github.com/python/cpython/pull/150678) in [python/cpython](https://github.com/python/cpython)
-4. 🎉 Merged PR [#150682](https://github.com/python/cpython/pull/150682) in [python/cpython](https://github.com/python/cpython)
-5. 🎉 Merged PR [#150719](https://github.com/python/cpython/pull/150719) in [python/cpython](https://github.com/python/cpython)
-6. 🔒 Closed issue [#1444](https://github.com/pypa/pipx/issues/1444) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 💪 Opened PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🗣 Commented on [#150719](https://github.com/python/cpython/pull/150719#issuecomment-4596834136) in [python/cpython](https://github.com/python/cpython)
-10. 🗣 Commented on [#150718](https://github.com/python/cpython/pull/150718#issuecomment-4596347485) in [python/cpython](https://github.com/python/cpython)
+1. 🎉 Merged PR [#150684](https://github.com/python/cpython/pull/150684) in [python/cpython](https://github.com/python/cpython)
+2. 🎉 Merged PR [#150677](https://github.com/python/cpython/pull/150677) in [python/cpython](https://github.com/python/cpython)
+3. 🎉 Merged PR [#150676](https://github.com/python/cpython/pull/150676) in [python/cpython](https://github.com/python/cpython)
+4. 🎉 Merged PR [#150678](https://github.com/python/cpython/pull/150678) in [python/cpython](https://github.com/python/cpython)
+5. 🎉 Merged PR [#150682](https://github.com/python/cpython/pull/150682) in [python/cpython](https://github.com/python/cpython)
+6. 🎉 Merged PR [#150719](https://github.com/python/cpython/pull/150719) in [python/cpython](https://github.com/python/cpython)
+7. 🔒 Closed issue [#1444](https://github.com/pypa/pipx/issues/1444) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 💪 Opened PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. 🗣 Commented on [#150719](https://github.com/python/cpython/pull/150719#issuecomment-4596834136) in [python/cpython](https://github.com/python/cpython)
 <!--END_SECTION:activity-->
 
 ---
