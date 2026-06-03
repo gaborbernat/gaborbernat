@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150861](https://github.com/python/cpython/pull/150861) in [python/cpython](https://github.com/python/cpython)
-2. ❗ Opened issue [#150860](https://github.com/python/cpython/issues/150860) in [python/cpython](https://github.com/python/cpython)
-3. 🚀 Published release [3.0.0](https://github.com/tox-dev/pipdeptree/releases/tag/3.0.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🎉 Merged PR [#595](https://github.com/tox-dev/pipdeptree/pull/595) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#150823](https://github.com/python/cpython/pull/150823#issuecomment-4613155566) in [python/cpython](https://github.com/python/cpython)
-6. 🗣 Commented on [#150822](https://github.com/python/cpython/pull/150822#issuecomment-4613137969) in [python/cpython](https://github.com/python/cpython)
-7. 🔒 Closed issue [#187](https://github.com/tox-dev/pipdeptree/issues/187) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🎉 Merged PR [#593](https://github.com/tox-dev/pipdeptree/pull/593) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🗣 Commented on [#150817](https://github.com/python/cpython/issues/150817#issuecomment-4612926320) in [python/cpython](https://github.com/python/cpython)
-10. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-4609756557) in [python/cpython](https://github.com/python/cpython)
+1. 🚀 Published release [3.1.0](https://github.com/tox-dev/pipdeptree/releases/tag/3.1.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#597](https://github.com/tox-dev/pipdeptree/pull/597) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🔒 Closed issue [#596](https://github.com/tox-dev/pipdeptree/issues/596) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🚀 Published release [3.10.5](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.10.5) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#707](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/707) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ℹ️ Labeled PR [#707](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/707) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 💪 Opened PR [#707](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/707) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 🚀 Published release [3.29.1](https://github.com/tox-dev/filelock/releases/tag/3.29.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🗣 Commented on [#150827](https://github.com/python/cpython/pull/150827#issuecomment-4613819803) in [python/cpython](https://github.com/python/cpython)
+10. ℹ️ Labeled PR [#597](https://github.com/tox-dev/pipdeptree/pull/597) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 ---
