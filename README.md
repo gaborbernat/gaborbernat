@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150825](https://github.com/python/cpython/pull/150825#issuecomment-4624122073) in [python/cpython](https://github.com/python/cpython)
-2. 🎉 Merged PR [#150825](https://github.com/python/cpython/pull/150825) in [python/cpython](https://github.com/python/cpython)
-3. 🎉 Merged PR [#1088](https://github.com/pypa/build/pull/1088) in [pypa/build](https://github.com/pypa/build)
-4. 🚀 Published release [3.29.2](https://github.com/tox-dev/filelock/releases/tag/3.29.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 💪 Opened PR [#1088](https://github.com/pypa/build/pull/1088) in [pypa/build](https://github.com/pypa/build)
-6. ℹ️ Labeled PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 💪 Opened PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
-9. 💪 Opened PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
-10. 🎉 Merged PR [#1828](https://github.com/pypa/pipx/pull/1828) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#150825](https://github.com/python/cpython/pull/150825#issuecomment-4624122073) in [python/cpython](https://github.com/python/cpython)
+3. 🎉 Merged PR [#150825](https://github.com/python/cpython/pull/150825) in [python/cpython](https://github.com/python/cpython)
+4. 🎉 Merged PR [#1088](https://github.com/pypa/build/pull/1088) in [pypa/build](https://github.com/pypa/build)
+5. 🚀 Published release [3.29.2](https://github.com/tox-dev/filelock/releases/tag/3.29.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 💪 Opened PR [#1088](https://github.com/pypa/build/pull/1088) in [pypa/build](https://github.com/pypa/build)
+7. ℹ️ Labeled PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 💪 Opened PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
+10. 💪 Opened PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
