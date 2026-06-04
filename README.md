@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
-2. 💪 Opened PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#1828](https://github.com/pypa/pipx/pull/1828) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 💪 Opened PR [#1828](https://github.com/pypa/pipx/pull/1828) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#148](https://github.com/tox-dev/pre-commit-uv/pull/148) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-6. 💪 Opened PR [#148](https://github.com/tox-dev/pre-commit-uv/pull/148) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-7. 💪 Opened PR [#1086](https://github.com/pypa/build/pull/1086) in [pypa/build](https://github.com/pypa/build)
-8. 🗣 Commented on [#1](https://github.com/gaborbernat/build/pull/1#issuecomment-4619110954) in [gaborbernat/build](https://github.com/gaborbernat/build)
-9. ❌ Closed PR [#1](https://github.com/gaborbernat/build/pull/1) in [gaborbernat/build](https://github.com/gaborbernat/build)
-10. ℹ️ Labeled PR [#1](https://github.com/gaborbernat/build/pull/1) in [gaborbernat/build](https://github.com/gaborbernat/build)
+1. ℹ️ Labeled PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#3952](https://github.com/tox-dev/tox/pull/3952) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
+4. 💪 Opened PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#1828](https://github.com/pypa/pipx/pull/1828) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 💪 Opened PR [#1828](https://github.com/pypa/pipx/pull/1828) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🎉 Merged PR [#148](https://github.com/tox-dev/pre-commit-uv/pull/148) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+8. 💪 Opened PR [#148](https://github.com/tox-dev/pre-commit-uv/pull/148) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+9. 💪 Opened PR [#1086](https://github.com/pypa/build/pull/1086) in [pypa/build](https://github.com/pypa/build)
+10. 🗣 Commented on [#1](https://github.com/gaborbernat/build/pull/1#issuecomment-4619110954) in [gaborbernat/build](https://github.com/gaborbernat/build)
 <!--END_SECTION:activity-->
 
 ---
