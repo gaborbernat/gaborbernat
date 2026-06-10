@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#552](https://github.com/tox-dev/filelock/issues/552#issuecomment-4671610368) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#557](https://github.com/tox-dev/filelock/pull/557) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#552](https://github.com/tox-dev/filelock/issues/552) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🚀 Published release [3.29.2](https://github.com/tox-dev/filelock/releases/tag/3.29.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ❌ Closed PR [#13986](https://github.com/pypa/pip/pull/13986) in [pypa/pip](https://github.com/pypa/pip)
-6. 🎉 Merged PR [#150683](https://github.com/python/cpython/pull/150683) in [python/cpython](https://github.com/python/cpython)
-7. ℹ️ Labeled PR [#557](https://github.com/tox-dev/filelock/pull/557) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#557](https://github.com/tox-dev/filelock/pull/557) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4663312141) in [pypa/build](https://github.com/pypa/build)
-10. 🗣 Commented on [#151025](https://github.com/python/cpython/pull/151025#issuecomment-4662162200) in [python/cpython](https://github.com/python/cpython)
+1. 🚀 Published release [3.29.3](https://github.com/tox-dev/filelock/releases/tag/3.29.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#560](https://github.com/tox-dev/filelock/pull/560) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ℹ️ Labeled PR [#560](https://github.com/tox-dev/filelock/pull/560) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#560](https://github.com/tox-dev/filelock/pull/560) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#559](https://github.com/tox-dev/filelock/pull/559) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. ℹ️ Labeled PR [#559](https://github.com/tox-dev/filelock/pull/559) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 💪 Opened PR [#559](https://github.com/tox-dev/filelock/pull/559) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 🗣 Commented on [#552](https://github.com/tox-dev/filelock/issues/552#issuecomment-4671610368) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🎉 Merged PR [#557](https://github.com/tox-dev/filelock/pull/557) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🔒 Closed issue [#552](https://github.com/tox-dev/filelock/issues/552) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ---
