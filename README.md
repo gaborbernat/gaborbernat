@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.29.3](https://github.com/tox-dev/filelock/releases/tag/3.29.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#560](https://github.com/tox-dev/filelock/pull/560) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#560](https://github.com/tox-dev/filelock/pull/560) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#560](https://github.com/tox-dev/filelock/pull/560) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#559](https://github.com/tox-dev/filelock/pull/559) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#559](https://github.com/tox-dev/filelock/pull/559) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#559](https://github.com/tox-dev/filelock/pull/559) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🗣 Commented on [#552](https://github.com/tox-dev/filelock/issues/552#issuecomment-4671610368) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🎉 Merged PR [#557](https://github.com/tox-dev/filelock/pull/557) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🔒 Closed issue [#552](https://github.com/tox-dev/filelock/issues/552) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#715](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/715) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🚀 Published release [pyproject-fmt/2.24.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.24.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🔒 Closed issue [#708](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/708) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#714](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/714) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ℹ️ Labeled PR [#715](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/715) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 💪 Opened PR [#715](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/715) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. ℹ️ Labeled PR [#6](https://github.com/tox-dev/turbohtml/pull/6) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#6](https://github.com/tox-dev/turbohtml/pull/6) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 💪 Opened PR [#6](https://github.com/tox-dev/turbohtml/pull/6) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#3166](https://github.com/pypa/virtualenv/pull/3166) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
