@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/tox-dev/turbohtml/pull/6) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🗣 Commented on [#150879](https://github.com/python/cpython/pull/150879#issuecomment-4683922326) in [python/cpython](https://github.com/python/cpython)
-3. 🚀 Published release [3.11.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.11.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#716](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/716) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🗣 Commented on [#716](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/716#issuecomment-4683856477) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 💪 Opened PR [#716](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/716) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🔒 Closed issue [#3157](https://github.com/pypa/virtualenv/issues/3157) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🎉 Merged PR [#3166](https://github.com/pypa/virtualenv/pull/3166) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#7](https://github.com/tox-dev/turbohtml/pull/7) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#7](https://github.com/tox-dev/turbohtml/pull/7) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🚀 Published release [v0.2.0](https://github.com/tox-dev/turbohtml/releases/tag/0.2.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#7](https://github.com/tox-dev/turbohtml/pull/7) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#6](https://github.com/tox-dev/turbohtml/pull/6) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🗣 Commented on [#150879](https://github.com/python/cpython/pull/150879#issuecomment-4683922326) in [python/cpython](https://github.com/python/cpython)
+5. 🚀 Published release [3.11.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.11.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🎉 Merged PR [#716](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/716) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 🗣 Commented on [#716](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/716#issuecomment-4683856477) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 💪 Opened PR [#716](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/716) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🔒 Closed issue [#3157](https://github.com/pypa/virtualenv/issues/3157) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#3166](https://github.com/pypa/virtualenv/pull/3166) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
