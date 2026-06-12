@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4694466923) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#1083](https://github.com/pypa/build/pull/1083) in [pypa/build](https://github.com/pypa/build)
-3. 🔒 Closed issue [#655](https://github.com/pypa/build/issues/655) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#1086](https://github.com/pypa/build/pull/1086#issuecomment-4692316337) in [pypa/build](https://github.com/pypa/build)
-5. ❌ Closed PR [#1096](https://github.com/pypa/build/pull/1096) in [pypa/build](https://github.com/pypa/build)
-6. 🗣 Commented on [#1096](https://github.com/pypa/build/pull/1096#issuecomment-4692314831) in [pypa/build](https://github.com/pypa/build)
-7. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4692304741) in [pypa/build](https://github.com/pypa/build)
-8. 🗣 Commented on [#1086](https://github.com/pypa/build/pull/1086#issuecomment-4692273286) in [pypa/build](https://github.com/pypa/build)
-9. ℹ️ Labeled PR [#1096](https://github.com/pypa/build/pull/1096) in [pypa/build](https://github.com/pypa/build)
-10. 💪 Opened PR [#1096](https://github.com/pypa/build/pull/1096) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#1080](https://github.com/pypa/build/pull/1080) in [pypa/build](https://github.com/pypa/build)
+2. 🔒 Closed issue [#198](https://github.com/pypa/build/issues/198) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4694466923) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#1083](https://github.com/pypa/build/pull/1083) in [pypa/build](https://github.com/pypa/build)
+5. 🔒 Closed issue [#655](https://github.com/pypa/build/issues/655) in [pypa/build](https://github.com/pypa/build)
+6. 🗣 Commented on [#1086](https://github.com/pypa/build/pull/1086#issuecomment-4692316337) in [pypa/build](https://github.com/pypa/build)
+7. ❌ Closed PR [#1096](https://github.com/pypa/build/pull/1096) in [pypa/build](https://github.com/pypa/build)
+8. 🗣 Commented on [#1096](https://github.com/pypa/build/pull/1096#issuecomment-4692314831) in [pypa/build](https://github.com/pypa/build)
+9. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4692304741) in [pypa/build](https://github.com/pypa/build)
+10. 🗣 Commented on [#1086](https://github.com/pypa/build/pull/1086#issuecomment-4692273286) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
