@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#1080](https://github.com/pypa/build/pull/1080) in [pypa/build](https://github.com/pypa/build)
-7. 🔒 Closed issue [#198](https://github.com/pypa/build/issues/198) in [pypa/build](https://github.com/pypa/build)
-8. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4694466923) in [pypa/build](https://github.com/pypa/build)
-9. 🎉 Merged PR [#1083](https://github.com/pypa/build/pull/1083) in [pypa/build](https://github.com/pypa/build)
-10. 🔒 Closed issue [#655](https://github.com/pypa/build/issues/655) in [pypa/build](https://github.com/pypa/build)
+1. 🚀 Published release [pyproject-fmt/2.24.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.24.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🚀 Published release [3.29.4](https://github.com/tox-dev/filelock/releases/tag/3.29.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🎉 Merged PR [#1080](https://github.com/pypa/build/pull/1080) in [pypa/build](https://github.com/pypa/build)
+9. 🔒 Closed issue [#198](https://github.com/pypa/build/issues/198) in [pypa/build](https://github.com/pypa/build)
+10. 🗣 Commented on [#1080](https://github.com/pypa/build/pull/1080#issuecomment-4694466923) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ---
