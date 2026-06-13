@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ❌ Closed PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
-3. ℹ️ Labeled PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🚀 Published release [pyproject-fmt/2.24.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.24.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🚀 Published release [3.29.4](https://github.com/tox-dev/filelock/releases/tag/3.29.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🎉 Merged PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 💪 Opened PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🚀 Published release [1.13.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.13.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. 🎉 Merged PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. ℹ️ Labeled PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. 💪 Opened PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. 🎉 Merged PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ❌ Closed PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
+7. ℹ️ Labeled PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 💪 Opened PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🚀 Published release [pyproject-fmt/2.24.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.24.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🚀 Published release [3.29.4](https://github.com/tox-dev/filelock/releases/tag/3.29.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ---
