@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
-2. ℹ️ Labeled PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🚀 Published release [pyproject-fmt/2.24.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.24.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🚀 Published release [3.29.4](https://github.com/tox-dev/filelock/releases/tag/3.29.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🎉 Merged PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 💪 Opened PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 💪 Opened PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ❌ Closed PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
+3. ℹ️ Labeled PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🚀 Published release [pyproject-fmt/2.24.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.24.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🚀 Published release [3.29.4](https://github.com/tox-dev/filelock/releases/tag/3.29.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 🎉 Merged PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#3957](https://github.com/tox-dev/tox/pull/3957) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 💪 Opened PR [#3169](https://github.com/pypa/virtualenv/pull/3169) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
