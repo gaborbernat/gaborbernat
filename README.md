@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#12](https://github.com/tox-dev/turbohtml/pull/12) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#12](https://github.com/tox-dev/turbohtml/pull/12) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 💪 Opened PR [#12](https://github.com/tox-dev/turbohtml/pull/12) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🚀 Published release [1.13.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.13.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 🎉 Merged PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-6. ℹ️ Labeled PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-7. 💪 Opened PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-8. 🎉 Merged PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ❌ Closed PR [#13987](https://github.com/pypa/pip/pull/13987) in [pypa/pip](https://github.com/pypa/pip)
-10. ℹ️ Labeled PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#966](https://github.com/pypa/build/issues/966) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#1087](https://github.com/pypa/build/pull/1087) in [pypa/build](https://github.com/pypa/build)
+3. ℹ️ Labeled PR [#12](https://github.com/tox-dev/turbohtml/pull/12) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#12](https://github.com/tox-dev/turbohtml/pull/12) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 💪 Opened PR [#12](https://github.com/tox-dev/turbohtml/pull/12) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🚀 Published release [1.13.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.13.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+7. 🎉 Merged PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+8. ℹ️ Labeled PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+9. 💪 Opened PR [#228](https://github.com/gaborbernat/bump-deps-index/pull/228) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+10. 🎉 Merged PR [#3170](https://github.com/pypa/virtualenv/pull/3170) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ---
