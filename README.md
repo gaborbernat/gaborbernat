@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#27](https://github.com/tox-dev/turbohtml/pull/27) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🗣 Commented on [#19](https://github.com/tox-dev/turbohtml/issues/19#issuecomment-4714083295) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🗣 Commented on [#19](https://github.com/tox-dev/turbohtml/issues/19#issuecomment-4714073667) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#27](https://github.com/tox-dev/turbohtml/pull/27) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#27](https://github.com/tox-dev/turbohtml/pull/27) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🚀 Published release [v0.3.0](https://github.com/tox-dev/turbohtml/releases/tag/0.3.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#21](https://github.com/tox-dev/turbohtml/issues/21) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🗣 Commented on [#21](https://github.com/tox-dev/turbohtml/issues/21#issuecomment-4713999191) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🔒 Closed issue [#20](https://github.com/tox-dev/turbohtml/issues/20) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🗣 Commented on [#20](https://github.com/tox-dev/turbohtml/issues/20#issuecomment-4713999048) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#3171](https://github.com/pypa/virtualenv/issues/3171) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#3173](https://github.com/pypa/virtualenv/pull/3173) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#27](https://github.com/tox-dev/turbohtml/pull/27) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🗣 Commented on [#19](https://github.com/tox-dev/turbohtml/issues/19#issuecomment-4714083295) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🗣 Commented on [#19](https://github.com/tox-dev/turbohtml/issues/19#issuecomment-4714073667) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#27](https://github.com/tox-dev/turbohtml/pull/27) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#27](https://github.com/tox-dev/turbohtml/pull/27) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🚀 Published release [v0.3.0](https://github.com/tox-dev/turbohtml/releases/tag/0.3.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🔒 Closed issue [#21](https://github.com/tox-dev/turbohtml/issues/21) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🗣 Commented on [#21](https://github.com/tox-dev/turbohtml/issues/21#issuecomment-4713999191) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ---
