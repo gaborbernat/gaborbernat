@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3961](https://github.com/tox-dev/tox/pull/3961) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#383](https://github.com/tox-dev/toml-fmt/pull/383) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🔒 Closed issue [#39](https://github.com/tox-dev/turbohtml/issues/39) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🗣 Commented on [#39](https://github.com/tox-dev/turbohtml/issues/39#issuecomment-4731946178) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🔒 Closed issue [#37](https://github.com/tox-dev/turbohtml/issues/37) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🗣 Commented on [#37](https://github.com/tox-dev/turbohtml/issues/37#issuecomment-4731945751) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🗣 Commented on [#38](https://github.com/tox-dev/turbohtml/issues/38#issuecomment-4731945439) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled issue [#39](https://github.com/tox-dev/turbohtml/issues/39) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ❗ Opened issue [#39](https://github.com/tox-dev/turbohtml/issues/39) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ❗ Opened issue [#38](https://github.com/tox-dev/turbohtml/issues/38) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❌ Closed PR [#1816](https://github.com/pypa/pipx/pull/1816) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#3962](https://github.com/tox-dev/tox/pull/3962) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#385](https://github.com/tox-dev/toml-fmt/pull/385) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#385](https://github.com/tox-dev/toml-fmt/pull/385) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#3175](https://github.com/pypa/virtualenv/pull/3175) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3175](https://github.com/pypa/virtualenv/pull/3175) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3175](https://github.com/pypa/virtualenv/pull/3175) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ❌ Closed PR [#3174](https://github.com/pypa/virtualenv/pull/3174) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🎉 Merged PR [#383](https://github.com/tox-dev/toml-fmt/pull/383) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. ℹ️ Labeled issue [#40](https://github.com/tox-dev/turbohtml/issues/40) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ---
