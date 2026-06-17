@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/tox-dev/turbohtml/issues/45#issuecomment-4733307069) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🗣 Commented on [#71](https://github.com/tox-dev/turbohtml/issues/71#issuecomment-4733302176) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🔒 Closed issue [#71](https://github.com/tox-dev/turbohtml/issues/71) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🔒 Closed issue [#69](https://github.com/tox-dev/turbohtml/issues/69) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🗣 Commented on [#69](https://github.com/tox-dev/turbohtml/issues/69#issuecomment-4733301787) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🔒 Closed issue [#67](https://github.com/tox-dev/turbohtml/issues/67) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#66](https://github.com/tox-dev/turbohtml/issues/66) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🗣 Commented on [#67](https://github.com/tox-dev/turbohtml/issues/67#issuecomment-4733301429) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🔒 Closed issue [#52](https://github.com/tox-dev/turbohtml/issues/52) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🗣 Commented on [#66](https://github.com/tox-dev/turbohtml/issues/66#issuecomment-4733300938) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#1816](https://github.com/pypa/pipx/pull/1816#issuecomment-4733024951) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🚀 Published release [pyproject-fmt/2.25.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.25.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#78](https://github.com/tox-dev/turbohtml/issues/78#issuecomment-4733954571) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🗣 Commented on [#77](https://github.com/tox-dev/turbohtml/issues/77#issuecomment-4733954415) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled issue [#79](https://github.com/tox-dev/turbohtml/issues/79) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ❗ Opened issue [#79](https://github.com/tox-dev/turbohtml/issues/79) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Labeled issue [#78](https://github.com/tox-dev/turbohtml/issues/78) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ❗ Opened issue [#78](https://github.com/tox-dev/turbohtml/issues/78) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled issue [#77](https://github.com/tox-dev/turbohtml/issues/77) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ❗ Opened issue [#77](https://github.com/tox-dev/turbohtml/issues/77) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ---
