@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#61](https://github.com/tox-dev/turbohtml/issues/61) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#133](https://github.com/tox-dev/turbohtml/pull/133) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#132](https://github.com/tox-dev/turbohtml/pull/132) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Assigned issue [#99](https://github.com/tox-dev/turbohtml/issues/99) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Assigned issue [#91](https://github.com/tox-dev/turbohtml/issues/91) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🔒 Closed issue [#50](https://github.com/tox-dev/turbohtml/issues/50) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#83](https://github.com/tox-dev/turbohtml/issues/83) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#126](https://github.com/tox-dev/turbohtml/pull/126) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#125](https://github.com/tox-dev/turbohtml/pull/125) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#121](https://github.com/tox-dev/turbohtml/pull/121) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Assigned issue [#85](https://github.com/tox-dev/turbohtml/issues/85) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#138](https://github.com/tox-dev/turbohtml/pull/138) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#125](https://github.com/tox-dev/turbohtml/pull/125) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#137](https://github.com/tox-dev/turbohtml/pull/137) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#127](https://github.com/tox-dev/turbohtml/pull/127) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🔒 Closed issue [#91](https://github.com/tox-dev/turbohtml/issues/91) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#129](https://github.com/tox-dev/turbohtml/pull/129) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🔒 Closed issue [#97](https://github.com/tox-dev/turbohtml/issues/97) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#131](https://github.com/tox-dev/turbohtml/pull/131) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🔒 Closed issue [#74](https://github.com/tox-dev/turbohtml/issues/74) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ---
