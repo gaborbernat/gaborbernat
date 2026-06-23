@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3967](https://github.com/tox-dev/tox/pull/3967) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#302](https://github.com/tox-dev/turbohtml/pull/302) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#302](https://github.com/tox-dev/turbohtml/pull/302) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#301](https://github.com/tox-dev/turbohtml/pull/301) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#301](https://github.com/tox-dev/turbohtml/pull/301) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#300](https://github.com/tox-dev/turbohtml/pull/300) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#299](https://github.com/tox-dev/turbohtml/pull/299) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#3967](https://github.com/tox-dev/tox/pull/3967) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#298](https://github.com/tox-dev/turbohtml/pull/298) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#297](https://github.com/tox-dev/turbohtml/pull/297) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#304](https://github.com/tox-dev/turbohtml/pull/304) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#303](https://github.com/tox-dev/turbohtml/pull/303) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#5839](https://github.com/SchemaStore/schemastore/pull/5839) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+4. 🔒 Closed issue [#3960](https://github.com/tox-dev/tox/issues/3960) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#3967](https://github.com/tox-dev/tox/pull/3967) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#302](https://github.com/tox-dev/turbohtml/pull/302) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Labeled PR [#302](https://github.com/tox-dev/turbohtml/pull/302) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#301](https://github.com/tox-dev/turbohtml/pull/301) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#301](https://github.com/tox-dev/turbohtml/pull/301) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#300](https://github.com/tox-dev/turbohtml/pull/300) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ---
