@@ -20,13 +20,13 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5839](https://github.com/SchemaStore/schemastore/pull/5839) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-2. 💪 Opened PR [#1113](https://github.com/pypa/build/pull/1113) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#310](https://github.com/tox-dev/turbohtml/pull/310) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#310](https://github.com/tox-dev/turbohtml/pull/310) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#349](https://github.com/tox-dev/tox-uv/pull/349) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-6. 💪 Opened PR [#5839](https://github.com/SchemaStore/schemastore/pull/5839) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-7. 🔒 Closed issue [#3960](https://github.com/tox-dev/tox/issues/3960) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#312](https://github.com/tox-dev/turbohtml/pull/312) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#1014](https://github.com/pypa/pipx/issues/1014) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#5839](https://github.com/SchemaStore/schemastore/pull/5839) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+4. 💪 Opened PR [#1113](https://github.com/pypa/build/pull/1113) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#310](https://github.com/tox-dev/turbohtml/pull/310) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#310](https://github.com/tox-dev/turbohtml/pull/310) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#349](https://github.com/tox-dev/tox-uv/pull/349) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 8. 🎉 Merged PR [#3967](https://github.com/tox-dev/tox/pull/3967) in [tox-dev/tox](https://github.com/tox-dev/tox)
 9. ℹ️ Labeled PR [#302](https://github.com/tox-dev/turbohtml/pull/302) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 10. ℹ️ Labeled PR [#302](https://github.com/tox-dev/turbohtml/pull/302) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
