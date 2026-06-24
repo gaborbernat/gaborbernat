@@ -20,9 +20,9 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#305](https://github.com/tox-dev/turbohtml/pull/305) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#304](https://github.com/tox-dev/turbohtml/pull/304) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#303](https://github.com/tox-dev/turbohtml/pull/303) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#310](https://github.com/tox-dev/turbohtml/pull/310) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#349](https://github.com/tox-dev/tox-uv/pull/349) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#305](https://github.com/tox-dev/turbohtml/pull/305) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ℹ️ Labeled PR [#304](https://github.com/tox-dev/turbohtml/pull/304) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 5. ℹ️ Labeled PR [#303](https://github.com/tox-dev/turbohtml/pull/303) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 6. 💪 Opened PR [#5839](https://github.com/SchemaStore/schemastore/pull/5839) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
