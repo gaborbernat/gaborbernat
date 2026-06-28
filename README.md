@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#343](https://github.com/tox-dev/turbohtml/issues/343) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 💪 Opened PR [#489](https://github.com/sirmalloc/ccstatusline/pull/489) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
-7. 💪 Opened PR [#488](https://github.com/sirmalloc/ccstatusline/pull/488) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
-8. ❗ Opened issue [#3](https://github.com/lundberg/pytest-httpx2/issues/3) in [lundberg/pytest-httpx2](https://github.com/lundberg/pytest-httpx2)
-9. ❗ Opened issue [#324](https://github.com/lundberg/respx/issues/324) in [lundberg/respx](https://github.com/lundberg/respx)
-10. ❗ Opened issue [#486](https://github.com/sirmalloc/ccstatusline/issues/486) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
+1. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ❗ Opened issue [#343](https://github.com/tox-dev/turbohtml/issues/343) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 💪 Opened PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 💪 Opened PR [#489](https://github.com/sirmalloc/ccstatusline/pull/489) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
+10. 💪 Opened PR [#488](https://github.com/sirmalloc/ccstatusline/pull/488) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
 <!--END_SECTION:activity-->
 
 ---
