@@ -20,13 +20,13 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ❗ Opened issue [#343](https://github.com/tox-dev/turbohtml/issues/343) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
 3. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#489](https://github.com/sirmalloc/ccstatusline/pull/489) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
-6. 💪 Opened PR [#488](https://github.com/sirmalloc/ccstatusline/pull/488) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
-7. 💪 Opened PR [#487](https://github.com/sirmalloc/ccstatusline/pull/487) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
+4. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#489](https://github.com/sirmalloc/ccstatusline/pull/489) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
+7. 💪 Opened PR [#488](https://github.com/sirmalloc/ccstatusline/pull/488) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
 8. ❗ Opened issue [#3](https://github.com/lundberg/pytest-httpx2/issues/3) in [lundberg/pytest-httpx2](https://github.com/lundberg/pytest-httpx2)
 9. ❗ Opened issue [#324](https://github.com/lundberg/respx/issues/324) in [lundberg/respx](https://github.com/lundberg/respx)
 10. ❗ Opened issue [#486](https://github.com/sirmalloc/ccstatusline/issues/486) in [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
