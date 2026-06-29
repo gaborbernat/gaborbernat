@@ -20,12 +20,12 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1113](https://github.com/pypa/build/pull/1113#issuecomment-4836867455) in [pypa/build](https://github.com/pypa/build)
-2. ℹ️ Labeled PR [#346](https://github.com/tox-dev/turbohtml/pull/346) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 💪 Opened PR [#346](https://github.com/tox-dev/turbohtml/pull/346) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#341](https://github.com/tox-dev/turbohtml/pull/341) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🔒 Closed issue [#1847](https://github.com/pypa/pipx/issues/1847) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❌ Closed PR [#1110](https://github.com/pypa/build/pull/1110) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#1113](https://github.com/pypa/build/pull/1113#issuecomment-4836867455) in [pypa/build](https://github.com/pypa/build)
+3. ℹ️ Labeled PR [#346](https://github.com/tox-dev/turbohtml/pull/346) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#346](https://github.com/tox-dev/turbohtml/pull/346) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#341](https://github.com/tox-dev/turbohtml/pull/341) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🔒 Closed issue [#1847](https://github.com/pypa/pipx/issues/1847) in [pypa/pipx](https://github.com/pypa/pipx)
 7. 💪 Opened PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 8. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
 9. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
