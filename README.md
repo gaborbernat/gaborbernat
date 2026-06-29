@@ -20,13 +20,13 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/lundberg/respx/issues/324#issuecomment-4833814146) in [lundberg/respx](https://github.com/lundberg/respx)
-2. 🗣 Commented on [#395](https://github.com/tox-dev/toml-fmt/issues/395#issuecomment-4833808091) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ❗ Opened issue [#343](https://github.com/tox-dev/turbohtml/issues/343) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#341](https://github.com/tox-dev/turbohtml/pull/341) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#1847](https://github.com/pypa/pipx/issues/1847) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#324](https://github.com/lundberg/respx/issues/324#issuecomment-4833814146) in [lundberg/respx](https://github.com/lundberg/respx)
+4. 🗣 Commented on [#395](https://github.com/tox-dev/toml-fmt/issues/395#issuecomment-4833808091) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#344](https://github.com/tox-dev/turbohtml/pull/344) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 8. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
 9. ℹ️ Labeled PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
 10. 💪 Opened PR [#3970](https://github.com/tox-dev/tox/pull/3970) in [tox-dev/tox](https://github.com/tox-dev/tox)
