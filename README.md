@@ -20,8 +20,8 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2386](https://github.com/koxudaxi/datamodel-code-generator/issues/2386) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🔒 Closed issue [#1312](https://github.com/koxudaxi/datamodel-code-generator/issues/1312) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🔒 Closed issue [#1312](https://github.com/koxudaxi/datamodel-code-generator/issues/1312) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🔒 Closed issue [#2386](https://github.com/koxudaxi/datamodel-code-generator/issues/2386) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 3. 🔒 Closed issue [#1875](https://github.com/koxudaxi/datamodel-code-generator/issues/1875) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 4. 🔒 Closed issue [#1850](https://github.com/pypa/pipx/issues/1850) in [pypa/pipx](https://github.com/pypa/pipx)
 5. 🗣 Commented on [#14504](https://github.com/sphinx-doc/sphinx/pull/14504#issuecomment-4838773370) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
