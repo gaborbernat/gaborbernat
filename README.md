@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#355](https://github.com/tox-dev/turbohtml/pull/355) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#355](https://github.com/tox-dev/turbohtml/pull/355) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#353](https://github.com/tox-dev/turbohtml/pull/353) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🔒 Closed issue [#318](https://github.com/tox-dev/turbohtml/issues/318) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#354](https://github.com/tox-dev/turbohtml/pull/354) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🔒 Closed issue [#317](https://github.com/tox-dev/turbohtml/issues/317) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#354](https://github.com/tox-dev/turbohtml/pull/354) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#354](https://github.com/tox-dev/turbohtml/pull/354) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#353](https://github.com/tox-dev/turbohtml/pull/353) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#353](https://github.com/tox-dev/turbohtml/pull/353) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#316](https://github.com/tox-dev/turbohtml/issues/316) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#355](https://github.com/tox-dev/turbohtml/pull/355) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#358](https://github.com/tox-dev/turbohtml/pull/358) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🔒 Closed issue [#574](https://github.com/tox-dev/filelock/issues/574) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#1473](https://github.com/pypa/pipx/issues/1473) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#357](https://github.com/tox-dev/turbohtml/pull/357) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#361](https://github.com/tox-dev/turbohtml/pull/361) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🔒 Closed issue [#315](https://github.com/tox-dev/turbohtml/issues/315) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#361](https://github.com/tox-dev/turbohtml/pull/361) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#361](https://github.com/tox-dev/turbohtml/pull/361) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ---
