@@ -20,16 +20,16 @@ Experience organizations Artifact Repository Hosting team. I am the primary main
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.1.1](https://github.com/tox-dev/pipdeptree/releases/tag/3.1.1) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🔒 Closed issue [#607](https://github.com/tox-dev/pipdeptree/issues/607) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🎉 Merged PR [#608](https://github.com/tox-dev/pipdeptree/pull/608) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🚀 Published release [3.12.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.12.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#724](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/724) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🔒 Closed issue [#723](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/723) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. ℹ️ Labeled PR [#724](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/724) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 💪 Opened PR [#724](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/724) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. ℹ️ Labeled PR [#608](https://github.com/tox-dev/pipdeptree/pull/608) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. 💪 Opened PR [#608](https://github.com/tox-dev/pipdeptree/pull/608) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+2. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+3. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+4. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+5. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+6. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+7. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+8. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+9. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+10. ℹ️ Labeled PR [#61](https://github.com/tox-dev/velodex/pull/61) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 <!--END_SECTION:activity-->
 
 ---
