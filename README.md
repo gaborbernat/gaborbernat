@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/tox-dev/mdformat-zola/releases/tag/1.0.0) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-2. 🎉 Merged PR [#2](https://github.com/tox-dev/mdformat-zola/pull/2) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-3. ℹ️ Labeled PR [#63](https://github.com/tox-dev/velodex/pull/63) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-4. ℹ️ Labeled PR [#63](https://github.com/tox-dev/velodex/pull/63) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-5. 💪 Opened PR [#63](https://github.com/tox-dev/velodex/pull/63) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-6. 🎉 Merged PR [#442](https://github.com/tox-dev/turbohtml/pull/442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#439](https://github.com/tox-dev/turbohtml/issues/439) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🔒 Closed issue [#402](https://github.com/tox-dev/turbohtml/issues/402) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🔒 Closed issue [#4](https://github.com/tox-dev/velodex/issues/4) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-10. 🎉 Merged PR [#57](https://github.com/tox-dev/velodex/pull/57) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+1. 💪 Opened PR [#66](https://github.com/tox-dev/velodex/pull/66) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+2. ℹ️ Labeled PR [#447](https://github.com/tox-dev/turbohtml/pull/447) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#447](https://github.com/tox-dev/turbohtml/pull/447) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#446](https://github.com/tox-dev/turbohtml/pull/446) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 💪 Opened PR [#446](https://github.com/tox-dev/turbohtml/pull/446) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#445](https://github.com/tox-dev/turbohtml/pull/445) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#445](https://github.com/tox-dev/turbohtml/pull/445) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#65](https://github.com/tox-dev/velodex/pull/65) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+9. 🔒 Closed issue [#6](https://github.com/tox-dev/velodex/issues/6) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+10. 🎉 Merged PR [#64](https://github.com/tox-dev/velodex/pull/64) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
