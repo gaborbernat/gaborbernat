@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-2. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+1. 🎉 Merged PR [#74](https://github.com/tox-dev/velodex/pull/74) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+2. 🔒 Closed issue [#24](https://github.com/tox-dev/velodex/issues/24) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 3. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 4. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 5. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 6. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-7. 💪 Opened PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-8. ℹ️ Labeled PR [#78](https://github.com/tox-dev/velodex/pull/78) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-9. ℹ️ Labeled PR [#78](https://github.com/tox-dev/velodex/pull/78) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-10. 💪 Opened PR [#78](https://github.com/tox-dev/velodex/pull/78) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+7. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+8. ℹ️ Labeled PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+9. 💪 Opened PR [#79](https://github.com/tox-dev/velodex/pull/79) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+10. ℹ️ Labeled PR [#78](https://github.com/tox-dev/velodex/pull/78) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
