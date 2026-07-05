@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#493](https://github.com/tox-dev/turbohtml/pull/493) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#492](https://github.com/tox-dev/turbohtml/pull/492) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#493](https://github.com/tox-dev/turbohtml/pull/493) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#493](https://github.com/tox-dev/turbohtml/pull/493) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#492](https://github.com/tox-dev/turbohtml/pull/492) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#492](https://github.com/tox-dev/turbohtml/pull/492) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#491](https://github.com/tox-dev/turbohtml/pull/491) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#491](https://github.com/tox-dev/turbohtml/pull/491) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🗣 Commented on [#478](https://github.com/tox-dev/turbohtml/issues/478#issuecomment-4884208073) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#490](https://github.com/tox-dev/turbohtml/pull/490) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#505](https://github.com/tox-dev/turbohtml/pull/505) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#505](https://github.com/tox-dev/turbohtml/pull/505) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#504](https://github.com/tox-dev/turbohtml/pull/504) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#504](https://github.com/tox-dev/turbohtml/pull/504) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#503](https://github.com/tox-dev/turbohtml/pull/503) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🎉 Merged PR [#502](https://github.com/tox-dev/turbohtml/pull/502) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#501](https://github.com/tox-dev/turbohtml/pull/501) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#503](https://github.com/tox-dev/turbohtml/pull/503) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#503](https://github.com/tox-dev/turbohtml/pull/503) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#503](https://github.com/tox-dev/turbohtml/pull/503) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
