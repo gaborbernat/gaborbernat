@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/tox-dev/velodex/pull/88) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-2. ℹ️ Labeled PR [#88](https://github.com/tox-dev/velodex/pull/88) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-3. 💪 Opened PR [#88](https://github.com/tox-dev/velodex/pull/88) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-4. 🎉 Merged PR [#87](https://github.com/tox-dev/velodex/pull/87) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-5. ℹ️ Labeled PR [#87](https://github.com/tox-dev/velodex/pull/87) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-6. 💪 Opened PR [#87](https://github.com/tox-dev/velodex/pull/87) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-7. 🚀 Published release [1.21.4](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.21.4) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. 🎉 Merged PR [#323](https://github.com/tox-dev/sphinx-argparse-cli/pull/323) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. ℹ️ Labeled PR [#323](https://github.com/tox-dev/sphinx-argparse-cli/pull/323) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-10. ℹ️ Labeled PR [#323](https://github.com/tox-dev/sphinx-argparse-cli/pull/323) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 💪 Opened PR [#585](https://github.com/tox-dev/filelock/pull/585) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#3184](https://github.com/pypa/virtualenv/pull/3184) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#3184](https://github.com/pypa/virtualenv/pull/3184) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🚀 Published release [v1.0.0](https://github.com/tox-dev/turbohtml/releases/tag/1.0.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#525](https://github.com/tox-dev/turbohtml/pull/525) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#525](https://github.com/tox-dev/turbohtml/pull/525) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#525](https://github.com/tox-dev/turbohtml/pull/525) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#524](https://github.com/tox-dev/turbohtml/pull/524) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#524](https://github.com/tox-dev/turbohtml/pull/524) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#524](https://github.com/tox-dev/turbohtml/pull/524) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
