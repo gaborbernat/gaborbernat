@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/tox-dev/velodex/pull/83) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-2. 🎉 Merged PR [#82](https://github.com/tox-dev/velodex/pull/82) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-3. ℹ️ Labeled PR [#83](https://github.com/tox-dev/velodex/pull/83) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-4. 💪 Opened PR [#83](https://github.com/tox-dev/velodex/pull/83) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-5. ℹ️ Labeled PR [#82](https://github.com/tox-dev/velodex/pull/82) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-6. 💪 Opened PR [#82](https://github.com/tox-dev/velodex/pull/82) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-7. 🎉 Merged PR [#81](https://github.com/tox-dev/velodex/pull/81) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
-8. 🎉 Merged PR [#519](https://github.com/tox-dev/turbohtml/pull/519) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#519](https://github.com/tox-dev/turbohtml/pull/519) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#519](https://github.com/tox-dev/turbohtml/pull/519) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#520](https://github.com/tox-dev/turbohtml/pull/520) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#520](https://github.com/tox-dev/turbohtml/pull/520) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#520](https://github.com/tox-dev/turbohtml/pull/520) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#83](https://github.com/tox-dev/velodex/pull/83) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+5. 🎉 Merged PR [#82](https://github.com/tox-dev/velodex/pull/82) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+6. ℹ️ Labeled PR [#83](https://github.com/tox-dev/velodex/pull/83) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+7. 💪 Opened PR [#83](https://github.com/tox-dev/velodex/pull/83) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+8. ℹ️ Labeled PR [#82](https://github.com/tox-dev/velodex/pull/82) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+9. 💪 Opened PR [#82](https://github.com/tox-dev/velodex/pull/82) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
+10. 🎉 Merged PR [#81](https://github.com/tox-dev/velodex/pull/81) in [tox-dev/velodex](https://github.com/tox-dev/velodex)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
