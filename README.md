@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#596](https://github.com/tox-dev/turbohtml/pull/596) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🔒 Closed issue [#3578](https://github.com/koxudaxi/datamodel-code-generator/issues/3578) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🔒 Closed issue [#587](https://github.com/tox-dev/filelock/issues/587) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#588](https://github.com/tox-dev/filelock/pull/588) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#3925](https://github.com/astral-sh/ty/issues/3925#issuecomment-4908268150) in [astral-sh/ty](https://github.com/astral-sh/ty)
-6. 🎉 Merged PR [#580](https://github.com/tox-dev/turbohtml/pull/580) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#588](https://github.com/tox-dev/turbohtml/pull/588) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ❗ Opened issue [#3925](https://github.com/astral-sh/ty/issues/3925) in [astral-sh/ty](https://github.com/astral-sh/ty)
-9. 🔒 Closed issue [#539](https://github.com/tox-dev/turbohtml/issues/539) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#589](https://github.com/tox-dev/turbohtml/pull/589) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#587](https://github.com/tox-dev/turbohtml/pull/587) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#591](https://github.com/tox-dev/turbohtml/pull/591) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🔒 Closed issue [#544](https://github.com/tox-dev/turbohtml/issues/544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#596](https://github.com/tox-dev/turbohtml/pull/596) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🔒 Closed issue [#3578](https://github.com/koxudaxi/datamodel-code-generator/issues/3578) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+6. 🔒 Closed issue [#587](https://github.com/tox-dev/filelock/issues/587) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 🎉 Merged PR [#588](https://github.com/tox-dev/filelock/pull/588) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 🗣 Commented on [#3925](https://github.com/astral-sh/ty/issues/3925#issuecomment-4908268150) in [astral-sh/ty](https://github.com/astral-sh/ty)
+9. 🎉 Merged PR [#580](https://github.com/tox-dev/turbohtml/pull/580) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🎉 Merged PR [#588](https://github.com/tox-dev/turbohtml/pull/588) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
