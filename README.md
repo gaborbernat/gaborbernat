@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#594](https://github.com/tox-dev/turbohtml/pull/594) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#595](https://github.com/tox-dev/turbohtml/pull/595) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#583](https://github.com/tox-dev/turbohtml/pull/583) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#587](https://github.com/tox-dev/turbohtml/pull/587) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#591](https://github.com/tox-dev/turbohtml/pull/591) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🔒 Closed issue [#544](https://github.com/tox-dev/turbohtml/issues/544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#596](https://github.com/tox-dev/turbohtml/pull/596) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🔒 Closed issue [#3578](https://github.com/koxudaxi/datamodel-code-generator/issues/3578) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-9. 🔒 Closed issue [#587](https://github.com/tox-dev/filelock/issues/587) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#588](https://github.com/tox-dev/filelock/pull/588) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#584](https://github.com/tox-dev/turbohtml/pull/584) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#594](https://github.com/tox-dev/turbohtml/pull/594) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#595](https://github.com/tox-dev/turbohtml/pull/595) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#583](https://github.com/tox-dev/turbohtml/pull/583) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#587](https://github.com/tox-dev/turbohtml/pull/587) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🎉 Merged PR [#591](https://github.com/tox-dev/turbohtml/pull/591) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🔒 Closed issue [#544](https://github.com/tox-dev/turbohtml/issues/544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#596](https://github.com/tox-dev/turbohtml/pull/596) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🔒 Closed issue [#3578](https://github.com/koxudaxi/datamodel-code-generator/issues/3578) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+10. 🔒 Closed issue [#587](https://github.com/tox-dev/filelock/issues/587) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
