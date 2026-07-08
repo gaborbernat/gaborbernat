@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#617](https://github.com/tox-dev/turbohtml/pull/617) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#617](https://github.com/tox-dev/turbohtml/pull/617) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🚀 Published release [v1.1.1](https://github.com/tox-dev/turbohtml/releases/tag/1.1.1) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#616](https://github.com/tox-dev/turbohtml/pull/616) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#616](https://github.com/tox-dev/turbohtml/pull/616) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#616](https://github.com/tox-dev/turbohtml/pull/616) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🗣 Commented on [#2755](https://github.com/DIAGNijmegen/rse-grand-challenge/issues/2755#issuecomment-4918377123) in [DIAGNijmegen/rse-grand-challenge](https://github.com/DIAGNijmegen/rse-grand-challenge)
-8. 🗣 Commented on [#269](https://github.com/coveooss/json-schema-for-humans/issues/269#issuecomment-4918266666) in [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans)
-9. 🗣 Commented on [#1855](https://github.com/ephios-dev/ephios/issues/1855#issuecomment-4918258851) in [ephios-dev/ephios](https://github.com/ephios-dev/ephios)
-10. 🗣 Commented on [#543](https://github.com/kinverarity1/lasio/issues/543#issuecomment-4918251045) in [kinverarity1/lasio](https://github.com/kinverarity1/lasio)
+1. ℹ️ Labeled PR [#618](https://github.com/tox-dev/turbohtml/pull/618) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#618](https://github.com/tox-dev/turbohtml/pull/618) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#403](https://github.com/tox-dev/toml-fmt/pull/403) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#403](https://github.com/tox-dev/toml-fmt/pull/403) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#617](https://github.com/tox-dev/turbohtml/pull/617) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#617](https://github.com/tox-dev/turbohtml/pull/617) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#617](https://github.com/tox-dev/turbohtml/pull/617) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🚀 Published release [v1.1.1](https://github.com/tox-dev/turbohtml/releases/tag/1.1.1) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#616](https://github.com/tox-dev/turbohtml/pull/616) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#616](https://github.com/tox-dev/turbohtml/pull/616) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
