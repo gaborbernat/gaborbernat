@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1327](https://github.com/pypa/pipx/issues/1327#issuecomment-4940030601) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#1452](https://github.com/pypa/pipx/issues/1452#issuecomment-4940030603) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🗣 Commented on [#1637](https://github.com/pypa/pipx/issues/1637#issuecomment-4940026572) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#1495](https://github.com/pypa/pipx/issues/1495#issuecomment-4940026568) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#961](https://github.com/pypa/pipx/issues/961#issuecomment-4940026573) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🗣 Commented on [#854](https://github.com/pypa/pipx/issues/854#issuecomment-4940026565) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#961](https://github.com/pypa/pipx/issues/961) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🔒 Closed issue [#1495](https://github.com/pypa/pipx/issues/1495) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🗣 Commented on [#1254](https://github.com/pypa/pipx/issues/1254#issuecomment-4940010955) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🗣 Commented on [#1360](https://github.com/pypa/pipx/issues/1360#issuecomment-4940010951) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#611](https://github.com/tox-dev/pipdeptree/pull/611) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🔒 Closed issue [#1637](https://github.com/pypa/pipx/issues/1637) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#1860](https://github.com/pypa/pipx/pull/1860) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#611](https://github.com/tox-dev/pipdeptree/pull/611) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 💪 Opened PR [#611](https://github.com/tox-dev/pipdeptree/pull/611) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🎉 Merged PR [#1859](https://github.com/pypa/pipx/pull/1859) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🔒 Closed issue [#1583](https://github.com/pypa/pipx/issues/1583) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🎉 Merged PR [#635](https://github.com/tox-dev/turbohtml/pull/635) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🗣 Commented on [#1637](https://github.com/pypa/pipx/issues/1637#issuecomment-4940187642) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ℹ️ Labeled PR [#1860](https://github.com/pypa/pipx/pull/1860) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
