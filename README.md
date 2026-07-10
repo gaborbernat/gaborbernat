@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#634](https://github.com/tox-dev/turbohtml/pull/634) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#634](https://github.com/tox-dev/turbohtml/pull/634) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#3185](https://github.com/pypa/virtualenv/pull/3185) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3185](https://github.com/pypa/virtualenv/pull/3185) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#3185](https://github.com/pypa/virtualenv/pull/3185) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 💪 Opened PR [#632](https://github.com/tox-dev/turbohtml/pull/632) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#630](https://github.com/tox-dev/turbohtml/issues/630) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🔒 Closed issue [#629](https://github.com/tox-dev/turbohtml/issues/629) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#631](https://github.com/tox-dev/turbohtml/pull/631) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#631](https://github.com/tox-dev/turbohtml/pull/631) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#1327](https://github.com/pypa/pipx/issues/1327#issuecomment-4940030601) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#1452](https://github.com/pypa/pipx/issues/1452#issuecomment-4940030603) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#1637](https://github.com/pypa/pipx/issues/1637#issuecomment-4940026572) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#1495](https://github.com/pypa/pipx/issues/1495#issuecomment-4940026568) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#961](https://github.com/pypa/pipx/issues/961#issuecomment-4940026573) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🗣 Commented on [#854](https://github.com/pypa/pipx/issues/854#issuecomment-4940026565) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🔒 Closed issue [#961](https://github.com/pypa/pipx/issues/961) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🔒 Closed issue [#1495](https://github.com/pypa/pipx/issues/1495) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🗣 Commented on [#1254](https://github.com/pypa/pipx/issues/1254#issuecomment-4940010955) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🗣 Commented on [#1360](https://github.com/pypa/pipx/issues/1360#issuecomment-4940010951) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
