@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4947103212) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4947095013) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Assigned PR [#1886](https://github.com/pypa/pipx/pull/1886) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#1886](https://github.com/pypa/pipx/pull/1886) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 💪 Opened PR [#1886](https://github.com/pypa/pipx/pull/1886) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4947087067) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#1885](https://github.com/pypa/pipx/pull/1885) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#1883](https://github.com/pypa/pipx/pull/1883) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#1884](https://github.com/pypa/pipx/pull/1884) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled issue [#110](https://github.com/tox-dev/peryx/issues/110) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#1889](https://github.com/pypa/pipx/pull/1889) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#1553](https://github.com/pypa/pipx/issues/1553#issuecomment-4947559572) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#1418](https://github.com/pypa/pipx/issues/1418) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#1418](https://github.com/pypa/pipx/issues/1418#issuecomment-4947553865) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled issue [#109](https://github.com/tox-dev/peryx/issues/109) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4947523687) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ℹ️ Assigned PR [#1890](https://github.com/pypa/pipx/pull/1890) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled PR [#1890](https://github.com/pypa/pipx/pull/1890) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#1890](https://github.com/pypa/pipx/pull/1890) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🎉 Merged PR [#1888](https://github.com/pypa/pipx/pull/1888) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
