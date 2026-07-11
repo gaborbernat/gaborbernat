@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1869](https://github.com/pypa/pipx/pull/1869) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4942209357) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#1871](https://github.com/pypa/pipx/pull/1871) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#1870](https://github.com/pypa/pipx/pull/1870) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#1868](https://github.com/pypa/pipx/pull/1868) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🎉 Merged PR [#1867](https://github.com/pypa/pipx/pull/1867) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#1866](https://github.com/pypa/pipx/pull/1866) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#1862](https://github.com/pypa/pipx/pull/1862) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🔒 Closed issue [#774](https://github.com/pypa/pipx/issues/774) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4942098999) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#637](https://github.com/tox-dev/turbohtml/pull/637) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#1869](https://github.com/pypa/pipx/pull/1869) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#1856](https://github.com/pypa/pipx/issues/1856#issuecomment-4942209357) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#1871](https://github.com/pypa/pipx/pull/1871) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#1870](https://github.com/pypa/pipx/pull/1870) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#1868](https://github.com/pypa/pipx/pull/1868) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🎉 Merged PR [#1867](https://github.com/pypa/pipx/pull/1867) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🎉 Merged PR [#1866](https://github.com/pypa/pipx/pull/1866) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🎉 Merged PR [#1862](https://github.com/pypa/pipx/pull/1862) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🔒 Closed issue [#774](https://github.com/pypa/pipx/issues/774) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
