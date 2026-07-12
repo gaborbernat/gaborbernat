@@ -36,8 +36,8 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#220](https://github.com/tox-dev/peryx/pull/220) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. ℹ️ Labeled PR [#220](https://github.com/tox-dev/peryx/pull/220) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled issue [#221](https://github.com/tox-dev/peryx/issues/221) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ❗ Opened issue [#221](https://github.com/tox-dev/peryx/issues/221) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 3. ℹ️ Labeled PR [#220](https://github.com/tox-dev/peryx/pull/220) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 4. ℹ️ Labeled PR [#220](https://github.com/tox-dev/peryx/pull/220) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 5. ℹ️ Labeled PR [#220](https://github.com/tox-dev/peryx/pull/220) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
