@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/pypa/pipx/issues/149#issuecomment-4951109698) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#1056](https://github.com/pypa/pipx/issues/1056#issuecomment-4951041770) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#1915](https://github.com/pypa/pipx/pull/1915) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 💪 Opened PR [#1915](https://github.com/pypa/pipx/pull/1915) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled PR [#213](https://github.com/tox-dev/peryx/pull/213) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 💪 Opened PR [#213](https://github.com/tox-dev/peryx/pull/213) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🗣 Commented on [#1657](https://github.com/pypa/pipx/issues/1657#issuecomment-4950850067) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#1657](https://github.com/pypa/pipx/issues/1657#issuecomment-4950702370) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled PR [#1914](https://github.com/pypa/pipx/pull/1914) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 💪 Opened PR [#1914](https://github.com/pypa/pipx/pull/1914) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#828](https://github.com/pypa/pipx/issues/828#issuecomment-4951421506) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🗣 Commented on [#149](https://github.com/pypa/pipx/issues/149#issuecomment-4951409883) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Assigned PR [#1916](https://github.com/pypa/pipx/pull/1916) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#1916](https://github.com/pypa/pipx/pull/1916) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 💪 Opened PR [#1916](https://github.com/pypa/pipx/pull/1916) in [pypa/pipx](https://github.com/pypa/pipx)
+6. ℹ️ Labeled PR [#214](https://github.com/tox-dev/peryx/pull/214) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#214](https://github.com/tox-dev/peryx/pull/214) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 🗣 Commented on [#1056](https://github.com/pypa/pipx/issues/1056#issuecomment-4951239261) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🗣 Commented on [#149](https://github.com/pypa/pipx/issues/149#issuecomment-4951109698) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🗣 Commented on [#1056](https://github.com/pypa/pipx/issues/1056#issuecomment-4951041770) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
