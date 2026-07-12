@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1912](https://github.com/pypa/pipx/pull/1912) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#1912](https://github.com/pypa/pipx/pull/1912) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#211](https://github.com/tox-dev/peryx/pull/211) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 💪 Opened PR [#211](https://github.com/tox-dev/peryx/pull/211) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 🎉 Merged PR [#1911](https://github.com/pypa/pipx/pull/1911) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#596](https://github.com/tox-dev/filelock/pull/596) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#596](https://github.com/tox-dev/filelock/pull/596) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. ℹ️ Labeled PR [#595](https://github.com/tox-dev/filelock/pull/595) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 💪 Opened PR [#595](https://github.com/tox-dev/filelock/pull/595) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Labeled PR [#594](https://github.com/tox-dev/filelock/pull/594) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#1657](https://github.com/pypa/pipx/issues/1657#issuecomment-4950702370) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#1914](https://github.com/pypa/pipx/pull/1914) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 💪 Opened PR [#1914](https://github.com/pypa/pipx/pull/1914) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🔒 Closed issue [#1278](https://github.com/pypa/pipx/issues/1278) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#1278](https://github.com/pypa/pipx/issues/1278#issuecomment-4950578939) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🗣 Commented on [#1645](https://github.com/pypa/pipx/issues/1645#issuecomment-4950575268) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🗣 Commented on [#1411](https://github.com/pypa/pipx/issues/1411#issuecomment-4950529806) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled PR [#1913](https://github.com/pypa/pipx/pull/1913) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#1913](https://github.com/pypa/pipx/pull/1913) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ℹ️ Labeled PR [#212](https://github.com/tox-dev/peryx/pull/212) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
