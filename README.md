@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#218](https://github.com/tox-dev/peryx/pull/218) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#218](https://github.com/tox-dev/peryx/pull/218) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#218](https://github.com/tox-dev/peryx/pull/218) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🔒 Closed issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. ℹ️ Labeled PR [#218](https://github.com/tox-dev/peryx/pull/218) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 💪 Opened PR [#218](https://github.com/tox-dev/peryx/pull/218) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 5. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 6. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 7. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ❗ Opened issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. ℹ️ Labeled PR [#216](https://github.com/tox-dev/peryx/pull/216) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 💪 Opened PR [#216](https://github.com/tox-dev/peryx/pull/216) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. ℹ️ Labeled issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. ❗ Opened issue [#217](https://github.com/tox-dev/peryx/issues/217) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
