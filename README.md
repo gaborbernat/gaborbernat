@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#828](https://github.com/pypa/pipx/issues/828#issuecomment-4951421506) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#149](https://github.com/pypa/pipx/issues/149#issuecomment-4951409883) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Assigned PR [#1916](https://github.com/pypa/pipx/pull/1916) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#1916](https://github.com/pypa/pipx/pull/1916) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 💪 Opened PR [#1916](https://github.com/pypa/pipx/pull/1916) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#214](https://github.com/tox-dev/peryx/pull/214) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 💪 Opened PR [#214](https://github.com/tox-dev/peryx/pull/214) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🗣 Commented on [#1056](https://github.com/pypa/pipx/issues/1056#issuecomment-4951239261) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🗣 Commented on [#149](https://github.com/pypa/pipx/issues/149#issuecomment-4951109698) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🗣 Commented on [#1056](https://github.com/pypa/pipx/issues/1056#issuecomment-4951041770) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#216](https://github.com/tox-dev/peryx/pull/216) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 💪 Opened PR [#216](https://github.com/tox-dev/peryx/pull/216) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 💪 Opened PR [#598](https://github.com/tox-dev/filelock/pull/598) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#1913](https://github.com/pypa/pipx/pull/1913) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🗣 Commented on [#1456](https://github.com/pypa/pipx/issues/1456#issuecomment-4951633181) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🔒 Closed issue [#1456](https://github.com/pypa/pipx/issues/1456) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🔒 Closed issue [#1463](https://github.com/pypa/pipx/issues/1463) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#1463](https://github.com/pypa/pipx/issues/1463#issuecomment-4951633067) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🔒 Closed issue [#1562](https://github.com/pypa/pipx/issues/1562) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🗣 Commented on [#1562](https://github.com/pypa/pipx/issues/1562#issuecomment-4951632952) in [pypa/pipx](https://github.com/pypa/pipx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
