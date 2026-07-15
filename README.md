@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#311](https://github.com/tox-dev/peryx/issues/311) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#348](https://github.com/tox-dev/peryx/pull/348) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🔒 Closed issue [#310](https://github.com/tox-dev/peryx/issues/310) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🎉 Merged PR [#344](https://github.com/tox-dev/peryx/pull/344) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 🎉 Merged PR [#660](https://github.com/tox-dev/filelock/pull/660) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#350](https://github.com/tox-dev/peryx/pull/350) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 💪 Opened PR [#350](https://github.com/tox-dev/peryx/pull/350) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ℹ️ Labeled PR [#660](https://github.com/tox-dev/filelock/pull/660) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 💪 Opened PR [#660](https://github.com/tox-dev/filelock/pull/660) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🔒 Closed issue [#304](https://github.com/tox-dev/peryx/issues/304) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled PR [#352](https://github.com/tox-dev/peryx/pull/352) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 💪 Opened PR [#352](https://github.com/tox-dev/peryx/pull/352) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🔒 Closed issue [#308](https://github.com/tox-dev/peryx/issues/308) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🎉 Merged PR [#350](https://github.com/tox-dev/peryx/pull/350) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#351](https://github.com/tox-dev/peryx/pull/351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#351](https://github.com/tox-dev/peryx/pull/351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. ℹ️ Labeled PR [#661](https://github.com/tox-dev/filelock/pull/661) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 💪 Opened PR [#661](https://github.com/tox-dev/filelock/pull/661) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🗣 Commented on [#10](https://github.com/tox-dev/peryx/issues/10#issuecomment-4978059707) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🔒 Closed issue [#10](https://github.com/tox-dev/peryx/issues/10) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
