@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. ℹ️ Labeled PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. ℹ️ Labeled PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 💪 Opened PR [#365](https://github.com/tox-dev/peryx/pull/365) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🗣 Commented on [#641](https://github.com/tox-dev/filelock/issues/641#issuecomment-4982597648) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🔒 Closed issue [#641](https://github.com/tox-dev/filelock/issues/641) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#353](https://github.com/tox-dev/peryx/pull/353) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#368](https://github.com/tox-dev/peryx/pull/368) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🎉 Merged PR [#370](https://github.com/tox-dev/peryx/pull/370) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. ℹ️ Labeled PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. ℹ️ Labeled PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. ℹ️ Labeled PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+6. ℹ️ Labeled PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. ℹ️ Labeled PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 💪 Opened PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. ℹ️ Labeled PR [#371](https://github.com/tox-dev/peryx/pull/371) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
