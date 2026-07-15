@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#368](https://github.com/tox-dev/peryx/pull/368) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#370](https://github.com/tox-dev/peryx/pull/370) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-4. ℹ️ Labeled PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. ℹ️ Labeled PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-6. ℹ️ Labeled PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. ℹ️ Labeled PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ℹ️ Labeled PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. 💪 Opened PR [#372](https://github.com/tox-dev/peryx/pull/372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. ℹ️ Labeled PR [#371](https://github.com/tox-dev/peryx/pull/371) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 💪 Opened PR [#1959](https://github.com/pypa/pipx/pull/1959) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#1958](https://github.com/pypa/pipx/pull/1958) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🚀 Published release [1.14.0](https://github.com/gaborbernat/bump-deps-index/releases/tag/1.14.0) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. ℹ️ Labeled PR [#1958](https://github.com/pypa/pipx/pull/1958) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 💪 Opened PR [#1958](https://github.com/pypa/pipx/pull/1958) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#238](https://github.com/gaborbernat/bump-deps-index/pull/238) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+7. 🎉 Merged PR [#1957](https://github.com/pypa/pipx/pull/1957) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#1131](https://github.com/pypa/build/issues/1131#issuecomment-4983424772) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#368](https://github.com/tox-dev/peryx/pull/368) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🎉 Merged PR [#370](https://github.com/tox-dev/peryx/pull/370) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
