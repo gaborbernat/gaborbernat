@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#669](https://github.com/tox-dev/filelock/pull/669) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#93](https://github.com/tox-dev/xml-fmt/pull/93) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-3. 🎉 Merged PR [#19](https://github.com/gaborbernat/mdformat-hugo/pull/19) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-4. 🎉 Merged PR [#278](https://github.com/tox-dev/tox-gh/pull/278) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🗣 Commented on [#1963](https://github.com/pypa/pipx/issues/1963#issuecomment-4993811048) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🔒 Closed issue [#1963](https://github.com/pypa/pipx/issues/1963) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#412](https://github.com/tox-dev/peryx/pull/412) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🎉 Merged PR [#415](https://github.com/tox-dev/peryx/pull/415) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. 🎉 Merged PR [#435](https://github.com/tox-dev/peryx/pull/435) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 🗣 Commented on [#1133](https://github.com/pypa/build/pull/1133#issuecomment-4993288743) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
+2. ℹ️ Labeled PR [#1135](https://github.com/pypa/build/pull/1135) in [pypa/build](https://github.com/pypa/build)
+3. 🚀 Published release [3.30.1](https://github.com/tox-dev/filelock/releases/tag/3.30.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#279](https://github.com/tox-dev/tox-gh/pull/279) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+5. 💪 Opened PR [#279](https://github.com/tox-dev/tox-gh/pull/279) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+6. 💪 Opened PR [#94](https://github.com/tox-dev/xml-fmt/pull/94) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+7. 💪 Opened PR [#20](https://github.com/gaborbernat/mdformat-hugo/pull/20) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+8. 💪 Opened PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#671](https://github.com/tox-dev/filelock/pull/671) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🗣 Commented on [#3699](https://github.com/astral-sh/ty/issues/3699#issuecomment-4994279568) in [astral-sh/ty](https://github.com/astral-sh/ty)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
