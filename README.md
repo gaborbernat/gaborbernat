@@ -36,16 +36,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#375](https://github.com/tox-dev/peryx/pull/375) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. ℹ️ Labeled PR [#376](https://github.com/tox-dev/peryx/pull/376) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#376](https://github.com/tox-dev/peryx/pull/376) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#666](https://github.com/tox-dev/filelock/pull/666) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 💪 Opened PR [#666](https://github.com/tox-dev/filelock/pull/666) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 💪 Opened PR [#375](https://github.com/tox-dev/peryx/pull/375) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🎉 Merged PR [#374](https://github.com/tox-dev/peryx/pull/374) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ℹ️ Labeled PR [#1961](https://github.com/pypa/pipx/pull/1961) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#1961](https://github.com/pypa/pipx/pull/1961) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 💪 Opened PR [#374](https://github.com/tox-dev/peryx/pull/374) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#359](https://github.com/tox-dev/peryx/pull/359) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 💪 Opened PR [#3190](https://github.com/pypa/virtualenv/pull/3190) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#3984](https://github.com/tox-dev/tox/pull/3984) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 💪 Opened PR [#356](https://github.com/tox-dev/tox-uv/pull/356) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#329](https://github.com/tox-dev/sphinx-argparse-cli/pull/329) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+6. 💪 Opened PR [#1133](https://github.com/pypa/build/pull/1133) in [pypa/build](https://github.com/pypa/build)
+7. 💪 Opened PR [#413](https://github.com/tox-dev/toml-fmt/pull/413) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+9. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+10. 💪 Opened PR [#733](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/733) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
