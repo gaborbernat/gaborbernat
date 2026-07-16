@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
-2. ℹ️ Labeled PR [#1135](https://github.com/pypa/build/pull/1135) in [pypa/build](https://github.com/pypa/build)
-3. 🚀 Published release [3.30.1](https://github.com/tox-dev/filelock/releases/tag/3.30.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#279](https://github.com/tox-dev/tox-gh/pull/279) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 💪 Opened PR [#279](https://github.com/tox-dev/tox-gh/pull/279) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-6. 💪 Opened PR [#94](https://github.com/tox-dev/xml-fmt/pull/94) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-7. 💪 Opened PR [#20](https://github.com/gaborbernat/mdformat-hugo/pull/20) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-8. 💪 Opened PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
-9. 🎉 Merged PR [#671](https://github.com/tox-dev/filelock/pull/671) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🗣 Commented on [#3699](https://github.com/astral-sh/ty/issues/3699#issuecomment-4994279568) in [astral-sh/ty](https://github.com/astral-sh/ty)
+1. 🎉 Merged PR [#3985](https://github.com/tox-dev/tox/pull/3985) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#8](https://github.com/tox-dev/mdformat-zola/pull/8) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+3. 💪 Opened PR [#672](https://github.com/tox-dev/filelock/pull/672) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#8](https://github.com/tox-dev/mdformat-zola/pull/8) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+5. 🗣 Commented on [#618](https://github.com/tox-dev/pipdeptree/pull/618#issuecomment-4995214183) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🎉 Merged PR [#622](https://github.com/tox-dev/pipdeptree/pull/622) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. 🎉 Merged PR [#102](https://github.com/tox-dev/python-discovery/pull/102) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 🎉 Merged PR [#280](https://github.com/tox-dev/tox-gh/pull/280) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+9. ℹ️ Labeled PR [#650](https://github.com/tox-dev/turbohtml/pull/650) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#650](https://github.com/tox-dev/turbohtml/pull/650) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
