@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#359](https://github.com/tox-dev/peryx/pull/359) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 💪 Opened PR [#3190](https://github.com/pypa/virtualenv/pull/3190) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3984](https://github.com/tox-dev/tox/pull/3984) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 💪 Opened PR [#356](https://github.com/tox-dev/tox-uv/pull/356) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-1. 💪 Opened PR [#329](https://github.com/tox-dev/sphinx-argparse-cli/pull/329) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. 💪 Opened PR [#1133](https://github.com/pypa/build/pull/1133) in [pypa/build](https://github.com/pypa/build)
-1. 💪 Opened PR [#413](https://github.com/tox-dev/toml-fmt/pull/413) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [3.30.0](https://github.com/tox-dev/filelock/releases/tag/3.30.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#382](https://github.com/tox-dev/peryx/pull/382) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#17](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/17) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+4. 🎉 Merged PR [#240](https://github.com/gaborbernat/pypi-changes/pull/240) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🎉 Merged PR [#21](https://github.com/gaborbernat/gaborbernat/pull/21) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+6. 🎉 Merged PR [#239](https://github.com/gaborbernat/bump-deps-index/pull/239) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+7. 🎉 Merged PR [#68](https://github.com/gaborbernat/bernat-tech/pull/68) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+8. 🎉 Merged PR [#20](https://github.com/gaborbernat/all-repos-self/pull/20) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+9. 💪 Opened PR [#240](https://github.com/gaborbernat/pypi-changes/pull/240) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+10. 💪 Opened PR [#21](https://github.com/gaborbernat/gaborbernat/pull/21) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
