@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [3.30.0](https://github.com/tox-dev/filelock/releases/tag/3.30.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#382](https://github.com/tox-dev/peryx/pull/382) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🎉 Merged PR [#17](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/17) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-4. 🎉 Merged PR [#240](https://github.com/gaborbernat/pypi-changes/pull/240) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-5. 🎉 Merged PR [#21](https://github.com/gaborbernat/gaborbernat/pull/21) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-6. 🎉 Merged PR [#239](https://github.com/gaborbernat/bump-deps-index/pull/239) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-7. 🎉 Merged PR [#68](https://github.com/gaborbernat/bernat-tech/pull/68) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-8. 🎉 Merged PR [#20](https://github.com/gaborbernat/all-repos-self/pull/20) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-9. 💪 Opened PR [#240](https://github.com/gaborbernat/pypi-changes/pull/240) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-10. 💪 Opened PR [#21](https://github.com/gaborbernat/gaborbernat/pull/21) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+1. 💪 Opened PR [#391](https://github.com/tox-dev/peryx/pull/391) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled PR [#390](https://github.com/tox-dev/peryx/pull/390) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 💪 Opened PR [#390](https://github.com/tox-dev/peryx/pull/390) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🎉 Merged PR [#384](https://github.com/tox-dev/peryx/pull/384) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#389](https://github.com/tox-dev/peryx/pull/389) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. ℹ️ Labeled PR [#389](https://github.com/tox-dev/peryx/pull/389) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#389](https://github.com/tox-dev/peryx/pull/389) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#388](https://github.com/tox-dev/peryx/pull/388) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 💪 Opened PR [#388](https://github.com/tox-dev/peryx/pull/388) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. ℹ️ Labeled PR [#387](https://github.com/tox-dev/peryx/pull/387) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
