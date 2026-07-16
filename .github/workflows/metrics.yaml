@@ -3,14 +3,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-
 concurrency:
   group: metrics-${{ github.ref }}
   cancel-in-progress: true
-
 permissions:
   contents: write
-
 jobs:
   metrics:
     runs-on: ubuntu-latest

@@ -6,14 +6,11 @@ on:
   pull_request:
   schedule:
     - cron: "*/30 * * * *"
-
 concurrency:
   group: check-${{ github.ref }}
   cancel-in-progress: true
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
