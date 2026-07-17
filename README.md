@@ -37,7 +37,7 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#579](https://github.com/tox-dev/peryx/pull/579) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#674](https://github.com/tox-dev/filelock/pull/674) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 2. 💪 Opened PR [#579](https://github.com/tox-dev/peryx/pull/579) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 3. 🎉 Merged PR [#664](https://github.com/tox-dev/turbohtml/pull/664) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. 🎉 Merged PR [#663](https://github.com/tox-dev/turbohtml/pull/663) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
