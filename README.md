@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.0.0](https://github.com/tox-dev/pipdeptree/releases/tag/4.0.0) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#625](https://github.com/tox-dev/pipdeptree/pull/625) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. ℹ️ Labeled PR [#625](https://github.com/tox-dev/pipdeptree/pull/625) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#625](https://github.com/tox-dev/pipdeptree/pull/625) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🎉 Merged PR [#624](https://github.com/tox-dev/pipdeptree/pull/624) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. ℹ️ Labeled PR [#624](https://github.com/tox-dev/pipdeptree/pull/624) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. ℹ️ Labeled PR [#624](https://github.com/tox-dev/pipdeptree/pull/624) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 💪 Opened PR [#624](https://github.com/tox-dev/pipdeptree/pull/624) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🗣 Commented on [#54](https://github.com/pypa/get-virtualenv/issues/54#issuecomment-5025326447) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-10. 🎉 Merged PR [#55](https://github.com/pypa/get-virtualenv/pull/55) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 💪 Opened PR [#3991](https://github.com/tox-dev/tox/pull/3991) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#681](https://github.com/tox-dev/filelock/pull/681) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ❌ Closed PR [#1968](https://github.com/pypa/pipx/pull/1968) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🗣 Commented on [#1968](https://github.com/pypa/pipx/pull/1968#issuecomment-5026635558) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❌ Closed PR [#1967](https://github.com/pypa/pipx/pull/1967) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🗣 Commented on [#1967](https://github.com/pypa/pipx/pull/1967#issuecomment-5026634996) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ❌ Closed PR [#1966](https://github.com/pypa/pipx/pull/1966) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#1966](https://github.com/pypa/pipx/pull/1966#issuecomment-5026634368) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ℹ️ Labeled PR [#1970](https://github.com/pypa/pipx/pull/1970) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 💪 Opened PR [#1970](https://github.com/pypa/pipx/pull/1970) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
