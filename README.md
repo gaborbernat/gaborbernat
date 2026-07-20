@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3991](https://github.com/tox-dev/tox/pull/3991) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#681](https://github.com/tox-dev/filelock/pull/681) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ❌ Closed PR [#1968](https://github.com/pypa/pipx/pull/1968) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🗣 Commented on [#1968](https://github.com/pypa/pipx/pull/1968#issuecomment-5026635558) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ❌ Closed PR [#1967](https://github.com/pypa/pipx/pull/1967) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🗣 Commented on [#1967](https://github.com/pypa/pipx/pull/1967#issuecomment-5026634996) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ❌ Closed PR [#1966](https://github.com/pypa/pipx/pull/1966) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🗣 Commented on [#1966](https://github.com/pypa/pipx/pull/1966#issuecomment-5026634368) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled PR [#1970](https://github.com/pypa/pipx/pull/1970) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 💪 Opened PR [#1970](https://github.com/pypa/pipx/pull/1970) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#3991](https://github.com/tox-dev/tox/pull/3991) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#1965](https://github.com/pypa/pipx/issues/1965) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🗣 Commented on [#681](https://github.com/tox-dev/filelock/pull/681#issuecomment-5026929776) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#1970](https://github.com/pypa/pipx/pull/1970) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 💪 Opened PR [#3991](https://github.com/tox-dev/tox/pull/3991) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#681](https://github.com/tox-dev/filelock/pull/681) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ❌ Closed PR [#1968](https://github.com/pypa/pipx/pull/1968) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🗣 Commented on [#1968](https://github.com/pypa/pipx/pull/1968#issuecomment-5026635558) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ❌ Closed PR [#1967](https://github.com/pypa/pipx/pull/1967) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🗣 Commented on [#1967](https://github.com/pypa/pipx/pull/1967#issuecomment-5026634996) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
