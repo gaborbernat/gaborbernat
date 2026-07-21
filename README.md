@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1971](https://github.com/pypa/pipx/pull/1971) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#242](https://github.com/gaborbernat/bump-deps-index/pull/242) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 💪 Opened PR [#244](https://github.com/gaborbernat/pypi-changes/pull/244) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. 💪 Opened PR [#350](https://github.com/tox-dev/tox-ini-fmt/pull/350) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 💪 Opened PR [#104](https://github.com/tox-dev/python-discovery/pull/104) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 💪 Opened PR [#282](https://github.com/tox-dev/tox-gh/pull/282) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-7. 💪 Opened PR [#164](https://github.com/tox-dev/pre-commit-uv/pull/164) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-8. 💪 Opened PR [#331](https://github.com/tox-dev/sphinx-argparse-cli/pull/331) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. 💪 Opened PR [#262](https://github.com/tox-dev/devpi-process/pull/262) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-10. 💪 Opened PR [#354](https://github.com/tox-dev/pyproject-fmt/pull/354) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. ℹ️ Labeled PR [#1971](https://github.com/pypa/pipx/pull/1971) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#4001](https://github.com/tox-dev/tox/pull/4001) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#180](https://github.com/bloomberg/pytest-memray/pull/180) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+4. 🗣 Commented on [#180](https://github.com/bloomberg/pytest-memray/pull/180#issuecomment-5030929194) in [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray)
+5. 💪 Opened PR [#416](https://github.com/tox-dev/toml-fmt/pull/416) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🎉 Merged PR [#282](https://github.com/tox-dev/pyproject-api/pull/282) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+7. 🎉 Merged PR [#512](https://github.com/tox-dev/platformdirs/pull/512) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 🎉 Merged PR [#415](https://github.com/tox-dev/toml-fmt/pull/415) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 🎉 Merged PR [#354](https://github.com/tox-dev/pyproject-fmt/pull/354) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+10. 🎉 Merged PR [#626](https://github.com/tox-dev/pipdeptree/pull/626) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
