@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [3.32.0](https://github.com/tox-dev/filelock/releases/tag/3.32.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🚀 Published release [v1.5.0](https://github.com/tox-dev/python-discovery/releases/tag/1.5.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 🚀 Published release [v1.0.5](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.5) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. 🚀 Published release [v1.5.0](https://github.com/tox-dev/turbohtml/releases/tag/1.5.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🚀 Published release [1.8.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.8.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-6. 🚀 Published release [1.36.0](https://github.com/tox-dev/tox-uv/releases/tag/1.36.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 🚀 Published release [3.13.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.13.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 🚀 Published release [v4.58.0](https://github.com/tox-dev/tox/releases/tag/4.58.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🚀 Published release [4.11.0](https://github.com/tox-dev/platformdirs/releases/tag/4.11.0) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 🚀 Published release [1.3.0](https://github.com/pytest-dev/pytest-print/releases/tag/1.3.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🎉 Merged PR [#1132](https://github.com/pypa/build/pull/1132) in [pypa/build](https://github.com/pypa/build)
+2. 🚀 Published release [3.32.0](https://github.com/tox-dev/filelock/releases/tag/3.32.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🚀 Published release [v1.5.0](https://github.com/tox-dev/python-discovery/releases/tag/1.5.0) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. 🚀 Published release [v1.0.5](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.0.5) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+5. 🚀 Published release [v1.5.0](https://github.com/tox-dev/turbohtml/releases/tag/1.5.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🚀 Published release [1.8.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.8.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+7. 🚀 Published release [1.36.0](https://github.com/tox-dev/tox-uv/releases/tag/1.36.0) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+8. 🚀 Published release [3.13.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.13.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🚀 Published release [v4.58.0](https://github.com/tox-dev/tox/releases/tag/4.58.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🚀 Published release [4.11.0](https://github.com/tox-dev/platformdirs/releases/tag/4.11.0) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
