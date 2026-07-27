@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.8.1](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.8.1) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 🚀 Published release [pyproject-fmt/2.25.4](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.25.4) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🔒 Closed issue [#352](https://github.com/tox-dev/tox-ini-fmt/issues/352) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🔒 Closed issue [#417](https://github.com/tox-dev/toml-fmt/issues/417) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🎉 Merged PR [#5](https://github.com/KyleKing/mdformat-gfm-alerts/pull/5) in [KyleKing/mdformat-gfm-alerts](https://github.com/KyleKing/mdformat-gfm-alerts)
-6. 🎉 Merged PR [#419](https://github.com/tox-dev/toml-fmt/pull/419) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🎉 Merged PR [#694](https://github.com/tox-dev/turbohtml/pull/694) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#632](https://github.com/tox-dev/pipdeptree/pull/632) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🗣 Commented on [#693](https://github.com/tox-dev/turbohtml/pull/693#issuecomment-5066840799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#694](https://github.com/tox-dev/turbohtml/pull/694) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#696](https://github.com/tox-dev/turbohtml/pull/696) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#1974](https://github.com/pypa/pipx/issues/1974) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🚀 Published release [0.3.0](https://github.com/gaborbernat/mdformat-hugo/releases/tag/0.3.0) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+4. 🔒 Closed issue [#1976](https://github.com/pypa/pipx/issues/1976) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🚀 Published release [1.8.1](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.8.1) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+6. 🚀 Published release [pyproject-fmt/2.25.4](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.25.4) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🔒 Closed issue [#352](https://github.com/tox-dev/tox-ini-fmt/issues/352) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+8. 🔒 Closed issue [#417](https://github.com/tox-dev/toml-fmt/issues/417) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 🎉 Merged PR [#5](https://github.com/KyleKing/mdformat-gfm-alerts/pull/5) in [KyleKing/mdformat-gfm-alerts](https://github.com/KyleKing/mdformat-gfm-alerts)
+10. 🎉 Merged PR [#419](https://github.com/tox-dev/toml-fmt/pull/419) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
