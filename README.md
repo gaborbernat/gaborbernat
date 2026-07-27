@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/gaborbernat/jetbrains-fish/pull/1) in [gaborbernat/jetbrains-fish](https://github.com/gaborbernat/jetbrains-fish)
-2. ℹ️ Labeled PR [#421](https://github.com/tox-dev/toml-fmt/pull/421) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#421](https://github.com/tox-dev/toml-fmt/pull/421) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ℹ️ Labeled PR [#696](https://github.com/tox-dev/turbohtml/pull/696) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#696](https://github.com/tox-dev/turbohtml/pull/696) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🔒 Closed issue [#1974](https://github.com/pypa/pipx/issues/1974) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🚀 Published release [0.3.0](https://github.com/gaborbernat/mdformat-hugo/releases/tag/0.3.0) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-8. 🔒 Closed issue [#1976](https://github.com/pypa/pipx/issues/1976) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🚀 Published release [1.8.1](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.8.1) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-10. 🚀 Published release [pyproject-fmt/2.25.4](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.25.4) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [pyproject-fmt/2.26.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.26.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. ℹ️ Labeled PR [#108](https://github.com/tox-dev/jetbrains-fish/pull/108) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+3. ℹ️ Labeled PR [#108](https://github.com/tox-dev/jetbrains-fish/pull/108) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+4. 💪 Opened PR [#108](https://github.com/tox-dev/jetbrains-fish/pull/108) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+5. ❌ Closed PR [#1](https://github.com/gaborbernat/jetbrains-fish/pull/1) in [gaborbernat/jetbrains-fish](https://github.com/gaborbernat/jetbrains-fish)
+6. 🗣 Commented on [#1](https://github.com/gaborbernat/jetbrains-fish/pull/1#issuecomment-5092150389) in [gaborbernat/jetbrains-fish](https://github.com/gaborbernat/jetbrains-fish)
+7. 🔒 Closed issue [#420](https://github.com/tox-dev/toml-fmt/issues/420) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 🎉 Merged PR [#421](https://github.com/tox-dev/toml-fmt/pull/421) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 🚀 Published release [v1.5.1](https://github.com/tox-dev/turbohtml/releases/tag/1.5.1) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🎉 Merged PR [#696](https://github.com/tox-dev/turbohtml/pull/696) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
