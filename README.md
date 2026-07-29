@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#110](https://github.com/tox-dev/jetbrains-fish/pull/110) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-2. 🎉 Merged PR [#694](https://github.com/tox-dev/filelock/pull/694) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#111](https://github.com/tox-dev/jetbrains-fish/pull/111) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-4. 🔒 Closed issue [#1987](https://github.com/pypa/pipx/issues/1987) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#1991](https://github.com/pypa/pipx/pull/1991) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 💪 Opened PR [#111](https://github.com/tox-dev/jetbrains-fish/pull/111) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-7. ℹ️ Labeled PR [#1991](https://github.com/pypa/pipx/pull/1991) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 💪 Opened PR [#1991](https://github.com/pypa/pipx/pull/1991) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#222](https://github.com/tox-dev/PyVenvManage/pull/222) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 💪 Opened PR [#110](https://github.com/tox-dev/jetbrains-fish/pull/110) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 🎉 Merged PR [#695](https://github.com/tox-dev/filelock/pull/695) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#695](https://github.com/tox-dev/filelock/pull/695) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 💪 Opened PR [#695](https://github.com/tox-dev/filelock/pull/695) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#110](https://github.com/tox-dev/jetbrains-fish/pull/110) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+5. 🎉 Merged PR [#694](https://github.com/tox-dev/filelock/pull/694) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#111](https://github.com/tox-dev/jetbrains-fish/pull/111) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+7. 🔒 Closed issue [#1987](https://github.com/pypa/pipx/issues/1987) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🎉 Merged PR [#1991](https://github.com/pypa/pipx/pull/1991) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#111](https://github.com/tox-dev/jetbrains-fish/pull/111) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+10. ℹ️ Labeled PR [#1991](https://github.com/pypa/pipx/pull/1991) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
