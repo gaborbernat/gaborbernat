@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [pyproject-fmt/2.26.0](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.26.0) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. ℹ️ Labeled PR [#108](https://github.com/tox-dev/jetbrains-fish/pull/108) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-3. ℹ️ Labeled PR [#108](https://github.com/tox-dev/jetbrains-fish/pull/108) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-4. 💪 Opened PR [#108](https://github.com/tox-dev/jetbrains-fish/pull/108) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-5. ❌ Closed PR [#1](https://github.com/gaborbernat/jetbrains-fish/pull/1) in [gaborbernat/jetbrains-fish](https://github.com/gaborbernat/jetbrains-fish)
-6. 🗣 Commented on [#1](https://github.com/gaborbernat/jetbrains-fish/pull/1#issuecomment-5092150389) in [gaborbernat/jetbrains-fish](https://github.com/gaborbernat/jetbrains-fish)
-7. 🔒 Closed issue [#420](https://github.com/tox-dev/toml-fmt/issues/420) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 🎉 Merged PR [#421](https://github.com/tox-dev/toml-fmt/pull/421) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🚀 Published release [v1.5.1](https://github.com/tox-dev/turbohtml/releases/tag/1.5.1) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#696](https://github.com/tox-dev/turbohtml/pull/696) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#693](https://github.com/tox-dev/filelock/pull/693) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#693](https://github.com/tox-dev/filelock/pull/693) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🗣 Commented on [#3199](https://github.com/pypa/virtualenv/issues/3199#issuecomment-5120265886) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🔒 Closed issue [#3199](https://github.com/pypa/virtualenv/issues/3199) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3200](https://github.com/pypa/virtualenv/pull/3200) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3200](https://github.com/pypa/virtualenv/pull/3200) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3200](https://github.com/pypa/virtualenv/pull/3200) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ℹ️ Labeled PR [#640](https://github.com/tox-dev/pipdeptree/pull/640) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 💪 Opened PR [#640](https://github.com/tox-dev/pipdeptree/pull/640) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. 💪 Opened PR [#221](https://github.com/tox-dev/PyVenvManage/pull/221) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
