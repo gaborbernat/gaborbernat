@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#644](https://github.com/tox-dev/peryx/pull/644) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#643](https://github.com/tox-dev/peryx/pull/643) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#112](https://github.com/tox-dev/python-discovery/pull/112) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. 💪 Opened PR [#111](https://github.com/tox-dev/python-discovery/pull/111) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 💪 Opened PR [#642](https://github.com/tox-dev/peryx/pull/642) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled PR [#647](https://github.com/tox-dev/pipdeptree/pull/647) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-7. 💪 Opened PR [#647](https://github.com/tox-dev/pipdeptree/pull/647) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🗣 Commented on [#639](https://github.com/notatallshaw/nab/pull/639#issuecomment-5145174209) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-9. 🎉 Merged PR [#646](https://github.com/tox-dev/pipdeptree/pull/646) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. ℹ️ Labeled PR [#646](https://github.com/tox-dev/pipdeptree/pull/646) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#111](https://github.com/tox-dev/python-discovery/pull/111) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. ℹ️ Labeled PR [#112](https://github.com/tox-dev/python-discovery/pull/112) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. ℹ️ Labeled PR [#112](https://github.com/tox-dev/python-discovery/pull/112) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. ℹ️ Labeled PR [#111](https://github.com/tox-dev/python-discovery/pull/111) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. ℹ️ Labeled PR [#111](https://github.com/tox-dev/python-discovery/pull/111) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. ℹ️ Labeled PR [#644](https://github.com/tox-dev/peryx/pull/644) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. ℹ️ Labeled PR [#643](https://github.com/tox-dev/peryx/pull/643) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#642](https://github.com/tox-dev/peryx/pull/642) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 💪 Opened PR [#644](https://github.com/tox-dev/peryx/pull/644) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 💪 Opened PR [#643](https://github.com/tox-dev/peryx/pull/643) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
