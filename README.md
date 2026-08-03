@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#783](https://github.com/tox-dev/peryx/issues/783) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#784](https://github.com/tox-dev/peryx/pull/784) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🗣 Commented on [#649](https://github.com/tox-dev/pipdeptree/issues/649#issuecomment-5167428396) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ℹ️ Labeled PR [#785](https://github.com/tox-dev/peryx/pull/785) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 💪 Opened PR [#785](https://github.com/tox-dev/peryx/pull/785) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 🗣 Commented on [#779](https://github.com/tox-dev/peryx/issues/779#issuecomment-5167347854) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🔒 Closed issue [#780](https://github.com/tox-dev/peryx/issues/780) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🎉 Merged PR [#781](https://github.com/tox-dev/peryx/pull/781) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. 🎉 Merged PR [#4009](https://github.com/tox-dev/tox/pull/4009) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#703](https://github.com/tox-dev/turbohtml/pull/703) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🚀 Published release [3.13.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.13.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#740](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/740) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#804](https://github.com/tox-dev/peryx/pull/804) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🔒 Closed issue [#741](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/741) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#743](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/743) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ℹ️ Labeled PR [#809](https://github.com/tox-dev/peryx/pull/809) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#809](https://github.com/tox-dev/peryx/pull/809) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#808](https://github.com/tox-dev/peryx/pull/808) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 💪 Opened PR [#808](https://github.com/tox-dev/peryx/pull/808) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🎉 Merged PR [#792](https://github.com/tox-dev/peryx/pull/792) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
