@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#852](https://github.com/tox-dev/peryx/pull/852) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🔒 Closed issue [#827](https://github.com/tox-dev/peryx/issues/827) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled issue [#855](https://github.com/tox-dev/peryx/issues/855) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ❗ Opened issue [#855](https://github.com/tox-dev/peryx/issues/855) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. ℹ️ Labeled PR [#854](https://github.com/tox-dev/peryx/pull/854) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 💪 Opened PR [#854](https://github.com/tox-dev/peryx/pull/854) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. ℹ️ Labeled issue [#853](https://github.com/tox-dev/peryx/issues/853) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ❗ Opened issue [#853](https://github.com/tox-dev/peryx/issues/853) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. ℹ️ Labeled PR [#852](https://github.com/tox-dev/peryx/pull/852) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 💪 Opened PR [#852](https://github.com/tox-dev/peryx/pull/852) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🗣 Commented on [#524](https://github.com/tox-dev/peryx/issues/524#issuecomment-5175716826) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled PR [#864](https://github.com/tox-dev/peryx/pull/864) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 💪 Opened PR [#864](https://github.com/tox-dev/peryx/pull/864) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🗣 Commented on [#545](https://github.com/tox-dev/peryx/issues/545#issuecomment-5175497825) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#863](https://github.com/tox-dev/peryx/pull/863) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#863](https://github.com/tox-dev/peryx/pull/863) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 🗣 Commented on [#859](https://github.com/tox-dev/peryx/pull/859#issuecomment-5175488487) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#862](https://github.com/tox-dev/peryx/pull/862) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 💪 Opened PR [#862](https://github.com/tox-dev/peryx/pull/862) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. ℹ️ Labeled PR [#861](https://github.com/tox-dev/peryx/pull/861) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
