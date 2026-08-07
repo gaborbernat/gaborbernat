@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#447](https://github.com/HewlettPackard/py-spiffe/issues/447) in [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe)
-2. 🔒 Closed issue [#1482](https://github.com/tox-dev/peryx/issues/1482) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🔒 Closed issue [#1421](https://github.com/tox-dev/peryx/issues/1421) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🔒 Closed issue [#1356](https://github.com/tox-dev/peryx/issues/1356) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 🔒 Closed issue [#1380](https://github.com/tox-dev/peryx/issues/1380) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 🔒 Closed issue [#1381](https://github.com/tox-dev/peryx/issues/1381) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🔒 Closed issue [#1306](https://github.com/tox-dev/peryx/issues/1306) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🔒 Closed issue [#1310](https://github.com/tox-dev/peryx/issues/1310) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. 🔒 Closed issue [#1170](https://github.com/tox-dev/peryx/issues/1170) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 🔒 Closed issue [#1131](https://github.com/tox-dev/peryx/issues/1131) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🔒 Closed issue [#1484](https://github.com/tox-dev/peryx/issues/1484) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🔒 Closed issue [#1416](https://github.com/tox-dev/peryx/issues/1416) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🔒 Closed issue [#1144](https://github.com/tox-dev/peryx/issues/1144) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🔒 Closed issue [#1133](https://github.com/tox-dev/peryx/issues/1133) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🚀 Published release [4.11.1](https://github.com/tox-dev/platformdirs/releases/tag/4.11.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. ❗ Opened issue [#447](https://github.com/HewlettPackard/py-spiffe/issues/447) in [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe)
+7. 🔒 Closed issue [#1482](https://github.com/tox-dev/peryx/issues/1482) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 🔒 Closed issue [#1421](https://github.com/tox-dev/peryx/issues/1421) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🔒 Closed issue [#1356](https://github.com/tox-dev/peryx/issues/1356) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🔒 Closed issue [#1380](https://github.com/tox-dev/peryx/issues/1380) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
