@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1179](https://github.com/tox-dev/peryx/issues/1179) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🔒 Closed issue [#1481](https://github.com/tox-dev/peryx/issues/1481) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🔒 Closed issue [#1351](https://github.com/tox-dev/peryx/issues/1351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🔒 Closed issue [#1515](https://github.com/tox-dev/peryx/issues/1515) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 🔒 Closed issue [#1469](https://github.com/tox-dev/peryx/issues/1469) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled issue [#1481](https://github.com/tox-dev/peryx/issues/1481) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. ℹ️ Labeled issue [#1179](https://github.com/tox-dev/peryx/issues/1179) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ℹ️ Labeled issue [#1351](https://github.com/tox-dev/peryx/issues/1351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. ℹ️ Labeled issue [#1469](https://github.com/tox-dev/peryx/issues/1469) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. ℹ️ Labeled issue [#1515](https://github.com/tox-dev/peryx/issues/1515) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🔒 Closed issue [#656](https://github.com/tox-dev/pipdeptree/issues/656) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#657](https://github.com/tox-dev/pipdeptree/pull/657) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. ℹ️ Labeled PR [#657](https://github.com/tox-dev/pipdeptree/pull/657) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 💪 Opened PR [#657](https://github.com/tox-dev/pipdeptree/pull/657) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#3207](https://github.com/pypa/virtualenv/pull/3207) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🔒 Closed issue [#1179](https://github.com/tox-dev/peryx/issues/1179) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 🔒 Closed issue [#1481](https://github.com/tox-dev/peryx/issues/1481) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 🔒 Closed issue [#1351](https://github.com/tox-dev/peryx/issues/1351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🔒 Closed issue [#1515](https://github.com/tox-dev/peryx/issues/1515) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🔒 Closed issue [#1469](https://github.com/tox-dev/peryx/issues/1469) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
