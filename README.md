@@ -37,13 +37,13 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#737](https://github.com/tox-dev/turbohtml/pull/737) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#737](https://github.com/tox-dev/turbohtml/pull/737) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 3. ℹ️ Labeled PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ℹ️ Labeled PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 8. ℹ️ Labeled PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 9. ℹ️ Labeled PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 10. ℹ️ Labeled PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
