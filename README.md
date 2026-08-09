@@ -37,8 +37,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❌ Closed PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🗣 Commented on [#723](https://github.com/tox-dev/turbohtml/pull/723#issuecomment-5231450084) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 3. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 5. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
@@ -46,7 +46,7 @@ ______________________________________________________________________
 7. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 8. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 9. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#723](https://github.com/tox-dev/turbohtml/pull/723) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
