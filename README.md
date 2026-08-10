@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#4017](https://github.com/tox-dev/tox/pull/4017) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ℹ️ Labeled PR [#4017](https://github.com/tox-dev/tox/pull/4017) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 💪 Opened PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🎉 Merged PR [#733](https://github.com/tox-dev/turbohtml/pull/733) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🔒 Closed issue [#712](https://github.com/tox-dev/turbohtml/issues/712) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🗣 Commented on [#743](https://github.com/tox-dev/turbohtml/issues/743#issuecomment-5245225240) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🔒 Closed issue [#743](https://github.com/tox-dev/turbohtml/issues/743) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🚀 Published release [v4.59.0](https://github.com/tox-dev/tox/releases/tag/4.59.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#359](https://github.com/tox-dev/tox-ini-fmt/issues/359#issuecomment-5246905732) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🎉 Merged PR [#4017](https://github.com/tox-dev/tox/pull/4017) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#4018](https://github.com/tox-dev/tox/pull/4018) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#4017](https://github.com/tox-dev/tox/pull/4017) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4017](https://github.com/tox-dev/tox/pull/4017) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
