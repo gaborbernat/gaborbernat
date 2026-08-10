@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#739](https://github.com/tox-dev/turbohtml/pull/739) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🔒 Closed issue [#722](https://github.com/tox-dev/turbohtml/issues/722) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ❌ Closed PR [#81](https://github.com/EmilStenstrom/justhtml/pull/81) in [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
-4. 🚀 Published release [4.11.2](https://github.com/tox-dev/platformdirs/releases/tag/4.11.2) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. ℹ️ Reopened PR [#81](https://github.com/EmilStenstrom/justhtml/pull/81) in [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
-6. 🎉 Merged PR [#740](https://github.com/tox-dev/turbohtml/pull/740) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#738](https://github.com/tox-dev/turbohtml/issues/738) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#728](https://github.com/tox-dev/turbohtml/pull/728) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#734](https://github.com/tox-dev/turbohtml/pull/734) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#743](https://github.com/tox-dev/turbohtml/issues/743#issuecomment-5245225240) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#743](https://github.com/tox-dev/turbohtml/issues/743) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🗣 Commented on [#720](https://github.com/tox-dev/turbohtml/issues/720#issuecomment-5245210725) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🔒 Closed issue [#720](https://github.com/tox-dev/turbohtml/issues/720) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🗣 Commented on [#719](https://github.com/tox-dev/turbohtml/issues/719#issuecomment-5245210434) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🔒 Closed issue [#719](https://github.com/tox-dev/turbohtml/issues/719) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🗣 Commented on [#718](https://github.com/tox-dev/turbohtml/issues/718#issuecomment-5245209905) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🔒 Closed issue [#718](https://github.com/tox-dev/turbohtml/issues/718) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🗣 Commented on [#717](https://github.com/tox-dev/turbohtml/issues/717#issuecomment-5245209555) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🔒 Closed issue [#717](https://github.com/tox-dev/turbohtml/issues/717) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
