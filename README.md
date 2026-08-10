@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#728](https://github.com/tox-dev/turbohtml/pull/728) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#734](https://github.com/tox-dev/turbohtml/pull/734) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🗣 Commented on [#734](https://github.com/tox-dev/turbohtml/pull/734#issuecomment-5236934076) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#736](https://github.com/tox-dev/turbohtml/pull/736) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🎉 Merged PR [#745](https://github.com/tox-dev/turbohtml/pull/745) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#725](https://github.com/tox-dev/turbohtml/pull/725) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#726](https://github.com/tox-dev/turbohtml/pull/726) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#724](https://github.com/tox-dev/turbohtml/pull/724) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#741](https://github.com/tox-dev/turbohtml/pull/741) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#338](https://github.com/tox-dev/sphinx-argparse-cli/pull/338#issuecomment-5242810959) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🗣 Commented on [#359](https://github.com/tox-dev/tox-ini-fmt/issues/359#issuecomment-5242679417) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. ❌ Closed PR [#81](https://github.com/EmilStenstrom/justhtml/pull/81) in [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
+4. 🚀 Published release [4.11.2](https://github.com/tox-dev/platformdirs/releases/tag/4.11.2) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. ℹ️ Reopened PR [#81](https://github.com/EmilStenstrom/justhtml/pull/81) in [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
+6. 🎉 Merged PR [#740](https://github.com/tox-dev/turbohtml/pull/740) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🔒 Closed issue [#738](https://github.com/tox-dev/turbohtml/issues/738) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#735](https://github.com/tox-dev/turbohtml/pull/735) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#728](https://github.com/tox-dev/turbohtml/pull/728) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🎉 Merged PR [#734](https://github.com/tox-dev/turbohtml/pull/734) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
