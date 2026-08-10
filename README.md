@@ -37,8 +37,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#338](https://github.com/tox-dev/sphinx-argparse-cli/pull/338#issuecomment-5242810959) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. 🗣 Commented on [#359](https://github.com/tox-dev/tox-ini-fmt/issues/359#issuecomment-5242679417) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#739](https://github.com/tox-dev/turbohtml/pull/739) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#722](https://github.com/tox-dev/turbohtml/issues/722) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 3. ❌ Closed PR [#81](https://github.com/EmilStenstrom/justhtml/pull/81) in [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
 4. 🚀 Published release [4.11.2](https://github.com/tox-dev/platformdirs/releases/tag/4.11.2) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 5. ℹ️ Reopened PR [#81](https://github.com/EmilStenstrom/justhtml/pull/81) in [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
