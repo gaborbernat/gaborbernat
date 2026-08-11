@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.6.0](https://github.com/tox-dev/turbohtml/releases/tag/1.6.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#748](https://github.com/tox-dev/turbohtml/pull/748) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#150827](https://github.com/python/cpython/pull/150827) in [python/cpython](https://github.com/python/cpython)
-4. 💪 Opened PR [#748](https://github.com/tox-dev/turbohtml/pull/748) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🗣 Commented on [#1997](https://github.com/pypa/pipx/pull/1997#issuecomment-5248778724) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ❌ Closed PR [#1997](https://github.com/pypa/pipx/pull/1997) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🚀 Published release [1.22.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.22.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. 🗣 Commented on [#4019](https://github.com/tox-dev/tox/pull/4019#issuecomment-5248731613) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ❌ Closed PR [#4019](https://github.com/tox-dev/tox/pull/4019) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 💪 Opened PR [#61846](https://github.com/web-platform-tests/wpt/pull/61846) in [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt)
+1. ℹ️ Assigned issue [#116](https://github.com/tox-dev/python-discovery/issues/116) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. 🚀 Published release [v1.6.0](https://github.com/tox-dev/turbohtml/releases/tag/1.6.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#748](https://github.com/tox-dev/turbohtml/pull/748) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#150827](https://github.com/python/cpython/pull/150827) in [python/cpython](https://github.com/python/cpython)
+5. 💪 Opened PR [#748](https://github.com/tox-dev/turbohtml/pull/748) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🗣 Commented on [#1997](https://github.com/pypa/pipx/pull/1997#issuecomment-5248778724) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ❌ Closed PR [#1997](https://github.com/pypa/pipx/pull/1997) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🚀 Published release [1.22.1](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.22.1) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+9. 🗣 Commented on [#4019](https://github.com/tox-dev/tox/pull/4019#issuecomment-5248731613) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ❌ Closed PR [#4019](https://github.com/tox-dev/tox/pull/4019) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
