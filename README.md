@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. ℹ️ Labeled PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🗣 Commented on [#430](https://github.com/tox-dev/toml-fmt/issues/430#issuecomment-5268401773) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🚀 Published release [1.5.2](https://github.com/tox-dev/python-discovery/releases/tag/1.5.2) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🔒 Closed issue [#290](https://github.com/tox-dev/pyproject-api/issues/290) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-7. 🎉 Merged PR [#117](https://github.com/tox-dev/python-discovery/pull/117) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 🔒 Closed issue [#116](https://github.com/tox-dev/python-discovery/issues/116) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🗣 Commented on [#290](https://github.com/tox-dev/pyproject-api/issues/290#issuecomment-5267871520) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-10. 🗣 Commented on [#4020](https://github.com/tox-dev/tox/pull/4020#issuecomment-5267710257) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🔒 Closed issue [#430](https://github.com/tox-dev/toml-fmt/issues/430) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. ℹ️ Labeled PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. ℹ️ Labeled PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🗣 Commented on [#430](https://github.com/tox-dev/toml-fmt/issues/430#issuecomment-5268401773) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🚀 Published release [1.5.2](https://github.com/tox-dev/python-discovery/releases/tag/1.5.2) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 🔒 Closed issue [#290](https://github.com/tox-dev/pyproject-api/issues/290) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+9. 🎉 Merged PR [#117](https://github.com/tox-dev/python-discovery/pull/117) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. 🔒 Closed issue [#116](https://github.com/tox-dev/python-discovery/issues/116) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
