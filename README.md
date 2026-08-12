@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🔒 Closed issue [#430](https://github.com/tox-dev/toml-fmt/issues/430) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ℹ️ Labeled PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ℹ️ Labeled PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#431](https://github.com/tox-dev/toml-fmt/pull/431) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🗣 Commented on [#430](https://github.com/tox-dev/toml-fmt/issues/430#issuecomment-5268401773) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🚀 Published release [1.5.2](https://github.com/tox-dev/python-discovery/releases/tag/1.5.2) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 🔒 Closed issue [#290](https://github.com/tox-dev/pyproject-api/issues/290) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-9. 🎉 Merged PR [#117](https://github.com/tox-dev/python-discovery/pull/117) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 🔒 Closed issue [#116](https://github.com/tox-dev/python-discovery/issues/116) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. ℹ️ Labeled PR [#1148](https://github.com/pypa/build/pull/1148) in [pypa/build](https://github.com/pypa/build)
+2. 💪 Opened PR [#1148](https://github.com/pypa/build/pull/1148) in [pypa/build](https://github.com/pypa/build)
+3. ℹ️ Labeled PR [#1147](https://github.com/pypa/build/pull/1147) in [pypa/build](https://github.com/pypa/build)
+4. ℹ️ Labeled PR [#1147](https://github.com/pypa/build/pull/1147) in [pypa/build](https://github.com/pypa/build)
+5. 💪 Opened PR [#1147](https://github.com/pypa/build/pull/1147) in [pypa/build](https://github.com/pypa/build)
+6. ℹ️ Labeled PR [#3211](https://github.com/pypa/virtualenv/pull/3211) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3211](https://github.com/pypa/virtualenv/pull/3211) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ℹ️ Reopened PR [#522](https://github.com/tox-dev/platformdirs/pull/522) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. ❌ Closed PR [#522](https://github.com/tox-dev/platformdirs/pull/522) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. ℹ️ Labeled PR [#522](https://github.com/tox-dev/platformdirs/pull/522) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
