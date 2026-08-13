@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#702](https://github.com/tox-dev/filelock/pull/702#issuecomment-5277118875) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ❌ Closed PR [#702](https://github.com/tox-dev/filelock/pull/702) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
-6. 🗣 Commented on [#543](https://github.com/python/importlib_metadata/pull/543#issuecomment-5275939541) in [python/importlib_metadata](https://github.com/python/importlib_metadata)
-7. 🗣 Commented on [#1146](https://github.com/pypa/build/pull/1146#issuecomment-5275230622) in [pypa/build](https://github.com/pypa/build)
-8. ℹ️ Labeled PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
-9. 💪 Opened PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
-10. 🎉 Merged PR [#1148](https://github.com/pypa/build/pull/1148) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#671](https://github.com/tox-dev/pipdeptree/pull/671) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 💪 Opened PR [#671](https://github.com/tox-dev/pipdeptree/pull/671) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🚀 Published release [3.32.3](https://github.com/tox-dev/filelock/releases/tag/3.32.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🔒 Closed issue [#701](https://github.com/tox-dev/filelock/issues/701) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#701](https://github.com/tox-dev/filelock/issues/701) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 🗣 Commented on [#702](https://github.com/tox-dev/filelock/pull/702#issuecomment-5277118875) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. ❌ Closed PR [#702](https://github.com/tox-dev/filelock/pull/702) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. ℹ️ Labeled PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 💪 Opened PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
