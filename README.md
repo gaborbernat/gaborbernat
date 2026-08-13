@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#1136](https://github.com/pypa/build/pull/1136#issuecomment-5287102332) in [pypa/build](https://github.com/pypa/build)
-3. 🗣 Commented on [#1135](https://github.com/pypa/build/pull/1135#issuecomment-5287102097) in [pypa/build](https://github.com/pypa/build)
-4. ❌ Closed PR [#1135](https://github.com/pypa/build/pull/1135) in [pypa/build](https://github.com/pypa/build)
-5. 💪 Opened PR [#1159](https://github.com/pypa/build/pull/1159) in [pypa/build](https://github.com/pypa/build)
-6. ❌ Closed PR [#119](https://github.com/tox-dev/python-discovery/pull/119) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-7. 🔒 Closed issue [#4021](https://github.com/tox-dev/tox/issues/4021) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 🔒 Closed issue [#669](https://github.com/tox-dev/pipdeptree/issues/669) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#671](https://github.com/tox-dev/pipdeptree/pull/671) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. ℹ️ Labeled PR [#671](https://github.com/tox-dev/pipdeptree/pull/671) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🚀 Published release [v4.60.0](https://github.com/tox-dev/tox/releases/tag/4.60.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [4.11.3](https://github.com/tox-dev/platformdirs/releases/tag/4.11.3) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🔒 Closed issue [#4024](https://github.com/tox-dev/tox/issues/4024) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❗ Opened issue [#4257](https://github.com/astral-sh/ty/issues/4257) in [astral-sh/ty](https://github.com/astral-sh/ty)
+5. ❌ Closed PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
+6. 🗣 Commented on [#1136](https://github.com/pypa/build/pull/1136#issuecomment-5287102332) in [pypa/build](https://github.com/pypa/build)
+7. 🗣 Commented on [#1135](https://github.com/pypa/build/pull/1135#issuecomment-5287102097) in [pypa/build](https://github.com/pypa/build)
+8. ❌ Closed PR [#1135](https://github.com/pypa/build/pull/1135) in [pypa/build](https://github.com/pypa/build)
+9. 💪 Opened PR [#1159](https://github.com/pypa/build/pull/1159) in [pypa/build](https://github.com/pypa/build)
+10. ❌ Closed PR [#119](https://github.com/tox-dev/python-discovery/pull/119) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
