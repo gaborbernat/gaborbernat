@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
-4. 🗣 Commented on [#543](https://github.com/python/importlib_metadata/pull/543#issuecomment-5275939541) in [python/importlib_metadata](https://github.com/python/importlib_metadata)
-5. 🗣 Commented on [#1146](https://github.com/pypa/build/pull/1146#issuecomment-5275230622) in [pypa/build](https://github.com/pypa/build)
-6. ℹ️ Labeled PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
-7. 💪 Opened PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#1148](https://github.com/pypa/build/pull/1148) in [pypa/build](https://github.com/pypa/build)
-9. 🎉 Merged PR [#2001](https://github.com/pypa/pipx/pull/2001) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🎉 Merged PR [#3210](https://github.com/pypa/virtualenv/pull/3210) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#702](https://github.com/tox-dev/filelock/pull/702#issuecomment-5277118875) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ❌ Closed PR [#702](https://github.com/tox-dev/filelock/pull/702) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ℹ️ Labeled PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#703](https://github.com/tox-dev/filelock/pull/703) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
+6. 🗣 Commented on [#543](https://github.com/python/importlib_metadata/pull/543#issuecomment-5275939541) in [python/importlib_metadata](https://github.com/python/importlib_metadata)
+7. 🗣 Commented on [#1146](https://github.com/pypa/build/pull/1146#issuecomment-5275230622) in [pypa/build](https://github.com/pypa/build)
+8. ℹ️ Labeled PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
+9. 💪 Opened PR [#1150](https://github.com/pypa/build/pull/1150) in [pypa/build](https://github.com/pypa/build)
+10. 🎉 Merged PR [#1148](https://github.com/pypa/build/pull/1148) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
