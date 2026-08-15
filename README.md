@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🎉 Merged PR [#1446](https://github.com/tox-dev/peryx/pull/1446) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ❌ Closed PR [#1146](https://github.com/pypa/build/pull/1146) in [pypa/build](https://github.com/pypa/build)
-5. 🚀 Published release [1.9.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.9.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-6. 🔒 Closed issue [#359](https://github.com/tox-dev/tox-ini-fmt/issues/359) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-7. 🚀 Published release [v4.60.0](https://github.com/tox-dev/tox/releases/tag/4.60.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 🚀 Published release [4.11.3](https://github.com/tox-dev/platformdirs/releases/tag/4.11.3) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🔒 Closed issue [#4024](https://github.com/tox-dev/tox/issues/4024) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ❗ Opened issue [#4257](https://github.com/astral-sh/ty/issues/4257) in [astral-sh/ty](https://github.com/astral-sh/ty)
+1. 🎉 Merged PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 💪 Opened PR [#705](https://github.com/tox-dev/filelock/pull/705) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#3769](https://github.com/koxudaxi/datamodel-code-generator/pull/3769) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+6. ℹ️ Assigned PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Labeled PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 💪 Opened PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Assigned PR [#751](https://github.com/tox-dev/turbohtml/pull/751) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
