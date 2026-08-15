@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1146](https://github.com/pypa/build/pull/1146) in [pypa/build](https://github.com/pypa/build)
-2. 🚀 Published release [1.9.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.9.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 🔒 Closed issue [#359](https://github.com/tox-dev/tox-ini-fmt/issues/359) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🚀 Published release [v4.60.0](https://github.com/tox-dev/tox/releases/tag/4.60.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.11.3](https://github.com/tox-dev/platformdirs/releases/tag/4.11.3) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🔒 Closed issue [#4024](https://github.com/tox-dev/tox/issues/4024) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ❗ Opened issue [#4257](https://github.com/astral-sh/ty/issues/4257) in [astral-sh/ty](https://github.com/astral-sh/ty)
-8. ❌ Closed PR [#1136](https://github.com/pypa/build/pull/1136) in [pypa/build](https://github.com/pypa/build)
-9. 🗣 Commented on [#1136](https://github.com/pypa/build/pull/1136#issuecomment-5287102332) in [pypa/build](https://github.com/pypa/build)
-10. 🗣 Commented on [#1135](https://github.com/pypa/build/pull/1135#issuecomment-5287102097) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 💪 Opened PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#1446](https://github.com/tox-dev/peryx/pull/1446) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. ❌ Closed PR [#1146](https://github.com/pypa/build/pull/1146) in [pypa/build](https://github.com/pypa/build)
+5. 🚀 Published release [1.9.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/1.9.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+6. 🔒 Closed issue [#359](https://github.com/tox-dev/tox-ini-fmt/issues/359) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+7. 🚀 Published release [v4.60.0](https://github.com/tox-dev/tox/releases/tag/4.60.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🚀 Published release [4.11.3](https://github.com/tox-dev/platformdirs/releases/tag/4.11.3) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 🔒 Closed issue [#4024](https://github.com/tox-dev/tox/issues/4024) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ❗ Opened issue [#4257](https://github.com/astral-sh/ty/issues/4257) in [astral-sh/ty](https://github.com/astral-sh/ty)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
