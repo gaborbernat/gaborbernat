@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#751](https://github.com/tox-dev/turbohtml/pull/751) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 💪 Opened PR [#705](https://github.com/tox-dev/filelock/pull/705) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 💪 Opened PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#3769](https://github.com/koxudaxi/datamodel-code-generator/pull/3769) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-8. ℹ️ Assigned PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#433](https://github.com/tox-dev/toml-fmt/pull/433) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🚀 Published release [v1.6.1](https://github.com/tox-dev/turbohtml/releases/tag/1.6.1) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#751](https://github.com/tox-dev/turbohtml/pull/751) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. ℹ️ Labeled PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 💪 Opened PR [#705](https://github.com/tox-dev/filelock/pull/705) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 💪 Opened PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#3769](https://github.com/koxudaxi/datamodel-code-generator/pull/3769) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+10. ℹ️ Assigned PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
