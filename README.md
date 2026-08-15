@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#433](https://github.com/tox-dev/toml-fmt/pull/433) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🚀 Published release [v1.6.1](https://github.com/tox-dev/turbohtml/releases/tag/1.6.1) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#751](https://github.com/tox-dev/turbohtml/pull/751) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#1518](https://github.com/tox-dev/peryx/pull/1518) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#705](https://github.com/tox-dev/filelock/pull/705) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 💪 Opened PR [#3769](https://github.com/koxudaxi/datamodel-code-generator/pull/3769) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-10. ℹ️ Assigned PR [#752](https://github.com/tox-dev/turbohtml/pull/752) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#27](https://github.com/gaborbernat/mdformat-hugo/pull/27) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+2. 🎉 Merged PR [#366](https://github.com/tox-dev/tox-uv/pull/366) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#103](https://github.com/tox-dev/xml-fmt/pull/103) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. 🎉 Merged PR [#4026](https://github.com/tox-dev/tox/pull/4026) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#673](https://github.com/tox-dev/pipdeptree/pull/673) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🎉 Merged PR [#3213](https://github.com/pypa/virtualenv/pull/3213) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#30](https://github.com/gaborbernat/cv/pull/30) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+8. ❌ Closed PR [#3769](https://github.com/koxudaxi/datamodel-code-generator/pull/3769) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+9. 🎉 Merged PR [#17](https://github.com/tox-dev/mdformat-zola/pull/17) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+10. 🎉 Merged PR [#704](https://github.com/tox-dev/filelock/pull/704) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
