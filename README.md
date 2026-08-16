@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#438](https://github.com/tox-dev/toml-fmt/pull/438#issuecomment-5305627650) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#439](https://github.com/tox-dev/toml-fmt/pull/439) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 💪 Opened PR [#438](https://github.com/tox-dev/toml-fmt/pull/438) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#1523](https://github.com/tox-dev/peryx/pull/1523) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 🎉 Merged PR [#437](https://github.com/tox-dev/toml-fmt/pull/437) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🎉 Merged PR [#436](https://github.com/tox-dev/toml-fmt/pull/436) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 💪 Opened PR [#437](https://github.com/tox-dev/toml-fmt/pull/437) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 💪 Opened PR [#436](https://github.com/tox-dev/toml-fmt/pull/436) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 💪 Opened PR [#1523](https://github.com/tox-dev/peryx/pull/1523) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 🎉 Merged PR [#1522](https://github.com/tox-dev/peryx/pull/1522) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🗣 Commented on [#1539](https://github.com/tox-dev/peryx/issues/1539#issuecomment-5305789254) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🔒 Closed issue [#1539](https://github.com/tox-dev/peryx/issues/1539) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🗣 Commented on [#1553](https://github.com/tox-dev/peryx/issues/1553#issuecomment-5305784583) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🔒 Closed issue [#1553](https://github.com/tox-dev/peryx/issues/1553) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🎉 Merged PR [#439](https://github.com/tox-dev/toml-fmt/pull/439) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🎉 Merged PR [#438](https://github.com/tox-dev/toml-fmt/pull/438) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ❗ Opened issue [#1607](https://github.com/tox-dev/peryx/issues/1607) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ❗ Opened issue [#1606](https://github.com/tox-dev/peryx/issues/1606) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. ❗ Opened issue [#1605](https://github.com/tox-dev/peryx/issues/1605) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. ❗ Opened issue [#1604](https://github.com/tox-dev/peryx/issues/1604) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
