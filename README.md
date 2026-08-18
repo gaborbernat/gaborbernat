@@ -37,11 +37,11 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#751](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/751) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ❌ Closed PR [#234](https://github.com/tox-dev/PyVenvManage/pull/234) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🎉 Merged PR [#1608](https://github.com/tox-dev/peryx/pull/1608) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#1608](https://github.com/tox-dev/peryx/pull/1608) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 💪 Opened PR [#1608](https://github.com/tox-dev/peryx/pull/1608) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🗣 Commented on [#1160](https://github.com/pypa/build/pull/1160#issuecomment-5327154029) in [pypa/build](https://github.com/pypa/build)
+2. ❗ Opened issue [#751](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/751) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❌ Closed PR [#234](https://github.com/tox-dev/PyVenvManage/pull/234) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. 🎉 Merged PR [#1608](https://github.com/tox-dev/peryx/pull/1608) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#1608](https://github.com/tox-dev/peryx/pull/1608) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 6. 🔒 Closed issue [#1206](https://github.com/tox-dev/peryx/issues/1206) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 7. 🗣 Commented on [#1206](https://github.com/tox-dev/peryx/issues/1206#issuecomment-5305841897) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 8. ℹ️ Labeled issue [#1607](https://github.com/tox-dev/peryx/issues/1607) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
