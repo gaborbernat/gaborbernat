@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4032](https://github.com/tox-dev/tox/pull/4032#issuecomment-5359967306) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#4032](https://github.com/tox-dev/tox/pull/4032) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#4031](https://github.com/tox-dev/tox/issues/4031) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#3216](https://github.com/pypa/virtualenv/pull/3216#issuecomment-5343177771) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❌ Closed PR [#3216](https://github.com/pypa/virtualenv/pull/3216) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 💪 Opened PR [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-7. ❗ Opened issue [#5218](https://github.com/trufflesecurity/trufflehog/issues/5218) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-8. 🗣 Commented on [#1160](https://github.com/pypa/build/pull/1160#issuecomment-5327727243) in [pypa/build](https://github.com/pypa/build)
-9. 🗣 Commented on [#1160](https://github.com/pypa/build/pull/1160#issuecomment-5327154029) in [pypa/build](https://github.com/pypa/build)
-10. ℹ️ Labeled issue [#1607](https://github.com/tox-dev/peryx/issues/1607) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 💪 Opened PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🗣 Commented on [#4032](https://github.com/tox-dev/tox/pull/4032#issuecomment-5359967306) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ❌ Closed PR [#4032](https://github.com/tox-dev/tox/pull/4032) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#4031](https://github.com/tox-dev/tox/issues/4031) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🗣 Commented on [#3216](https://github.com/pypa/virtualenv/pull/3216#issuecomment-5343177771) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. ❌ Closed PR [#3216](https://github.com/pypa/virtualenv/pull/3216) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 💪 Opened PR [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+9. ❗ Opened issue [#5218](https://github.com/trufflesecurity/trufflehog/issues/5218) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+10. 🗣 Commented on [#1160](https://github.com/pypa/build/pull/1160#issuecomment-5327727243) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
