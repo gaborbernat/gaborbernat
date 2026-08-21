@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#681](https://github.com/tox-dev/pipdeptree/issues/681) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. ℹ️ Labeled PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#4032](https://github.com/tox-dev/tox/pull/4032#issuecomment-5359967306) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ❌ Closed PR [#4032](https://github.com/tox-dev/tox/pull/4032) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🔒 Closed issue [#4031](https://github.com/tox-dev/tox/issues/4031) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 🗣 Commented on [#3216](https://github.com/pypa/virtualenv/pull/3216#issuecomment-5343177771) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ❌ Closed PR [#3216](https://github.com/pypa/virtualenv/pull/3216) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 💪 Opened PR [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+1. 🗣 Commented on [#4036](https://github.com/tox-dev/tox/pull/4036#issuecomment-5364951102) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#681](https://github.com/tox-dev/pipdeptree/issues/681) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ℹ️ Labeled PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 💪 Opened PR [#683](https://github.com/tox-dev/pipdeptree/pull/683) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🗣 Commented on [#4032](https://github.com/tox-dev/tox/pull/4032#issuecomment-5359967306) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ❌ Closed PR [#4032](https://github.com/tox-dev/tox/pull/4032) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🔒 Closed issue [#4031](https://github.com/tox-dev/tox/issues/4031) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🗣 Commented on [#3216](https://github.com/pypa/virtualenv/pull/3216#issuecomment-5343177771) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. ❌ Closed PR [#3216](https://github.com/pypa/virtualenv/pull/3216) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
