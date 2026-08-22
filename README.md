@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#442](https://github.com/tox-dev/toml-fmt/pull/442) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 💪 Opened PR [#108](https://github.com/tox-dev/xml-fmt/pull/108) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-3. 💪 Opened PR [#22](https://github.com/tox-dev/mdformat-zola/pull/22) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-4. 💪 Opened PR [#294](https://github.com/tox-dev/tox-gh/pull/294) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. ℹ️ Labeled PR [#4039](https://github.com/tox-dev/tox/pull/4039) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 💪 Opened PR [#4039](https://github.com/tox-dev/tox/pull/4039) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ❌ Closed PR [#528](https://github.com/tox-dev/platformdirs/pull/528) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. ℹ️ Reopened PR [#528](https://github.com/tox-dev/platformdirs/pull/528) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. ℹ️ Reopened PR [#713](https://github.com/tox-dev/filelock/pull/713) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ❌ Closed PR [#713](https://github.com/tox-dev/filelock/pull/713) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Reopened PR [#714](https://github.com/tox-dev/filelock/pull/714) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ❌ Closed PR [#714](https://github.com/tox-dev/filelock/pull/714) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ℹ️ Labeled PR [#714](https://github.com/tox-dev/filelock/pull/714) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#714](https://github.com/tox-dev/filelock/pull/714) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#1611](https://github.com/tox-dev/peryx/pull/1611) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#1610](https://github.com/tox-dev/peryx/pull/1610) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 🎉 Merged PR [#442](https://github.com/tox-dev/toml-fmt/pull/442) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#108](https://github.com/tox-dev/xml-fmt/pull/108) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+9. 💪 Opened PR [#22](https://github.com/tox-dev/mdformat-zola/pull/22) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+10. 💪 Opened PR [#294](https://github.com/tox-dev/tox-gh/pull/294) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
