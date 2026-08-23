@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1612](https://github.com/tox-dev/peryx/pull/1612) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#1610](https://github.com/tox-dev/peryx/pull/1610) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🎉 Merged PR [#1609](https://github.com/tox-dev/peryx/pull/1609) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🎉 Merged PR [#1611](https://github.com/tox-dev/peryx/pull/1611) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 🚀 Published release [3.32.4](https://github.com/tox-dev/filelock/releases/tag/3.32.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🎉 Merged PR [#713](https://github.com/tox-dev/filelock/pull/713) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#714](https://github.com/tox-dev/filelock/pull/714) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🔒 Closed issue [#707](https://github.com/tox-dev/filelock/issues/707) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🎉 Merged PR [#528](https://github.com/tox-dev/platformdirs/pull/528) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 🗣 Commented on [#528](https://github.com/tox-dev/platformdirs/pull/528#issuecomment-5387476235) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#1165](https://github.com/pypa/build/pull/1165) in [pypa/build](https://github.com/pypa/build)
+2. 🎉 Merged PR [#21](https://github.com/tox-dev/mdformat-zola/pull/21) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+3. 🎉 Merged PR [#107](https://github.com/tox-dev/xml-fmt/pull/107) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. 🎉 Merged PR [#23](https://github.com/gaborbernat/gaborbernat/pull/23) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+5. 🎉 Merged PR [#18](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/18) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+6. 🎉 Merged PR [#32](https://github.com/gaborbernat/cv/pull/32) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+7. 🎉 Merged PR [#79](https://github.com/gaborbernat/bernat-tech/pull/79) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+8. ℹ️ Labeled PR [#715](https://github.com/tox-dev/filelock/pull/715) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#715](https://github.com/tox-dev/filelock/pull/715) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🎉 Merged PR [#24](https://github.com/gaborbernat/all-repos-self/pull/24) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
