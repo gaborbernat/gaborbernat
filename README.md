@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#293](https://github.com/tox-dev/tox-gh/pull/293) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. ℹ️ Labeled PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 💪 Opened PR [#689](https://github.com/tox-dev/pipdeptree/pull/689) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#150822](https://github.com/python/cpython/pull/150822#issuecomment-5387874819) in [python/cpython](https://github.com/python/cpython)
-6. ❌ Closed PR [#150822](https://github.com/python/cpython/pull/150822) in [python/cpython](https://github.com/python/cpython)
-7. 🎉 Merged PR [#1165](https://github.com/pypa/build/pull/1165) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#21](https://github.com/tox-dev/mdformat-zola/pull/21) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-9. 🎉 Merged PR [#107](https://github.com/tox-dev/xml-fmt/pull/107) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-10. 🎉 Merged PR [#23](https://github.com/gaborbernat/gaborbernat/pull/23) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+1. 🎉 Merged PR [#689](https://github.com/tox-dev/pipdeptree/pull/689) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. 🎉 Merged PR [#715](https://github.com/tox-dev/filelock/pull/715) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#293](https://github.com/tox-dev/tox-gh/pull/293) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+4. ℹ️ Labeled PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 💪 Opened PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#689](https://github.com/tox-dev/pipdeptree/pull/689) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. 🗣 Commented on [#150822](https://github.com/python/cpython/pull/150822#issuecomment-5387874819) in [python/cpython](https://github.com/python/cpython)
+8. ❌ Closed PR [#150822](https://github.com/python/cpython/pull/150822) in [python/cpython](https://github.com/python/cpython)
+9. 🎉 Merged PR [#1165](https://github.com/pypa/build/pull/1165) in [pypa/build](https://github.com/pypa/build)
+10. 🎉 Merged PR [#21](https://github.com/tox-dev/mdformat-zola/pull/21) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
