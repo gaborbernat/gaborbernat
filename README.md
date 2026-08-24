@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#760](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/760) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#760](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/760) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 💪 Opened PR [#759](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/759) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#444](https://github.com/tox-dev/toml-fmt/pull/444) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 🔒 Closed issue [#441](https://github.com/tox-dev/toml-fmt/issues/441) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🗣 Commented on [#750](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/750#issuecomment-5397039012) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🔒 Closed issue [#750](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/750) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 🗣 Commented on [#751](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/751#issuecomment-5397037932) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🔒 Closed issue [#751](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/751) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. 🗣 Commented on [#753](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/753#issuecomment-5397037130) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❗ Opened issue [#1054](https://github.com/notatallshaw/nab/issues/1054) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+2. ℹ️ Reopened PR [#716](https://github.com/tox-dev/filelock/pull/716) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ❌ Closed PR [#716](https://github.com/tox-dev/filelock/pull/716) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#759](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/759) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🚀 Published release [3.13.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.13.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🎉 Merged PR [#760](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/760) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 🎉 Merged PR [#761](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/761) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. ℹ️ Labeled PR [#716](https://github.com/tox-dev/filelock/pull/716) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🚀 Published release [pyproject-fmt/2.28.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.28.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. ℹ️ Labeled PR [#761](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/761) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
