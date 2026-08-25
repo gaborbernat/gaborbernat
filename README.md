@@ -37,12 +37,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1159](https://github.com/pypa/build/pull/1159) in [pypa/build](https://github.com/pypa/build)
-2. 🚀 Published release [v4.60.1](https://github.com/tox-dev/tox/releases/tag/4.60.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🔒 Closed issue [#2004](https://github.com/pypa/pipx/issues/2004) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🔒 Closed issue [#2005](https://github.com/pypa/pipx/issues/2005) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🎉 Merged PR [#760](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/760) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 💪 Opened PR [#1168](https://github.com/pypa/build/pull/1168) in [pypa/build](https://github.com/pypa/build)
+2. ❌ Closed PR [#1159](https://github.com/pypa/build/pull/1159) in [pypa/build](https://github.com/pypa/build)
+3. 🚀 Published release [v4.60.1](https://github.com/tox-dev/tox/releases/tag/4.60.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🔒 Closed issue [#2004](https://github.com/pypa/pipx/issues/2004) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🔒 Closed issue [#2005](https://github.com/pypa/pipx/issues/2005) in [pypa/pipx](https://github.com/pypa/pipx)
 7. 🎉 Merged PR [#761](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/761) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 8. ℹ️ Labeled PR [#716](https://github.com/tox-dev/filelock/pull/716) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 9. 🚀 Published release [pyproject-fmt/2.28.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.28.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
