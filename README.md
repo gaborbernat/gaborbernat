@@ -37,8 +37,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1054](https://github.com/notatallshaw/nab/issues/1054) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-2. ℹ️ Reopened PR [#716](https://github.com/tox-dev/filelock/pull/716) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#2004](https://github.com/pypa/pipx/issues/2004) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🔒 Closed issue [#2005](https://github.com/pypa/pipx/issues/2005) in [pypa/pipx](https://github.com/pypa/pipx)
 3. ❌ Closed PR [#716](https://github.com/tox-dev/filelock/pull/716) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 4. 🎉 Merged PR [#759](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/759) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 5. 🚀 Published release [3.13.4](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.13.4) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
