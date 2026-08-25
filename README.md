@@ -37,15 +37,15 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1614](https://github.com/tox-dev/peryx/pull/1614) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#1614](https://github.com/tox-dev/peryx/pull/1614) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#1168](https://github.com/pypa/build/pull/1168) in [pypa/build](https://github.com/pypa/build)
-4. ❌ Closed PR [#1159](https://github.com/pypa/build/pull/1159) in [pypa/build](https://github.com/pypa/build)
-5. 🚀 Published release [v4.60.1](https://github.com/tox-dev/tox/releases/tag/4.60.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🔒 Closed issue [#2004](https://github.com/pypa/pipx/issues/2004) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🔒 Closed issue [#2005](https://github.com/pypa/pipx/issues/2005) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🚀 Published release [pyproject-fmt/2.28.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.28.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#1614](https://github.com/tox-dev/peryx/pull/1614) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled PR [#1614](https://github.com/tox-dev/peryx/pull/1614) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 💪 Opened PR [#1614](https://github.com/tox-dev/peryx/pull/1614) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 💪 Opened PR [#1168](https://github.com/pypa/build/pull/1168) in [pypa/build](https://github.com/pypa/build)
+5. ❌ Closed PR [#1159](https://github.com/pypa/build/pull/1159) in [pypa/build](https://github.com/pypa/build)
+6. 🚀 Published release [v4.60.1](https://github.com/tox-dev/tox/releases/tag/4.60.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#1613](https://github.com/tox-dev/peryx/pull/1613) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 🔒 Closed issue [#2004](https://github.com/pypa/pipx/issues/2004) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🔒 Closed issue [#2005](https://github.com/pypa/pipx/issues/2005) in [pypa/pipx](https://github.com/pypa/pipx)
 10. ℹ️ Labeled PR [#761](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/761) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
