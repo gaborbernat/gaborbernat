@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1869](https://github.com/tox-dev/peryx/issues/1869#issuecomment-5467628464) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#1860](https://github.com/tox-dev/peryx/pull/1860) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🔒 Closed issue [#1358](https://github.com/tox-dev/peryx/issues/1358) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Assigned PR [#1880](https://github.com/tox-dev/peryx/pull/1880) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. ℹ️ Labeled PR [#1880](https://github.com/tox-dev/peryx/pull/1880) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 💪 Opened PR [#1880](https://github.com/tox-dev/peryx/pull/1880) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🔒 Closed issue [#1367](https://github.com/tox-dev/peryx/issues/1367) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🎉 Merged PR [#1879](https://github.com/tox-dev/peryx/pull/1879) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. 🗣 Commented on [#758](https://github.com/tox-dev/turbohtml/issues/758#issuecomment-5467084890) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Assigned PR [#1879](https://github.com/tox-dev/peryx/pull/1879) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled issue [#1895](https://github.com/tox-dev/peryx/issues/1895) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled issue [#1895](https://github.com/tox-dev/peryx/issues/1895) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. ℹ️ Labeled issue [#1895](https://github.com/tox-dev/peryx/issues/1895) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. ❗ Opened issue [#1895](https://github.com/tox-dev/peryx/issues/1895) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled issue [#1894](https://github.com/tox-dev/peryx/issues/1894) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. ℹ️ Labeled issue [#1894](https://github.com/tox-dev/peryx/issues/1894) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. ℹ️ Labeled issue [#1894](https://github.com/tox-dev/peryx/issues/1894) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ❗ Opened issue [#1894](https://github.com/tox-dev/peryx/issues/1894) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🎉 Merged PR [#1890](https://github.com/tox-dev/peryx/pull/1890) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🔒 Closed issue [#1883](https://github.com/tox-dev/peryx/issues/1883) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
