@@ -37,8 +37,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#150876](https://github.com/python/cpython/pull/150876) in [python/cpython](https://github.com/python/cpython)
-2. 🎉 Merged PR [#797](https://github.com/tox-dev/turbohtml/pull/797) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#796](https://github.com/tox-dev/turbohtml/issues/796#issuecomment-5621503761) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ❌ Closed PR [#150876](https://github.com/python/cpython/pull/150876) in [python/cpython](https://github.com/python/cpython)
 3. 💪 Opened PR [#797](https://github.com/tox-dev/turbohtml/pull/797) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. 🎉 Merged PR [#2162](https://github.com/tox-dev/peryx/pull/2162) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 5. 🔒 Closed issue [#1745](https://github.com/tox-dev/peryx/issues/1745) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
