@@ -37,13 +37,13 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#795](https://github.com/tox-dev/turbohtml/pull/795) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🗣 Commented on [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219#issuecomment-5640674818) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-3. 💪 Opened PR [#5312](https://github.com/trufflesecurity/trufflehog/pull/5312) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-4. ❌ Closed PR [#150999](https://github.com/python/cpython/pull/150999) in [python/cpython](https://github.com/python/cpython)
-5. ❌ Closed PR [#150823](https://github.com/python/cpython/pull/150823) in [python/cpython](https://github.com/python/cpython)
-6. ❌ Closed PR [#3](https://github.com/larryhastings/blanket/pull/3) in [larryhastings/blanket](https://github.com/larryhastings/blanket)
-7. ❌ Closed PR [#150879](https://github.com/python/cpython/pull/150879) in [python/cpython](https://github.com/python/cpython)
+1. ℹ️ Labeled PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#795](https://github.com/tox-dev/turbohtml/pull/795) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🗣 Commented on [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219#issuecomment-5640674818) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+7. 💪 Opened PR [#5312](https://github.com/trufflesecurity/trufflehog/pull/5312) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 8. ❌ Closed PR [#150876](https://github.com/python/cpython/pull/150876) in [python/cpython](https://github.com/python/cpython)
 9. ℹ️ Labeled PR [#2261](https://github.com/tox-dev/peryx/pull/2261) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 10. ℹ️ Labeled PR [#2261](https://github.com/tox-dev/peryx/pull/2261) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
