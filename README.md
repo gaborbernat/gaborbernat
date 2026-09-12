@@ -37,14 +37,14 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#795](https://github.com/tox-dev/turbohtml/pull/795) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🗣 Commented on [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219#issuecomment-5640674818) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-7. 💪 Opened PR [#5312](https://github.com/trufflesecurity/trufflehog/pull/5312) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-8. ❌ Closed PR [#150876](https://github.com/python/cpython/pull/150876) in [python/cpython](https://github.com/python/cpython)
+1. 🔒 Closed issue [#796](https://github.com/tox-dev/turbohtml/issues/796) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 💪 Opened PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#795](https://github.com/tox-dev/turbohtml/pull/795) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🗣 Commented on [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219#issuecomment-5640674818) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 9. ℹ️ Labeled PR [#2261](https://github.com/tox-dev/peryx/pull/2261) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 10. ℹ️ Labeled PR [#2261](https://github.com/tox-dev/peryx/pull/2261) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
