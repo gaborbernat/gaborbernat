@@ -37,9 +37,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219#issuecomment-5640674818) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-2. 💪 Opened PR [#5312](https://github.com/trufflesecurity/trufflehog/pull/5312) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-3. ❌ Closed PR [#14504](https://github.com/sphinx-doc/sphinx/pull/14504) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+1. 🎉 Merged PR [#795](https://github.com/tox-dev/turbohtml/pull/795) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🗣 Commented on [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219#issuecomment-5640674818) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+3. 💪 Opened PR [#5312](https://github.com/trufflesecurity/trufflehog/pull/5312) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 4. ❌ Closed PR [#150999](https://github.com/python/cpython/pull/150999) in [python/cpython](https://github.com/python/cpython)
 5. ❌ Closed PR [#150823](https://github.com/python/cpython/pull/150823) in [python/cpython](https://github.com/python/cpython)
 6. ❌ Closed PR [#3](https://github.com/larryhastings/blanket/pull/3) in [larryhastings/blanket](https://github.com/larryhastings/blanket)
