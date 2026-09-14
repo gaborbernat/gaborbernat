@@ -37,15 +37,15 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#735](https://github.com/tox-dev/filelock/issues/735) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🔒 Closed issue [#261](https://github.com/pytest-dev/pytest-env/issues/261) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 🎉 Merged PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#795](https://github.com/tox-dev/turbohtml/pull/795) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#2261](https://github.com/tox-dev/peryx/pull/2261) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🗣 Commented on [#796](https://github.com/tox-dev/turbohtml/issues/796#issuecomment-5669581086) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🗣 Commented on [#791](https://github.com/tox-dev/turbohtml/issues/791#issuecomment-5669571753) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🚀 Published release [v1.9.0](https://github.com/tox-dev/turbohtml/releases/tag/1.9.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#4069](https://github.com/tox-dev/tox/pull/4069) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Reopened PR [#241](https://github.com/tox-dev/PyVenvManage/pull/241) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. ❌ Closed PR [#241](https://github.com/tox-dev/PyVenvManage/pull/241) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+7. 🎉 Merged PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ❗ Opened issue [#735](https://github.com/tox-dev/filelock/issues/735) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🔒 Closed issue [#261](https://github.com/pytest-dev/pytest-env/issues/261) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 10. ℹ️ Labeled PR [#2261](https://github.com/tox-dev/peryx/pull/2261) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
