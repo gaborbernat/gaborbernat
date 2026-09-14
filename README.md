@@ -37,8 +37,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🔒 Closed issue [#796](https://github.com/tox-dev/turbohtml/issues/796) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#735](https://github.com/tox-dev/filelock/issues/735) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🔒 Closed issue [#261](https://github.com/pytest-dev/pytest-env/issues/261) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 3. 🎉 Merged PR [#798](https://github.com/tox-dev/turbohtml/pull/798) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ℹ️ Labeled PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 5. 💪 Opened PR [#799](https://github.com/tox-dev/turbohtml/pull/799) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
