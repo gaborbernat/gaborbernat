@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.11.9](https://github.com/tox-dev/platformdirs/releases/tag/4.11.9) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🗣 Commented on [#302](https://github.com/tox-dev/pyproject-api/pull/302#issuecomment-5698157653) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 💪 Opened PR [#4](https://github.com/tox-dev/token-menu-bar-macos/pull/4) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-4. 🎉 Merged PR [#3](https://github.com/tox-dev/token-menu-bar-macos/pull/3) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-5. ℹ️ Labeled PR [#738](https://github.com/tox-dev/filelock/pull/738) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#738](https://github.com/tox-dev/filelock/pull/738) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#738](https://github.com/tox-dev/filelock/pull/738) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#3](https://github.com/tox-dev/token-menu-bar-macos/pull/3) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-9. 🚀 Published release [3.32.7](https://github.com/tox-dev/filelock/releases/tag/3.32.7) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#249](https://github.com/tox-dev/PyVenvManage/pull/249) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🎉 Merged PR [#5](https://github.com/tox-dev/token-menu-bar-macos/pull/5) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+2. ℹ️ Labeled PR [#5](https://github.com/tox-dev/token-menu-bar-macos/pull/5) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+3. 💪 Opened PR [#710](https://github.com/tox-dev/pipdeptree/pull/710) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 💪 Opened PR [#5](https://github.com/tox-dev/token-menu-bar-macos/pull/5) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+5. 🎉 Merged PR [#4](https://github.com/tox-dev/token-menu-bar-macos/pull/4) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+6. 🚀 Published release [4.11.9](https://github.com/tox-dev/platformdirs/releases/tag/4.11.9) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🗣 Commented on [#302](https://github.com/tox-dev/pyproject-api/pull/302#issuecomment-5698157653) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+8. 💪 Opened PR [#4](https://github.com/tox-dev/token-menu-bar-macos/pull/4) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+9. 🎉 Merged PR [#3](https://github.com/tox-dev/token-menu-bar-macos/pull/3) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+10. ℹ️ Labeled PR [#738](https://github.com/tox-dev/filelock/pull/738) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
