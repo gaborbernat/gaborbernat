@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#738](https://github.com/tox-dev/filelock/pull/738) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ℹ️ Labeled PR [#12](https://github.com/tox-dev/token-menu-bar-macos/pull/12) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-3. 💪 Opened PR [#12](https://github.com/tox-dev/token-menu-bar-macos/pull/12) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-4. 🎉 Merged PR [#10](https://github.com/tox-dev/token-menu-bar-macos/pull/10) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-5. 🎉 Merged PR [#11](https://github.com/tox-dev/token-menu-bar-macos/pull/11) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-6. ℹ️ Labeled PR [#11](https://github.com/tox-dev/token-menu-bar-macos/pull/11) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-7. 💪 Opened PR [#11](https://github.com/tox-dev/token-menu-bar-macos/pull/11) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-8. ℹ️ Labeled PR [#10](https://github.com/tox-dev/token-menu-bar-macos/pull/10) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-9. 💪 Opened PR [#10](https://github.com/tox-dev/token-menu-bar-macos/pull/10) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-10. 🎉 Merged PR [#9](https://github.com/tox-dev/token-menu-bar-macos/pull/9) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+1. ℹ️ Labeled PR [#16](https://github.com/tox-dev/token-menu-bar-macos/pull/16) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+2. 💪 Opened PR [#16](https://github.com/tox-dev/token-menu-bar-macos/pull/16) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+3. ❌ Closed PR [#15](https://github.com/tox-dev/token-menu-bar-macos/pull/15) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+4. ℹ️ Labeled PR [#15](https://github.com/tox-dev/token-menu-bar-macos/pull/15) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+5. 💪 Opened PR [#15](https://github.com/tox-dev/token-menu-bar-macos/pull/15) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+6. 🎉 Merged PR [#3244](https://github.com/pypa/virtualenv/pull/3244) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#3243](https://github.com/pypa/virtualenv/pull/3243) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#13](https://github.com/tox-dev/token-menu-bar-macos/pull/13) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+9. ℹ️ Labeled PR [#13](https://github.com/tox-dev/token-menu-bar-macos/pull/13) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+10. 💪 Opened PR [#13](https://github.com/tox-dev/token-menu-bar-macos/pull/13) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
