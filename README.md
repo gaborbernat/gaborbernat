@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#2268](https://github.com/tox-dev/peryx/pull/2268) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#2268](https://github.com/tox-dev/peryx/pull/2268) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled PR [#3262](https://github.com/pypa/virtualenv/pull/3262) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3262](https://github.com/pypa/virtualenv/pull/3262) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#4075](https://github.com/tox-dev/tox/pull/4075) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ℹ️ Labeled PR [#2267](https://github.com/tox-dev/peryx/pull/2267) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 💪 Opened PR [#2267](https://github.com/tox-dev/peryx/pull/2267) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ℹ️ Labeled PR [#3261](https://github.com/pypa/virtualenv/pull/3261) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 💪 Opened PR [#3261](https://github.com/pypa/virtualenv/pull/3261) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#2266](https://github.com/tox-dev/peryx/pull/2266) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#2267](https://github.com/tox-dev/peryx/pull/2267) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🎉 Merged PR [#2266](https://github.com/tox-dev/peryx/pull/2266) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#2264](https://github.com/tox-dev/peryx/pull/2264) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🎉 Merged PR [#2268](https://github.com/tox-dev/peryx/pull/2268) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🎉 Merged PR [#27](https://github.com/tox-dev/token-menu-bar-macos/pull/27) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+6. ℹ️ Labeled PR [#2268](https://github.com/tox-dev/peryx/pull/2268) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#2268](https://github.com/tox-dev/peryx/pull/2268) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#3262](https://github.com/pypa/virtualenv/pull/3262) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 💪 Opened PR [#3262](https://github.com/pypa/virtualenv/pull/3262) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#4075](https://github.com/tox-dev/tox/pull/4075) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
