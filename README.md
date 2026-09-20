@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1307](https://github.com/tox-dev/peryx/issues/1307) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🗣 Commented on [#1307](https://github.com/tox-dev/peryx/issues/1307#issuecomment-5751704371) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🎉 Merged PR [#2299](https://github.com/tox-dev/peryx/pull/2299) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#2300](https://github.com/tox-dev/peryx/pull/2300) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 💪 Opened PR [#2300](https://github.com/tox-dev/peryx/pull/2300) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 🎉 Merged PR [#36](https://github.com/tox-dev/token-menu-bar-macos/pull/36) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-7. ℹ️ Labeled PR [#36](https://github.com/tox-dev/token-menu-bar-macos/pull/36) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-8. 💪 Opened PR [#36](https://github.com/tox-dev/token-menu-bar-macos/pull/36) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-9. 🔒 Closed issue [#1195](https://github.com/tox-dev/peryx/issues/1195) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 🎉 Merged PR [#2287](https://github.com/tox-dev/peryx/pull/2287) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🗣 Commented on [#1279](https://github.com/tox-dev/peryx/issues/1279#issuecomment-5752037801) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🔒 Closed issue [#1279](https://github.com/tox-dev/peryx/issues/1279) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#2298](https://github.com/tox-dev/peryx/pull/2298) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🔒 Closed issue [#1307](https://github.com/tox-dev/peryx/issues/1307) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🗣 Commented on [#1307](https://github.com/tox-dev/peryx/issues/1307#issuecomment-5751704371) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 🎉 Merged PR [#2299](https://github.com/tox-dev/peryx/pull/2299) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. ℹ️ Labeled PR [#2300](https://github.com/tox-dev/peryx/pull/2300) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 💪 Opened PR [#2300](https://github.com/tox-dev/peryx/pull/2300) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🎉 Merged PR [#36](https://github.com/tox-dev/token-menu-bar-macos/pull/36) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+10. ℹ️ Labeled PR [#36](https://github.com/tox-dev/token-menu-bar-macos/pull/36) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
