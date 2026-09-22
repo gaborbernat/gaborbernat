@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3279](https://github.com/pypa/virtualenv/pull/3279) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#3279](https://github.com/pypa/virtualenv/pull/3279) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#3278](https://github.com/pypa/virtualenv/pull/3278) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3278](https://github.com/pypa/virtualenv/pull/3278) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#3277](https://github.com/pypa/virtualenv/pull/3277) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 💪 Opened PR [#3277](https://github.com/pypa/virtualenv/pull/3277) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. ℹ️ Labeled PR [#3276](https://github.com/pypa/virtualenv/pull/3276) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#3276](https://github.com/pypa/virtualenv/pull/3276) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#712](https://github.com/tox-dev/pipdeptree/pull/712) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. 🎉 Merged PR [#134](https://github.com/tox-dev/python-discovery/pull/134) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#556](https://github.com/tox-dev/platformdirs/pull/556) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#805](https://github.com/tox-dev/turbohtml/pull/805) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#3279](https://github.com/pypa/virtualenv/pull/3279) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ℹ️ Labeled PR [#3279](https://github.com/pypa/virtualenv/pull/3279) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#3278](https://github.com/pypa/virtualenv/pull/3278) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 💪 Opened PR [#3278](https://github.com/pypa/virtualenv/pull/3278) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. ℹ️ Labeled PR [#3277](https://github.com/pypa/virtualenv/pull/3277) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 💪 Opened PR [#3277](https://github.com/pypa/virtualenv/pull/3277) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ℹ️ Labeled PR [#3276](https://github.com/pypa/virtualenv/pull/3276) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#3276](https://github.com/pypa/virtualenv/pull/3276) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
