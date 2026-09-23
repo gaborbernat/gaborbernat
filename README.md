@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2350](https://github.com/tox-dev/peryx/pull/2350) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🗣 Commented on [#707](https://github.com/astral-sh/python-build-standalone/issues/707#issuecomment-5803670151) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
-3. 🔒 Closed issue [#707](https://github.com/astral-sh/python-build-standalone/issues/707) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
-4. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-5803669511) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-5. 🔒 Closed issue [#3089](https://github.com/pre-commit/pre-commit/issues/3089) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-6. 🗣 Commented on [#8973](https://github.com/pytest-dev/pytest/issues/8973#issuecomment-5803668933) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-7. 🔒 Closed issue [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-8. 🗣 Commented on [#8079](https://github.com/pytest-dev/pytest/issues/8079#issuecomment-5803668307) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-9. 🔒 Closed issue [#8079](https://github.com/pytest-dev/pytest/issues/8079) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-10. 🗣 Commented on [#1621](https://github.com/coveragepy/coveragepy/issues/1621#issuecomment-5803667662) in [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
+1. 🗣 Commented on [#14186](https://github.com/pytest-dev/pytest/issues/14186#issuecomment-5803965340) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+2. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-5803948969) in [python/cpython](https://github.com/python/cpython)
+3. 🎉 Merged PR [#2351](https://github.com/tox-dev/peryx/pull/2351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🗣 Commented on [#150860](https://github.com/python/cpython/issues/150860#issuecomment-5803808983) in [python/cpython](https://github.com/python/cpython)
+5. 🔒 Closed issue [#150860](https://github.com/python/cpython/issues/150860) in [python/cpython](https://github.com/python/cpython)
+6. 🔒 Closed issue [#26](https://github.com/DavidMStraub/netviel/issues/26) in [DavidMStraub/netviel](https://github.com/DavidMStraub/netviel)
+7. 🗣 Commented on [#4343](https://github.com/universal-ctags/ctags/issues/4343#issuecomment-5803798715) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+8. 🗣 Commented on [#4342](https://github.com/universal-ctags/ctags/issues/4342#issuecomment-5803798387) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+9. 🔒 Closed issue [#4343](https://github.com/universal-ctags/ctags/issues/4343) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+10. 🔒 Closed issue [#4342](https://github.com/universal-ctags/ctags/issues/4342) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
