@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2351](https://github.com/tox-dev/peryx/pull/2351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#2350](https://github.com/tox-dev/peryx/pull/2350) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled PR [#4088](https://github.com/tox-dev/tox/pull/4088) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#4087](https://github.com/tox-dev/tox/issues/4087) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#4088](https://github.com/tox-dev/tox/pull/4088) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 💪 Opened PR [#4088](https://github.com/tox-dev/tox/pull/4088) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🎉 Merged PR [#2349](https://github.com/tox-dev/peryx/pull/2349) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 💪 Opened PR [#2349](https://github.com/tox-dev/peryx/pull/2349) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. ℹ️ Labeled PR [#746](https://github.com/tox-dev/filelock/pull/746) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Assigned PR [#746](https://github.com/tox-dev/filelock/pull/746) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#2350](https://github.com/tox-dev/peryx/pull/2350) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🗣 Commented on [#707](https://github.com/astral-sh/python-build-standalone/issues/707#issuecomment-5803670151) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
+3. 🔒 Closed issue [#707](https://github.com/astral-sh/python-build-standalone/issues/707) in [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
+4. 🗣 Commented on [#3089](https://github.com/pre-commit/pre-commit/issues/3089#issuecomment-5803669511) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+5. 🔒 Closed issue [#3089](https://github.com/pre-commit/pre-commit/issues/3089) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+6. 🗣 Commented on [#8973](https://github.com/pytest-dev/pytest/issues/8973#issuecomment-5803668933) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+7. 🔒 Closed issue [#8973](https://github.com/pytest-dev/pytest/issues/8973) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+8. 🗣 Commented on [#8079](https://github.com/pytest-dev/pytest/issues/8079#issuecomment-5803668307) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+9. 🔒 Closed issue [#8079](https://github.com/pytest-dev/pytest/issues/8079) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+10. 🗣 Commented on [#1621](https://github.com/coveragepy/coveragepy/issues/1621#issuecomment-5803667662) in [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
