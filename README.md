@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2346](https://github.com/tox-dev/peryx/pull/2346) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#2341](https://github.com/tox-dev/peryx/pull/2341) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🔒 Closed issue [#1199](https://github.com/tox-dev/peryx/issues/1199) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🎉 Merged PR [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-5. 🎉 Merged PR [#2345](https://github.com/tox-dev/peryx/pull/2345) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. 💪 Opened PR [#2346](https://github.com/tox-dev/peryx/pull/2346) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🎉 Merged PR [#2344](https://github.com/tox-dev/peryx/pull/2344) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 🗣 Commented on [#3314](https://github.com/pypa/virtualenv/issues/3314#issuecomment-5798172847) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🔒 Closed issue [#3314](https://github.com/pypa/virtualenv/issues/3314) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 💪 Opened PR [#2345](https://github.com/tox-dev/peryx/pull/2345) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#2347](https://github.com/tox-dev/peryx/pull/2347) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 💪 Opened PR [#2347](https://github.com/tox-dev/peryx/pull/2347) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#2346](https://github.com/tox-dev/peryx/pull/2346) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🎉 Merged PR [#2341](https://github.com/tox-dev/peryx/pull/2341) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🔒 Closed issue [#1199](https://github.com/tox-dev/peryx/issues/1199) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 🎉 Merged PR [#5219](https://github.com/trufflesecurity/trufflehog/pull/5219) in [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+7. 🎉 Merged PR [#2345](https://github.com/tox-dev/peryx/pull/2345) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 💪 Opened PR [#2346](https://github.com/tox-dev/peryx/pull/2346) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🎉 Merged PR [#2344](https://github.com/tox-dev/peryx/pull/2344) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🗣 Commented on [#3314](https://github.com/pypa/virtualenv/issues/3314#issuecomment-5798172847) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
