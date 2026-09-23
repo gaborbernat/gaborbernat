@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14186](https://github.com/pytest-dev/pytest/issues/14186#issuecomment-5803965340) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-5803948969) in [python/cpython](https://github.com/python/cpython)
-3. 🎉 Merged PR [#2351](https://github.com/tox-dev/peryx/pull/2351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🗣 Commented on [#150860](https://github.com/python/cpython/issues/150860#issuecomment-5803808983) in [python/cpython](https://github.com/python/cpython)
-5. 🔒 Closed issue [#150860](https://github.com/python/cpython/issues/150860) in [python/cpython](https://github.com/python/cpython)
-6. 🔒 Closed issue [#26](https://github.com/DavidMStraub/netviel/issues/26) in [DavidMStraub/netviel](https://github.com/DavidMStraub/netviel)
-7. 🗣 Commented on [#4343](https://github.com/universal-ctags/ctags/issues/4343#issuecomment-5803798715) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-8. 🗣 Commented on [#4342](https://github.com/universal-ctags/ctags/issues/4342#issuecomment-5803798387) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-9. 🔒 Closed issue [#4343](https://github.com/universal-ctags/ctags/issues/4343) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
-10. 🔒 Closed issue [#4342](https://github.com/universal-ctags/ctags/issues/4342) in [universal-ctags/ctags](https://github.com/universal-ctags/ctags)
+1. 🚀 Published release [4.0.2](https://github.com/tox-dev/filelock/releases/tag/4.0.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#3193](https://github.com/pypa/virtualenv/pull/3193#issuecomment-5804093027) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ❌ Closed PR [#3193](https://github.com/pypa/virtualenv/pull/3193) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#3204](https://github.com/pypa/virtualenv/pull/3204) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#746](https://github.com/tox-dev/filelock/pull/746) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🗣 Commented on [#14186](https://github.com/pytest-dev/pytest/issues/14186#issuecomment-5803965340) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+7. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-5803948969) in [python/cpython](https://github.com/python/cpython)
+8. 🎉 Merged PR [#2351](https://github.com/tox-dev/peryx/pull/2351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🗣 Commented on [#150860](https://github.com/python/cpython/issues/150860#issuecomment-5803808983) in [python/cpython](https://github.com/python/cpython)
+10. 🔒 Closed issue [#150860](https://github.com/python/cpython/issues/150860) in [python/cpython](https://github.com/python/cpython)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
