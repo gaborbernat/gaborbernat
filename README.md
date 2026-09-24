@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1893](https://github.com/tox-dev/peryx/issues/1893) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#747](https://github.com/tox-dev/filelock/pull/747) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🚀 Published release [4.0.2](https://github.com/tox-dev/filelock/releases/tag/4.0.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🗣 Commented on [#3193](https://github.com/pypa/virtualenv/pull/3193#issuecomment-5804093027) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ❌ Closed PR [#3193](https://github.com/pypa/virtualenv/pull/3193) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#3204](https://github.com/pypa/virtualenv/pull/3204) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#746](https://github.com/tox-dev/filelock/pull/746) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🗣 Commented on [#14186](https://github.com/pytest-dev/pytest/issues/14186#issuecomment-5803965340) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-9. 🗣 Commented on [#144812](https://github.com/python/cpython/issues/144812#issuecomment-5803948969) in [python/cpython](https://github.com/python/cpython)
-10. 🎉 Merged PR [#2351](https://github.com/tox-dev/peryx/pull/2351) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 💪 Opened PR [#6399](https://github.com/SchemaStore/schemastore/pull/6399) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 🚀 Published release [v4.64.0](https://github.com/tox-dev/tox/releases/tag/4.64.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#2352](https://github.com/tox-dev/peryx/pull/2352) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 💪 Opened PR [#2352](https://github.com/tox-dev/peryx/pull/2352) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🎉 Merged PR [#4013](https://github.com/tox-dev/tox/pull/4013) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🗣 Commented on [#803](https://github.com/agronholm/anyio/issues/803#issuecomment-5804811201) in [agronholm/anyio](https://github.com/agronholm/anyio)
+7. 🔒 Closed issue [#150815](https://github.com/python/cpython/issues/150815) in [python/cpython](https://github.com/python/cpython)
+8. 🗣 Commented on [#150815](https://github.com/python/cpython/issues/150815#issuecomment-5804783087) in [python/cpython](https://github.com/python/cpython)
+9. 🚀 Published release [4.0.3](https://github.com/tox-dev/filelock/releases/tag/4.0.3) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🎉 Merged PR [#747](https://github.com/tox-dev/filelock/pull/747) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
