@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#254](https://github.com/tox-dev/PyVenvManage/pull/254) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. ℹ️ Labeled PR [#2354](https://github.com/tox-dev/peryx/pull/2354) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#2354](https://github.com/tox-dev/peryx/pull/2354) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#254](https://github.com/tox-dev/PyVenvManage/pull/254) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 💪 Opened PR [#254](https://github.com/tox-dev/PyVenvManage/pull/254) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. ℹ️ Reopened PR [#2320](https://github.com/jupyter/nbconvert/pull/2320) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-7. ❌ Closed PR [#2320](https://github.com/jupyter/nbconvert/pull/2320) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-8. 🚀 Published release [v1.10.0](https://github.com/tox-dev/turbohtml/releases/tag/1.10.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#863](https://github.com/tox-dev/turbohtml/pull/863) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#6402](https://github.com/SchemaStore/schemastore/pull/6402) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+1. 🎉 Merged PR [#6402](https://github.com/SchemaStore/schemastore/pull/6402) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+2. 🎉 Merged PR [#255](https://github.com/tox-dev/PyVenvManage/pull/255) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 💪 Opened PR [#2321](https://github.com/jupyter/nbconvert/pull/2321) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+4. ℹ️ Labeled PR [#255](https://github.com/tox-dev/PyVenvManage/pull/255) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 💪 Opened PR [#255](https://github.com/tox-dev/PyVenvManage/pull/255) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. 🎉 Merged PR [#254](https://github.com/tox-dev/PyVenvManage/pull/254) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+7. ℹ️ Labeled PR [#2354](https://github.com/tox-dev/peryx/pull/2354) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 💪 Opened PR [#2354](https://github.com/tox-dev/peryx/pull/2354) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. ℹ️ Labeled PR [#254](https://github.com/tox-dev/PyVenvManage/pull/254) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 💪 Opened PR [#254](https://github.com/tox-dev/PyVenvManage/pull/254) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
