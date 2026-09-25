@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#581](https://github.com/tox-dev/platformdirs/pull/581) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 💪 Opened PR [#581](https://github.com/tox-dev/platformdirs/pull/581) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. ℹ️ Labeled PR [#580](https://github.com/tox-dev/platformdirs/pull/580) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 💪 Opened PR [#580](https://github.com/tox-dev/platformdirs/pull/580) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🚀 Published release [4.11.14](https://github.com/tox-dev/platformdirs/releases/tag/4.11.14) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🎉 Merged PR [#569](https://github.com/tox-dev/platformdirs/pull/569) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. 🎉 Merged PR [#579](https://github.com/tox-dev/platformdirs/pull/579) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 🎉 Merged PR [#578](https://github.com/tox-dev/platformdirs/pull/578) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🎉 Merged PR [#576](https://github.com/tox-dev/platformdirs/pull/576) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 🎉 Merged PR [#571](https://github.com/tox-dev/platformdirs/pull/571) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#583](https://github.com/tox-dev/platformdirs/pull/583) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. ℹ️ Labeled PR [#583](https://github.com/tox-dev/platformdirs/pull/583) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 💪 Opened PR [#583](https://github.com/tox-dev/platformdirs/pull/583) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ℹ️ Labeled PR [#582](https://github.com/tox-dev/platformdirs/pull/582) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 💪 Opened PR [#582](https://github.com/tox-dev/platformdirs/pull/582) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. ℹ️ Labeled PR [#581](https://github.com/tox-dev/platformdirs/pull/581) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 💪 Opened PR [#581](https://github.com/tox-dev/platformdirs/pull/581) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. ℹ️ Labeled PR [#580](https://github.com/tox-dev/platformdirs/pull/580) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 💪 Opened PR [#580](https://github.com/tox-dev/platformdirs/pull/580) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🚀 Published release [4.11.14](https://github.com/tox-dev/platformdirs/releases/tag/4.11.14) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
