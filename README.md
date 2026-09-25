@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2355](https://github.com/tox-dev/peryx/pull/2355) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. ℹ️ Labeled PR [#2355](https://github.com/tox-dev/peryx/pull/2355) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#2355](https://github.com/tox-dev/peryx/pull/2355) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ❌ Closed PR [#2322](https://github.com/jupyter/nbconvert/pull/2322) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-5. 💪 Opened PR [#2322](https://github.com/jupyter/nbconvert/pull/2322) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-6. 🎉 Merged PR [#2354](https://github.com/tox-dev/peryx/pull/2354) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🎉 Merged PR [#6402](https://github.com/SchemaStore/schemastore/pull/6402) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-8. 🎉 Merged PR [#255](https://github.com/tox-dev/PyVenvManage/pull/255) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-9. 💪 Opened PR [#2321](https://github.com/jupyter/nbconvert/pull/2321) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-10. ℹ️ Labeled PR [#255](https://github.com/tox-dev/PyVenvManage/pull/255) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. ❌ Closed PR [#559](https://github.com/tox-dev/platformdirs/pull/559) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🗣 Commented on [#559](https://github.com/tox-dev/platformdirs/pull/559#issuecomment-5826816149) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. ℹ️ Labeled PR [#560](https://github.com/tox-dev/platformdirs/pull/560) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 💪 Opened PR [#560](https://github.com/tox-dev/platformdirs/pull/560) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#2355](https://github.com/tox-dev/peryx/pull/2355) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. ℹ️ Labeled PR [#2355](https://github.com/tox-dev/peryx/pull/2355) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#2355](https://github.com/tox-dev/peryx/pull/2355) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ❌ Closed PR [#2322](https://github.com/jupyter/nbconvert/pull/2322) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+9. 💪 Opened PR [#2322](https://github.com/jupyter/nbconvert/pull/2322) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+10. 🎉 Merged PR [#2354](https://github.com/tox-dev/peryx/pull/2354) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
