@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#3317](https://github.com/pypa/virtualenv/pull/3317) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#3317](https://github.com/pypa/virtualenv/pull/3317) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#561](https://github.com/tox-dev/platformdirs/pull/561) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 💪 Opened PR [#561](https://github.com/tox-dev/platformdirs/pull/561) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🚀 Published release [4.11.13](https://github.com/tox-dev/platformdirs/releases/tag/4.11.13) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🎉 Merged PR [#560](https://github.com/tox-dev/platformdirs/pull/560) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. 🔒 Closed issue [#558](https://github.com/tox-dev/platformdirs/issues/558) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. ❌ Closed PR [#559](https://github.com/tox-dev/platformdirs/pull/559) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🗣 Commented on [#559](https://github.com/tox-dev/platformdirs/pull/559#issuecomment-5826816149) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. ℹ️ Labeled PR [#560](https://github.com/tox-dev/platformdirs/pull/560) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#578](https://github.com/tox-dev/platformdirs/pull/578) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 💪 Opened PR [#578](https://github.com/tox-dev/platformdirs/pull/578) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 💪 Opened PR [#577](https://github.com/tox-dev/platformdirs/pull/577) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ℹ️ Labeled PR [#577](https://github.com/tox-dev/platformdirs/pull/577) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. ℹ️ Labeled PR [#576](https://github.com/tox-dev/platformdirs/pull/576) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. 💪 Opened PR [#576](https://github.com/tox-dev/platformdirs/pull/576) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. ℹ️ Labeled PR [#575](https://github.com/tox-dev/platformdirs/pull/575) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 💪 Opened PR [#575](https://github.com/tox-dev/platformdirs/pull/575) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. ℹ️ Labeled PR [#574](https://github.com/tox-dev/platformdirs/pull/574) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. ℹ️ Labeled PR [#574](https://github.com/tox-dev/platformdirs/pull/574) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
