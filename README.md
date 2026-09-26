@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#2359](https://github.com/tox-dev/peryx/pull/2359) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#2359](https://github.com/tox-dev/peryx/pull/2359) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🚀 Published release [4.12.0](https://github.com/tox-dev/platformdirs/releases/tag/4.12.0) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🎉 Merged PR [#599](https://github.com/tox-dev/platformdirs/pull/599) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🚀 Published release [4.0.4](https://github.com/tox-dev/filelock/releases/tag/4.0.4) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🎉 Merged PR [#589](https://github.com/tox-dev/platformdirs/pull/589) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Labeled PR [#2358](https://github.com/tox-dev/peryx/pull/2358) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. 💪 Opened PR [#2358](https://github.com/tox-dev/peryx/pull/2358) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. 🎉 Merged PR [#588](https://github.com/tox-dev/platformdirs/pull/588) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 🔒 Closed issue [#3323](https://github.com/pypa/virtualenv/issues/3323) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#391](https://github.com/pypa/advisory-database/pull/391) in [pypa/advisory-database](https://github.com/pypa/advisory-database)
+2. ℹ️ Labeled PR [#39](https://github.com/tox-dev/token-menu-bar-macos/pull/39) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+3. 💪 Opened PR [#39](https://github.com/tox-dev/token-menu-bar-macos/pull/39) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+4. 🎉 Merged PR [#2358](https://github.com/tox-dev/peryx/pull/2358) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#2360](https://github.com/tox-dev/peryx/pull/2360) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#2360](https://github.com/tox-dev/peryx/pull/2360) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. ℹ️ Labeled PR [#2359](https://github.com/tox-dev/peryx/pull/2359) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 💪 Opened PR [#2359](https://github.com/tox-dev/peryx/pull/2359) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🚀 Published release [4.12.0](https://github.com/tox-dev/platformdirs/releases/tag/4.12.0) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🎉 Merged PR [#599](https://github.com/tox-dev/platformdirs/pull/599) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
