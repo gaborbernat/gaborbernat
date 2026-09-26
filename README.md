@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2363](https://github.com/tox-dev/peryx/pull/2363) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#2361](https://github.com/tox-dev/peryx/pull/2361) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled PR [#2363](https://github.com/tox-dev/peryx/pull/2363) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 💪 Opened PR [#2363](https://github.com/tox-dev/peryx/pull/2363) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 💪 Opened PR [#14269](https://github.com/paperless-ngx/paperless-ngx/pull/14269) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-6. 🎉 Merged PR [#3346](https://github.com/pypa/virtualenv/pull/3346) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#3345](https://github.com/pypa/virtualenv/pull/3345) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🎉 Merged PR [#3344](https://github.com/pypa/virtualenv/pull/3344) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#3343](https://github.com/pypa/virtualenv/pull/3343) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 🎉 Merged PR [#3342](https://github.com/pypa/virtualenv/pull/3342) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3347](https://github.com/pypa/virtualenv/pull/3347) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3347](https://github.com/pypa/virtualenv/pull/3347) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#2363](https://github.com/tox-dev/peryx/pull/2363) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🎉 Merged PR [#2361](https://github.com/tox-dev/peryx/pull/2361) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#2363](https://github.com/tox-dev/peryx/pull/2363) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#2363](https://github.com/tox-dev/peryx/pull/2363) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#14269](https://github.com/paperless-ngx/paperless-ngx/pull/14269) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+8. 🎉 Merged PR [#3346](https://github.com/pypa/virtualenv/pull/3346) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🎉 Merged PR [#3345](https://github.com/pypa/virtualenv/pull/3345) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#3344](https://github.com/pypa/virtualenv/pull/3344) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
