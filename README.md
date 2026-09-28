@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 💪 Opened PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. ℹ️ Labeled PR [#256](https://github.com/tox-dev/PyVenvManage/pull/256) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🚀 Published release [4.0.6](https://github.com/tox-dev/filelock/releases/tag/4.0.6) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🗣 Commented on [#601](https://github.com/tox-dev/platformdirs/issues/601#issuecomment-5877394658) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🗣 Commented on [#939](https://github.com/adbar/trafilatura/pull/939#issuecomment-5875700784) in [adbar/trafilatura](https://github.com/adbar/trafilatura)
-7. ℹ️ Labeled PR [#756](https://github.com/tox-dev/filelock/pull/756) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871811831) in [pypi/warehouse](https://github.com/pypi/warehouse)
-9. ❌ Closed PR [#898](https://github.com/tox-dev/turbohtml/pull/898) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871667065) in [pypi/warehouse](https://github.com/pypi/warehouse)
+1. 🎉 Merged PR [#906](https://github.com/tox-dev/turbohtml/pull/906) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 💪 Opened PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. ℹ️ Labeled PR [#256](https://github.com/tox-dev/PyVenvManage/pull/256) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🚀 Published release [4.0.6](https://github.com/tox-dev/filelock/releases/tag/4.0.6) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🗣 Commented on [#601](https://github.com/tox-dev/platformdirs/issues/601#issuecomment-5877394658) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🗣 Commented on [#939](https://github.com/adbar/trafilatura/pull/939#issuecomment-5875700784) in [adbar/trafilatura](https://github.com/adbar/trafilatura)
+8. ℹ️ Labeled PR [#756](https://github.com/tox-dev/filelock/pull/756) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871811831) in [pypi/warehouse](https://github.com/pypi/warehouse)
+10. ❌ Closed PR [#898](https://github.com/tox-dev/turbohtml/pull/898) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
