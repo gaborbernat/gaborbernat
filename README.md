@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#756](https://github.com/tox-dev/filelock/pull/756) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871811831) in [pypi/warehouse](https://github.com/pypi/warehouse)
-3. ❌ Closed PR [#898](https://github.com/tox-dev/turbohtml/pull/898) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871667065) in [pypi/warehouse](https://github.com/pypi/warehouse)
-5. 🎉 Merged PR [#20612](https://github.com/pypi/warehouse/pull/20612) in [pypi/warehouse](https://github.com/pypi/warehouse)
-6. 🎉 Merged PR [#902](https://github.com/tox-dev/turbohtml/pull/902) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#910](https://github.com/tox-dev/turbohtml/pull/910) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#3354](https://github.com/pypa/virtualenv/pull/3354) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#907](https://github.com/tox-dev/turbohtml/pull/907) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#908](https://github.com/tox-dev/turbohtml/pull/908) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#939](https://github.com/adbar/trafilatura/pull/939#issuecomment-5875700784) in [adbar/trafilatura](https://github.com/adbar/trafilatura)
+2. ℹ️ Labeled PR [#756](https://github.com/tox-dev/filelock/pull/756) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871811831) in [pypi/warehouse](https://github.com/pypi/warehouse)
+4. ❌ Closed PR [#898](https://github.com/tox-dev/turbohtml/pull/898) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🗣 Commented on [#20612](https://github.com/pypi/warehouse/pull/20612#issuecomment-5871667065) in [pypi/warehouse](https://github.com/pypi/warehouse)
+6. 🎉 Merged PR [#20612](https://github.com/pypi/warehouse/pull/20612) in [pypi/warehouse](https://github.com/pypi/warehouse)
+7. 🎉 Merged PR [#902](https://github.com/tox-dev/turbohtml/pull/902) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#910](https://github.com/tox-dev/turbohtml/pull/910) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#3354](https://github.com/pypa/virtualenv/pull/3354) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#907](https://github.com/tox-dev/turbohtml/pull/907) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
