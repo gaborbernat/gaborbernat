@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#911](https://github.com/tox-dev/turbohtml/pull/911) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#3359](https://github.com/pypa/virtualenv/pull/3359) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#3359](https://github.com/pypa/virtualenv/pull/3359) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#901](https://github.com/tox-dev/turbohtml/pull/901) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. 💪 Opened PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-7. 🚀 Published release [v2.4.6](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.4.6) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-8. 🎉 Merged PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-9. 🎉 Merged PR [#906](https://github.com/tox-dev/turbohtml/pull/906) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. ℹ️ Labeled PR [#775](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/775) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 💪 Opened PR [#775](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/775) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#911](https://github.com/tox-dev/turbohtml/pull/911) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#3359](https://github.com/pypa/virtualenv/pull/3359) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#3359](https://github.com/pypa/virtualenv/pull/3359) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🎉 Merged PR [#901](https://github.com/tox-dev/turbohtml/pull/901) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 💪 Opened PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+9. 🚀 Published release [v2.4.6](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.4.6) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 🎉 Merged PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
