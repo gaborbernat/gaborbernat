@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 💪 Opened PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. 🚀 Published release [v2.4.6](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.4.6) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 🎉 Merged PR [#906](https://github.com/tox-dev/turbohtml/pull/906) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-7. 💪 Opened PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-8. ℹ️ Labeled PR [#256](https://github.com/tox-dev/PyVenvManage/pull/256) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-9. 🚀 Published release [4.0.6](https://github.com/tox-dev/filelock/releases/tag/4.0.6) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🗣 Commented on [#601](https://github.com/tox-dev/platformdirs/issues/601#issuecomment-5877394658) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#901](https://github.com/tox-dev/turbohtml/pull/901) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. 💪 Opened PR [#258](https://github.com/tox-dev/PyVenvManage/pull/258) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. 🚀 Published release [v2.4.6](https://github.com/tox-dev/PyVenvManage/releases/tag/v2.4.6) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 🎉 Merged PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. 🎉 Merged PR [#906](https://github.com/tox-dev/turbohtml/pull/906) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Labeled PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 💪 Opened PR [#257](https://github.com/tox-dev/PyVenvManage/pull/257) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+9. ℹ️ Labeled PR [#256](https://github.com/tox-dev/PyVenvManage/pull/256) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 🚀 Published release [4.0.6](https://github.com/tox-dev/filelock/releases/tag/4.0.6) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
