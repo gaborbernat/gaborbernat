@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#952](https://github.com/tox-dev/turbohtml/pull/952) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#952](https://github.com/tox-dev/turbohtml/pull/952) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#951](https://github.com/tox-dev/turbohtml/pull/951) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#951](https://github.com/tox-dev/turbohtml/pull/951) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#950](https://github.com/tox-dev/turbohtml/pull/950) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#950](https://github.com/tox-dev/turbohtml/pull/950) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#949](https://github.com/tox-dev/turbohtml/pull/949) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#949](https://github.com/tox-dev/turbohtml/pull/949) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🚀 Published release [v4.64.6](https://github.com/tox-dev/tox/releases/tag/4.64.6) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 🎉 Merged PR [#4108](https://github.com/tox-dev/tox/pull/4108) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#954](https://github.com/tox-dev/turbohtml/pull/954) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#954](https://github.com/tox-dev/turbohtml/pull/954) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#2368](https://github.com/tox-dev/peryx/pull/2368) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 💪 Opened PR [#2367](https://github.com/tox-dev/peryx/pull/2367) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#41](https://github.com/tox-dev/token-menu-bar-macos/pull/41) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+6. ℹ️ Labeled PR [#953](https://github.com/tox-dev/turbohtml/pull/953) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#953](https://github.com/tox-dev/turbohtml/pull/953) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#41](https://github.com/tox-dev/token-menu-bar-macos/pull/41) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+9. ℹ️ Labeled PR [#41](https://github.com/tox-dev/token-menu-bar-macos/pull/41) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+10. ℹ️ Labeled PR [#41](https://github.com/tox-dev/token-menu-bar-macos/pull/41) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
