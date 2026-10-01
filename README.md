@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4105](https://github.com/tox-dev/tox/pull/4105#issuecomment-5926092719) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ❌ Closed PR [#4105](https://github.com/tox-dev/tox/pull/4105) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#4108](https://github.com/tox-dev/tox/pull/4108) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#4108](https://github.com/tox-dev/tox/pull/4108) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🚀 Published release [4.0.8](https://github.com/tox-dev/filelock/releases/tag/4.0.8) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 💪 Opened PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#761](https://github.com/tox-dev/filelock/pull/761) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#4105](https://github.com/tox-dev/tox/pull/4105#issuecomment-5926344442) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🗣 Commented on [#4105](https://github.com/tox-dev/tox/pull/4105#issuecomment-5926092719) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#4105](https://github.com/tox-dev/tox/pull/4105) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#4108](https://github.com/tox-dev/tox/pull/4108) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#4108](https://github.com/tox-dev/tox/pull/4108) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🚀 Published release [4.0.8](https://github.com/tox-dev/filelock/releases/tag/4.0.8) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ℹ️ Labeled PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ℹ️ Labeled PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#3367](https://github.com/pypa/virtualenv/pull/3367) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
