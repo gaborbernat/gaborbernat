@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#138](https://github.com/tox-dev/python-discovery/pull/138) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. 🎉 Merged PR [#24](https://github.com/gaborbernat/gaborbernat/pull/24) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-3. 🎉 Merged PR [#308](https://github.com/tox-dev/pyproject-api/pull/308) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#303](https://github.com/tox-dev/tox-gh/pull/303) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#1041](https://github.com/tox-dev/turbohtml/pull/1041) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🎉 Merged PR [#85](https://github.com/gaborbernat/bernat-tech/pull/85) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-7. 🎉 Merged PR [#33](https://github.com/gaborbernat/cv/pull/33) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-8. 🎉 Merged PR [#282](https://github.com/tox-dev/devpi-process/pull/282) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-9. 🎉 Merged PR [#261](https://github.com/tox-dev/PyVenvManage/pull/261) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 🎉 Merged PR [#37](https://github.com/tox-dev/action-pre-commit-uv/pull/37) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🎉 Merged PR [#1057](https://github.com/tox-dev/turbohtml/pull/1057) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#1054](https://github.com/tox-dev/turbohtml/issues/1054) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🔒 Closed issue [#1013](https://github.com/tox-dev/turbohtml/issues/1013) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#1042](https://github.com/tox-dev/turbohtml/pull/1042) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#1030](https://github.com/tox-dev/turbohtml/pull/1030) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🎉 Merged PR [#138](https://github.com/tox-dev/python-discovery/pull/138) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. 🎉 Merged PR [#24](https://github.com/gaborbernat/gaborbernat/pull/24) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+8. 🎉 Merged PR [#308](https://github.com/tox-dev/pyproject-api/pull/308) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+9. 🎉 Merged PR [#303](https://github.com/tox-dev/tox-gh/pull/303) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+10. 🎉 Merged PR [#1041](https://github.com/tox-dev/turbohtml/pull/1041) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
