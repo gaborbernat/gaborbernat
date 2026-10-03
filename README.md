@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1102](https://github.com/tox-dev/turbohtml/pull/1102) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1102](https://github.com/tox-dev/turbohtml/pull/1102) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#1086](https://github.com/tox-dev/turbohtml/pull/1086) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🔒 Closed issue [#1040](https://github.com/tox-dev/turbohtml/issues/1040) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#1101](https://github.com/tox-dev/turbohtml/pull/1101) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1101](https://github.com/tox-dev/turbohtml/pull/1101) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#1100](https://github.com/tox-dev/turbohtml/pull/1100) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#1100](https://github.com/tox-dev/turbohtml/pull/1100) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#1087](https://github.com/tox-dev/turbohtml/pull/1087) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🔒 Closed issue [#1075](https://github.com/tox-dev/turbohtml/issues/1075) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❌ Closed PR [#29](https://github.com/tox-dev/cookiecutter-tox-plugin/pull/29) in [tox-dev/cookiecutter-tox-plugin](https://github.com/tox-dev/cookiecutter-tox-plugin)
+2. ❌ Closed PR [#4](https://github.com/tox-dev/tox-pyenv/pull/4) in [tox-dev/tox-pyenv](https://github.com/tox-dev/tox-pyenv)
+3. ❌ Closed PR [#15](https://github.com/tox-dev/tox-pyenv/pull/15) in [tox-dev/tox-pyenv](https://github.com/tox-dev/tox-pyenv)
+4. ❌ Closed PR [#163](https://github.com/tox-dev/tox-travis/pull/163) in [tox-dev/tox-travis](https://github.com/tox-dev/tox-travis)
+5. ❌ Closed PR [#27](https://github.com/tox-dev/integration-test/pull/27) in [tox-dev/integration-test](https://github.com/tox-dev/integration-test)
+6. ❌ Closed PR [#163](https://github.com/tox-dev/tox-conda/pull/163) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+7. ❌ Closed PR [#175](https://github.com/tox-dev/tox-conda/pull/175) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+8. ❌ Closed PR [#176](https://github.com/tox-dev/tox-conda/pull/176) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+9. ❌ Closed PR [#181](https://github.com/tox-dev/tox-conda/pull/181) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
+10. ❌ Closed PR [#182](https://github.com/tox-dev/tox-conda/pull/182) in [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
