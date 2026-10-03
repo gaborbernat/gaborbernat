@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1124](https://github.com/tox-dev/turbohtml/pull/1124) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1124](https://github.com/tox-dev/turbohtml/pull/1124) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#1123](https://github.com/tox-dev/turbohtml/pull/1123) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1123](https://github.com/tox-dev/turbohtml/pull/1123) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#4111](https://github.com/tox-dev/tox/pull/4111) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#1097](https://github.com/tox-dev/turbohtml/pull/1097) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🔒 Closed issue [#1077](https://github.com/tox-dev/turbohtml/issues/1077) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#1092](https://github.com/tox-dev/turbohtml/pull/1092) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🔒 Closed issue [#1076](https://github.com/tox-dev/turbohtml/issues/1076) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#1122](https://github.com/tox-dev/turbohtml/pull/1122) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#1100](https://github.com/tox-dev/turbohtml/pull/1100) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#984](https://github.com/tox-dev/turbohtml/issues/984) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🔒 Closed issue [#2064](https://github.com/pypa/pipx/issues/2064) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#1203](https://github.com/pypa/build/pull/1203) in [pypa/build](https://github.com/pypa/build)
+5. ℹ️ Labeled PR [#4112](https://github.com/tox-dev/tox/pull/4112) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#4112](https://github.com/tox-dev/tox/pull/4112) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#1088](https://github.com/tox-dev/turbohtml/pull/1088) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🔒 Closed issue [#1031](https://github.com/tox-dev/turbohtml/issues/1031) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#1104](https://github.com/tox-dev/turbohtml/pull/1104) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🔒 Closed issue [#1059](https://github.com/tox-dev/turbohtml/issues/1059) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
