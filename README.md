@@ -37,9 +37,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1101](https://github.com/tox-dev/turbohtml/pull/1101) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🔒 Closed issue [#1061](https://github.com/tox-dev/turbohtml/issues/1061) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 💪 Opened PR [#1209](https://github.com/pypa/build/pull/1209) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#1125](https://github.com/tox-dev/turbohtml/pull/1125) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#1035](https://github.com/tox-dev/turbohtml/issues/1035) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#1126](https://github.com/tox-dev/turbohtml/pull/1126) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. 🚀 Published release [4.0.10](https://github.com/tox-dev/filelock/releases/tag/4.0.10) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 5. 🚀 Published release [4.12.3](https://github.com/tox-dev/platformdirs/releases/tag/4.12.3) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 6. 💪 Opened PR [#6448](https://github.com/SchemaStore/schemastore/pull/6448) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
