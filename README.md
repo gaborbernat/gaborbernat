@@ -37,7 +37,7 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1116](https://github.com/tox-dev/turbohtml/pull/1116) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#1101](https://github.com/tox-dev/turbohtml/pull/1101) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 2. 🔒 Closed issue [#1061](https://github.com/tox-dev/turbohtml/issues/1061) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 3. 💪 Opened PR [#1209](https://github.com/pypa/build/pull/1209) in [pypa/build](https://github.com/pypa/build)
 4. 🚀 Published release [4.0.10](https://github.com/tox-dev/filelock/releases/tag/4.0.10) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
