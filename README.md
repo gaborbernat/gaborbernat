@@ -37,13 +37,13 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1145](https://github.com/tox-dev/turbohtml/pull/1145) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1145](https://github.com/tox-dev/turbohtml/pull/1145) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#1144](https://github.com/tox-dev/turbohtml/pull/1144) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#1144](https://github.com/tox-dev/turbohtml/pull/1144) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#1144](https://github.com/tox-dev/turbohtml/pull/1144) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🚀 Published release [4.0.11](https://github.com/tox-dev/filelock/releases/tag/4.0.11) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#768](https://github.com/tox-dev/filelock/pull/768) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ❌ Closed PR [#51](https://github.com/tox-dev/token-menu-bar-macos/pull/51) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+2. ❌ Closed PR [#50](https://github.com/tox-dev/token-menu-bar-macos/pull/50) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+3. ❌ Closed PR [#49](https://github.com/tox-dev/token-menu-bar-macos/pull/49) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+4. ❌ Closed PR [#48](https://github.com/tox-dev/token-menu-bar-macos/pull/48) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+5. ❌ Closed PR [#47](https://github.com/tox-dev/token-menu-bar-macos/pull/47) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+6. ℹ️ Labeled PR [#52](https://github.com/tox-dev/token-menu-bar-macos/pull/52) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+7. 💪 Opened PR [#52](https://github.com/tox-dev/token-menu-bar-macos/pull/52) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
 8. 🔒 Closed issue [#766](https://github.com/tox-dev/filelock/issues/766) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 9. 🎉 Merged PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 10. 🔒 Closed issue [#1113](https://github.com/tox-dev/turbohtml/issues/1113) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
