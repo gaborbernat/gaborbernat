@@ -37,10 +37,10 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#768](https://github.com/tox-dev/filelock/pull/768) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#768](https://github.com/tox-dev/filelock/pull/768) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🚀 Published release [pyproject-fmt/2.30.1](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.30.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#476](https://github.com/tox-dev/toml-fmt/pull/476) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🚀 Published release [4.0.11](https://github.com/tox-dev/filelock/releases/tag/4.0.11) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#768](https://github.com/tox-dev/filelock/pull/768) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🔒 Closed issue [#766](https://github.com/tox-dev/filelock/issues/766) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 5. ℹ️ Labeled PR [#476](https://github.com/tox-dev/toml-fmt/pull/476) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 6. ℹ️ Labeled PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 7. 💪 Opened PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
