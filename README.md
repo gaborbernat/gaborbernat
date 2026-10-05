@@ -37,8 +37,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1146](https://github.com/tox-dev/turbohtml/pull/1146) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#52](https://github.com/tox-dev/token-menu-bar-macos/pull/52) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+1. 🎉 Merged PR [#771](https://github.com/tox-dev/filelock/pull/771) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#1147](https://github.com/tox-dev/turbohtml/pull/1147) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 3. 💪 Opened PR [#1146](https://github.com/tox-dev/turbohtml/pull/1146) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ℹ️ Labeled PR [#1146](https://github.com/tox-dev/turbohtml/pull/1146) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 5. ❌ Closed PR [#51](https://github.com/tox-dev/token-menu-bar-macos/pull/51) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
