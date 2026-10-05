@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1170](https://github.com/tox-dev/turbohtml/pull/1170) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1170](https://github.com/tox-dev/turbohtml/pull/1170) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#1169](https://github.com/tox-dev/turbohtml/pull/1169) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1169](https://github.com/tox-dev/turbohtml/pull/1169) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#1168](https://github.com/tox-dev/turbohtml/pull/1168) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1168](https://github.com/tox-dev/turbohtml/pull/1168) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#1167](https://github.com/tox-dev/turbohtml/pull/1167) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#1167](https://github.com/tox-dev/turbohtml/pull/1167) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#1166](https://github.com/tox-dev/turbohtml/pull/1166) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#1166](https://github.com/tox-dev/turbohtml/pull/1166) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#1172](https://github.com/tox-dev/turbohtml/pull/1172) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1172](https://github.com/tox-dev/turbohtml/pull/1172) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Assigned PR [#1171](https://github.com/tox-dev/turbohtml/pull/1171) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#1171](https://github.com/tox-dev/turbohtml/pull/1171) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 💪 Opened PR [#1171](https://github.com/tox-dev/turbohtml/pull/1171) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#1170](https://github.com/tox-dev/turbohtml/pull/1170) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#1170](https://github.com/tox-dev/turbohtml/pull/1170) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#1169](https://github.com/tox-dev/turbohtml/pull/1169) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 💪 Opened PR [#1169](https://github.com/tox-dev/turbohtml/pull/1169) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#1168](https://github.com/tox-dev/turbohtml/pull/1168) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
