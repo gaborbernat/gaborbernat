@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#3379](https://github.com/pypa/virtualenv/pull/3379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#3379](https://github.com/pypa/virtualenv/pull/3379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#1150](https://github.com/tox-dev/turbohtml/pull/1150) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1150](https://github.com/tox-dev/turbohtml/pull/1150) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🚀 Published release [v4.64.9](https://github.com/tox-dev/tox/releases/tag/4.64.9) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ℹ️ Labeled PR [#1149](https://github.com/tox-dev/turbohtml/pull/1149) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#1149](https://github.com/tox-dev/turbohtml/pull/1149) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🗣 Commented on [#2066](https://github.com/pypa/pipx/issues/2066#issuecomment-5995659511) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🔒 Closed issue [#46](https://github.com/tox-dev/token-menu-bar-macos/issues/46) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-10. 💪 Opened PR [#1148](https://github.com/tox-dev/turbohtml/pull/1148) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#1153](https://github.com/tox-dev/turbohtml/pull/1153) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#1152](https://github.com/tox-dev/turbohtml/pull/1152) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#1152](https://github.com/tox-dev/turbohtml/pull/1152) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#3379](https://github.com/pypa/virtualenv/pull/3379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#1151](https://github.com/tox-dev/turbohtml/pull/1151) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 💪 Opened PR [#1151](https://github.com/tox-dev/turbohtml/pull/1151) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Labeled PR [#3379](https://github.com/pypa/virtualenv/pull/3379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 💪 Opened PR [#3379](https://github.com/pypa/virtualenv/pull/3379) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ℹ️ Labeled PR [#1150](https://github.com/tox-dev/turbohtml/pull/1150) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#1150](https://github.com/tox-dev/turbohtml/pull/1150) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
