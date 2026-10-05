@@ -37,12 +37,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.0.11](https://github.com/tox-dev/filelock/releases/tag/4.0.11) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#768](https://github.com/tox-dev/filelock/pull/768) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#766](https://github.com/tox-dev/filelock/issues/766) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#476](https://github.com/tox-dev/toml-fmt/pull/476) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. ℹ️ Labeled PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#1144](https://github.com/tox-dev/turbohtml/pull/1144) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1144](https://github.com/tox-dev/turbohtml/pull/1144) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🚀 Published release [4.0.11](https://github.com/tox-dev/filelock/releases/tag/4.0.11) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#768](https://github.com/tox-dev/filelock/pull/768) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#766](https://github.com/tox-dev/filelock/issues/766) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 7. 💪 Opened PR [#1143](https://github.com/tox-dev/turbohtml/pull/1143) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 8. 🎉 Merged PR [#1139](https://github.com/tox-dev/turbohtml/pull/1139) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 9. 🔒 Closed issue [#1111](https://github.com/tox-dev/turbohtml/issues/1111) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
