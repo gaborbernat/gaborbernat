@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#263](https://github.com/tox-dev/PyVenvManage/pull/263) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 💪 Opened PR [#263](https://github.com/tox-dev/PyVenvManage/pull/263) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-3. ℹ️ Labeled PR [#1206](https://github.com/tox-dev/turbohtml/pull/1206) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1206](https://github.com/tox-dev/turbohtml/pull/1206) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#1201](https://github.com/tox-dev/turbohtml/pull/1201) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#776](https://github.com/tox-dev/filelock/pull/776) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ℹ️ Labeled PR [#609](https://github.com/tox-dev/platformdirs/pull/609) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. ℹ️ Labeled PR [#1205](https://github.com/tox-dev/turbohtml/pull/1205) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 💪 Opened PR [#1205](https://github.com/tox-dev/turbohtml/pull/1205) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#1204](https://github.com/tox-dev/turbohtml/pull/1204) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🗣 Commented on [#82](https://github.com/gaborbernat/bernat-tech/issues/82#issuecomment-6040678894) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+2. 🎉 Merged PR [#1202](https://github.com/tox-dev/turbohtml/pull/1202) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#382](https://github.com/tox-dev/tox-uv/pull/382) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#2372](https://github.com/tox-dev/peryx/pull/2372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🎉 Merged PR [#140](https://github.com/tox-dev/python-discovery/pull/140) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. 🔒 Closed issue [#82](https://github.com/gaborbernat/bernat-tech/issues/82) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+7. 🎉 Merged PR [#89](https://github.com/gaborbernat/bernat-tech/pull/89) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+8. 🎉 Merged PR [#781](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/781) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🎉 Merged PR [#722](https://github.com/tox-dev/pipdeptree/pull/722) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. 🎉 Merged PR [#478](https://github.com/tox-dev/toml-fmt/pull/478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
