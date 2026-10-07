@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#382](https://github.com/tox-dev/tox-uv/pull/382) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 💪 Opened PR [#382](https://github.com/tox-dev/tox-uv/pull/382) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#2372](https://github.com/tox-dev/peryx/pull/2372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 💪 Opened PR [#2372](https://github.com/tox-dev/peryx/pull/2372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. ℹ️ Labeled PR [#1213](https://github.com/pypa/build/pull/1213) in [pypa/build](https://github.com/pypa/build)
-6. 💪 Opened PR [#1213](https://github.com/pypa/build/pull/1213) in [pypa/build](https://github.com/pypa/build)
-7. 💪 Opened PR [#478](https://github.com/tox-dev/toml-fmt/pull/478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. ℹ️ Labeled PR [#478](https://github.com/tox-dev/toml-fmt/pull/478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. ℹ️ Labeled PR [#776](https://github.com/tox-dev/filelock/pull/776) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 💪 Opened PR [#776](https://github.com/tox-dev/filelock/pull/776) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1199](https://github.com/tox-dev/turbohtml/pull/1199) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#382](https://github.com/tox-dev/tox-uv/pull/382) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 💪 Opened PR [#382](https://github.com/tox-dev/tox-uv/pull/382) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ℹ️ Labeled PR [#2372](https://github.com/tox-dev/peryx/pull/2372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 💪 Opened PR [#2372](https://github.com/tox-dev/peryx/pull/2372) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. ℹ️ Labeled PR [#1213](https://github.com/pypa/build/pull/1213) in [pypa/build](https://github.com/pypa/build)
+7. 💪 Opened PR [#1213](https://github.com/pypa/build/pull/1213) in [pypa/build](https://github.com/pypa/build)
+8. 💪 Opened PR [#478](https://github.com/tox-dev/toml-fmt/pull/478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. ℹ️ Labeled PR [#478](https://github.com/tox-dev/toml-fmt/pull/478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. ℹ️ Labeled PR [#776](https://github.com/tox-dev/filelock/pull/776) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
