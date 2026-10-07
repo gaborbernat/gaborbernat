@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1213](https://github.com/pypa/build/pull/1213) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#140](https://github.com/tox-dev/jetbrains-fish/pull/140) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-3. 🎉 Merged PR [#264](https://github.com/tox-dev/PyVenvManage/pull/264) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#609](https://github.com/tox-dev/platformdirs/pull/609) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. ℹ️ Labeled PR [#1207](https://github.com/tox-dev/turbohtml/pull/1207) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1207](https://github.com/tox-dev/turbohtml/pull/1207) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#1205](https://github.com/tox-dev/turbohtml/pull/1205) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#776](https://github.com/tox-dev/filelock/pull/776) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🗣 Commented on [#82](https://github.com/gaborbernat/bernat-tech/issues/82#issuecomment-6040678894) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-10. 🎉 Merged PR [#1202](https://github.com/tox-dev/turbohtml/pull/1202) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#46](https://github.com/tox-dev/token-menu-bar-macos/issues/46) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
+2. 🎉 Merged PR [#1206](https://github.com/tox-dev/turbohtml/pull/1206) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#1208](https://github.com/tox-dev/turbohtml/pull/1208) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#1208](https://github.com/tox-dev/turbohtml/pull/1208) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#1213](https://github.com/pypa/build/pull/1213) in [pypa/build](https://github.com/pypa/build)
+6. 🎉 Merged PR [#140](https://github.com/tox-dev/jetbrains-fish/pull/140) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+7. 🎉 Merged PR [#264](https://github.com/tox-dev/PyVenvManage/pull/264) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 🎉 Merged PR [#609](https://github.com/tox-dev/platformdirs/pull/609) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. ℹ️ Labeled PR [#1207](https://github.com/tox-dev/turbohtml/pull/1207) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#1207](https://github.com/tox-dev/turbohtml/pull/1207) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
