@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#781](https://github.com/tox-dev/filelock/pull/781) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#90](https://github.com/gaborbernat/bernat-tech/pull/90#issuecomment-6048585231) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-3. 🗣 Commented on [#90](https://github.com/gaborbernat/bernat-tech/pull/90#issuecomment-6048564550) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-4. ℹ️ Labeled PR [#1219](https://github.com/tox-dev/turbohtml/pull/1219) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#1219](https://github.com/tox-dev/turbohtml/pull/1219) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#1218](https://github.com/tox-dev/turbohtml/pull/1218) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#1218](https://github.com/tox-dev/turbohtml/pull/1218) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#1217](https://github.com/tox-dev/turbohtml/pull/1217) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 💪 Opened PR [#1217](https://github.com/tox-dev/turbohtml/pull/1217) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#1216](https://github.com/tox-dev/turbohtml/pull/1216) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🚀 Published release [4.12.4](https://github.com/tox-dev/platformdirs/releases/tag/4.12.4) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#782](https://github.com/tox-dev/filelock/pull/782) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🚀 Published release [1.11.4](https://github.com/tox-dev/pyproject-api/releases/tag/1.11.4) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. ℹ️ Labeled PR [#782](https://github.com/tox-dev/filelock/pull/782) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#782](https://github.com/tox-dev/filelock/pull/782) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#781](https://github.com/tox-dev/filelock/pull/781) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 🗣 Commented on [#90](https://github.com/gaborbernat/bernat-tech/pull/90#issuecomment-6048585231) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+8. 🗣 Commented on [#90](https://github.com/gaborbernat/bernat-tech/pull/90#issuecomment-6048564550) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+9. ℹ️ Labeled PR [#1219](https://github.com/tox-dev/turbohtml/pull/1219) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#1219](https://github.com/tox-dev/turbohtml/pull/1219) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
