@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1215](https://github.com/tox-dev/turbohtml/pull/1215) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1215](https://github.com/tox-dev/turbohtml/pull/1215) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#1214](https://github.com/tox-dev/turbohtml/pull/1214) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1214](https://github.com/tox-dev/turbohtml/pull/1214) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ❌ Closed PR [#54](https://github.com/tox-dev/token-menu-bar-macos/pull/54) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-6. ❌ Closed PR [#55](https://github.com/tox-dev/token-menu-bar-macos/pull/55) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-7. ❌ Closed PR [#56](https://github.com/tox-dev/token-menu-bar-macos/pull/56) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-8. 🔒 Closed issue [#46](https://github.com/tox-dev/token-menu-bar-macos/issues/46) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-9. 🎉 Merged PR [#57](https://github.com/tox-dev/token-menu-bar-macos/pull/57) in [tox-dev/token-menu-bar-macos](https://github.com/tox-dev/token-menu-bar-macos)
-10. ℹ️ Labeled PR [#1213](https://github.com/tox-dev/turbohtml/pull/1213) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#1216](https://github.com/tox-dev/turbohtml/pull/1216) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1216](https://github.com/tox-dev/turbohtml/pull/1216) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#264](https://github.com/gaborbernat/bump-deps-index/pull/264) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+4. ℹ️ Labeled PR [#264](https://github.com/gaborbernat/bump-deps-index/pull/264) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. ℹ️ Labeled PR [#264](https://github.com/gaborbernat/bump-deps-index/pull/264) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+6. 💪 Opened PR [#264](https://github.com/gaborbernat/bump-deps-index/pull/264) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+7. ℹ️ Labeled PR [#1215](https://github.com/tox-dev/turbohtml/pull/1215) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 💪 Opened PR [#1215](https://github.com/tox-dev/turbohtml/pull/1215) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#1214](https://github.com/tox-dev/turbohtml/pull/1214) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#1214](https://github.com/tox-dev/turbohtml/pull/1214) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
