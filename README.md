@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1221](https://github.com/tox-dev/turbohtml/pull/1221) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1221](https://github.com/tox-dev/turbohtml/pull/1221) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#1211](https://github.com/tox-dev/turbohtml/pull/1211) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1220](https://github.com/tox-dev/turbohtml/pull/1220) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🚀 Published release [4.12.4](https://github.com/tox-dev/platformdirs/releases/tag/4.12.4) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🎉 Merged PR [#782](https://github.com/tox-dev/filelock/pull/782) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🚀 Published release [1.11.4](https://github.com/tox-dev/pyproject-api/releases/tag/1.11.4) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-8. ℹ️ Labeled PR [#782](https://github.com/tox-dev/filelock/pull/782) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 💪 Opened PR [#782](https://github.com/tox-dev/filelock/pull/782) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#781](https://github.com/tox-dev/filelock/pull/781) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#800](https://github.com/tox-dev/filelock/pull/800) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#800](https://github.com/tox-dev/filelock/pull/800) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 💪 Opened PR [#800](https://github.com/tox-dev/filelock/pull/800) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ℹ️ Labeled PR [#799](https://github.com/tox-dev/filelock/pull/799) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#799](https://github.com/tox-dev/filelock/pull/799) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. ℹ️ Labeled PR [#798](https://github.com/tox-dev/filelock/pull/798) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. 💪 Opened PR [#798](https://github.com/tox-dev/filelock/pull/798) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. ℹ️ Labeled PR [#797](https://github.com/tox-dev/filelock/pull/797) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#797](https://github.com/tox-dev/filelock/pull/797) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. ℹ️ Labeled PR [#796](https://github.com/tox-dev/filelock/pull/796) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
