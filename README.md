@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1246](https://github.com/tox-dev/turbohtml/pull/1246) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1246](https://github.com/tox-dev/turbohtml/pull/1246) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Unlabeled issue [#723](https://github.com/tox-dev/pipdeptree/issues/723) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#723](https://github.com/tox-dev/pipdeptree/issues/723#issuecomment-6068954639) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. ❗ Opened issue [#1252](https://github.com/notatallshaw/nab/issues/1252) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-6. 🎉 Merged PR [#808](https://github.com/tox-dev/filelock/pull/808) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#813](https://github.com/tox-dev/filelock/pull/813) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🎉 Merged PR [#814](https://github.com/tox-dev/filelock/pull/814) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🎉 Merged PR [#810](https://github.com/tox-dev/filelock/pull/810) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#799](https://github.com/tox-dev/filelock/pull/799) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1244](https://github.com/tox-dev/turbohtml/pull/1244) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#1243](https://github.com/tox-dev/turbohtml/pull/1243) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#1242](https://github.com/tox-dev/turbohtml/pull/1242) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#1241](https://github.com/tox-dev/turbohtml/pull/1241) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#58](https://github.com/token-menu-bar/token-menu-bar-macos/pull/58) in [token-menu-bar/token-menu-bar-macos](https://github.com/token-menu-bar/token-menu-bar-macos)
+6. ℹ️ Labeled PR [#1249](https://github.com/tox-dev/turbohtml/pull/1249) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#1249](https://github.com/tox-dev/turbohtml/pull/1249) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#1248](https://github.com/tox-dev/turbohtml/pull/1248) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 💪 Opened PR [#1248](https://github.com/tox-dev/turbohtml/pull/1248) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#1247](https://github.com/tox-dev/turbohtml/pull/1247) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
