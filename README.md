@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1284](https://github.com/tox-dev/turbohtml/pull/1284) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🚀 Published release [1.11.5](https://github.com/tox-dev/pyproject-api/releases/tag/1.11.5) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. ℹ️ Labeled PR [#3](https://github.com/gaborbernat/dotfiles/pull/3) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-4. ℹ️ Labeled PR [#3](https://github.com/gaborbernat/dotfiles/pull/3) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-5. 💪 Opened PR [#3](https://github.com/gaborbernat/dotfiles/pull/3) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-6. 🎉 Merged PR [#2](https://github.com/gaborbernat/dotfiles/pull/2) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-7. ℹ️ Labeled PR [#313](https://github.com/tox-dev/pyproject-api/pull/313) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-8. 🎉 Merged PR [#1283](https://github.com/tox-dev/turbohtml/pull/1283) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#2](https://github.com/gaborbernat/dotfiles/pull/2) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-10. 🎉 Merged PR [#383](https://github.com/tox-dev/tox-uv/pull/383) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ℹ️ Labeled PR [#1285](https://github.com/tox-dev/turbohtml/pull/1285) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1285](https://github.com/tox-dev/turbohtml/pull/1285) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#4](https://github.com/gaborbernat/dotfiles/pull/4) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+4. 💪 Opened PR [#4](https://github.com/gaborbernat/dotfiles/pull/4) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+5. 🚀 Published release [v1.15.0](https://github.com/tox-dev/turbohtml/releases/tag/1.15.0) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🎉 Merged PR [#1284](https://github.com/tox-dev/turbohtml/pull/1284) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🚀 Published release [1.11.5](https://github.com/tox-dev/pyproject-api/releases/tag/1.11.5) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+8. ℹ️ Labeled PR [#3](https://github.com/gaborbernat/dotfiles/pull/3) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+9. ℹ️ Labeled PR [#3](https://github.com/gaborbernat/dotfiles/pull/3) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+10. 💪 Opened PR [#3](https://github.com/gaborbernat/dotfiles/pull/3) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
