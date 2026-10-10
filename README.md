@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#816](https://github.com/tox-dev/filelock/pull/816) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#816](https://github.com/tox-dev/filelock/pull/816) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#1280](https://github.com/tox-dev/turbohtml/pull/1280) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1280](https://github.com/tox-dev/turbohtml/pull/1280) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#2080](https://github.com/pypa/pipx/pull/2080) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 💪 Opened PR [#2080](https://github.com/pypa/pipx/pull/2080) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#369](https://github.com/tox-dev/pyproject-fmt/pull/369) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-8. ℹ️ Labeled PR [#1215](https://github.com/pypa/build/pull/1215) in [pypa/build](https://github.com/pypa/build)
-9. ℹ️ Labeled PR [#1215](https://github.com/pypa/build/pull/1215) in [pypa/build](https://github.com/pypa/build)
-10. 💪 Opened PR [#1215](https://github.com/pypa/build/pull/1215) in [pypa/build](https://github.com/pypa/build)
+1. 🚀 Published release [v1.1.0](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.1.0) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+2. 🎉 Merged PR [#38](https://github.com/tox-dev/action-pre-commit-uv/pull/38) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. ℹ️ Labeled PR [#816](https://github.com/tox-dev/filelock/pull/816) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#816](https://github.com/tox-dev/filelock/pull/816) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Labeled PR [#1280](https://github.com/tox-dev/turbohtml/pull/1280) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 💪 Opened PR [#1280](https://github.com/tox-dev/turbohtml/pull/1280) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Labeled PR [#2080](https://github.com/pypa/pipx/pull/2080) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 💪 Opened PR [#2080](https://github.com/pypa/pipx/pull/2080) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🎉 Merged PR [#369](https://github.com/tox-dev/pyproject-fmt/pull/369) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+10. ℹ️ Labeled PR [#1215](https://github.com/pypa/build/pull/1215) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
