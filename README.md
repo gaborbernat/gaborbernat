@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#142](https://github.com/tox-dev/python-discovery/pull/142) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. ℹ️ Labeled PR [#1216](https://github.com/pypa/build/pull/1216) in [pypa/build](https://github.com/pypa/build)
-3. 💪 Opened PR [#1216](https://github.com/pypa/build/pull/1216) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#312](https://github.com/tox-dev/pyproject-api/pull/312) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🎉 Merged PR [#33](https://github.com/gaborbernat/mdformat-hugo/pull/33) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-6. 🎉 Merged PR [#263](https://github.com/gaborbernat/pypi-changes/pull/263) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-7. 🚀 Published release [4.2.6](https://github.com/tox-dev/pipdeptree/releases/tag/4.2.6) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🔒 Closed issue [#725](https://github.com/tox-dev/pipdeptree/issues/725) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#726](https://github.com/tox-dev/pipdeptree/pull/726) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. 🎉 Merged PR [#284](https://github.com/tox-dev/devpi-process/pull/284) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. ❗ Opened issue [#32434](https://github.com/termux/termux-packages/issues/32434) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. ❗ Opened issue [#114](https://github.com/google/atheris/issues/114) in [google/atheris](https://github.com/google/atheris)
+3. 🚀 Published release [tox-toml-fmt/1.11.1](https://github.com/tox-dev/toml-fmt/releases/tag/tox-toml-fmt/1.11.1) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🚀 Published release [v1.6.2](https://github.com/tox-dev/python-discovery/releases/tag/1.6.2) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. 🚀 Published release [pyproject-fmt/2.30.3](https://github.com/tox-dev/toml-fmt/releases/tag/pyproject-fmt/2.30.3) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 🎉 Merged PR [#142](https://github.com/tox-dev/python-discovery/pull/142) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. ℹ️ Labeled PR [#1216](https://github.com/pypa/build/pull/1216) in [pypa/build](https://github.com/pypa/build)
+8. 💪 Opened PR [#1216](https://github.com/pypa/build/pull/1216) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#312](https://github.com/tox-dev/pyproject-api/pull/312) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+10. 🎉 Merged PR [#33](https://github.com/gaborbernat/mdformat-hugo/pull/33) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
