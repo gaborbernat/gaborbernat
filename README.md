@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.1.0](https://github.com/tox-dev/action-pre-commit-uv/releases/tag/v1.1.0) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. 🎉 Merged PR [#38](https://github.com/tox-dev/action-pre-commit-uv/pull/38) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-3. ℹ️ Labeled PR [#816](https://github.com/tox-dev/filelock/pull/816) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#816](https://github.com/tox-dev/filelock/pull/816) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ℹ️ Labeled PR [#1280](https://github.com/tox-dev/turbohtml/pull/1280) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1280](https://github.com/tox-dev/turbohtml/pull/1280) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#2080](https://github.com/pypa/pipx/pull/2080) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 💪 Opened PR [#2080](https://github.com/pypa/pipx/pull/2080) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#369](https://github.com/tox-dev/pyproject-fmt/pull/369) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-10. ℹ️ Labeled PR [#1215](https://github.com/pypa/build/pull/1215) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#142](https://github.com/tox-dev/python-discovery/pull/142) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. ℹ️ Labeled PR [#1216](https://github.com/pypa/build/pull/1216) in [pypa/build](https://github.com/pypa/build)
+3. 💪 Opened PR [#1216](https://github.com/pypa/build/pull/1216) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#312](https://github.com/tox-dev/pyproject-api/pull/312) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🎉 Merged PR [#33](https://github.com/gaborbernat/mdformat-hugo/pull/33) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+6. 🎉 Merged PR [#263](https://github.com/gaborbernat/pypi-changes/pull/263) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+7. 🚀 Published release [4.2.6](https://github.com/tox-dev/pipdeptree/releases/tag/4.2.6) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. 🔒 Closed issue [#725](https://github.com/tox-dev/pipdeptree/issues/725) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 🎉 Merged PR [#726](https://github.com/tox-dev/pipdeptree/pull/726) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. 🎉 Merged PR [#284](https://github.com/tox-dev/devpi-process/pull/284) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
