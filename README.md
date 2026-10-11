@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1377](https://github.com/tox-dev/turbohtml/pull/1377) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1377](https://github.com/tox-dev/turbohtml/pull/1377) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 💪 Opened PR [#1376](https://github.com/tox-dev/turbohtml/pull/1376) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1375](https://github.com/tox-dev/turbohtml/pull/1375) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#1374](https://github.com/tox-dev/turbohtml/pull/1374) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1373](https://github.com/tox-dev/turbohtml/pull/1373) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#823](https://github.com/tox-dev/filelock/pull/823) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. ℹ️ Labeled PR [#3387](https://github.com/pypa/virtualenv/pull/3387) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 💪 Opened PR [#3387](https://github.com/pypa/virtualenv/pull/3387) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 💪 Opened PR [#823](https://github.com/tox-dev/filelock/pull/823) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#473](https://github.com/anthropics/oss-scanner/pull/473#issuecomment-6112334147) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+2. 💪 Opened PR [#1378](https://github.com/tox-dev/turbohtml/pull/1378) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#473](https://github.com/anthropics/oss-scanner/pull/473) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+4. 💪 Opened PR [#472](https://github.com/anthropics/oss-scanner/pull/472) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+5. 💪 Opened PR [#471](https://github.com/anthropics/oss-scanner/pull/471) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+6. 🎉 Merged PR [#3387](https://github.com/pypa/virtualenv/pull/3387) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#1363](https://github.com/tox-dev/turbohtml/pull/1363) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#1373](https://github.com/tox-dev/turbohtml/pull/1373) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#1377](https://github.com/tox-dev/turbohtml/pull/1377) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#1377](https://github.com/tox-dev/turbohtml/pull/1377) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
