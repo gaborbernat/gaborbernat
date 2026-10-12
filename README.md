@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1412](https://github.com/tox-dev/turbohtml/pull/1412) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1412](https://github.com/tox-dev/turbohtml/pull/1412) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Assigned PR [#1411](https://github.com/tox-dev/turbohtml/pull/1411) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#1411](https://github.com/tox-dev/turbohtml/pull/1411) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#1411](https://github.com/tox-dev/turbohtml/pull/1411) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🗣 Commented on [#1219](https://github.com/pypa/build/pull/1219#issuecomment-6126832982) in [pypa/build](https://github.com/pypa/build)
-7. 💪 Opened PR [#1410](https://github.com/tox-dev/turbohtml/pull/1410) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#1406](https://github.com/tox-dev/turbohtml/pull/1406) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#1399](https://github.com/tox-dev/turbohtml/pull/1399) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#888](https://github.com/MisterTea/EternalTerminal/pull/888) in [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)
+1. 🎉 Merged PR [#1407](https://github.com/tox-dev/turbohtml/pull/1407) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#1404](https://github.com/tox-dev/turbohtml/pull/1404) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#1403](https://github.com/tox-dev/turbohtml/pull/1403) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#1397](https://github.com/tox-dev/turbohtml/pull/1397) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#1412](https://github.com/tox-dev/turbohtml/pull/1412) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 💪 Opened PR [#1412](https://github.com/tox-dev/turbohtml/pull/1412) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. ℹ️ Assigned PR [#1411](https://github.com/tox-dev/turbohtml/pull/1411) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#1411](https://github.com/tox-dev/turbohtml/pull/1411) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 💪 Opened PR [#1411](https://github.com/tox-dev/turbohtml/pull/1411) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🗣 Commented on [#1219](https://github.com/pypa/build/pull/1219#issuecomment-6126832982) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
