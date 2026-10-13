@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#788](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/788) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#788](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/788) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ℹ️ Labeled PR [#787](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/787) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 💪 Opened PR [#787](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/787) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#1447](https://github.com/tox-dev/turbohtml/pull/1447) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🎉 Merged PR [#1442](https://github.com/tox-dev/turbohtml/pull/1442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#1438](https://github.com/tox-dev/turbohtml/pull/1438) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#1436](https://github.com/tox-dev/turbohtml/pull/1436) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#2091](https://github.com/pypa/pipx/pull/2091) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 💪 Opened PR [#2091](https://github.com/pypa/pipx/pull/2091) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#2088](https://github.com/pypa/pipx/pull/2088) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#2091](https://github.com/pypa/pipx/pull/2091) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#2090](https://github.com/pypa/pipx/pull/2090) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🚀 Published release [3.13.10](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.13.10) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#2089](https://github.com/pypa/pipx/pull/2089) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#1444](https://github.com/tox-dev/turbohtml/pull/1444) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#787](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/787) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 🎉 Merged PR [#788](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/788) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🔒 Closed issue [#785](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/785) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. ℹ️ Labeled PR [#1448](https://github.com/tox-dev/turbohtml/pull/1448) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
