@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4155](https://github.com/tox-dev/tox/pull/4155) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#4153](https://github.com/tox-dev/tox/pull/4153) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🎉 Merged PR [#1530](https://github.com/tox-dev/turbohtml/pull/1530) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#1532](https://github.com/tox-dev/turbohtml/pull/1532) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#1534](https://github.com/tox-dev/turbohtml/pull/1534) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🚀 Published release [1.11.7](https://github.com/tox-dev/pyproject-api/releases/tag/1.11.7) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-7. 🎉 Merged PR [#319](https://github.com/tox-dev/pyproject-api/pull/319) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-8. 🚀 Published release [4.13.1](https://github.com/tox-dev/platformdirs/releases/tag/4.13.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🎉 Merged PR [#618](https://github.com/tox-dev/platformdirs/pull/618) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. ❌ Closed PR [#318](https://github.com/tox-dev/pyproject-api/pull/318) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🎉 Merged PR [#4157](https://github.com/tox-dev/tox/pull/4157) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#4158](https://github.com/tox-dev/tox/pull/4158) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#4153](https://github.com/tox-dev/tox/pull/4153) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#4154](https://github.com/tox-dev/tox/pull/4154) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#4160](https://github.com/tox-dev/tox/pull/4160) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🎉 Merged PR [#4155](https://github.com/tox-dev/tox/pull/4155) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#4153](https://github.com/tox-dev/tox/pull/4153) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🎉 Merged PR [#1530](https://github.com/tox-dev/turbohtml/pull/1530) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#1532](https://github.com/tox-dev/turbohtml/pull/1532) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🎉 Merged PR [#1534](https://github.com/tox-dev/turbohtml/pull/1534) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
