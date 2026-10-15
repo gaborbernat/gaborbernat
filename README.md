@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#1006](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1006) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ℹ️ Labeled issue [#995](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/995) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ❗ Opened issue [#1006](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1006) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ℹ️ Labeled issue [#1005](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1005) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. ❗ Opened issue [#1005](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1005) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. ℹ️ Labeled issue [#1004](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1004) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. ❗ Opened issue [#1004](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1004) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. ℹ️ Labeled issue [#1003](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1003) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. ❗ Opened issue [#1003](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1003) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. ℹ️ Labeled issue [#1002](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1002) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ℹ️ Labeled PR [#4153](https://github.com/tox-dev/tox/pull/4153) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1530](https://github.com/tox-dev/turbohtml/pull/1530) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#1532](https://github.com/tox-dev/turbohtml/pull/1532) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#1534](https://github.com/tox-dev/turbohtml/pull/1534) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🚀 Published release [1.11.7](https://github.com/tox-dev/pyproject-api/releases/tag/1.11.7) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+6. 🎉 Merged PR [#319](https://github.com/tox-dev/pyproject-api/pull/319) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+7. 🚀 Published release [4.13.1](https://github.com/tox-dev/platformdirs/releases/tag/4.13.1) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 🎉 Merged PR [#618](https://github.com/tox-dev/platformdirs/pull/618) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. ❌ Closed PR [#318](https://github.com/tox-dev/pyproject-api/pull/318) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+10. 🗣 Commented on [#318](https://github.com/tox-dev/pyproject-api/pull/318#issuecomment-6202944306) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
