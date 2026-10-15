@@ -37,12 +37,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#986](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/986) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#986](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/986) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#976](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/976) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#2146](https://github.com/pypa/pipx/pull/2146) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#1518](https://github.com/tox-dev/turbohtml/pull/1518) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#985](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/985) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. ❗ Opened issue [#4735](https://github.com/astral-sh/ty/issues/4735) in [astral-sh/ty](https://github.com/astral-sh/ty)
+2. 🗣 Commented on [#731](https://github.com/tox-dev/pipdeptree/pull/731#issuecomment-6186801681) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#482](https://github.com/tox-dev/toml-fmt/pull/482) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. ℹ️ Labeled PR [#986](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/986) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#986](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/986) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🎉 Merged PR [#976](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/976) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 7. ℹ️ Labeled PR [#2144](https://github.com/pypa/pipx/pull/2144) in [pypa/pipx](https://github.com/pypa/pipx)
 8. 💪 Opened PR [#2148](https://github.com/pypa/pipx/pull/2148) in [pypa/pipx](https://github.com/pypa/pipx)
 9. 🎉 Merged PR [#2144](https://github.com/pypa/pipx/pull/2144) in [pypa/pipx](https://github.com/pypa/pipx)
