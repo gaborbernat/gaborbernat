@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#843](https://github.com/tox-dev/filelock/pull/843) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ℹ️ Labeled PR [#842](https://github.com/tox-dev/filelock/pull/842) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#835](https://github.com/tox-dev/filelock/pull/835) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. ℹ️ Labeled PR [#834](https://github.com/tox-dev/filelock/pull/834) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#1027](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1027) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. ℹ️ Labeled PR [#4161](https://github.com/tox-dev/tox/pull/4161) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ℹ️ Labeled PR [#4161](https://github.com/tox-dev/tox/pull/4161) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled issue [#1041](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1041) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🔒 Closed issue [#1042](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1042) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. 🔒 Closed issue [#1032](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1032) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#850](https://github.com/tox-dev/filelock/pull/850) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#839](https://github.com/tox-dev/filelock/pull/839) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ℹ️ Labeled PR [#836](https://github.com/tox-dev/filelock/pull/836) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ℹ️ Labeled PR [#1052](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1052) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#1052](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1052) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🎉 Merged PR [#849](https://github.com/tox-dev/filelock/pull/849) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ℹ️ Unlabeled PR [#1051](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1051) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. ℹ️ Labeled PR [#1051](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1051) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. ℹ️ Labeled PR [#1051](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1051) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. ℹ️ Labeled PR [#1051](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1051) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
