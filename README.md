@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1059](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1059) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 💪 Opened PR [#3411](https://github.com/pypa/virtualenv/pull/3411) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#3410](https://github.com/pypa/virtualenv/pull/3410) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3411](https://github.com/pypa/virtualenv/pull/3411) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#3409](https://github.com/pypa/virtualenv/pull/3409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3409](https://github.com/pypa/virtualenv/pull/3409) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. ℹ️ Labeled PR [#3408](https://github.com/pypa/virtualenv/pull/3408) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#3408](https://github.com/pypa/virtualenv/pull/3408) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#3401](https://github.com/pypa/virtualenv/pull/3401) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 🎉 Merged PR [#3398](https://github.com/pypa/virtualenv/pull/3398) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3416](https://github.com/pypa/virtualenv/pull/3416) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3416](https://github.com/pypa/virtualenv/pull/3416) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#3415](https://github.com/pypa/virtualenv/pull/3415) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ℹ️ Labeled PR [#3415](https://github.com/pypa/virtualenv/pull/3415) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#3414](https://github.com/pypa/virtualenv/pull/3414) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3402](https://github.com/pypa/virtualenv/pull/3402) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3413](https://github.com/pypa/virtualenv/pull/3413) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ℹ️ Labeled PR [#1060](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1060) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 💪 Opened PR [#1060](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1060) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 💪 Opened PR [#3412](https://github.com/pypa/virtualenv/pull/3412) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
