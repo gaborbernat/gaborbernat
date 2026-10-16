@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1067](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1067) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#1064](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1064) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ℹ️ Labeled PR [#1067](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1067) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🔒 Closed issue [#4163](https://github.com/tox-dev/tox/issues/4163) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#1065](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1065) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 💪 Opened PR [#685](https://github.com/anthropics/oss-scanner/pull/685) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-7. 💪 Opened PR [#684](https://github.com/anthropics/oss-scanner/pull/684) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-8. 💪 Opened PR [#683](https://github.com/anthropics/oss-scanner/pull/683) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-9. 💪 Opened PR [#682](https://github.com/anthropics/oss-scanner/pull/682) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-10. 💪 Opened PR [#681](https://github.com/anthropics/oss-scanner/pull/681) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+1. 🎉 Merged PR [#1061](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1061) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🎉 Merged PR [#1066](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1066) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#1067](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1067) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#1064](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1064) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ℹ️ Labeled PR [#1067](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1067) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🔒 Closed issue [#4163](https://github.com/tox-dev/tox/issues/4163) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#1065](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1065) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 💪 Opened PR [#685](https://github.com/anthropics/oss-scanner/pull/685) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+9. 💪 Opened PR [#684](https://github.com/anthropics/oss-scanner/pull/684) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+10. 💪 Opened PR [#683](https://github.com/anthropics/oss-scanner/pull/683) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
