@@ -37,12 +37,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2158](https://github.com/pypa/pipx/pull/2158) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🔒 Closed issue [#2155](https://github.com/pypa/pipx/issues/2155) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#835](https://github.com/tox-dev/filelock/pull/835) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🔒 Closed issue [#2156](https://github.com/pypa/pipx/issues/2156) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#3417](https://github.com/pypa/virtualenv/pull/3417) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#834](https://github.com/tox-dev/filelock/pull/834) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#1535](https://github.com/tox-dev/turbohtml/pull/1535) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#1535](https://github.com/tox-dev/turbohtml/pull/1535) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#7](https://github.com/quotaline/quotaline/pull/7) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+6. 💪 Opened PR [#7](https://github.com/quotaline/quotaline/pull/7) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
 7. 🎉 Merged PR [#3423](https://github.com/pypa/virtualenv/pull/3423) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 8. 🎉 Merged PR [#3429](https://github.com/pypa/virtualenv/pull/3429) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 9. 💪 Opened PR [#2158](https://github.com/pypa/pipx/pull/2158) in [pypa/pipx](https://github.com/pypa/pipx)
