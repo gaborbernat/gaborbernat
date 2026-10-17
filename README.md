@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. ℹ️ Labeled PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 💪 Opened PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. ℹ️ Labeled PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 💪 Opened PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Unlabeled PR [#622](https://github.com/tox-dev/platformdirs/pull/622) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 🎉 Merged PR [#4171](https://github.com/tox-dev/tox/pull/4171) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#4171](https://github.com/tox-dev/tox/pull/4171) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#1536](https://github.com/tox-dev/turbohtml/pull/1536) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#4165](https://github.com/tox-dev/tox/issues/4165) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ℹ️ Labeled PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ℹ️ Labeled PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 💪 Opened PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. ℹ️ Unlabeled PR [#622](https://github.com/tox-dev/platformdirs/pull/622) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 🎉 Merged PR [#4171](https://github.com/tox-dev/tox/pull/4171) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4171](https://github.com/tox-dev/tox/pull/4171) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
