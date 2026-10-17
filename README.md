@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#115](https://github.com/google/atheris/pull/115#issuecomment-6239376413) in [google/atheris](https://github.com/google/atheris)
-2. 💪 Opened PR [#6517](https://github.com/SchemaStore/schemastore/pull/6517) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-3. 🚀 Published release [v4.67.0](https://github.com/tox-dev/tox/releases/tag/4.67.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#4165](https://github.com/tox-dev/tox/issues/4165) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🎉 Merged PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Labeled PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 💪 Opened PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. ℹ️ Labeled PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 💪 Opened PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🚀 Published release [4.13.4](https://github.com/tox-dev/platformdirs/releases/tag/4.13.4) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🗣 Commented on [#115](https://github.com/google/atheris/pull/115#issuecomment-6239376413) in [google/atheris](https://github.com/google/atheris)
+3. 💪 Opened PR [#6517](https://github.com/SchemaStore/schemastore/pull/6517) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+4. 🚀 Published release [v4.67.0](https://github.com/tox-dev/tox/releases/tag/4.67.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#4165](https://github.com/tox-dev/tox/issues/4165) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🎉 Merged PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 🎉 Merged PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. ℹ️ Labeled PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 💪 Opened PR [#1090](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1090) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. ℹ️ Labeled PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
