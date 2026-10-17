@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
-2. 🚀 Published release [4.2.1](https://github.com/tox-dev/filelock/releases/tag/4.2.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#1535](https://github.com/tox-dev/turbohtml/pull/1535) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1535](https://github.com/tox-dev/turbohtml/pull/1535) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#7](https://github.com/quotaline/quotaline/pull/7) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-8. 💪 Opened PR [#7](https://github.com/quotaline/quotaline/pull/7) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-9. 💪 Opened PR [#2158](https://github.com/pypa/pipx/pull/2158) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#2158](https://github.com/pypa/pipx/pull/2158) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 💪 Opened PR [#8](https://github.com/quotaline/quotaline/pull/8) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+2. 🎉 Merged PR [#7](https://github.com/quotaline/quotaline/pull/7) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+3. 🎉 Merged PR [#3438](https://github.com/pypa/virtualenv/pull/3438) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#3438](https://github.com/pypa/virtualenv/pull/3438) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 💪 Opened PR [#3438](https://github.com/pypa/virtualenv/pull/3438) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
+8. 🚀 Published release [4.2.1](https://github.com/tox-dev/filelock/releases/tag/4.2.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. ℹ️ Labeled PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#3437](https://github.com/pypa/virtualenv/pull/3437) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
