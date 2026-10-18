@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Unlabeled PR [#36](https://github.com/tox-dev/mdformat-zola/pull/36) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-2. 🎉 Merged PR [#38](https://github.com/gaborbernat/mdformat-hugo/pull/38) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-3. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6252121047) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
-4. ℹ️ Labeled PR [#38](https://github.com/gaborbernat/mdformat-hugo/pull/38) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-5. 💪 Opened PR [#38](https://github.com/gaborbernat/mdformat-hugo/pull/38) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-6. ℹ️ Labeled PR [#36](https://github.com/gaborbernat/mdformat-hugo/pull/36) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-7. 🎉 Merged PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-8. 🔒 Closed issue [#277](https://github.com/pytest-dev/pytest-env/issues/277) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-9. ℹ️ Labeled PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-10. 💪 Opened PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+1. ℹ️ Labeled PR [#125](https://github.com/tox-dev/xml-fmt/pull/125) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+2. ℹ️ Labeled PR [#388](https://github.com/tox-dev/tox-uv/pull/388) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. ℹ️ Labeled PR [#382](https://github.com/tox-dev/tox-ini-fmt/pull/382) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. ℹ️ Labeled PR [#374](https://github.com/tox-dev/sphinx-argparse-cli/pull/374) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. ℹ️ Labeled PR [#188](https://github.com/tox-dev/pre-commit-uv/pull/188) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+6. ℹ️ Labeled PR [#289](https://github.com/tox-dev/devpi-process/pull/289) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+7. 💪 Opened PR [#125](https://github.com/tox-dev/xml-fmt/pull/125) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+8. 💪 Opened PR [#388](https://github.com/tox-dev/tox-uv/pull/388) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. 💪 Opened PR [#382](https://github.com/tox-dev/tox-ini-fmt/pull/382) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+10. 💪 Opened PR [#374](https://github.com/tox-dev/sphinx-argparse-cli/pull/374) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
