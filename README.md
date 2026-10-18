@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.12.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.12.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🚀 Published release [1.11.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.11.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🚀 Published release [1.11.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.11.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🚀 Published release [1.10.3](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.3) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🚀 Published release [1.10.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🚀 Published release [1.10.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-7. 🚀 Published release [1.10.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 🚀 Published release [1.9.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.9.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🚀 Published release [1.8.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.8.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-10. 🚀 Published release [1.7.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.7.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🚀 Published release [1.1.0rc0](https://github.com/pypa/pipx/releases/tag/1.1.0rc0) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🚀 Published release [0.15.3.0](https://github.com/pypa/pipx/releases/tag/0.15.3.0) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🚀 Published release [0.15.2.0](https://github.com/pypa/pipx/releases/tag/0.15.2.0) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🚀 Published release [0.14.0.0rc1](https://github.com/pypa/pipx/releases/tag/0.14.0.0rc1) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🚀 Published release [0.13.2.3](https://github.com/pypa/pipx/releases/tag/0.13.2.3) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🚀 Published release [0.13.2.0](https://github.com/pypa/pipx/releases/tag/0.13.2.0) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🚀 Published release [0.13.1.1](https://github.com/pypa/pipx/releases/tag/0.13.1.1) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🚀 Published release [0.13.1.0](https://github.com/pypa/pipx/releases/tag/0.13.1.0) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🚀 Published release [0.13.0.0](https://github.com/pypa/pipx/releases/tag/0.13.0.0) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🚀 Published release [0.12.3.3](https://github.com/pypa/pipx/releases/tag/0.12.3.3) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
