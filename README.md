@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. ℹ️ Unlabeled PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. ℹ️ Labeled PR [#4175](https://github.com/tox-dev/tox/pull/4175) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 💪 Opened PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. ℹ️ Labeled PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-6. ℹ️ Labeled PR [#276](https://github.com/pytest-dev/pytest-env/pull/276) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-7. ℹ️ Labeled PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-8. ℹ️ Labeled PR [#276](https://github.com/pytest-dev/pytest-env/pull/276) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Labeled PR [#1091](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1091) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. ℹ️ Labeled PR [#1091](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1091) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 💪 Opened PR [#1091](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1091) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ℹ️ Labeled PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. ℹ️ Unlabeled PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. ℹ️ Labeled PR [#4175](https://github.com/tox-dev/tox/pull/4175) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 💪 Opened PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+8. ℹ️ Labeled PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 9. ℹ️ Labeled PR [#276](https://github.com/pytest-dev/pytest-env/pull/276) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-10. ℹ️ Labeled PR [#276](https://github.com/pytest-dev/pytest-env/pull/276) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+10. ℹ️ Labeled PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
