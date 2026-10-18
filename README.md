@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#36](https://github.com/gaborbernat/mdformat-hugo/pull/36) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-2. 🎉 Merged PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-3. 🔒 Closed issue [#277](https://github.com/pytest-dev/pytest-env/issues/277) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. ℹ️ Labeled PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-5. 💪 Opened PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-6. 🎉 Merged PR [#35](https://github.com/gaborbernat/mdformat-hugo/pull/35) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-7. 🎉 Merged PR [#1537](https://github.com/tox-dev/turbohtml/pull/1537) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6251669276) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
-9. ℹ️ Labeled PR [#276](https://github.com/pytest-dev/pytest-env/pull/276) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-10. ℹ️ Labeled PR [#271](https://github.com/pytest-dev/pytest-print/pull/271) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. ℹ️ Unlabeled PR [#36](https://github.com/tox-dev/mdformat-zola/pull/36) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+2. 🎉 Merged PR [#38](https://github.com/gaborbernat/mdformat-hugo/pull/38) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+3. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6252121047) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
+4. ℹ️ Labeled PR [#38](https://github.com/gaborbernat/mdformat-hugo/pull/38) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+5. 💪 Opened PR [#38](https://github.com/gaborbernat/mdformat-hugo/pull/38) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+6. ℹ️ Labeled PR [#36](https://github.com/gaborbernat/mdformat-hugo/pull/36) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+7. 🎉 Merged PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+8. 🔒 Closed issue [#277](https://github.com/pytest-dev/pytest-env/issues/277) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. ℹ️ Labeled PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+10. 💪 Opened PR [#37](https://github.com/gaborbernat/mdformat-hugo/pull/37) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
