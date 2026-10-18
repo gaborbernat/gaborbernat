@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#269](https://github.com/gaborbernat/pypi-changes/pull/269) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-2. 💪 Opened PR [#269](https://github.com/gaborbernat/pypi-changes/pull/269) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-3. ℹ️ Labeled PR [#3448](https://github.com/pypa/virtualenv/pull/3448) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3448](https://github.com/pypa/virtualenv/pull/3448) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#2163](https://github.com/pypa/pipx/pull/2163) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 💪 Opened PR [#2163](https://github.com/pypa/pipx/pull/2163) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled PR [#270](https://github.com/tox-dev/PyVenvManage/pull/270) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-8. ℹ️ Labeled PR [#146](https://github.com/tox-dev/jetbrains-fish/pull/146) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-9. 💪 Opened PR [#270](https://github.com/tox-dev/PyVenvManage/pull/270) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 💪 Opened PR [#146](https://github.com/tox-dev/jetbrains-fish/pull/146) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. ℹ️ Labeled PR [#41](https://github.com/tox-dev/action-pre-commit-uv/pull/41) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+2. 💪 Opened PR [#41](https://github.com/tox-dev/action-pre-commit-uv/pull/41) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+3. 🚀 Published release [0.1.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/0.1.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 🚀 Published release [4.3.0](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.3.0) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. 🚀 Published release [1.22.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.22.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+6. 🚀 Published release [1.1.0](https://github.com/tox-dev/xml-fmt/releases/tag/1.1.0) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+7. 🚀 Published release [0.2.0](https://github.com/gaborbernat/mdformat-hugo/releases/tag/0.2.0) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+8. ℹ️ Labeled PR [#40](https://github.com/gaborbernat/mdformat-hugo/pull/40) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+9. 💪 Opened PR [#40](https://github.com/gaborbernat/mdformat-hugo/pull/40) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+10. 🚀 Published release [1.6.0](https://github.com/gaborbernat/pypi-changes/releases/tag/1.6.0) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
