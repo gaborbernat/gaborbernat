@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#41](https://github.com/tox-dev/action-pre-commit-uv/pull/41) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-2. 💪 Opened PR [#41](https://github.com/tox-dev/action-pre-commit-uv/pull/41) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-3. 🚀 Published release [0.1.0](https://github.com/tox-dev/tox-ini-fmt/releases/tag/0.1.0) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🚀 Published release [4.3.0](https://github.com/tox-dev/pre-commit-uv/releases/tag/4.3.0) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 🚀 Published release [1.22.0](https://github.com/tox-dev/sphinx-argparse-cli/releases/tag/1.22.0) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-6. 🚀 Published release [1.1.0](https://github.com/tox-dev/xml-fmt/releases/tag/1.1.0) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-7. 🚀 Published release [0.2.0](https://github.com/gaborbernat/mdformat-hugo/releases/tag/0.2.0) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-8. ℹ️ Labeled PR [#40](https://github.com/gaborbernat/mdformat-hugo/pull/40) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-9. 💪 Opened PR [#40](https://github.com/gaborbernat/mdformat-hugo/pull/40) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-10. 🚀 Published release [1.6.0](https://github.com/gaborbernat/pypi-changes/releases/tag/1.6.0) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+1. 🚀 Published release [1.12.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.12.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🚀 Published release [1.11.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.11.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🚀 Published release [1.11.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.11.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🚀 Published release [1.10.3](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.3) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🚀 Published release [1.10.2](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.2) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🚀 Published release [1.10.1](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.1) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+7. 🚀 Published release [1.10.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.10.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 🚀 Published release [1.9.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.9.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🚀 Published release [1.8.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.8.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 🚀 Published release [1.7.0](https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/1.7.0) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
