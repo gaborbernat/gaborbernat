@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#386](https://github.com/tox-dev/tox-uv/pull/386) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ℹ️ Labeled PR [#386](https://github.com/tox-dev/tox-uv/pull/386) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#386](https://github.com/tox-dev/tox-uv/pull/386) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. ℹ️ Labeled PR [#186](https://github.com/tox-dev/pre-commit-uv/pull/186) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 💪 Opened PR [#186](https://github.com/tox-dev/pre-commit-uv/pull/186) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-6. ℹ️ Labeled PR [#186](https://github.com/tox-dev/pre-commit-uv/pull/186) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-7. ℹ️ Labeled PR [#269](https://github.com/gaborbernat/bump-deps-index/pull/269) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-8. ℹ️ Labeled PR [#269](https://github.com/gaborbernat/bump-deps-index/pull/269) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-9. 💪 Opened PR [#269](https://github.com/gaborbernat/bump-deps-index/pull/269) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-10. ℹ️ Labeled PR [#324](https://github.com/tox-dev/pyproject-api/pull/324) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. ℹ️ Labeled PR [#268](https://github.com/tox-dev/PyVenvManage/pull/268) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+2. 💪 Opened PR [#268](https://github.com/tox-dev/PyVenvManage/pull/268) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. ℹ️ Labeled PR [#144](https://github.com/tox-dev/jetbrains-fish/pull/144) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+4. 💪 Opened PR [#144](https://github.com/tox-dev/jetbrains-fish/pull/144) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+5. ℹ️ Labeled PR [#39](https://github.com/tox-dev/action-pre-commit-uv/pull/39) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+6. 💪 Opened PR [#39](https://github.com/tox-dev/action-pre-commit-uv/pull/39) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+7. ℹ️ Labeled PR [#2161](https://github.com/pypa/pipx/pull/2161) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+9. ℹ️ Labeled PR [#1538](https://github.com/tox-dev/turbohtml/pull/1538) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#4175](https://github.com/tox-dev/tox/pull/4175) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
