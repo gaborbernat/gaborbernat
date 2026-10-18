@@ -37,9 +37,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6244607249) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
-2. ℹ️ Labeled PR [#1537](https://github.com/tox-dev/turbohtml/pull/1537) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 💪 Opened PR [#1537](https://github.com/tox-dev/turbohtml/pull/1537) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+2. ℹ️ Labeled PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 🔒 Closed issue [#4169](https://github.com/tox-dev/tox/issues/4169) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. 🎉 Merged PR [#1536](https://github.com/tox-dev/turbohtml/pull/1536) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 5. ❌ Closed PR [#3439](https://github.com/pypa/virtualenv/pull/3439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 6. 🗣 Commented on [#3439](https://github.com/pypa/virtualenv/pull/3439#issuecomment-6242846255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
