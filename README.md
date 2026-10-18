@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#125](https://github.com/tox-dev/xml-fmt/pull/125) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-2. ℹ️ Labeled PR [#388](https://github.com/tox-dev/tox-uv/pull/388) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#382](https://github.com/tox-dev/tox-ini-fmt/pull/382) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. ℹ️ Labeled PR [#374](https://github.com/tox-dev/sphinx-argparse-cli/pull/374) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. ℹ️ Labeled PR [#188](https://github.com/tox-dev/pre-commit-uv/pull/188) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-6. ℹ️ Labeled PR [#289](https://github.com/tox-dev/devpi-process/pull/289) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-7. 💪 Opened PR [#125](https://github.com/tox-dev/xml-fmt/pull/125) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-8. 💪 Opened PR [#388](https://github.com/tox-dev/tox-uv/pull/388) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. 💪 Opened PR [#382](https://github.com/tox-dev/tox-ini-fmt/pull/382) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-10. 💪 Opened PR [#374](https://github.com/tox-dev/sphinx-argparse-cli/pull/374) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. ℹ️ Labeled PR [#269](https://github.com/gaborbernat/pypi-changes/pull/269) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 💪 Opened PR [#269](https://github.com/gaborbernat/pypi-changes/pull/269) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. ℹ️ Labeled PR [#3448](https://github.com/pypa/virtualenv/pull/3448) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#3448](https://github.com/pypa/virtualenv/pull/3448) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#2163](https://github.com/pypa/pipx/pull/2163) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 💪 Opened PR [#2163](https://github.com/pypa/pipx/pull/2163) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ℹ️ Labeled PR [#270](https://github.com/tox-dev/PyVenvManage/pull/270) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. ℹ️ Labeled PR [#146](https://github.com/tox-dev/jetbrains-fish/pull/146) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+9. 💪 Opened PR [#270](https://github.com/tox-dev/PyVenvManage/pull/270) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 💪 Opened PR [#146](https://github.com/tox-dev/jetbrains-fish/pull/146) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
