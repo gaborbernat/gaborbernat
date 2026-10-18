@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v4.67.1](https://github.com/tox-dev/tox/releases/tag/4.67.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🚀 Published release [4.2.2](https://github.com/tox-dev/filelock/releases/tag/4.2.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#3444](https://github.com/pypa/virtualenv/pull/3444) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3444](https://github.com/pypa/virtualenv/pull/3444) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3442](https://github.com/pypa/virtualenv/pull/3442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3442](https://github.com/pypa/virtualenv/pull/3442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 💪 Opened PR [#3442](https://github.com/pypa/virtualenv/pull/3442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🎉 Merged PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🚀 Published release [1.12.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.12.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-10. 🎉 Merged PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 💪 Opened PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. 💪 Opened PR [#3445](https://github.com/pypa/virtualenv/pull/3445) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#2161](https://github.com/pypa/pipx/pull/2161) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 💪 Opened PR [#1538](https://github.com/tox-dev/turbohtml/pull/1538) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 💪 Opened PR [#4175](https://github.com/tox-dev/tox/pull/4175) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#735](https://github.com/tox-dev/pipdeptree/pull/735) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. 💪 Opened PR [#628](https://github.com/tox-dev/platformdirs/pull/628) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 💪 Opened PR [#857](https://github.com/tox-dev/filelock/pull/857) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#2375](https://github.com/tox-dev/peryx/pull/2375) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🚀 Published release [v4.67.1](https://github.com/tox-dev/tox/releases/tag/4.67.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
