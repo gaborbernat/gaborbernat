@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [0.1.3](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.3) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. 🚀 Published release [0.1.2](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.2) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. 🚀 Published release [0.1.1](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.1) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-4. 🚀 Published release [0.1.0](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. ℹ️ Labeled PR [#273](https://github.com/pytest-dev/pytest-print/pull/273) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-6. 💪 Opened PR [#273](https://github.com/pytest-dev/pytest-print/pull/273) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-7. ℹ️ Labeled PR [#280](https://github.com/pytest-dev/pytest-env/pull/280) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-8. 💪 Opened PR [#280](https://github.com/pytest-dev/pytest-env/pull/280) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-9. 🚀 Published release [20.36.1](https://github.com/pypa/virtualenv/releases/tag/20.36.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 🚀 Published release [20.15.1](https://github.com/pypa/virtualenv/releases/tag/20.15.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#125](https://github.com/tox-dev/xml-fmt/pull/125) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+2. 🎉 Merged PR [#40](https://github.com/gaborbernat/mdformat-hugo/pull/40) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+3. 🎉 Merged PR [#36](https://github.com/tox-dev/mdformat-zola/pull/36) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+4. 🎉 Merged PR [#2375](https://github.com/tox-dev/peryx/pull/2375) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🎉 Merged PR [#270](https://github.com/tox-dev/PyVenvManage/pull/270) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. ℹ️ Labeled PR [#5](https://github.com/gaborbernat/ghostty/pull/5) in [gaborbernat/ghostty](https://github.com/gaborbernat/ghostty)
+7. 💪 Opened PR [#5](https://github.com/gaborbernat/ghostty/pull/5) in [gaborbernat/ghostty](https://github.com/gaborbernat/ghostty)
+8. 🎉 Merged PR [#280](https://github.com/pytest-dev/pytest-env/pull/280) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. 🎉 Merged PR [#857](https://github.com/tox-dev/filelock/pull/857) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🎉 Merged PR [#272](https://github.com/gaborbernat/bump-deps-index/pull/272) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
