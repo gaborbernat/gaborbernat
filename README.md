@@ -37,7 +37,7 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1091](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1091) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6251669276) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
 2. ℹ️ Labeled PR [#1091](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1091) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 3. 💪 Opened PR [#1091](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1091) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 4. ℹ️ Labeled PR [#151](https://github.com/tox-dev/python-discovery/pull/151) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
