@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🚀 Published release [1.12.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.12.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. 🎉 Merged PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. 🚀 Published release [1.8.1](https://github.com/pytest-dev/pytest-env/releases/tag/1.8.1) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 💪 Opened PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-6. ℹ️ Labeled PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-7. 🔒 Closed issue [#4169](https://github.com/tox-dev/tox/issues/4169) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 💪 Opened PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🚀 Published release [v4.67.0](https://github.com/tox-dev/tox/releases/tag/4.67.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#626](https://github.com/tox-dev/platformdirs/pull/626) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🚀 Published release [v4.67.1](https://github.com/tox-dev/tox/releases/tag/4.67.1) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🚀 Published release [4.2.2](https://github.com/tox-dev/filelock/releases/tag/4.2.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#3444](https://github.com/pypa/virtualenv/pull/3444) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#3444](https://github.com/pypa/virtualenv/pull/3444) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3442](https://github.com/pypa/virtualenv/pull/3442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3442](https://github.com/pypa/virtualenv/pull/3442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3442](https://github.com/pypa/virtualenv/pull/3442) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🚀 Published release [1.12.0](https://github.com/tox-dev/pyproject-api/releases/tag/1.12.0) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+10. 🎉 Merged PR [#274](https://github.com/pytest-dev/pytest-env/pull/274) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
