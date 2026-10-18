@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.1.0rc0](https://github.com/pypa/pipx/releases/tag/1.1.0rc0) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🚀 Published release [0.15.3.0](https://github.com/pypa/pipx/releases/tag/0.15.3.0) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🚀 Published release [0.15.2.0](https://github.com/pypa/pipx/releases/tag/0.15.2.0) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🚀 Published release [0.14.0.0rc1](https://github.com/pypa/pipx/releases/tag/0.14.0.0rc1) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🚀 Published release [0.13.2.3](https://github.com/pypa/pipx/releases/tag/0.13.2.3) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🚀 Published release [0.13.2.0](https://github.com/pypa/pipx/releases/tag/0.13.2.0) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🚀 Published release [0.13.1.1](https://github.com/pypa/pipx/releases/tag/0.13.1.1) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🚀 Published release [0.13.1.0](https://github.com/pypa/pipx/releases/tag/0.13.1.0) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🚀 Published release [0.13.0.0](https://github.com/pypa/pipx/releases/tag/0.13.0.0) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🚀 Published release [0.12.3.3](https://github.com/pypa/pipx/releases/tag/0.12.3.3) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🚀 Published release [0.1.3](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.3) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🚀 Published release [0.1.2](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.2) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 🚀 Published release [0.1.1](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.1) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. 🚀 Published release [0.1.0](https://github.com/pytest-dev/pytest-print/releases/tag/0.1.0) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. ℹ️ Labeled PR [#273](https://github.com/pytest-dev/pytest-print/pull/273) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+6. 💪 Opened PR [#273](https://github.com/pytest-dev/pytest-print/pull/273) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+7. ℹ️ Labeled PR [#280](https://github.com/pytest-dev/pytest-env/pull/280) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+8. 💪 Opened PR [#280](https://github.com/pytest-dev/pytest-env/pull/280) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. 🚀 Published release [20.36.1](https://github.com/pypa/virtualenv/releases/tag/20.36.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🚀 Published release [20.15.1](https://github.com/pypa/virtualenv/releases/tag/20.15.1) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
