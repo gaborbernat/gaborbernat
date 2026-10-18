@@ -37,12 +37,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2159](https://github.com/pypa/pipx/issues/2159) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ❌ Closed PR [#3439](https://github.com/pypa/virtualenv/pull/3439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#3439](https://github.com/pypa/virtualenv/pull/3439#issuecomment-6242846255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🚀 Published release [4.13.4](https://github.com/tox-dev/platformdirs/releases/tag/4.13.4) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#1536](https://github.com/tox-dev/turbohtml/pull/1536) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#2159](https://github.com/pypa/pipx/issues/2159) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ❌ Closed PR [#3439](https://github.com/pypa/virtualenv/pull/3439) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#3439](https://github.com/pypa/virtualenv/pull/3439#issuecomment-6242846255) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 💪 Opened PR [#3441](https://github.com/pypa/virtualenv/pull/3441) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 7. 🗣 Commented on [#115](https://github.com/google/atheris/pull/115#issuecomment-6239376413) in [google/atheris](https://github.com/google/atheris)
 8. 💪 Opened PR [#6517](https://github.com/SchemaStore/schemastore/pull/6517) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 9. 🚀 Published release [v4.67.0](https://github.com/tox-dev/tox/releases/tag/4.67.0) in [tox-dev/tox](https://github.com/tox-dev/tox)
