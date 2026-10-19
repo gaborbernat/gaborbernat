@@ -37,15 +37,15 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-2. ℹ️ Labeled PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. 💪 Opened PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-4. ℹ️ Labeled PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-5. 💪 Opened PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-6. 🎉 Merged PR [#1](https://github.com/tox-dev/release-creator/pull/1) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-7. 🎉 Merged PR [#1541](https://github.com/tox-dev/turbohtml/pull/1541) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#863](https://github.com/tox-dev/filelock/pull/863) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🎉 Merged PR [#154](https://github.com/tox-dev/python-discovery/pull/154) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+2. 💪 Opened PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+3. 🎉 Merged PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+4. 🎉 Merged PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+5. ℹ️ Labeled PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. 💪 Opened PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. ℹ️ Labeled PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+8. 💪 Opened PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+9. 🎉 Merged PR [#1](https://github.com/tox-dev/release-creator/pull/1) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 10. ℹ️ Labeled PR [#154](https://github.com/tox-dev/python-discovery/pull/154) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
