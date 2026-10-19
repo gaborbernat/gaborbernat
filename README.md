@@ -37,13 +37,13 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. 🗣 Commented on [#1230](https://github.com/pypa/build/pull/1230#issuecomment-6273084522) in [pypa/build](https://github.com/pypa/build)
 2. ℹ️ Labeled PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 3. ℹ️ Labeled PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 4. ℹ️ Labeled PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 5. ℹ️ Labeled PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-6. 💪 Opened PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-7. ℹ️ Labeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+6. ℹ️ Labeled PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. 💪 Opened PR [#8](https://github.com/tox-dev/release-creator/pull/8) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 8. ℹ️ Labeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
 9. ℹ️ Labeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
 10. ℹ️ Labeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
