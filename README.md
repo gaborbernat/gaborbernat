@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1239](https://github.com/pypa/build/pull/1239) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#486](https://github.com/tox-dev/toml-fmt/issues/486#issuecomment-6273511478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. 🎉 Merged PR [#1238](https://github.com/pypa/build/pull/1238) in [pypa/build](https://github.com/pypa/build)
-4. ℹ️ Labeled PR [#127](https://github.com/tox-dev/xml-fmt/pull/127) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 💪 Opened PR [#127](https://github.com/tox-dev/xml-fmt/pull/127) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-6. 🎉 Merged PR [#1234](https://github.com/pypa/build/pull/1234) in [pypa/build](https://github.com/pypa/build)
-7. 🎉 Merged PR [#10](https://github.com/tox-dev/release-creator/pull/10) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. ℹ️ Labeled PR [#10](https://github.com/tox-dev/release-creator/pull/10) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-9. ℹ️ Labeled PR [#10](https://github.com/tox-dev/release-creator/pull/10) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-10. 💪 Opened PR [#10](https://github.com/tox-dev/release-creator/pull/10) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. ℹ️ Labeled PR [#1](https://github.com/tox-dev/github-workflows/pull/1) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+2. 💪 Opened PR [#1](https://github.com/tox-dev/github-workflows/pull/1) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+3. 🎉 Merged PR [#1239](https://github.com/pypa/build/pull/1239) in [pypa/build](https://github.com/pypa/build)
+4. 🗣 Commented on [#486](https://github.com/tox-dev/toml-fmt/issues/486#issuecomment-6273511478) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#1238](https://github.com/pypa/build/pull/1238) in [pypa/build](https://github.com/pypa/build)
+6. ℹ️ Labeled PR [#127](https://github.com/tox-dev/xml-fmt/pull/127) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+7. 💪 Opened PR [#127](https://github.com/tox-dev/xml-fmt/pull/127) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+8. 🎉 Merged PR [#1234](https://github.com/pypa/build/pull/1234) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#10](https://github.com/tox-dev/release-creator/pull/10) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+10. ℹ️ Labeled PR [#10](https://github.com/tox-dev/release-creator/pull/10) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
