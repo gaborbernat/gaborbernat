@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-2. ❌ Closed PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-3. ℹ️ Labeled PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-4. ℹ️ Labeled PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-5. 💪 Opened PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-6. 💪 Opened PR [#42](https://github.com/gaborbernat/mdformat-hugo/pull/42) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-7. 🎉 Merged PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. 🎉 Merged PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-9. 💪 Opened PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-10. 💪 Opened PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. 💪 Opened PR [#273](https://github.com/gaborbernat/pypi-changes/pull/273) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. ℹ️ Labeled PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 💪 Opened PR [#272](https://github.com/gaborbernat/pypi-changes/pull/272) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. ℹ️ Labeled PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. ℹ️ Labeled PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+6. 💪 Opened PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+7. ❌ Closed PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+8. ℹ️ Labeled PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+9. ℹ️ Labeled PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+10. 💪 Opened PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
