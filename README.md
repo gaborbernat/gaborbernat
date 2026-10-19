@@ -38,15 +38,15 @@ ______________________________________________________________________
 <!--START_SECTION:activity-->
 
 1. ℹ️ Labeled PR [#5](https://github.com/tox-dev/release-creator/pull/5) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-2. 💪 Opened PR [#5](https://github.com/tox-dev/release-creator/pull/5) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. ℹ️ Labeled PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. ❌ Closed PR [#1227](https://github.com/pypa/build/pull/1227) in [pypa/build](https://github.com/pypa/build)
-5. 🎉 Merged PR [#273](https://github.com/gaborbernat/pypi-changes/pull/273) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-6. 🎉 Merged PR [#6517](https://github.com/SchemaStore/schemastore/pull/6517) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-7. ℹ️ Labeled PR [#273](https://github.com/gaborbernat/pypi-changes/pull/273) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-8. 💪 Opened PR [#273](https://github.com/gaborbernat/pypi-changes/pull/273) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-9. ℹ️ Labeled PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-10. 💪 Opened PR [#272](https://github.com/gaborbernat/pypi-changes/pull/272) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+2. 🎉 Merged PR [#272](https://github.com/gaborbernat/pypi-changes/pull/272) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+3. 🎉 Merged PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. 🎉 Merged PR [#42](https://github.com/gaborbernat/mdformat-hugo/pull/42) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+5. ℹ️ Labeled PR [#5](https://github.com/tox-dev/release-creator/pull/5) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. 💪 Opened PR [#5](https://github.com/tox-dev/release-creator/pull/5) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. ℹ️ Labeled PR [#271](https://github.com/gaborbernat/pypi-changes/pull/271) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+8. ❌ Closed PR [#1227](https://github.com/pypa/build/pull/1227) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#273](https://github.com/gaborbernat/pypi-changes/pull/273) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+10. 🎉 Merged PR [#6517](https://github.com/SchemaStore/schemastore/pull/6517) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
