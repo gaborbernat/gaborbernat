@@ -37,14 +37,14 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-2. 💪 Opened PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-3. 💪 Opened PR [#42](https://github.com/gaborbernat/mdformat-hugo/pull/42) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-4. 🎉 Merged PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-5. 💪 Opened PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-6. 🎉 Merged PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-7. 🎉 Merged PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. ℹ️ Labeled PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. ℹ️ Labeled PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+2. ℹ️ Labeled PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+3. 💪 Opened PR [#29](https://github.com/gaborbernat/all-repos-self/pull/29) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+4. 💪 Opened PR [#42](https://github.com/gaborbernat/mdformat-hugo/pull/42) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+5. 🎉 Merged PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. 💪 Opened PR [#4](https://github.com/tox-dev/release-creator/pull/4) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. 🎉 Merged PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+8. 🎉 Merged PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 9. 💪 Opened PR [#3](https://github.com/tox-dev/release-creator/pull/3) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 10. 💪 Opened PR [#2](https://github.com/tox-dev/release-creator/pull/2) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
