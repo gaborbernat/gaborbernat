@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#391](https://github.com/tox-dev/tox-uv/pull/391) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 💪 Opened PR [#391](https://github.com/tox-dev/tox-uv/pull/391) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#156](https://github.com/tox-dev/python-discovery/pull/156) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. 💪 Opened PR [#156](https://github.com/tox-dev/python-discovery/pull/156) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. ℹ️ Labeled PR [#328](https://github.com/tox-dev/pyproject-api/pull/328) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-6. 💪 Opened PR [#328](https://github.com/tox-dev/pyproject-api/pull/328) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-7. ℹ️ Labeled PR [#376](https://github.com/tox-dev/sphinx-argparse-cli/pull/376) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. 💪 Opened PR [#376](https://github.com/tox-dev/sphinx-argparse-cli/pull/376) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-10. 💪 Opened PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. ℹ️ Labeled PR [#3458](https://github.com/pypa/virtualenv/pull/3458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3458](https://github.com/pypa/virtualenv/pull/3458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#1544](https://github.com/tox-dev/turbohtml/pull/1544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#1544](https://github.com/tox-dev/turbohtml/pull/1544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#4193](https://github.com/tox-dev/tox/pull/4193) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#4193](https://github.com/tox-dev/tox/pull/4193) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#488](https://github.com/tox-dev/toml-fmt/pull/488) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. 💪 Opened PR [#488](https://github.com/tox-dev/toml-fmt/pull/488) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 💪 Opened PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
