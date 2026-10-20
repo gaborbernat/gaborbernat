@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#677](https://github.com/anthropics/oss-scanner/pull/677) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-2. 🎉 Merged PR [#682](https://github.com/anthropics/oss-scanner/pull/682) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-3. 🎉 Merged PR [#679](https://github.com/anthropics/oss-scanner/pull/679) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-4. 🎉 Merged PR [#681](https://github.com/anthropics/oss-scanner/pull/681) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-5. 🗣 Commented on [#389](https://github.com/tox-dev/tox-uv/issues/389#issuecomment-6279393285) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-6. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 💪 Opened PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#389](https://github.com/tox-dev/tox-uv/issues/389#issuecomment-6283845158) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#677](https://github.com/anthropics/oss-scanner/pull/677) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+3. 🎉 Merged PR [#682](https://github.com/anthropics/oss-scanner/pull/682) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+4. 🎉 Merged PR [#679](https://github.com/anthropics/oss-scanner/pull/679) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+5. 🎉 Merged PR [#681](https://github.com/anthropics/oss-scanner/pull/681) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+6. 🗣 Commented on [#389](https://github.com/tox-dev/tox-uv/issues/389#issuecomment-6279393285) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+7. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 💪 Opened PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 9. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#1242](https://github.com/pypa/build/pull/1242) in [pypa/build](https://github.com/pypa/build)
+10. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
