@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#471](https://github.com/anthropics/oss-scanner/pull/471#issuecomment-6283864057) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-2. 🗣 Commented on [#389](https://github.com/tox-dev/tox-uv/issues/389#issuecomment-6283845158) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#677](https://github.com/anthropics/oss-scanner/pull/677) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-4. 🎉 Merged PR [#682](https://github.com/anthropics/oss-scanner/pull/682) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-5. 🎉 Merged PR [#679](https://github.com/anthropics/oss-scanner/pull/679) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-6. 🎉 Merged PR [#681](https://github.com/anthropics/oss-scanner/pull/681) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-7. 🗣 Commented on [#389](https://github.com/tox-dev/tox-uv/issues/389#issuecomment-6279393285) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 💪 Opened PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Labeled PR [#867](https://github.com/tox-dev/filelock/pull/867) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#274](https://github.com/gaborbernat/bump-deps-index/pull/274) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. ℹ️ Unlabeled PR [#274](https://github.com/gaborbernat/bump-deps-index/pull/274) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. ℹ️ Labeled PR [#127](https://github.com/tox-dev/xml-fmt/pull/127) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. ℹ️ Unlabeled PR [#127](https://github.com/tox-dev/xml-fmt/pull/127) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+5. ℹ️ Unlabeled PR [#38](https://github.com/tox-dev/mdformat-zola/pull/38) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+6. ℹ️ Labeled PR [#38](https://github.com/tox-dev/mdformat-zola/pull/38) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+7. ℹ️ Unlabeled PR [#44](https://github.com/gaborbernat/mdformat-hugo/pull/44) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+8. ℹ️ Labeled PR [#44](https://github.com/gaborbernat/mdformat-hugo/pull/44) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+9. ℹ️ Labeled PR [#276](https://github.com/gaborbernat/pypi-changes/pull/276) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+10. ℹ️ Unlabeled PR [#276](https://github.com/gaborbernat/pypi-changes/pull/276) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
