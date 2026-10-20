@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#327](https://github.com/tox-dev/pyproject-api/pull/327) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. ℹ️ Labeled PR [#390](https://github.com/tox-dev/tox-uv/pull/390) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#1542](https://github.com/tox-dev/turbohtml/pull/1542) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ℹ️ Labeled PR [#155](https://github.com/tox-dev/python-discovery/pull/155) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. ℹ️ Labeled PR [#309](https://github.com/tox-dev/tox-gh/pull/309) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-6. ℹ️ Labeled PR [#383](https://github.com/tox-dev/tox-ini-fmt/pull/383) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-7. ℹ️ Labeled PR [#4186](https://github.com/tox-dev/tox/pull/4186) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled PR [#126](https://github.com/tox-dev/xml-fmt/pull/126) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-9. ℹ️ Labeled PR [#271](https://github.com/tox-dev/PyVenvManage/pull/271) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. ℹ️ Labeled PR [#740](https://github.com/tox-dev/pipdeptree/pull/740) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ℹ️ Labeled PR [#3452](https://github.com/pypa/virtualenv/pull/3452) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ℹ️ Labeled PR [#2164](https://github.com/pypa/pipx/pull/2164) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#3455](https://github.com/pypa/virtualenv/pull/3455) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ℹ️ Labeled PR [#274](https://github.com/pytest-dev/pytest-print/pull/274) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+5. ℹ️ Labeled PR [#281](https://github.com/pytest-dev/pytest-env/pull/281) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+6. ℹ️ Labeled PR [#327](https://github.com/tox-dev/pyproject-api/pull/327) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+7. ℹ️ Labeled PR [#390](https://github.com/tox-dev/tox-uv/pull/390) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+8. ℹ️ Labeled PR [#1542](https://github.com/tox-dev/turbohtml/pull/1542) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled PR [#155](https://github.com/tox-dev/python-discovery/pull/155) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. ℹ️ Labeled PR [#309](https://github.com/tox-dev/tox-gh/pull/309) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
