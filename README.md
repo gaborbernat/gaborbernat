@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1236](https://github.com/pypa/build/pull/1236#issuecomment-6301998727) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#1245](https://github.com/pypa/build/pull/1245) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#1241](https://github.com/pypa/build/pull/1241) in [pypa/build](https://github.com/pypa/build)
-4. 🎉 Merged PR [#1235](https://github.com/pypa/build/pull/1235) in [pypa/build](https://github.com/pypa/build)
-5. 🗣 Commented on [#1245](https://github.com/pypa/build/pull/1245#issuecomment-6301413337) in [pypa/build](https://github.com/pypa/build)
-6. 🎉 Merged PR [#1237](https://github.com/pypa/build/pull/1237) in [pypa/build](https://github.com/pypa/build)
-7. 🎉 Merged PR [#1248](https://github.com/pypa/build/pull/1248) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#1246](https://github.com/pypa/build/pull/1246) in [pypa/build](https://github.com/pypa/build)
-9. 🎉 Merged PR [#1247](https://github.com/pypa/build/pull/1247) in [pypa/build](https://github.com/pypa/build)
-10. 🎉 Merged PR [#1244](https://github.com/pypa/build/pull/1244) in [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#1236](https://github.com/pypa/build/pull/1236#issuecomment-6301855411) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#1236](https://github.com/pypa/build/pull/1236#issuecomment-6301998727) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#1245](https://github.com/pypa/build/pull/1245) in [pypa/build](https://github.com/pypa/build)
+4. 🎉 Merged PR [#1241](https://github.com/pypa/build/pull/1241) in [pypa/build](https://github.com/pypa/build)
+5. 🎉 Merged PR [#1235](https://github.com/pypa/build/pull/1235) in [pypa/build](https://github.com/pypa/build)
+6. 🗣 Commented on [#1245](https://github.com/pypa/build/pull/1245#issuecomment-6301413337) in [pypa/build](https://github.com/pypa/build)
+7. 🎉 Merged PR [#1237](https://github.com/pypa/build/pull/1237) in [pypa/build](https://github.com/pypa/build)
+8. 🎉 Merged PR [#1248](https://github.com/pypa/build/pull/1248) in [pypa/build](https://github.com/pypa/build)
+9. 🎉 Merged PR [#1246](https://github.com/pypa/build/pull/1246) in [pypa/build](https://github.com/pypa/build)
+10. 🎉 Merged PR [#1247](https://github.com/pypa/build/pull/1247) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
