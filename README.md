@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-4. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. ℹ️ Unlabeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-6. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-7. ℹ️ Labeled PR [#282](https://github.com/pytest-dev/pytest-env/pull/282) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-8. ℹ️ Labeled PR [#282](https://github.com/pytest-dev/pytest-env/pull/282) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-9. ℹ️ Unlabeled PR [#282](https://github.com/pytest-dev/pytest-env/pull/282) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-10. 🗣 Commented on [#1379](https://github.com/notatallshaw/nab/issues/1379#issuecomment-6315339883) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+1. ℹ️ Unlabeled PR [#44](https://github.com/gaborbernat/mdformat-hugo/pull/44) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+2. ℹ️ Unlabeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ℹ️ Unlabeled PR [#12](https://github.com/quotaline/quotaline/pull/12) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+4. ℹ️ Unlabeled PR [#1544](https://github.com/tox-dev/turbohtml/pull/1544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Unlabeled PR [#310](https://github.com/tox-dev/tox-gh/pull/310) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+6. ℹ️ Labeled PR [#38](https://github.com/tox-dev/mdformat-zola/pull/38) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+7. ℹ️ Unlabeled PR [#38](https://github.com/tox-dev/mdformat-zola/pull/38) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+8. ℹ️ Labeled PR [#38](https://github.com/tox-dev/mdformat-zola/pull/38) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+9. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
