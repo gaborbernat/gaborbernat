@@ -37,11 +37,11 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Unlabeled PR [#275](https://github.com/pytest-dev/pytest-print/pull/275) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-2. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-3. ℹ️ Unlabeled PR [#391](https://github.com/tox-dev/tox-uv/pull/391) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. ℹ️ Labeled PR [#328](https://github.com/tox-dev/pyproject-api/pull/328) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-5. 🗣 Commented on [#64](https://github.com/notatallshaw/nab/pull/64#issuecomment-6306219153) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+1. 🗣 Commented on [#1379](https://github.com/notatallshaw/nab/issues/1379#issuecomment-6315339883) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+2. ℹ️ Unlabeled PR [#275](https://github.com/pytest-dev/pytest-print/pull/275) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. ℹ️ Unlabeled PR [#391](https://github.com/tox-dev/tox-uv/pull/391) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ℹ️ Labeled PR [#328](https://github.com/tox-dev/pyproject-api/pull/328) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 6. ❗ Opened issue [#1379](https://github.com/notatallshaw/nab/issues/1379) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
 7. 🎉 Merged PR [#2168](https://github.com/pypa/pipx/pull/2168) in [pypa/pipx](https://github.com/pypa/pipx)
 8. 🎉 Merged PR [#489](https://github.com/tox-dev/toml-fmt/pull/489) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
