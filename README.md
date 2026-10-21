@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1379](https://github.com/notatallshaw/nab/issues/1379#issuecomment-6315339883) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-2. ℹ️ Unlabeled PR [#275](https://github.com/pytest-dev/pytest-print/pull/275) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-3. ℹ️ Unlabeled PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. ℹ️ Unlabeled PR [#391](https://github.com/tox-dev/tox-uv/pull/391) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. ℹ️ Labeled PR [#328](https://github.com/tox-dev/pyproject-api/pull/328) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-6. ❗ Opened issue [#1379](https://github.com/notatallshaw/nab/issues/1379) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-7. 🎉 Merged PR [#2168](https://github.com/pypa/pipx/pull/2168) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#489](https://github.com/tox-dev/toml-fmt/pull/489) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🗣 Commented on [#3459](https://github.com/pypa/virtualenv/pull/3459#issuecomment-6305852758) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 💪 Opened PR [#2168](https://github.com/pypa/pipx/pull/2168) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. ℹ️ Labeled PR [#1094](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1094) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+4. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+5. ℹ️ Unlabeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+6. ℹ️ Labeled PR [#190](https://github.com/tox-dev/pre-commit-uv/pull/190) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+7. ℹ️ Labeled PR [#282](https://github.com/pytest-dev/pytest-env/pull/282) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+8. ℹ️ Labeled PR [#282](https://github.com/pytest-dev/pytest-env/pull/282) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. ℹ️ Unlabeled PR [#282](https://github.com/pytest-dev/pytest-env/pull/282) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+10. 🗣 Commented on [#1379](https://github.com/notatallshaw/nab/issues/1379#issuecomment-6315339883) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
