@@ -37,15 +37,15 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-2. 💪 Opened PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. 🎉 Merged PR [#11](https://github.com/tox-dev/release-creator/pull/11) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-4. ℹ️ Labeled issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+4. 💪 Opened PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+5. 🎉 Merged PR [#11](https://github.com/tox-dev/release-creator/pull/11) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 6. ℹ️ Labeled issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. ❗ Opened issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#742](https://github.com/tox-dev/pipdeptree/pull/742) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#16249](https://github.com/google/oss-fuzz/pull/16249) in [google/oss-fuzz](https://github.com/google/oss-fuzz)
+7. ℹ️ Labeled issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ℹ️ Labeled issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ❗ Opened issue [#3464](https://github.com/pypa/virtualenv/issues/3464) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 10. ℹ️ Unlabeled PR [#44](https://github.com/gaborbernat/mdformat-hugo/pull/44) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
