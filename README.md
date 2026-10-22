@@ -37,7 +37,7 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#742](https://github.com/tox-dev/pipdeptree/pull/742) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🗣 Commented on [#32](https://github.com/conda-forge/tox-uv-feedstock/issues/32#issuecomment-6322744923) in [conda-forge/tox-uv-feedstock](https://github.com/conda-forge/tox-uv-feedstock)
 2. 🎉 Merged PR [#16249](https://github.com/google/oss-fuzz/pull/16249) in [google/oss-fuzz](https://github.com/google/oss-fuzz)
 3. 🗣 Commented on [#32](https://github.com/conda-forge/tox-uv-feedstock/issues/32#issuecomment-6322744923) in [conda-forge/tox-uv-feedstock](https://github.com/conda-forge/tox-uv-feedstock)
 4. ℹ️ Labeled PR [#3458](https://github.com/pypa/virtualenv/pull/3458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
