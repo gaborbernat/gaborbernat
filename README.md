@@ -37,14 +37,14 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 2. ℹ️ Labeled PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 3. ℹ️ Labeled PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 4. ℹ️ Labeled PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 5. ℹ️ Labeled PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 💪 Opened PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. ℹ️ Labeled PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 💪 Opened PR [#3467](https://github.com/pypa/virtualenv/pull/3467) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 9. 💪 Opened PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 10. ℹ️ Labeled PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
