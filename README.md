@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1543](https://github.com/tox-dev/turbohtml/pull/1543) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. 🎉 Merged PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. ℹ️ Labeled PR [#3458](https://github.com/pypa/virtualenv/pull/3458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ℹ️ Unlabeled PR [#3458](https://github.com/pypa/virtualenv/pull/3458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🎉 Merged PR [#1543](https://github.com/tox-dev/turbohtml/pull/1543) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-5. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+5. 🎉 Merged PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 6. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-7. 💪 Opened PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. ℹ️ Labeled PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 💪 Opened PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#12](https://github.com/tox-dev/release-creator/pull/12) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+8. ℹ️ Labeled PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+9. 💪 Opened PR [#13](https://github.com/tox-dev/release-creator/pull/13) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+10. ℹ️ Labeled PR [#3466](https://github.com/pypa/virtualenv/pull/3466) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
