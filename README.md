@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#15](https://github.com/tox-dev/github-workflows/pull/15) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-2. ℹ️ Labeled PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. ℹ️ Labeled PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. ℹ️ Unlabeled PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+2. 🎉 Merged PR [#15](https://github.com/tox-dev/github-workflows/pull/15) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+3. 💪 Opened PR [#15](https://github.com/tox-dev/github-workflows/pull/15) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
 4. ℹ️ Labeled PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-5. 💪 Opened PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-6. 🎉 Merged PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-7. ℹ️ Labeled PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-8. ℹ️ Labeled PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-9. 💪 Opened PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-10. 🎉 Merged PR [#31](https://github.com/tox-dev/release-creator/pull/31) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+5. ℹ️ Labeled PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. ℹ️ Labeled PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. 💪 Opened PR [#32](https://github.com/tox-dev/release-creator/pull/32) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+8. 🎉 Merged PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+9. ℹ️ Labeled PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+10. ℹ️ Labeled PR [#14](https://github.com/tox-dev/github-workflows/pull/14) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
