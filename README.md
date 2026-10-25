@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#34](https://github.com/tox-dev/release-creator/pull/34) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-2. 💪 Opened PR [#34](https://github.com/tox-dev/release-creator/pull/34) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. 🗣 Commented on [#743](https://github.com/tox-dev/pipdeptree/pull/743#issuecomment-6403061269) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#1388](https://github.com/notatallshaw/nab/issues/1388#issuecomment-6403021308) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-5. ❗ Opened issue [#1451](https://github.com/notatallshaw/nab/issues/1451) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-6. ❗ Opened issue [#1450](https://github.com/notatallshaw/nab/issues/1450) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-7. ❗ Opened issue [#1449](https://github.com/notatallshaw/nab/issues/1449) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
-8. 🎉 Merged PR [#33](https://github.com/tox-dev/release-creator/pull/33) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-9. 💪 Opened PR [#33](https://github.com/tox-dev/release-creator/pull/33) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-10. 🎉 Merged PR [#279](https://github.com/gaborbernat/bump-deps-index/pull/279) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#20](https://github.com/tox-dev/github-workflows/pull/20) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+2. 🎉 Merged PR [#34](https://github.com/tox-dev/release-creator/pull/34) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+3. 💪 Opened PR [#34](https://github.com/tox-dev/release-creator/pull/34) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+4. 🗣 Commented on [#743](https://github.com/tox-dev/pipdeptree/pull/743#issuecomment-6403061269) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#1388](https://github.com/notatallshaw/nab/issues/1388#issuecomment-6403021308) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+6. ❗ Opened issue [#1451](https://github.com/notatallshaw/nab/issues/1451) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+7. ❗ Opened issue [#1450](https://github.com/notatallshaw/nab/issues/1450) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+8. ❗ Opened issue [#1449](https://github.com/notatallshaw/nab/issues/1449) in [notatallshaw/nab](https://github.com/notatallshaw/nab)
+9. 🎉 Merged PR [#33](https://github.com/tox-dev/release-creator/pull/33) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+10. 💪 Opened PR [#33](https://github.com/tox-dev/release-creator/pull/33) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
