@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#129](https://github.com/tox-dev/xml-fmt/pull/129) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-2. ❌ Closed PR [#1099](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1099) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. ❌ Closed PR [#394](https://github.com/tox-dev/tox-uv/pull/394) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. ❌ Closed PR [#490](https://github.com/tox-dev/toml-fmt/pull/490) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. ❌ Closed PR [#386](https://github.com/tox-dev/tox-ini-fmt/pull/386) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-6. ❌ Closed PR [#4199](https://github.com/tox-dev/tox/pull/4199) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ❌ Closed PR [#312](https://github.com/tox-dev/tox-gh/pull/312) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-8. ❌ Closed PR [#378](https://github.com/tox-dev/sphinx-argparse-cli/pull/378) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. ❌ Closed PR [#275](https://github.com/tox-dev/PyVenvManage/pull/275) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. ❌ Closed PR [#161](https://github.com/tox-dev/python-discovery/pull/161) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#1548](https://github.com/tox-dev/turbohtml/pull/1548) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#2379](https://github.com/tox-dev/peryx/pull/2379) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. ❌ Closed PR [#129](https://github.com/tox-dev/xml-fmt/pull/129) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+4. ❌ Closed PR [#1099](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1099) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. ❌ Closed PR [#394](https://github.com/tox-dev/tox-uv/pull/394) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+6. ❌ Closed PR [#490](https://github.com/tox-dev/toml-fmt/pull/490) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ❌ Closed PR [#386](https://github.com/tox-dev/tox-ini-fmt/pull/386) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+8. ❌ Closed PR [#4199](https://github.com/tox-dev/tox/pull/4199) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ❌ Closed PR [#312](https://github.com/tox-dev/tox-gh/pull/312) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+10. ❌ Closed PR [#378](https://github.com/tox-dev/sphinx-argparse-cli/pull/378) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
