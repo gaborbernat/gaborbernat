@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16257](https://github.com/google/oss-fuzz/pull/16257) in [google/oss-fuzz](https://github.com/google/oss-fuzz)
-2. 🎉 Merged PR [#685](https://github.com/anthropics/oss-scanner/pull/685) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-3. ❗ Opened issue [#22920](https://github.com/astral-sh/uv/issues/22920) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. 🎉 Merged PR [#282](https://github.com/gaborbernat/bump-deps-index/pull/282) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. 💪 Opened PR [#282](https://github.com/gaborbernat/bump-deps-index/pull/282) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-6. 🎉 Merged PR [#36](https://github.com/tox-dev/release-creator/pull/36) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-7. 💪 Opened PR [#36](https://github.com/tox-dev/release-creator/pull/36) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. 💪 Opened PR [#22](https://github.com/tox-dev/github-workflows/pull/22) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-9. 💪 Opened PR [#281](https://github.com/gaborbernat/bump-deps-index/pull/281) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-10. 🎉 Merged PR [#21](https://github.com/tox-dev/github-workflows/pull/21) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+1. 💪 Opened PR [#23](https://github.com/tox-dev/github-workflows/pull/23) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+2. 🎉 Merged PR [#38](https://github.com/tox-dev/release-creator/pull/38) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+3. ℹ️ Labeled PR [#38](https://github.com/tox-dev/release-creator/pull/38) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+4. 💪 Opened PR [#38](https://github.com/tox-dev/release-creator/pull/38) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+5. 🎉 Merged PR [#37](https://github.com/tox-dev/release-creator/pull/37) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. 💪 Opened PR [#37](https://github.com/tox-dev/release-creator/pull/37) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. 🎉 Merged PR [#16257](https://github.com/google/oss-fuzz/pull/16257) in [google/oss-fuzz](https://github.com/google/oss-fuzz)
+8. 🎉 Merged PR [#685](https://github.com/anthropics/oss-scanner/pull/685) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+9. ❗ Opened issue [#22920](https://github.com/astral-sh/uv/issues/22920) in [astral-sh/uv](https://github.com/astral-sh/uv)
+10. 🎉 Merged PR [#282](https://github.com/gaborbernat/bump-deps-index/pull/282) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
