@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#44](https://github.com/tox-dev/release-creator/pull/44) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-2. 🎉 Merged PR [#285](https://github.com/gaborbernat/bump-deps-index/pull/285) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. ℹ️ Labeled PR [#278](https://github.com/gaborbernat/pypi-changes/pull/278) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. ℹ️ Labeled PR [#2379](https://github.com/tox-dev/peryx/pull/2379) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. 💪 Opened PR [#2379](https://github.com/tox-dev/peryx/pull/2379) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled PR [#285](https://github.com/gaborbernat/bump-deps-index/pull/285) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-7. 💪 Opened PR [#285](https://github.com/gaborbernat/bump-deps-index/pull/285) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-8. ℹ️ Labeled PR [#47](https://github.com/gaborbernat/mdformat-hugo/pull/47) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-9. 💪 Opened PR [#47](https://github.com/gaborbernat/mdformat-hugo/pull/47) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-10. ℹ️ Labeled PR [#44](https://github.com/tox-dev/release-creator/pull/44) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. ❌ Closed PR [#129](https://github.com/tox-dev/xml-fmt/pull/129) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+2. ❌ Closed PR [#1099](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1099) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. ❌ Closed PR [#394](https://github.com/tox-dev/tox-uv/pull/394) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ❌ Closed PR [#490](https://github.com/tox-dev/toml-fmt/pull/490) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ❌ Closed PR [#386](https://github.com/tox-dev/tox-ini-fmt/pull/386) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+6. ❌ Closed PR [#4199](https://github.com/tox-dev/tox/pull/4199) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ❌ Closed PR [#312](https://github.com/tox-dev/tox-gh/pull/312) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+8. ❌ Closed PR [#378](https://github.com/tox-dev/sphinx-argparse-cli/pull/378) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+9. ❌ Closed PR [#275](https://github.com/tox-dev/PyVenvManage/pull/275) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. ❌ Closed PR [#161](https://github.com/tox-dev/python-discovery/pull/161) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
