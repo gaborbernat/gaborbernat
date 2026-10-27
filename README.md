@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2167](https://github.com/pypa/pipx/pull/2167) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🎉 Merged PR [#1544](https://github.com/tox-dev/turbohtml/pull/1544) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#488](https://github.com/tox-dev/toml-fmt/pull/488) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#310](https://github.com/tox-dev/tox-gh/pull/310) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#3458](https://github.com/pypa/virtualenv/pull/3458) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#4193](https://github.com/tox-dev/tox/pull/4193) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🎉 Merged PR [#391](https://github.com/tox-dev/tox-uv/pull/391) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. 🎉 Merged PR [#275](https://github.com/pytest-dev/pytest-print/pull/275) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-9. 🎉 Merged PR [#292](https://github.com/tox-dev/devpi-process/pull/292) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-10. 🎉 Merged PR [#43](https://github.com/tox-dev/action-pre-commit-uv/pull/43) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🎉 Merged PR [#164](https://github.com/tox-dev/python-discovery/pull/164) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. ❌ Closed PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#28](https://github.com/tox-dev/github-workflows/pull/28) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+4. 💪 Opened PR [#28](https://github.com/tox-dev/github-workflows/pull/28) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+5. ℹ️ Labeled PR [#2383](https://github.com/tox-dev/peryx/pull/2383) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. ℹ️ Labeled PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 💪 Opened PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🎉 Merged PR [#2190](https://github.com/pypa/pipx/pull/2190) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#2383](https://github.com/tox-dev/peryx/pull/2383) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 💪 Opened PR [#650](https://github.com/tox-dev/platformdirs/pull/650) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
