@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#499](https://github.com/tox-dev/toml-fmt/pull/499) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. ℹ️ Labeled PR [#50](https://github.com/tox-dev/release-creator/pull/50) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-3. 💪 Opened PR [#50](https://github.com/tox-dev/release-creator/pull/50) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-4. 🎉 Merged PR [#48](https://github.com/gaborbernat/mdformat-hugo/pull/48) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-5. ℹ️ Labeled PR [#499](https://github.com/tox-dev/toml-fmt/pull/499) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 💪 Opened PR [#499](https://github.com/tox-dev/toml-fmt/pull/499) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🎉 Merged PR [#133](https://github.com/tox-dev/xml-fmt/pull/133) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-8. 🎉 Merged PR [#1555](https://github.com/tox-dev/turbohtml/pull/1555) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#398](https://github.com/tox-dev/tox-uv/pull/398) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. 🎉 Merged PR [#390](https://github.com/tox-dev/tox-ini-fmt/pull/390) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 🎉 Merged PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. ℹ️ Labeled PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+6. 💪 Opened PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+7. ℹ️ Labeled PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 💪 Opened PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. ℹ️ Labeled PR [#283](https://github.com/pytest-dev/pytest-env/pull/283) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+10. ℹ️ Labeled PR [#400](https://github.com/tox-dev/tox-uv/pull/400) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
