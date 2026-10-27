@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1104](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1104) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#17](https://github.com/quotaline/quotaline/pull/17) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. ℹ️ Labeled PR [#51](https://github.com/tox-dev/release-creator/pull/51) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-5. 💪 Opened PR [#51](https://github.com/tox-dev/release-creator/pull/51) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-6. 🔒 Closed issue [#389](https://github.com/tox-dev/tox-uv/issues/389) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 🎉 Merged PR [#400](https://github.com/tox-dev/tox-uv/pull/400) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. 🎉 Merged PR [#399](https://github.com/tox-dev/tox-uv/pull/399) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. 🔒 Closed issue [#392](https://github.com/tox-dev/tox-uv/issues/392) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. 🎉 Merged PR [#50](https://github.com/tox-dev/release-creator/pull/50) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. ❌ Closed PR [#16](https://github.com/quotaline/quotaline/pull/16) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+2. 🗣 Commented on [#1254](https://github.com/pypa/build/pull/1254#issuecomment-6449015914) in [pypa/build](https://github.com/pypa/build)
+3. 🔒 Closed issue [#1104](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1104) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. 🎉 Merged PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 🎉 Merged PR [#17](https://github.com/quotaline/quotaline/pull/17) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+6. ℹ️ Labeled PR [#51](https://github.com/tox-dev/release-creator/pull/51) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+7. 💪 Opened PR [#51](https://github.com/tox-dev/release-creator/pull/51) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+8. 🔒 Closed issue [#389](https://github.com/tox-dev/tox-uv/issues/389) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. 🎉 Merged PR [#400](https://github.com/tox-dev/tox-uv/pull/400) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+10. 🎉 Merged PR [#399](https://github.com/tox-dev/tox-uv/pull/399) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
