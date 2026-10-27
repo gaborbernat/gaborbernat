@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2381](https://github.com/tox-dev/peryx/pull/2381) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#278](https://github.com/gaborbernat/pypi-changes/pull/278) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-3. 💪 Opened PR [#15](https://github.com/quotaline/quotaline/pull/15) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. 🎉 Merged PR [#46](https://github.com/tox-dev/release-creator/pull/46) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-5. 🎉 Merged PR [#27](https://github.com/tox-dev/github-workflows/pull/27) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-6. 💪 Opened PR [#2381](https://github.com/tox-dev/peryx/pull/2381) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🚀 Published release [v0.2.2](https://github.com/tox-dev/filelock/releases/tag/v0.2.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🚀 Published release [v0.2.1](https://github.com/tox-dev/filelock/releases/tag/v0.2.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🚀 Published release [v0.2.0](https://github.com/tox-dev/filelock/releases/tag/v0.2.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Labeled PR [#46](https://github.com/tox-dev/release-creator/pull/46) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+1. 🎉 Merged PR [#15](https://github.com/quotaline/quotaline/pull/15) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+2. 🎉 Merged PR [#2381](https://github.com/tox-dev/peryx/pull/2381) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#278](https://github.com/gaborbernat/pypi-changes/pull/278) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. 💪 Opened PR [#15](https://github.com/quotaline/quotaline/pull/15) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+5. 🎉 Merged PR [#46](https://github.com/tox-dev/release-creator/pull/46) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+6. 🎉 Merged PR [#27](https://github.com/tox-dev/github-workflows/pull/27) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+7. 💪 Opened PR [#2381](https://github.com/tox-dev/peryx/pull/2381) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 🚀 Published release [v0.2.2](https://github.com/tox-dev/filelock/releases/tag/v0.2.2) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🚀 Published release [v0.2.1](https://github.com/tox-dev/filelock/releases/tag/v0.2.1) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🚀 Published release [v0.2.0](https://github.com/tox-dev/filelock/releases/tag/v0.2.0) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
