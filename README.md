@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#164](https://github.com/tox-dev/python-discovery/pull/164) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. ❌ Closed PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#28](https://github.com/tox-dev/github-workflows/pull/28) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-4. 💪 Opened PR [#28](https://github.com/tox-dev/github-workflows/pull/28) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-5. ℹ️ Labeled PR [#2383](https://github.com/tox-dev/peryx/pull/2383) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 💪 Opened PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#2190](https://github.com/pypa/pipx/pull/2190) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#2383](https://github.com/tox-dev/peryx/pull/2383) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-10. 💪 Opened PR [#650](https://github.com/tox-dev/platformdirs/pull/650) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#155](https://github.com/tox-dev/jetbrains-fish/pull/155) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+2. 💪 Opened PR [#155](https://github.com/tox-dev/jetbrains-fish/pull/155) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+3. ℹ️ Labeled PR [#2192](https://github.com/pypa/pipx/pull/2192) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 💪 Opened PR [#2192](https://github.com/pypa/pipx/pull/2192) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#28](https://github.com/tox-dev/github-workflows/pull/28) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+6. 🎉 Merged PR [#494](https://github.com/tox-dev/toml-fmt/pull/494) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. 🎉 Merged PR [#278](https://github.com/tox-dev/PyVenvManage/pull/278) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 🎉 Merged PR [#45](https://github.com/tox-dev/action-pre-commit-uv/pull/45) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+9. 🎉 Merged PR [#164](https://github.com/tox-dev/python-discovery/pull/164) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. ❌ Closed PR [#2191](https://github.com/pypa/pipx/pull/2191) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
