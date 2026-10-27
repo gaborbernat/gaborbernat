@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#16](https://github.com/quotaline/quotaline/pull/16) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-2. 🗣 Commented on [#1254](https://github.com/pypa/build/pull/1254#issuecomment-6449015914) in [pypa/build](https://github.com/pypa/build)
-3. 🔒 Closed issue [#1104](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1104) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. 🎉 Merged PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-5. 🎉 Merged PR [#17](https://github.com/quotaline/quotaline/pull/17) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-6. ℹ️ Labeled PR [#51](https://github.com/tox-dev/release-creator/pull/51) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-7. 💪 Opened PR [#51](https://github.com/tox-dev/release-creator/pull/51) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
-8. 🔒 Closed issue [#389](https://github.com/tox-dev/tox-uv/issues/389) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. 🎉 Merged PR [#400](https://github.com/tox-dev/tox-uv/pull/400) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. 🎉 Merged PR [#399](https://github.com/tox-dev/tox-uv/pull/399) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ℹ️ Labeled PR [#4187](https://github.com/tox-dev/tox/pull/4187) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#4187](https://github.com/tox-dev/tox/pull/4187) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#4187](https://github.com/tox-dev/tox/pull/4187) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#4203](https://github.com/tox-dev/tox/pull/4203) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#4203](https://github.com/tox-dev/tox/pull/4203) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#4203](https://github.com/tox-dev/tox/pull/4203) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#4205](https://github.com/tox-dev/tox/pull/4205) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#4205](https://github.com/tox-dev/tox/pull/4205) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#4205](https://github.com/tox-dev/tox/pull/4205) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4181](https://github.com/tox-dev/tox/pull/4181) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
