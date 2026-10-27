@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🗣 Commented on [#1097](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1097#issuecomment-6449171795) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 🔒 Closed issue [#1097](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1097) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 3. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🎉 Merged PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. ℹ️ Labeled PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-6. 💪 Opened PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-7. ℹ️ Labeled PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 💪 Opened PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. ℹ️ Labeled PR [#283](https://github.com/pytest-dev/pytest-env/pull/283) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-10. ℹ️ Labeled PR [#400](https://github.com/tox-dev/tox-uv/pull/400) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#2378](https://github.com/tox-dev/peryx/pull/2378) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 🎉 Merged PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+7. ℹ️ Labeled PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+8. 💪 Opened PR [#290](https://github.com/pytest-dev/pytest-env/pull/290) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. ℹ️ Labeled PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. 💪 Opened PR [#1105](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1105) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
