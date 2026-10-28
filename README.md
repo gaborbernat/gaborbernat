@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#2239](https://github.com/pypa/pipx/pull/2239) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🎉 Merged PR [#502](https://github.com/tox-dev/toml-fmt/pull/502) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ℹ️ Labeled PR [#2240](https://github.com/pypa/pipx/pull/2240) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#2244](https://github.com/pypa/pipx/pull/2244) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled PR [#2237](https://github.com/pypa/pipx/pull/2237) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#2226](https://github.com/pypa/pipx/pull/2226) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#287](https://github.com/gaborbernat/pypi-changes/pull/287) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-8. ℹ️ Labeled PR [#2245](https://github.com/pypa/pipx/pull/2245) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#55](https://github.com/gaborbernat/mdformat-hugo/pull/55) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-10. ℹ️ Labeled PR [#2221](https://github.com/pypa/pipx/pull/2221) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2227](https://github.com/pypa/pipx/pull/2227) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#2228](https://github.com/pypa/pipx/pull/2228) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#2252](https://github.com/pypa/pipx/pull/2252) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#2223](https://github.com/pypa/pipx/pull/2223) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled PR [#2251](https://github.com/pypa/pipx/pull/2251) in [pypa/pipx](https://github.com/pypa/pipx)
+6. ℹ️ Labeled PR [#2249](https://github.com/pypa/pipx/pull/2249) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ℹ️ Labeled PR [#662](https://github.com/tox-dev/platformdirs/pull/662) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. 💪 Opened PR [#2393](https://github.com/tox-dev/peryx/pull/2393) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🎉 Merged PR [#1558](https://github.com/tox-dev/turbohtml/pull/1558) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#2225](https://github.com/pypa/pipx/pull/2225) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
