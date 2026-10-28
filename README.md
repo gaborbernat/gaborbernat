@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2211](https://github.com/pypa/pipx/issues/2211) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ℹ️ Labeled issue [#2211](https://github.com/pypa/pipx/issues/2211) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled issue [#2209](https://github.com/pypa/pipx/issues/2209) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ❗ Opened issue [#2208](https://github.com/pypa/pipx/issues/2208) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled issue [#2210](https://github.com/pypa/pipx/issues/2210) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ❗ Opened issue [#2210](https://github.com/pypa/pipx/issues/2210) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ❗ Opened issue [#2209](https://github.com/pypa/pipx/issues/2209) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled issue [#2208](https://github.com/pypa/pipx/issues/2208) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ❗ Opened issue [#2207](https://github.com/pypa/pipx/issues/2207) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled issue [#2207](https://github.com/pypa/pipx/issues/2207) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#284](https://github.com/pytest-dev/pytest-print/pull/284) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 💪 Opened PR [#284](https://github.com/pytest-dev/pytest-print/pull/284) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. ℹ️ Labeled PR [#4214](https://github.com/tox-dev/tox/pull/4214) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#4214](https://github.com/tox-dev/tox/pull/4214) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#4214](https://github.com/tox-dev/tox/pull/4214) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#4214](https://github.com/tox-dev/tox/pull/4214) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 💪 Opened PR [#4214](https://github.com/tox-dev/tox/pull/4214) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#502](https://github.com/tox-dev/toml-fmt/pull/502) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 💪 Opened PR [#502](https://github.com/tox-dev/toml-fmt/pull/502) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 💪 Opened PR [#758](https://github.com/tox-dev/pipdeptree/pull/758) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
