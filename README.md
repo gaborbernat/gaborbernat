@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#3488](https://github.com/pypa/virtualenv/pull/3488) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#3487](https://github.com/pypa/virtualenv/pull/3487) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🔒 Closed issue [#634](https://github.com/tox-dev/platformdirs/issues/634) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. ℹ️ Reopened PR [#866](https://github.com/tox-dev/filelock/pull/866) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ❌ Closed PR [#866](https://github.com/tox-dev/filelock/pull/866) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Reopened PR [#868](https://github.com/tox-dev/filelock/pull/868) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ❌ Closed PR [#868](https://github.com/tox-dev/filelock/pull/868) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. ℹ️ Reopened PR [#869](https://github.com/tox-dev/filelock/pull/869) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ❌ Closed PR [#869](https://github.com/tox-dev/filelock/pull/869) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Reopened PR [#870](https://github.com/tox-dev/filelock/pull/870) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Reopened PR [#877](https://github.com/tox-dev/filelock/pull/877) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Reopened PR [#873](https://github.com/tox-dev/filelock/pull/873) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ❌ Closed PR [#877](https://github.com/tox-dev/filelock/pull/877) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ❌ Closed PR [#873](https://github.com/tox-dev/filelock/pull/873) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Labeled PR [#3488](https://github.com/pypa/virtualenv/pull/3488) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3487](https://github.com/pypa/virtualenv/pull/3487) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🔒 Closed issue [#634](https://github.com/tox-dev/platformdirs/issues/634) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. ℹ️ Reopened PR [#866](https://github.com/tox-dev/filelock/pull/866) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. ❌ Closed PR [#866](https://github.com/tox-dev/filelock/pull/866) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. ℹ️ Reopened PR [#868](https://github.com/tox-dev/filelock/pull/868) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
