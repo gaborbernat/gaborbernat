@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#657](https://github.com/tox-dev/platformdirs/issues/657) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. ❗ Opened issue [#657](https://github.com/tox-dev/platformdirs/issues/657) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. 🎉 Merged PR [#2390](https://github.com/tox-dev/peryx/pull/2390) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 🔒 Closed issue [#864](https://github.com/tox-dev/filelock/issues/864) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🔒 Closed issue [#879](https://github.com/tox-dev/filelock/issues/879) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#656](https://github.com/tox-dev/platformdirs/pull/656) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. 🎉 Merged PR [#2197](https://github.com/pypa/pipx/pull/2197) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🔒 Closed issue [#2183](https://github.com/pypa/pipx/issues/2183) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#3490](https://github.com/pypa/virtualenv/pull/3490) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#3489](https://github.com/pypa/virtualenv/pull/3489) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ❗ Opened issue [#2211](https://github.com/pypa/pipx/issues/2211) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled issue [#2211](https://github.com/pypa/pipx/issues/2211) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled issue [#2209](https://github.com/pypa/pipx/issues/2209) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ❗ Opened issue [#2208](https://github.com/pypa/pipx/issues/2208) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled issue [#2210](https://github.com/pypa/pipx/issues/2210) in [pypa/pipx](https://github.com/pypa/pipx)
+6. ❗ Opened issue [#2210](https://github.com/pypa/pipx/issues/2210) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ❗ Opened issue [#2209](https://github.com/pypa/pipx/issues/2209) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ℹ️ Labeled issue [#2208](https://github.com/pypa/pipx/issues/2208) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ❗ Opened issue [#2207](https://github.com/pypa/pipx/issues/2207) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ℹ️ Labeled issue [#2207](https://github.com/pypa/pipx/issues/2207) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
