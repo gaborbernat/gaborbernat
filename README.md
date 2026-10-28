@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#668](https://github.com/tox-dev/platformdirs/pull/668) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🎉 Merged PR [#2251](https://github.com/pypa/pipx/pull/2251) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 💪 Opened PR [#2254](https://github.com/pypa/pipx/pull/2254) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#2253](https://github.com/pypa/pipx/pull/2253) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#669](https://github.com/tox-dev/platformdirs/pull/669) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 🔒 Closed issue [#2214](https://github.com/pypa/pipx/issues/2214) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🎉 Merged PR [#2248](https://github.com/pypa/pipx/pull/2248) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🔒 Closed issue [#2206](https://github.com/pypa/pipx/issues/2206) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#666](https://github.com/tox-dev/platformdirs/pull/666) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 🔒 Closed issue [#673](https://github.com/tox-dev/platformdirs/issues/673) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#2240](https://github.com/pypa/pipx/pull/2240) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#2242](https://github.com/pypa/pipx/pull/2242) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#2254](https://github.com/pypa/pipx/pull/2254) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#2246](https://github.com/pypa/pipx/pull/2246) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 🎉 Merged PR [#2232](https://github.com/pypa/pipx/pull/2232) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#665](https://github.com/tox-dev/platformdirs/pull/665) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🎉 Merged PR [#2220](https://github.com/pypa/pipx/pull/2220) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🎉 Merged PR [#668](https://github.com/tox-dev/platformdirs/pull/668) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 🎉 Merged PR [#2251](https://github.com/pypa/pipx/pull/2251) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 💪 Opened PR [#2254](https://github.com/pypa/pipx/pull/2254) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
