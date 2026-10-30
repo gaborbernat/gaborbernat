@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4282](https://github.com/tox-dev/tox/pull/4282#issuecomment-6527897461) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔓 Reopened issue [#4310](https://github.com/tox-dev/tox/issues/4310) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#178](https://github.com/tox-dev/python-discovery/pull/178) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. 💪 Opened PR [#178](https://github.com/tox-dev/python-discovery/pull/178) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. ℹ️ Labeled PR [#4349](https://github.com/tox-dev/tox/pull/4349) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ℹ️ Labeled PR [#4349](https://github.com/tox-dev/tox/pull/4349) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. ℹ️ Labeled PR [#4349](https://github.com/tox-dev/tox/pull/4349) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. ℹ️ Labeled PR [#4349](https://github.com/tox-dev/tox/pull/4349) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 💪 Opened PR [#4349](https://github.com/tox-dev/tox/pull/4349) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#4348](https://github.com/tox-dev/tox/pull/4348) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#4354](https://github.com/tox-dev/tox/issues/4354) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🔒 Closed issue [#4353](https://github.com/tox-dev/tox/issues/4353) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🔒 Closed issue [#4352](https://github.com/tox-dev/tox/issues/4352) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Unlabeled PR [#4270](https://github.com/tox-dev/tox/pull/4270) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Unlabeled PR [#4278](https://github.com/tox-dev/tox/pull/4278) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Unlabeled PR [#4275](https://github.com/tox-dev/tox/pull/4275) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled issue [#4354](https://github.com/tox-dev/tox/issues/4354) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ❗ Opened issue [#4354](https://github.com/tox-dev/tox/issues/4354) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled issue [#4353](https://github.com/tox-dev/tox/issues/4353) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ❗ Opened issue [#4353](https://github.com/tox-dev/tox/issues/4353) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
