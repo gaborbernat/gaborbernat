@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#675](https://github.com/tox-dev/platformdirs/issues/675) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. ℹ️ Unlabeled PR [#4308](https://github.com/tox-dev/tox/pull/4308) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled issue [#4310](https://github.com/tox-dev/tox/issues/4310) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ❗ Opened issue [#4310](https://github.com/tox-dev/tox/issues/4310) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#38](https://github.com/tox-dev/github-workflows/pull/38) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-6. ℹ️ Labeled PR [#4309](https://github.com/tox-dev/tox/pull/4309) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🎉 Merged PR [#863](https://github.com/tox-dev/pipdeptree/pull/863) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-8. 🎉 Merged PR [#865](https://github.com/tox-dev/pipdeptree/pull/865) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. ℹ️ Labeled PR [#865](https://github.com/tox-dev/pipdeptree/pull/865) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. ℹ️ Labeled PR [#865](https://github.com/tox-dev/pipdeptree/pull/865) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ❌ Closed PR [#4282](https://github.com/tox-dev/tox/pull/4282) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ❌ Closed PR [#4309](https://github.com/tox-dev/tox/pull/4309) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 🎉 Merged PR [#4297](https://github.com/tox-dev/tox/pull/4297) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#4289](https://github.com/tox-dev/tox/pull/4289) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🔒 Closed issue [#675](https://github.com/tox-dev/platformdirs/issues/675) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. ℹ️ Unlabeled PR [#4308](https://github.com/tox-dev/tox/pull/4308) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled issue [#4310](https://github.com/tox-dev/tox/issues/4310) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ❗ Opened issue [#4310](https://github.com/tox-dev/tox/issues/4310) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🎉 Merged PR [#38](https://github.com/tox-dev/github-workflows/pull/38) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+10. ℹ️ Labeled PR [#4309](https://github.com/tox-dev/tox/pull/4309) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
