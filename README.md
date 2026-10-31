@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4338](https://github.com/tox-dev/tox/issues/4338) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#4342](https://github.com/tox-dev/tox/pull/4342) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#4339](https://github.com/tox-dev/tox/issues/4339) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#4341](https://github.com/tox-dev/tox/pull/4341) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🔒 Closed issue [#4226](https://github.com/tox-dev/tox/issues/4226) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🔒 Closed issue [#4236](https://github.com/tox-dev/tox/issues/4236) in [tox-dev/tox](https://github.com/tox-dev/tox)
-7. 🔒 Closed issue [#4344](https://github.com/tox-dev/tox/issues/4344) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 🎉 Merged PR [#4346](https://github.com/tox-dev/tox/pull/4346) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🎉 Merged PR [#4355](https://github.com/tox-dev/tox/pull/4355) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. 🔒 Closed issue [#4310](https://github.com/tox-dev/tox/issues/4310) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#4356](https://github.com/tox-dev/tox/pull/4356) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#4356](https://github.com/tox-dev/tox/pull/4356) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#4356](https://github.com/tox-dev/tox/pull/4356) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#4356](https://github.com/tox-dev/tox/pull/4356) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 💪 Opened PR [#4356](https://github.com/tox-dev/tox/pull/4356) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🔒 Closed issue [#4338](https://github.com/tox-dev/tox/issues/4338) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#4342](https://github.com/tox-dev/tox/pull/4342) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🔒 Closed issue [#4339](https://github.com/tox-dev/tox/issues/4339) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 🎉 Merged PR [#4341](https://github.com/tox-dev/tox/pull/4341) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🔒 Closed issue [#4226](https://github.com/tox-dev/tox/issues/4226) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
