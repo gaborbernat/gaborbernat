@@ -37,13 +37,13 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#4](https://github.com/gaborbernat/simplint/pull/4) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#4](https://github.com/gaborbernat/simplint/pull/4) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#3](https://github.com/gaborbernat/simplint/pull/3) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#3](https://github.com/gaborbernat/simplint/pull/3) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6553455849) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
-6. 🎉 Merged PR [#2](https://github.com/gaborbernat/simplint/pull/2) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. 🎉 Merged PR [#405](https://github.com/tox-dev/tox-uv/pull/405) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
+2. ℹ️ Labeled PR [#4](https://github.com/gaborbernat/simplint/pull/4) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 💪 Opened PR [#4](https://github.com/gaborbernat/simplint/pull/4) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#3](https://github.com/gaborbernat/simplint/pull/3) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 💪 Opened PR [#3](https://github.com/gaborbernat/simplint/pull/3) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. 🗣 Commented on [#122](https://github.com/open-source-cooperative/secret-service-rs/pull/122#issuecomment-6553455849) in [open-source-cooperative/secret-service-rs](https://github.com/open-source-cooperative/secret-service-rs)
+7. 🎉 Merged PR [#2](https://github.com/gaborbernat/simplint/pull/2) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 8. ℹ️ Unlabeled PR [#405](https://github.com/tox-dev/tox-uv/pull/405) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 9. ℹ️ Labeled PR [#405](https://github.com/tox-dev/tox-uv/pull/405) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 10. ℹ️ Labeled PR [#405](https://github.com/tox-dev/tox-uv/pull/405) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
