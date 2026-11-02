@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#4368](https://github.com/tox-dev/tox/pull/4368) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#4368](https://github.com/tox-dev/tox/pull/4368) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#183](https://github.com/tox-dev/python-discovery/pull/183) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. ℹ️ Labeled PR [#183](https://github.com/tox-dev/python-discovery/pull/183) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 💪 Opened PR [#183](https://github.com/tox-dev/python-discovery/pull/183) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🎉 Merged PR [#2397](https://github.com/tox-dev/peryx/pull/2397) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. ℹ️ Labeled PR [#4367](https://github.com/tox-dev/tox/pull/4367) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 💪 Opened PR [#4367](https://github.com/tox-dev/tox/pull/4367) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 🔒 Closed issue [#4357](https://github.com/tox-dev/tox/issues/4357) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#182](https://github.com/tox-dev/python-discovery/pull/182) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#17](https://github.com/gaborbernat/simplint/pull/17) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. ℹ️ Labeled PR [#17](https://github.com/gaborbernat/simplint/pull/17) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 💪 Opened PR [#17](https://github.com/gaborbernat/simplint/pull/17) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#4369](https://github.com/tox-dev/tox/pull/4369) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#183](https://github.com/tox-dev/python-discovery/pull/183) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. 🎉 Merged PR [#4368](https://github.com/tox-dev/tox/pull/4368) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#4367](https://github.com/tox-dev/tox/pull/4367) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. 🔒 Closed issue [#4365](https://github.com/tox-dev/tox/issues/4365) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#4368](https://github.com/tox-dev/tox/pull/4368) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 💪 Opened PR [#4368](https://github.com/tox-dev/tox/pull/4368) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
