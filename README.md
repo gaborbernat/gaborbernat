@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4370](https://github.com/tox-dev/tox/pull/4370) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#4371](https://github.com/tox-dev/tox/pull/4371) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 💪 Opened PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-5. ℹ️ Labeled PR [#504](https://github.com/tox-dev/toml-fmt/pull/504) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 💪 Opened PR [#504](https://github.com/tox-dev/toml-fmt/pull/504) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. ℹ️ Labeled PR [#23](https://github.com/quotaline/quotaline/pull/23) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-8. 💪 Opened PR [#23](https://github.com/quotaline/quotaline/pull/23) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-9. ℹ️ Labeled PR [#2406](https://github.com/pypa/pipx/pull/2406) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 💪 Opened PR [#2406](https://github.com/pypa/pipx/pull/2406) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Reopened PR [#346](https://github.com/tox-dev/pyproject-api/pull/346) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. ❌ Closed PR [#346](https://github.com/tox-dev/pyproject-api/pull/346) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. ℹ️ Reopened PR [#901](https://github.com/tox-dev/filelock/pull/901) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ❌ Closed PR [#901](https://github.com/tox-dev/filelock/pull/901) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Reopened PR [#680](https://github.com/tox-dev/platformdirs/pull/680) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. ❌ Closed PR [#680](https://github.com/tox-dev/platformdirs/pull/680) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. ℹ️ Reopened PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ❌ Closed PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. ℹ️ Reopened PR [#137](https://github.com/tox-dev/xml-fmt/pull/137) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+10. ❌ Closed PR [#137](https://github.com/tox-dev/xml-fmt/pull/137) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
