@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 🎉 Merged PR [#1560](https://github.com/tox-dev/turbohtml/pull/1560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-5. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-6. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-7. 💪 Opened PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-8. ℹ️ Labeled PR [#1560](https://github.com/tox-dev/turbohtml/pull/1560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 💪 Opened PR [#1560](https://github.com/tox-dev/turbohtml/pull/1560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#1559](https://github.com/tox-dev/turbohtml/pull/1559) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#57](https://github.com/gaborbernat/mdformat-hugo/pull/57) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+2. 🎉 Merged PR [#296](https://github.com/gaborbernat/bump-deps-index/pull/296) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#289](https://github.com/gaborbernat/pypi-changes/pull/289) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+4. ℹ️ Labeled PR [#3496](https://github.com/pypa/virtualenv/pull/3496) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#2407](https://github.com/pypa/pipx/pull/2407) in [pypa/pipx](https://github.com/pypa/pipx)
+6. ℹ️ Labeled PR [#407](https://github.com/tox-dev/tox-uv/pull/407) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+7. ℹ️ Labeled PR [#138](https://github.com/tox-dev/xml-fmt/pull/138) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+8. ℹ️ Labeled PR [#289](https://github.com/gaborbernat/pypi-changes/pull/289) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+9. ℹ️ Labeled PR [#1561](https://github.com/tox-dev/turbohtml/pull/1561) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#296](https://github.com/gaborbernat/bump-deps-index/pull/296) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
