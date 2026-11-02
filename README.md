@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#4371](https://github.com/tox-dev/tox/pull/4371) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 💪 Opened PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. ℹ️ Labeled PR [#504](https://github.com/tox-dev/toml-fmt/pull/504) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. 💪 Opened PR [#504](https://github.com/tox-dev/toml-fmt/pull/504) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. ℹ️ Labeled PR [#23](https://github.com/quotaline/quotaline/pull/23) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-7. 💪 Opened PR [#23](https://github.com/quotaline/quotaline/pull/23) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-8. ℹ️ Labeled PR [#2406](https://github.com/pypa/pipx/pull/2406) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#2406](https://github.com/pypa/pipx/pull/2406) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#163](https://github.com/tox-dev/jetbrains-fish/pull/163) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 🎉 Merged PR [#4370](https://github.com/tox-dev/tox/pull/4370) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#4371](https://github.com/tox-dev/tox/pull/4371) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+4. 💪 Opened PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#504](https://github.com/tox-dev/toml-fmt/pull/504) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. 💪 Opened PR [#504](https://github.com/tox-dev/toml-fmt/pull/504) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ℹ️ Labeled PR [#23](https://github.com/quotaline/quotaline/pull/23) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+8. 💪 Opened PR [#23](https://github.com/quotaline/quotaline/pull/23) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+9. ℹ️ Labeled PR [#2406](https://github.com/pypa/pipx/pull/2406) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 💪 Opened PR [#2406](https://github.com/pypa/pipx/pull/2406) in [pypa/pipx](https://github.com/pypa/pipx)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
