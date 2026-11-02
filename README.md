@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3495](https://github.com/pypa/virtualenv/pull/3495) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#137](https://github.com/tox-dev/xml-fmt/pull/137) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-3. 🎉 Merged PR [#288](https://github.com/gaborbernat/pypi-changes/pull/288) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-4. 🎉 Merged PR [#320](https://github.com/tox-dev/tox-gh/pull/320) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. 🎉 Merged PR [#866](https://github.com/tox-dev/pipdeptree/pull/866) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. 🎉 Merged PR [#295](https://github.com/pytest-dev/pytest-env/pull/295) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-7. 🎉 Merged PR [#346](https://github.com/tox-dev/pyproject-api/pull/346) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-8. 🎉 Merged PR [#901](https://github.com/tox-dev/filelock/pull/901) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🎉 Merged PR [#680](https://github.com/tox-dev/platformdirs/pull/680) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. ℹ️ Reopened PR [#346](https://github.com/tox-dev/pyproject-api/pull/346) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🎉 Merged PR [#2399](https://github.com/tox-dev/peryx/pull/2399) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🎉 Merged PR [#1560](https://github.com/tox-dev/turbohtml/pull/1560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+4. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+5. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+6. ℹ️ Labeled PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+7. 💪 Opened PR [#24](https://github.com/quotaline/quotaline/pull/24) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+8. ℹ️ Labeled PR [#1560](https://github.com/tox-dev/turbohtml/pull/1560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 💪 Opened PR [#1560](https://github.com/tox-dev/turbohtml/pull/1560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🎉 Merged PR [#1559](https://github.com/tox-dev/turbohtml/pull/1559) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
