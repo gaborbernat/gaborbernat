@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#186](https://github.com/tox-dev/python-discovery/issues/186) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. ❗ Opened issue [#186](https://github.com/tox-dev/python-discovery/issues/186) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 🎉 Merged PR [#407](https://github.com/tox-dev/tox-uv/pull/407) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#164](https://github.com/tox-dev/jetbrains-fish/pull/164) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-5. 🎉 Merged PR [#138](https://github.com/tox-dev/xml-fmt/pull/138) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-6. 🎉 Merged PR [#395](https://github.com/tox-dev/tox-ini-fmt/pull/395) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-7. 🎉 Merged PR [#41](https://github.com/tox-dev/github-workflows/pull/41) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-8. 🎉 Merged PR [#1110](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1110) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. 🎉 Merged PR [#185](https://github.com/tox-dev/python-discovery/pull/185) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 🎉 Merged PR [#201](https://github.com/tox-dev/pre-commit-uv/pull/201) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. ℹ️ Labeled PR [#2408](https://github.com/pypa/pipx/pull/2408) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ℹ️ Labeled PR [#2408](https://github.com/pypa/pipx/pull/2408) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 💪 Opened PR [#2408](https://github.com/pypa/pipx/pull/2408) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#2400](https://github.com/tox-dev/peryx/pull/2400) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 🎉 Merged PR [#2407](https://github.com/pypa/pipx/pull/2407) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#50](https://github.com/tox-dev/mdformat-zola/pull/50) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+7. 🎉 Merged PR [#347](https://github.com/tox-dev/pyproject-api/pull/347) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+8. ℹ️ Labeled issue [#204](https://github.com/tox-dev/python-discovery/issues/204) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+9. ❗ Opened issue [#204](https://github.com/tox-dev/python-discovery/issues/204) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. ℹ️ Labeled issue [#203](https://github.com/tox-dev/python-discovery/issues/203) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
