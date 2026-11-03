@@ -38,14 +38,14 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#29](https://github.com/gaborbernat/simplint/pull/29) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#29](https://github.com/gaborbernat/simplint/pull/29) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. 🎉 Merged PR [#1587](https://github.com/tox-dev/turbohtml/pull/1587) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#1589](https://github.com/tox-dev/turbohtml/pull/1589) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#1588](https://github.com/tox-dev/turbohtml/pull/1588) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🎉 Merged PR [#1590](https://github.com/tox-dev/turbohtml/pull/1590) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#301](https://github.com/gaborbernat/bump-deps-index/pull/301) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-8. ℹ️ Labeled PR [#301](https://github.com/gaborbernat/bump-deps-index/pull/301) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ❗ Opened issue [#29992](https://github.com/astral-sh/ruff/issues/29992) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 💪 Opened PR [#302](https://github.com/gaborbernat/bump-deps-index/pull/302) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. ℹ️ Labeled PR [#29](https://github.com/gaborbernat/simplint/pull/29) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#29](https://github.com/gaborbernat/simplint/pull/29) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 🎉 Merged PR [#1587](https://github.com/tox-dev/turbohtml/pull/1587) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🎉 Merged PR [#1589](https://github.com/tox-dev/turbohtml/pull/1589) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#1588](https://github.com/tox-dev/turbohtml/pull/1588) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#1590](https://github.com/tox-dev/turbohtml/pull/1590) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 9. ℹ️ Labeled PR [#301](https://github.com/gaborbernat/bump-deps-index/pull/301) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 10. ℹ️ Labeled PR [#301](https://github.com/gaborbernat/bump-deps-index/pull/301) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
