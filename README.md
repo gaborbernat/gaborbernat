@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4374](https://github.com/tox-dev/tox/pull/4374) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#903](https://github.com/tox-dev/filelock/pull/903) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#868](https://github.com/tox-dev/pipdeptree/pull/868) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🔒 Closed issue [#196](https://github.com/tox-dev/python-discovery/issues/196) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 🎉 Merged PR [#228](https://github.com/tox-dev/python-discovery/pull/228) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🎉 Merged PR [#2401](https://github.com/tox-dev/peryx/pull/2401) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🎉 Merged PR [#682](https://github.com/tox-dev/platformdirs/pull/682) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 🎉 Merged PR [#51](https://github.com/tox-dev/mdformat-zola/pull/51) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-9. 🎉 Merged PR [#348](https://github.com/tox-dev/pyproject-api/pull/348) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-10. 🔒 Closed issue [#195](https://github.com/tox-dev/python-discovery/issues/195) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🔒 Closed issue [#1563](https://github.com/tox-dev/turbohtml/issues/1563) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#1573](https://github.com/tox-dev/turbohtml/pull/1573) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#4374](https://github.com/tox-dev/tox/pull/4374) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#903](https://github.com/tox-dev/filelock/pull/903) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🎉 Merged PR [#868](https://github.com/tox-dev/pipdeptree/pull/868) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 🔒 Closed issue [#196](https://github.com/tox-dev/python-discovery/issues/196) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. 🎉 Merged PR [#228](https://github.com/tox-dev/python-discovery/pull/228) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 🎉 Merged PR [#2401](https://github.com/tox-dev/peryx/pull/2401) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🎉 Merged PR [#682](https://github.com/tox-dev/platformdirs/pull/682) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🎉 Merged PR [#51](https://github.com/tox-dev/mdformat-zola/pull/51) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
