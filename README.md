@@ -10,6 +10,7 @@
 [![MAIL Badge](https://img.shields.io/badge/-gaborjbernat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gaborjbernat@gmail.com)
 [![Twitch Status](https://img.shields.io/twitch/status/gaborbernat?style=flat-square)](https://www.twitch.tv/gaborbernat)
 [![Instagram Badge](https://img.shields.io/badge/-@gabor__bernat-845EC2?style=flat-square&labelColor=white&logo=Instagram)](https://instagram.com/gabor_bernat)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/gaborbernat/gaborbernat/badge)](https://scorecard.dev/viewer/?uri=github.com/gaborbernat/gaborbernat)
 
 I write and maintain core Python packaging and testing tools, downloaded about 2 billion times a month. Day job:
 Developer Experience at Bloomberg. My most-used projects, by monthly downloads:
