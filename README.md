@@ -37,16 +37,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#219](https://github.com/tox-dev/python-discovery/pull/219) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-2. ℹ️ Labeled PR [#218](https://github.com/tox-dev/python-discovery/pull/218) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-3. 💪 Opened PR [#218](https://github.com/tox-dev/python-discovery/pull/218) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. ℹ️ Labeled PR [#217](https://github.com/tox-dev/python-discovery/pull/217) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 💪 Opened PR [#217](https://github.com/tox-dev/python-discovery/pull/217) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🎉 Merged PR [#213](https://github.com/tox-dev/python-discovery/pull/213) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-7. 🎉 Merged PR [#205](https://github.com/tox-dev/python-discovery/pull/205) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 🎉 Merged PR [#209](https://github.com/tox-dev/python-discovery/pull/209) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🎉 Merged PR [#208](https://github.com/tox-dev/python-discovery/pull/208) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 🎉 Merged PR [#211](https://github.com/tox-dev/python-discovery/pull/211) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#388](https://github.com/tox-dev/sphinx-argparse-cli/pull/388) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🎉 Merged PR [#202](https://github.com/tox-dev/pre-commit-uv/pull/202) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. 🎉 Merged PR [#7](https://github.com/gaborbernat/dotfiles/pull/7) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+4. 🎉 Merged PR [#23](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/23) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+5. 🎉 Merged PR [#36](https://github.com/gaborbernat/cv/pull/36) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+6. 🎉 Merged PR [#99](https://github.com/gaborbernat/bernat-tech/pull/99) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+7. 🎉 Merged PR [#31](https://github.com/gaborbernat/all-repos-self/pull/31) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+8. 🎉 Merged PR [#58](https://github.com/gaborbernat/mdformat-hugo/pull/58) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+9. 🎉 Merged PR [#290](https://github.com/gaborbernat/pypi-changes/pull/290) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+10. 🎉 Merged PR [#297](https://github.com/gaborbernat/bump-deps-index/pull/297) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
