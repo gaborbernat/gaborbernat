@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#3502](https://github.com/pypa/virtualenv/pull/3502) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#3503](https://github.com/pypa/virtualenv/pull/3503) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#3501](https://github.com/pypa/virtualenv/pull/3501) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3500](https://github.com/pypa/virtualenv/pull/3500) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#3500](https://github.com/pypa/virtualenv/pull/3500) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#25](https://github.com/quotaline/quotaline/pull/25) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-7. 🔒 Closed issue [#197](https://github.com/tox-dev/python-discovery/issues/197) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-8. 🎉 Merged PR [#231](https://github.com/tox-dev/python-discovery/pull/231) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🎉 Merged PR [#1579](https://github.com/tox-dev/turbohtml/pull/1579) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🔒 Closed issue [#1564](https://github.com/tox-dev/turbohtml/issues/1564) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled issue [#238](https://github.com/tox-dev/python-discovery/issues/238) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. ❗ Opened issue [#238](https://github.com/tox-dev/python-discovery/issues/238) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. ℹ️ Labeled PR [#3502](https://github.com/pypa/virtualenv/pull/3502) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ℹ️ Labeled PR [#3503](https://github.com/pypa/virtualenv/pull/3503) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#3501](https://github.com/pypa/virtualenv/pull/3501) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. ℹ️ Labeled PR [#3500](https://github.com/pypa/virtualenv/pull/3500) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. ℹ️ Labeled PR [#3500](https://github.com/pypa/virtualenv/pull/3500) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#25](https://github.com/quotaline/quotaline/pull/25) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+9. 🔒 Closed issue [#197](https://github.com/tox-dev/python-discovery/issues/197) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. 🎉 Merged PR [#231](https://github.com/tox-dev/python-discovery/pull/231) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
