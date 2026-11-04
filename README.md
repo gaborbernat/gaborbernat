@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#871](https://github.com/tox-dev/pipdeptree/pull/871) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🎉 Merged PR [#48](https://github.com/tox-dev/github-workflows/pull/48) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-3. ℹ️ Labeled PR [#48](https://github.com/tox-dev/github-workflows/pull/48) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-4. 💪 Opened PR [#48](https://github.com/tox-dev/github-workflows/pull/48) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-5. 🎉 Merged PR [#35](https://github.com/gaborbernat/simplint/pull/35) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 🎉 Merged PR [#58](https://github.com/tox-dev/tox-toml-fmt/pull/58) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-7. 🎉 Merged PR [#376](https://github.com/tox-dev/pyproject-fmt/pull/376) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-8. 🎉 Merged PR [#25](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/25) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-9. 🎉 Merged PR [#38](https://github.com/gaborbernat/cv/pull/38) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-10. 🎉 Merged PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#325](https://github.com/tox-dev/tox-gh/pull/325) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+2. 🎉 Merged PR [#512](https://github.com/tox-dev/toml-fmt/pull/512) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🎉 Merged PR [#871](https://github.com/tox-dev/pipdeptree/pull/871) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🎉 Merged PR [#48](https://github.com/tox-dev/github-workflows/pull/48) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+5. ℹ️ Labeled PR [#48](https://github.com/tox-dev/github-workflows/pull/48) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+6. 💪 Opened PR [#48](https://github.com/tox-dev/github-workflows/pull/48) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+7. 🎉 Merged PR [#35](https://github.com/gaborbernat/simplint/pull/35) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. 🎉 Merged PR [#58](https://github.com/tox-dev/tox-toml-fmt/pull/58) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+9. 🎉 Merged PR [#376](https://github.com/tox-dev/pyproject-fmt/pull/376) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+10. 🎉 Merged PR [#25](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/25) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
