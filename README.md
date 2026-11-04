@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#688](https://github.com/tox-dev/platformdirs/pull/688) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🎉 Merged PR [#2419](https://github.com/pypa/pipx/pull/2419) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#60](https://github.com/tox-dev/tox-toml-fmt/pull/60) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-4. ℹ️ Labeled PR [#4386](https://github.com/tox-dev/tox/pull/4386) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 💪 Opened PR [#4386](https://github.com/tox-dev/tox/pull/4386) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#378](https://github.com/tox-dev/pyproject-fmt/pull/378) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-7. 🎉 Merged PR [#291](https://github.com/pytest-dev/pytest-print/pull/291) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-8. 🎉 Merged PR [#301](https://github.com/pytest-dev/pytest-env/pull/301) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-9. 🎉 Merged PR [#1](https://github.com/gaborbernat/simplint-pre-commit/pull/1) in [gaborbernat/simplint-pre-commit](https://github.com/gaborbernat/simplint-pre-commit)
-10. 🎉 Merged PR [#27](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/27) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+1. 🎉 Merged PR [#1622](https://github.com/tox-dev/turbohtml/pull/1622) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#401](https://github.com/tox-dev/tox-ini-fmt/pull/401) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+3. 🎉 Merged PR [#910](https://github.com/tox-dev/filelock/pull/910) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🎉 Merged PR [#61](https://github.com/tox-dev/release-creator/pull/61) in [tox-dev/release-creator](https://github.com/tox-dev/release-creator)
+5. 💪 Opened PR [#52](https://github.com/tox-dev/github-workflows/pull/52) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+6. 🎉 Merged PR [#144](https://github.com/tox-dev/xml-fmt/pull/144) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+7. ❌ Closed PR [#519](https://github.com/tox-dev/toml-fmt/pull/519) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. ❌ Closed PR [#10](https://github.com/tox-dev/tox-report/pull/10) in [tox-dev/tox-report](https://github.com/tox-dev/tox-report)
+9. ❌ Closed PR [#5](https://github.com/tox-dev/tox-towncrier/pull/5) in [tox-dev/tox-towncrier](https://github.com/tox-dev/tox-towncrier)
+10. 🎉 Merged PR [#909](https://github.com/tox-dev/filelock/pull/909) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
