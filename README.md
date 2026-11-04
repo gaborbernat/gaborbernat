@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 🎉 Merged PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#27](https://github.com/gaborbernat/simplint/pull/27) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. ❌ Closed PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 🎉 Merged PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 4. ℹ️ Labeled PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 💪 Opened PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 🔒 Closed issue [#1591](https://github.com/tox-dev/turbohtml/issues/1591) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#1592](https://github.com/tox-dev/turbohtml/pull/1592) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#29](https://github.com/gaborbernat/simplint/pull/29) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. 🎉 Merged PR [#510](https://github.com/tox-dev/toml-fmt/pull/510) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 🎉 Merged PR [#303](https://github.com/gaborbernat/bump-deps-index/pull/303) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+5. ℹ️ Labeled PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. 💪 Opened PR [#30](https://github.com/gaborbernat/simplint/pull/30) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. 🔒 Closed issue [#1591](https://github.com/tox-dev/turbohtml/issues/1591) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#1592](https://github.com/tox-dev/turbohtml/pull/1592) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#29](https://github.com/gaborbernat/simplint/pull/29) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+10. 🎉 Merged PR [#510](https://github.com/tox-dev/toml-fmt/pull/510) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
