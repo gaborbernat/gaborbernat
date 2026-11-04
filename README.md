@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-2. 🎉 Merged PR [#2407](https://github.com/tox-dev/peryx/pull/2407) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🎉 Merged PR [#26](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/26) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-4. 🎉 Merged PR [#50](https://github.com/tox-dev/github-workflows/pull/50) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-5. ℹ️ Labeled PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. 💪 Opened PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-7. ℹ️ Labeled PR [#26](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/26) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-8. 💪 Opened PR [#26](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/26) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-9. ℹ️ Labeled PR [#50](https://github.com/tox-dev/github-workflows/pull/50) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-10. 💪 Opened PR [#50](https://github.com/tox-dev/github-workflows/pull/50) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+1. 🎉 Merged PR [#514](https://github.com/tox-dev/toml-fmt/pull/514) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. ℹ️ Labeled PR [#686](https://github.com/tox-dev/platformdirs/pull/686) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. ℹ️ Labeled PR [#686](https://github.com/tox-dev/platformdirs/pull/686) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ℹ️ Labeled PR [#687](https://github.com/tox-dev/platformdirs/pull/687) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. 🎉 Merged PR [#2407](https://github.com/tox-dev/peryx/pull/2407) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 🎉 Merged PR [#26](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/26) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+8. 🎉 Merged PR [#50](https://github.com/tox-dev/github-workflows/pull/50) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+9. ℹ️ Labeled PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 💪 Opened PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
