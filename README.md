@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#908](https://github.com/tox-dev/filelock/pull/908) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#1609](https://github.com/tox-dev/turbohtml/pull/1609) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🔓 Reopened issue [#4376](https://github.com/tox-dev/tox/issues/4376) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🗣 Commented on [#4376](https://github.com/tox-dev/tox/issues/4376#issuecomment-6635879568) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#514](https://github.com/tox-dev/toml-fmt/pull/514) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. ℹ️ Labeled PR [#686](https://github.com/tox-dev/platformdirs/pull/686) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🗣 Commented on [#1490](https://github.com/pypa/packaging/pull/1490#issuecomment-6637352374) in [pypa/packaging](https://github.com/pypa/packaging)
+2. ℹ️ Labeled PR [#908](https://github.com/tox-dev/filelock/pull/908) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#1609](https://github.com/tox-dev/turbohtml/pull/1609) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🔓 Reopened issue [#4376](https://github.com/tox-dev/tox/issues/4376) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🗣 Commented on [#4376](https://github.com/tox-dev/tox/issues/4376#issuecomment-6635879568) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🎉 Merged PR [#514](https://github.com/tox-dev/toml-fmt/pull/514) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 7. ℹ️ Labeled PR [#686](https://github.com/tox-dev/platformdirs/pull/686) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. ℹ️ Labeled PR [#687](https://github.com/tox-dev/platformdirs/pull/687) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🎉 Merged PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 🎉 Merged PR [#2407](https://github.com/tox-dev/peryx/pull/2407) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#686](https://github.com/tox-dev/platformdirs/pull/686) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. ℹ️ Labeled PR [#687](https://github.com/tox-dev/platformdirs/pull/687) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🎉 Merged PR [#297](https://github.com/tox-dev/PyVenvManage/pull/297) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
