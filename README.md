@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#685](https://github.com/tox-dev/platformdirs/pull/685) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 💪 Opened PR [#685](https://github.com/tox-dev/platformdirs/pull/685) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 💪 Opened PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. ℹ️ Labeled PR [#57](https://github.com/tox-dev/action-pre-commit-uv/pull/57) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-6. 💪 Opened PR [#57](https://github.com/tox-dev/action-pre-commit-uv/pull/57) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-7. ℹ️ Labeled PR [#1115](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1115) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 💪 Opened PR [#1115](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1115) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. ℹ️ Labeled PR [#34](https://github.com/gaborbernat/simplint/pull/34) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 💪 Opened PR [#34](https://github.com/gaborbernat/simplint/pull/34) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#302](https://github.com/gaborbernat/bump-deps-index/pull/302) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+2. ℹ️ Labeled PR [#685](https://github.com/tox-dev/platformdirs/pull/685) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 💪 Opened PR [#685](https://github.com/tox-dev/platformdirs/pull/685) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. 💪 Opened PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+6. ℹ️ Labeled PR [#57](https://github.com/tox-dev/action-pre-commit-uv/pull/57) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+7. 💪 Opened PR [#57](https://github.com/tox-dev/action-pre-commit-uv/pull/57) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+8. ℹ️ Labeled PR [#1115](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1115) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 💪 Opened PR [#1115](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1115) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+10. ℹ️ Labeled PR [#34](https://github.com/gaborbernat/simplint/pull/34) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
