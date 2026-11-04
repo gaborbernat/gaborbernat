@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#59](https://github.com/tox-dev/tox-toml-fmt/pull/59) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-2. 🎉 Merged PR [#377](https://github.com/tox-dev/pyproject-fmt/pull/377) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🎉 Merged PR [#294](https://github.com/tox-dev/PyVenvManage/pull/294) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. 🎉 Merged PR [#104](https://github.com/gaborbernat/bernat-tech/pull/104) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-5. 🎉 Merged PR [#35](https://github.com/gaborbernat/all-repos-self/pull/35) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-6. 🎉 Merged PR [#28](https://github.com/gaborbernat/gaborbernat/pull/28) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-7. 🎉 Merged PR [#63](https://github.com/pypa/get-virtualenv/pull/63) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-8. 💪 Opened PR [#59](https://github.com/tox-dev/tox-toml-fmt/pull/59) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-9. 💪 Opened PR [#377](https://github.com/tox-dev/pyproject-fmt/pull/377) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-10. 🎉 Merged PR [#9](https://github.com/gaborbernat/dotfiles/pull/9) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+1. 🎉 Merged PR [#2403](https://github.com/tox-dev/peryx/pull/2403) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 🎉 Merged PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+3. ℹ️ Labeled PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+4. ℹ️ Labeled PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+5. 💪 Opened PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. 🎉 Merged PR [#59](https://github.com/tox-dev/tox-toml-fmt/pull/59) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+7. 🎉 Merged PR [#377](https://github.com/tox-dev/pyproject-fmt/pull/377) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+8. 🎉 Merged PR [#294](https://github.com/tox-dev/PyVenvManage/pull/294) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+9. 🎉 Merged PR [#104](https://github.com/gaborbernat/bernat-tech/pull/104) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+10. 🎉 Merged PR [#35](https://github.com/gaborbernat/all-repos-self/pull/35) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
