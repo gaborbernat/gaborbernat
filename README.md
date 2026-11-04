@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#49](https://github.com/tox-dev/github-workflows/pull/49) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-2. 💪 Opened PR [#49](https://github.com/tox-dev/github-workflows/pull/49) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-3. ℹ️ Labeled PR [#296](https://github.com/tox-dev/PyVenvManage/pull/296) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-4. ℹ️ Labeled PR [#296](https://github.com/tox-dev/PyVenvManage/pull/296) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-5. 💪 Opened PR [#296](https://github.com/tox-dev/PyVenvManage/pull/296) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-6. 🎉 Merged PR [#2403](https://github.com/tox-dev/peryx/pull/2403) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-7. 🎉 Merged PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-8. ℹ️ Labeled PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-9. ℹ️ Labeled PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 💪 Opened PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. ℹ️ Labeled PR [#2407](https://github.com/tox-dev/peryx/pull/2407) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. 💪 Opened PR [#2407](https://github.com/tox-dev/peryx/pull/2407) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. ℹ️ Labeled PR [#49](https://github.com/tox-dev/github-workflows/pull/49) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+4. 💪 Opened PR [#49](https://github.com/tox-dev/github-workflows/pull/49) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+5. ℹ️ Labeled PR [#296](https://github.com/tox-dev/PyVenvManage/pull/296) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+6. ℹ️ Labeled PR [#296](https://github.com/tox-dev/PyVenvManage/pull/296) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+7. 💪 Opened PR [#296](https://github.com/tox-dev/PyVenvManage/pull/296) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+8. 🎉 Merged PR [#2403](https://github.com/tox-dev/peryx/pull/2403) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. 🎉 Merged PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. ℹ️ Labeled PR [#295](https://github.com/tox-dev/PyVenvManage/pull/295) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
