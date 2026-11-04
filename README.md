@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1613](https://github.com/tox-dev/turbohtml/pull/1613) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🔒 Closed issue [#1612](https://github.com/tox-dev/turbohtml/issues/1612) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#308](https://github.com/tox-dev/devpi-process/pull/308) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 💪 Opened PR [#308](https://github.com/tox-dev/devpi-process/pull/308) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-5. ℹ️ Labeled PR [#62](https://github.com/gaborbernat/mdformat-hugo/pull/62) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-6. 💪 Opened PR [#62](https://github.com/gaborbernat/mdformat-hugo/pull/62) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-7. ℹ️ Labeled PR [#46](https://github.com/tox-dev/github-workflows/pull/46) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-8. 💪 Opened PR [#46](https://github.com/tox-dev/github-workflows/pull/46) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-9. ℹ️ Labeled PR [#1613](https://github.com/tox-dev/turbohtml/pull/1613) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#1613](https://github.com/tox-dev/turbohtml/pull/1613) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#685](https://github.com/tox-dev/platformdirs/pull/685) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 💪 Opened PR [#685](https://github.com/tox-dev/platformdirs/pull/685) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 💪 Opened PR [#413](https://github.com/tox-dev/tox-uv/pull/413) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ℹ️ Labeled PR [#57](https://github.com/tox-dev/action-pre-commit-uv/pull/57) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+6. 💪 Opened PR [#57](https://github.com/tox-dev/action-pre-commit-uv/pull/57) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+7. ℹ️ Labeled PR [#1115](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1115) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. 💪 Opened PR [#1115](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1115) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. ℹ️ Labeled PR [#34](https://github.com/gaborbernat/simplint/pull/34) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+10. 💪 Opened PR [#34](https://github.com/gaborbernat/simplint/pull/34) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
