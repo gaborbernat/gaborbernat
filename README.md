@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#52](https://github.com/gaborbernat/simplint/pull/52) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#52](https://github.com/gaborbernat/simplint/pull/52) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. 🎉 Merged PR [#59](https://github.com/tox-dev/action-pre-commit-uv/pull/59) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-4. 🎉 Merged PR [#292](https://github.com/pytest-dev/pytest-print/pull/292) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 🎉 Merged PR [#58](https://github.com/tox-dev/action-pre-commit-uv/pull/58) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-6. ℹ️ Labeled PR [#302](https://github.com/pytest-dev/pytest-env/pull/302) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-7. 🎉 Merged PR [#302](https://github.com/pytest-dev/pytest-env/pull/302) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-8. ℹ️ Labeled PR [#59](https://github.com/tox-dev/action-pre-commit-uv/pull/59) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-9. ℹ️ Labeled PR [#59](https://github.com/tox-dev/action-pre-commit-uv/pull/59) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-10. ℹ️ Labeled PR [#59](https://github.com/tox-dev/action-pre-commit-uv/pull/59) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🎉 Merged PR [#1631](https://github.com/tox-dev/turbohtml/pull/1631) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#1629](https://github.com/tox-dev/turbohtml/issues/1629) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#53](https://github.com/gaborbernat/simplint/pull/53) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#53](https://github.com/gaborbernat/simplint/pull/53) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 💪 Opened PR [#53](https://github.com/gaborbernat/simplint/pull/53) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. ℹ️ Labeled PR [#1634](https://github.com/tox-dev/turbohtml/pull/1634) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#1634](https://github.com/tox-dev/turbohtml/pull/1634) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ❗ Opened issue [#1633](https://github.com/tox-dev/turbohtml/issues/1633) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ℹ️ Labeled issue [#1633](https://github.com/tox-dev/turbohtml/issues/1633) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 💪 Opened PR [#1632](https://github.com/tox-dev/turbohtml/pull/1632) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
