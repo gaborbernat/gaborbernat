@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#46](https://github.com/gaborbernat/simplint/pull/46) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 🎉 Merged PR [#47](https://github.com/gaborbernat/simplint/pull/47) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#48](https://github.com/gaborbernat/simplint/pull/48) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#48](https://github.com/gaborbernat/simplint/pull/48) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. ℹ️ Labeled PR [#47](https://github.com/gaborbernat/simplint/pull/47) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. ℹ️ Labeled PR [#46](https://github.com/gaborbernat/simplint/pull/46) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. ℹ️ Labeled PR [#47](https://github.com/gaborbernat/simplint/pull/47) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. 💪 Opened PR [#47](https://github.com/gaborbernat/simplint/pull/47) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. ℹ️ Labeled PR [#46](https://github.com/gaborbernat/simplint/pull/46) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 💪 Opened PR [#46](https://github.com/gaborbernat/simplint/pull/46) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#521](https://github.com/tox-dev/toml-fmt/pull/521) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. ℹ️ Labeled PR [#875](https://github.com/tox-dev/pipdeptree/pull/875) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 💪 Opened PR [#521](https://github.com/tox-dev/toml-fmt/pull/521) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#875](https://github.com/tox-dev/pipdeptree/pull/875) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#145](https://github.com/tox-dev/xml-fmt/pull/145) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+6. ℹ️ Labeled PR [#145](https://github.com/tox-dev/xml-fmt/pull/145) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+7. 💪 Opened PR [#145](https://github.com/tox-dev/xml-fmt/pull/145) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+8. ℹ️ Labeled PR [#415](https://github.com/tox-dev/tox-uv/pull/415) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. ℹ️ Labeled PR [#415](https://github.com/tox-dev/tox-uv/pull/415) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+10. 💪 Opened PR [#415](https://github.com/tox-dev/tox-uv/pull/415) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
