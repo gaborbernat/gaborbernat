@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/gaborbernat/pet-immich/pull/2) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
-2. ℹ️ Labeled PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. ℹ️ Labeled PR [#2](https://github.com/gaborbernat/pet-immich/pull/2) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
-6. 💪 Opened PR [#2](https://github.com/gaborbernat/pet-immich/pull/2) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
-7. ℹ️ Reopened PR [#34](https://github.com/quotaline/quotaline/pull/34) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-8. ❌ Closed PR [#34](https://github.com/quotaline/quotaline/pull/34) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-9. ℹ️ Labeled PR [#49](https://github.com/gaborbernat/simplint/pull/49) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 💪 Opened PR [#49](https://github.com/gaborbernat/simplint/pull/49) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#1](https://github.com/gaborbernat/pet-immich/pull/1) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
+2. 💪 Opened PR [#6593](https://github.com/SchemaStore/schemastore/pull/6593) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+3. 🎉 Merged PR [#49](https://github.com/gaborbernat/simplint/pull/49) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 🎉 Merged PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 🎉 Merged PR [#2](https://github.com/gaborbernat/pet-immich/pull/2) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
+6. ℹ️ Labeled PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. ℹ️ Labeled PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. 💪 Opened PR [#50](https://github.com/gaborbernat/simplint/pull/50) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+9. ℹ️ Labeled PR [#2](https://github.com/gaborbernat/pet-immich/pull/2) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
+10. 💪 Opened PR [#2](https://github.com/gaborbernat/pet-immich/pull/2) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
