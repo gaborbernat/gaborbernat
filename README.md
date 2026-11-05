@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#54](https://github.com/gaborbernat/simplint/pull/54) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 🎉 Merged PR [#6593](https://github.com/SchemaStore/schemastore/pull/6593) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-3. 🔒 Closed issue [#1633](https://github.com/tox-dev/turbohtml/issues/1633) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#1634](https://github.com/tox-dev/turbohtml/pull/1634) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#54](https://github.com/gaborbernat/simplint/pull/54) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 💪 Opened PR [#54](https://github.com/gaborbernat/simplint/pull/54) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. ℹ️ Labeled PR [#2420](https://github.com/pypa/pipx/pull/2420) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#1632](https://github.com/tox-dev/turbohtml/pull/1632) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🔒 Closed issue [#1630](https://github.com/tox-dev/turbohtml/issues/1630) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#1631](https://github.com/tox-dev/turbohtml/pull/1631) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 💪 Opened PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🎉 Merged PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+4. ℹ️ Labeled PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+5. 💪 Opened PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+6. 🎉 Merged PR [#41](https://github.com/gaborbernat/all-repos-self/pull/41) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+7. 💪 Opened PR [#41](https://github.com/gaborbernat/all-repos-self/pull/41) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+8. 🎉 Merged PR [#28](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/28) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+9. 🎉 Merged PR [#10](https://github.com/gaborbernat/dotfiles/pull/10) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+10. 🎉 Merged PR [#64](https://github.com/pypa/get-virtualenv/pull/64) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
