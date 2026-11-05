@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 💪 Opened PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-4. ℹ️ Labeled PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-5. 💪 Opened PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-6. 🎉 Merged PR [#41](https://github.com/gaborbernat/all-repos-self/pull/41) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-7. 💪 Opened PR [#41](https://github.com/gaborbernat/all-repos-self/pull/41) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-8. 🎉 Merged PR [#28](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/28) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-9. 🎉 Merged PR [#10](https://github.com/gaborbernat/dotfiles/pull/10) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-10. 🎉 Merged PR [#64](https://github.com/pypa/get-virtualenv/pull/64) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🎉 Merged PR [#2409](https://github.com/tox-dev/peryx/pull/2409) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+2. ℹ️ Labeled PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 💪 Opened PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🎉 Merged PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+5. ℹ️ Labeled PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+6. 💪 Opened PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+7. 🎉 Merged PR [#41](https://github.com/gaborbernat/all-repos-self/pull/41) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+8. 💪 Opened PR [#41](https://github.com/gaborbernat/all-repos-self/pull/41) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+9. 🎉 Merged PR [#28](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/28) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+10. 🎉 Merged PR [#10](https://github.com/gaborbernat/dotfiles/pull/10) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
