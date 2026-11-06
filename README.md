@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4387](https://github.com/tox-dev/tox/issues/4387) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#4388](https://github.com/tox-dev/tox/pull/4388) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#4388](https://github.com/tox-dev/tox/pull/4388) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#2423](https://github.com/pypa/pipx/pull/2423) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#4387](https://github.com/tox-dev/tox/issues/4387) in [tox-dev/tox](https://github.com/tox-dev/tox)
 4. ℹ️ Labeled PR [#4388](https://github.com/tox-dev/tox/pull/4388) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. 🎉 Merged PR [#2409](https://github.com/tox-dev/peryx/pull/2409) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-6. ℹ️ Labeled PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 💪 Opened PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🎉 Merged PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-9. ℹ️ Labeled PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-10. 💪 Opened PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+5. ℹ️ Labeled PR [#4388](https://github.com/tox-dev/tox/pull/4388) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#4388](https://github.com/tox-dev/tox/pull/4388) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#2409](https://github.com/tox-dev/peryx/pull/2409) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. ℹ️ Labeled PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#2421](https://github.com/pypa/pipx/pull/2421) in [pypa/pipx](https://github.com/pypa/pipx)
+10. 🎉 Merged PR [#42](https://github.com/gaborbernat/all-repos-self/pull/42) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
