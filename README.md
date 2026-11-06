@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ❗ Opened issue [#81](https://github.com/reteps/dockerfmt/issues/81) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-4. ❗ Opened issue [#80](https://github.com/reteps/dockerfmt/issues/80) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-5. ❗ Opened issue [#79](https://github.com/reteps/dockerfmt/issues/79) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-6. ❗ Opened issue [#78](https://github.com/reteps/dockerfmt/issues/78) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-7. ❗ Opened issue [#77](https://github.com/reteps/dockerfmt/issues/77) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-8. ❗ Opened issue [#76](https://github.com/reteps/dockerfmt/issues/76) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-9. 🔒 Closed issue [#2422](https://github.com/pypa/pipx/issues/2422) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#2423](https://github.com/pypa/pipx/pull/2423) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#56](https://github.com/gaborbernat/simplint/pull/56) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 💪 Opened PR [#56](https://github.com/gaborbernat/simplint/pull/56) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 🎉 Merged PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 💪 Opened PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. ❗ Opened issue [#81](https://github.com/reteps/dockerfmt/issues/81) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
+7. ❗ Opened issue [#80](https://github.com/reteps/dockerfmt/issues/80) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
+8. ❗ Opened issue [#79](https://github.com/reteps/dockerfmt/issues/79) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
+9. ❗ Opened issue [#78](https://github.com/reteps/dockerfmt/issues/78) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
+10. ❗ Opened issue [#77](https://github.com/reteps/dockerfmt/issues/77) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
