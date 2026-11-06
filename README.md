@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#304](https://github.com/pytest-dev/pytest-env/pull/304) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#42](https://github.com/gaborbernat/cv/pull/42) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-3. 🎉 Merged PR [#107](https://github.com/gaborbernat/bernat-tech/pull/107) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-4. 🎉 Merged PR [#294](https://github.com/pytest-dev/pytest-print/pull/294) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-5. 💪 Opened PR [#30](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/30) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-6. 🎉 Merged PR [#54](https://github.com/tox-dev/github-workflows/pull/54) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-7. ℹ️ Labeled PR [#3518](https://github.com/pypa/virtualenv/pull/3518) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#3518](https://github.com/pypa/virtualenv/pull/3518) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#4392](https://github.com/tox-dev/tox/pull/4392) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#304](https://github.com/pytest-dev/pytest-env/pull/304) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Labeled PR [#1638](https://github.com/tox-dev/turbohtml/pull/1638) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1638](https://github.com/tox-dev/turbohtml/pull/1638) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#396](https://github.com/tox-dev/sphinx-argparse-cli/pull/396) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#523](https://github.com/tox-dev/toml-fmt/pull/523) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#147](https://github.com/tox-dev/xml-fmt/pull/147) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+6. 🎉 Merged PR [#690](https://github.com/tox-dev/platformdirs/pull/690) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🎉 Merged PR [#913](https://github.com/tox-dev/filelock/pull/913) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 🎉 Merged PR [#61](https://github.com/tox-dev/action-pre-commit-uv/pull/61) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+9. 🎉 Merged PR [#174](https://github.com/tox-dev/jetbrains-fish/pull/174) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+10. 🎉 Merged PR [#249](https://github.com/tox-dev/python-discovery/pull/249) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
