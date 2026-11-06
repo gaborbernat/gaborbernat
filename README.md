@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1652](https://github.com/tox-dev/turbohtml/pull/1652) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1652](https://github.com/tox-dev/turbohtml/pull/1652) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#1651](https://github.com/tox-dev/turbohtml/pull/1651) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#1651](https://github.com/tox-dev/turbohtml/pull/1651) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#1650](https://github.com/tox-dev/turbohtml/pull/1650) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#1650](https://github.com/tox-dev/turbohtml/pull/1650) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#56](https://github.com/tox-dev/github-workflows/pull/56) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-8. ℹ️ Labeled PR [#66](https://github.com/gaborbernat/simplint/pull/66) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. 💪 Opened PR [#66](https://github.com/gaborbernat/simplint/pull/66) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 💪 Opened PR [#10](https://github.com/tox-dev/tox-pre-commit/pull/10) in [tox-dev/tox-pre-commit](https://github.com/tox-dev/tox-pre-commit)
+1. 🎉 Merged PR [#680](https://github.com/anthropics/oss-scanner/pull/680) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+2. 🎉 Merged PR [#56](https://github.com/tox-dev/github-workflows/pull/56) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+3. ℹ️ Labeled PR [#3519](https://github.com/pypa/virtualenv/pull/3519) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#3519](https://github.com/pypa/virtualenv/pull/3519) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#250](https://github.com/tox-dev/python-discovery/pull/250) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. ℹ️ Labeled PR [#313](https://github.com/tox-dev/devpi-process/pull/313) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+7. ℹ️ Labeled PR [#66](https://github.com/gaborbernat/mdformat-hugo/pull/66) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+8. ℹ️ Labeled PR [#422](https://github.com/tox-dev/tox-uv/pull/422) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. ℹ️ Labeled PR [#878](https://github.com/tox-dev/pipdeptree/pull/878) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. ℹ️ Labeled PR [#692](https://github.com/tox-dev/platformdirs/pull/692) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
