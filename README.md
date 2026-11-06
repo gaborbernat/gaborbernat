@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#418](https://github.com/tox-dev/tox-uv/pull/418) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. 🎉 Merged PR [#53](https://github.com/tox-dev/github-workflows/pull/53) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-3. ℹ️ Labeled PR [#58](https://github.com/gaborbernat/simplint/pull/58) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#58](https://github.com/gaborbernat/simplint/pull/58) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. ℹ️ Labeled PR [#3514](https://github.com/pypa/virtualenv/pull/3514) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🗣 Commented on [#2424](https://github.com/pypa/pipx/issues/2424#issuecomment-6688715901) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#2424](https://github.com/pypa/pipx/issues/2424) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ❌ Closed PR [#2427](https://github.com/pypa/pipx/pull/2427) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 🎉 Merged PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. ℹ️ Labeled PR [#247](https://github.com/tox-dev/python-discovery/pull/247) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#293](https://github.com/pytest-dev/pytest-print/pull/293) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. 🎉 Merged PR [#308](https://github.com/gaborbernat/bump-deps-index/pull/308) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. ℹ️ Labeled PR [#293](https://github.com/pytest-dev/pytest-print/pull/293) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. ℹ️ Labeled PR [#876](https://github.com/tox-dev/pipdeptree/pull/876) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#331](https://github.com/tox-dev/tox-gh/pull/331) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+6. ℹ️ Labeled PR [#911](https://github.com/tox-dev/filelock/pull/911) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ℹ️ Labeled PR [#355](https://github.com/tox-dev/pyproject-api/pull/355) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+8. ℹ️ Labeled PR [#172](https://github.com/tox-dev/jetbrains-fish/pull/172) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+9. ℹ️ Labeled PR [#689](https://github.com/tox-dev/platformdirs/pull/689) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. ℹ️ Labeled PR [#4391](https://github.com/tox-dev/tox/pull/4391) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
