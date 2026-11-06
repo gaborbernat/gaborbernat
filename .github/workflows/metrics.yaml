@@ -6,11 +6,12 @@ on:
 concurrency:
   group: metrics-${{ github.ref }}
   cancel-in-progress: true
-permissions:
-  contents: write
+permissions: {}
 jobs:
   metrics:
     runs-on: ubuntu-26.04
+    permissions:
+      contents: write # commit the rendered metrics image
     environment: metrics
     steps:
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
