@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#680](https://github.com/anthropics/oss-scanner/pull/680) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
-2. 🎉 Merged PR [#56](https://github.com/tox-dev/github-workflows/pull/56) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-3. ℹ️ Labeled PR [#3519](https://github.com/pypa/virtualenv/pull/3519) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3519](https://github.com/pypa/virtualenv/pull/3519) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#250](https://github.com/tox-dev/python-discovery/pull/250) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. ℹ️ Labeled PR [#313](https://github.com/tox-dev/devpi-process/pull/313) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-7. ℹ️ Labeled PR [#66](https://github.com/gaborbernat/mdformat-hugo/pull/66) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-8. ℹ️ Labeled PR [#422](https://github.com/tox-dev/tox-uv/pull/422) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. ℹ️ Labeled PR [#878](https://github.com/tox-dev/pipdeptree/pull/878) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. ℹ️ Labeled PR [#692](https://github.com/tox-dev/platformdirs/pull/692) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#250](https://github.com/tox-dev/python-discovery/pull/250) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. 🎉 Merged PR [#878](https://github.com/tox-dev/pipdeptree/pull/878) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#422](https://github.com/tox-dev/tox-uv/pull/422) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. 🎉 Merged PR [#4394](https://github.com/tox-dev/tox/pull/4394) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. 🎉 Merged PR [#148](https://github.com/tox-dev/xml-fmt/pull/148) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+6. 🎉 Merged PR [#358](https://github.com/tox-dev/pyproject-api/pull/358) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+7. 🎉 Merged PR [#1119](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1119) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. ℹ️ Labeled PR [#58](https://github.com/tox-dev/github-workflows/pull/58) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+9. 💪 Opened PR [#58](https://github.com/tox-dev/github-workflows/pull/58) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+10. 🎉 Merged PR [#692](https://github.com/tox-dev/platformdirs/pull/692) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
