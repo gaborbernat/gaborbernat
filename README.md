@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2427](https://github.com/pypa/pipx/pull/2427) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🎉 Merged PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#247](https://github.com/tox-dev/python-discovery/pull/247) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. ℹ️ Labeled PR [#246](https://github.com/tox-dev/python-discovery/pull/246) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. ℹ️ Labeled PR [#417](https://github.com/tox-dev/tox-uv/pull/417) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-6. ℹ️ Labeled PR [#416](https://github.com/tox-dev/tox-uv/pull/416) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. ℹ️ Labeled PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. 💪 Opened PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. ℹ️ Labeled PR [#3513](https://github.com/pypa/virtualenv/pull/3513) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#4389](https://github.com/tox-dev/tox/pull/4389) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#418](https://github.com/tox-dev/tox-uv/pull/418) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. 🎉 Merged PR [#53](https://github.com/tox-dev/github-workflows/pull/53) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+3. ℹ️ Labeled PR [#58](https://github.com/gaborbernat/simplint/pull/58) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#58](https://github.com/gaborbernat/simplint/pull/58) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. ℹ️ Labeled PR [#3514](https://github.com/pypa/virtualenv/pull/3514) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🗣 Commented on [#2424](https://github.com/pypa/pipx/issues/2424#issuecomment-6688715901) in [pypa/pipx](https://github.com/pypa/pipx)
+7. 🔒 Closed issue [#2424](https://github.com/pypa/pipx/issues/2424) in [pypa/pipx](https://github.com/pypa/pipx)
+8. ❌ Closed PR [#2427](https://github.com/pypa/pipx/pull/2427) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 🎉 Merged PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+10. ℹ️ Labeled PR [#247](https://github.com/tox-dev/python-discovery/pull/247) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
