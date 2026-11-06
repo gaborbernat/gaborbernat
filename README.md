@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#53](https://github.com/tox-dev/github-workflows/pull/53) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-2. 💪 Opened PR [#53](https://github.com/tox-dev/github-workflows/pull/53) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-3. 🎉 Merged PR [#56](https://github.com/gaborbernat/simplint/pull/56) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. ℹ️ Labeled PR [#56](https://github.com/gaborbernat/simplint/pull/56) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 💪 Opened PR [#56](https://github.com/gaborbernat/simplint/pull/56) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 🎉 Merged PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. ℹ️ Labeled PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. 💪 Opened PR [#55](https://github.com/gaborbernat/simplint/pull/55) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. ❗ Opened issue [#81](https://github.com/reteps/dockerfmt/issues/81) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
-10. ❗ Opened issue [#80](https://github.com/reteps/dockerfmt/issues/80) in [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
+1. ℹ️ Labeled PR [#247](https://github.com/tox-dev/python-discovery/pull/247) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. ℹ️ Labeled PR [#246](https://github.com/tox-dev/python-discovery/pull/246) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. ℹ️ Labeled PR [#417](https://github.com/tox-dev/tox-uv/pull/417) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ℹ️ Labeled PR [#416](https://github.com/tox-dev/tox-uv/pull/416) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+5. ℹ️ Labeled PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. 💪 Opened PR [#57](https://github.com/gaborbernat/simplint/pull/57) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. ℹ️ Labeled PR [#3513](https://github.com/pypa/virtualenv/pull/3513) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. ℹ️ Labeled PR [#4389](https://github.com/tox-dev/tox/pull/4389) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#4390](https://github.com/tox-dev/tox/pull/4390) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🔒 Closed issue [#329](https://github.com/tox-dev/tox-gh/issues/329) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
