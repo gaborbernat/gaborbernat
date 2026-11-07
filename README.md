@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
-2. ❗ Opened issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
-3. ℹ️ Labeled issue [#1266](https://github.com/pypa/build/issues/1266) in [pypa/build](https://github.com/pypa/build)
-4. ❗ Opened issue [#1266](https://github.com/pypa/build/issues/1266) in [pypa/build](https://github.com/pypa/build)
-5. ℹ️ Labeled issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
-6. ❗ Opened issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
-7. ℹ️ Labeled issue [#1264](https://github.com/pypa/build/issues/1264) in [pypa/build](https://github.com/pypa/build)
-8. ❗ Opened issue [#1264](https://github.com/pypa/build/issues/1264) in [pypa/build](https://github.com/pypa/build)
-9. ℹ️ Labeled issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
-10. ❗ Opened issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled issue [#1268](https://github.com/pypa/build/issues/1268) in [pypa/build](https://github.com/pypa/build)
+2. ❗ Opened issue [#1268](https://github.com/pypa/build/issues/1268) in [pypa/build](https://github.com/pypa/build)
+3. ℹ️ Labeled issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
+4. ❗ Opened issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
+5. ℹ️ Labeled issue [#1266](https://github.com/pypa/build/issues/1266) in [pypa/build](https://github.com/pypa/build)
+6. ❗ Opened issue [#1266](https://github.com/pypa/build/issues/1266) in [pypa/build](https://github.com/pypa/build)
+7. ℹ️ Labeled issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
+8. ❗ Opened issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
+9. ℹ️ Labeled issue [#1264](https://github.com/pypa/build/issues/1264) in [pypa/build](https://github.com/pypa/build)
+10. ❗ Opened issue [#1264](https://github.com/pypa/build/issues/1264) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
