@@ -38,8 +38,8 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#1262](https://github.com/pypa/build/issues/1262) in [pypa/build](https://github.com/pypa/build)
-2. ❗ Opened issue [#1262](https://github.com/pypa/build/issues/1262) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
+2. ❗ Opened issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
 3. ❌ Closed PR [#2436](https://github.com/pypa/pipx/pull/2436) in [pypa/pipx](https://github.com/pypa/pipx)
 4. 🔒 Closed issue [#2426](https://github.com/pypa/pipx/issues/2426) in [pypa/pipx](https://github.com/pypa/pipx)
 5. 🔒 Closed issue [#2435](https://github.com/pypa/pipx/issues/2435) in [pypa/pipx](https://github.com/pypa/pipx)
