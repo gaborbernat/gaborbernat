@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
-2. ❗ Opened issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
-3. ❌ Closed PR [#2436](https://github.com/pypa/pipx/pull/2436) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🔒 Closed issue [#2426](https://github.com/pypa/pipx/issues/2426) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🔒 Closed issue [#2435](https://github.com/pypa/pipx/issues/2435) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🎉 Merged PR [#2437](https://github.com/pypa/pipx/pull/2437) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 🔒 Closed issue [#2430](https://github.com/pypa/pipx/issues/2430) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled PR [#2437](https://github.com/pypa/pipx/pull/2437) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#2437](https://github.com/pypa/pipx/pull/2437) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#424](https://github.com/tox-dev/tox-uv/pull/424) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ℹ️ Labeled issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
+2. ❗ Opened issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
+3. ℹ️ Labeled issue [#1266](https://github.com/pypa/build/issues/1266) in [pypa/build](https://github.com/pypa/build)
+4. ❗ Opened issue [#1266](https://github.com/pypa/build/issues/1266) in [pypa/build](https://github.com/pypa/build)
+5. ℹ️ Labeled issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
+6. ❗ Opened issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
+7. ℹ️ Labeled issue [#1264](https://github.com/pypa/build/issues/1264) in [pypa/build](https://github.com/pypa/build)
+8. ❗ Opened issue [#1264](https://github.com/pypa/build/issues/1264) in [pypa/build](https://github.com/pypa/build)
+9. ℹ️ Labeled issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
+10. ❗ Opened issue [#1263](https://github.com/pypa/build/issues/1263) in [pypa/build](https://github.com/pypa/build)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
