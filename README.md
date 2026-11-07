@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#1664](https://github.com/tox-dev/turbohtml/pull/1664) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#1664](https://github.com/tox-dev/turbohtml/pull/1664) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#1122](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1122) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-4. ℹ️ Labeled PR [#1663](https://github.com/tox-dev/turbohtml/pull/1663) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#1663](https://github.com/tox-dev/turbohtml/pull/1663) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🎉 Merged PR [#70](https://github.com/gaborbernat/mdformat-hugo/pull/70) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-7. ℹ️ Labeled PR [#1122](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1122) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-8. 💪 Opened PR [#1122](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1122) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-9. ℹ️ Labeled PR [#70](https://github.com/gaborbernat/mdformat-hugo/pull/70) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-10. 💪 Opened PR [#70](https://github.com/gaborbernat/mdformat-hugo/pull/70) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+1. ℹ️ Labeled PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. ℹ️ Labeled PR [#3526](https://github.com/pypa/virtualenv/pull/3526) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. ℹ️ Labeled PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 🎉 Merged PR [#302](https://github.com/gaborbernat/pypi-changes/pull/302) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+6. 🎉 Merged PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+7. ℹ️ Labeled PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+8. ℹ️ Labeled PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+9. 💪 Opened PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+10. 🎉 Merged PR [#1663](https://github.com/tox-dev/turbohtml/pull/1663) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
