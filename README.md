@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#427](https://github.com/tox-dev/tox-uv/pull/427) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-2. ℹ️ Labeled PR [#427](https://github.com/tox-dev/tox-uv/pull/427) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. ℹ️ Labeled PR [#427](https://github.com/tox-dev/tox-uv/pull/427) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. ℹ️ Labeled PR [#427](https://github.com/tox-dev/tox-uv/pull/427) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-5. 💪 Opened PR [#427](https://github.com/tox-dev/tox-uv/pull/427) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-6. ℹ️ Labeled PR [#3527](https://github.com/pypa/virtualenv/pull/3527) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. ❌ Closed PR [#1260](https://github.com/pypa/build/pull/1260) in [pypa/build](https://github.com/pypa/build)
-8. 🎉 Merged PR [#298](https://github.com/pytest-dev/pytest-print/pull/298) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-9. 🎉 Merged PR [#336](https://github.com/tox-dev/tox-gh/pull/336) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-10. ℹ️ Labeled PR [#298](https://github.com/pytest-dev/pytest-print/pull/298) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+1. 🔒 Closed issue [#2435](https://github.com/pypa/pipx/issues/2435) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🎉 Merged PR [#2437](https://github.com/pypa/pipx/pull/2437) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#2430](https://github.com/pypa/pipx/issues/2430) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#2437](https://github.com/pypa/pipx/pull/2437) in [pypa/pipx](https://github.com/pypa/pipx)
+5. 💪 Opened PR [#2437](https://github.com/pypa/pipx/pull/2437) in [pypa/pipx](https://github.com/pypa/pipx)
+6. ℹ️ Labeled PR [#424](https://github.com/tox-dev/tox-uv/pull/424) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+7. ℹ️ Labeled PR [#354](https://github.com/tox-dev/pyproject-api/pull/354) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+8. ℹ️ Labeled PR [#425](https://github.com/tox-dev/tox-uv/pull/425) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+9. 🎉 Merged PR [#427](https://github.com/tox-dev/tox-uv/pull/427) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+10. ℹ️ Labeled PR [#357](https://github.com/tox-dev/pyproject-api/pull/357) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
