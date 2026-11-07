@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ℹ️ Labeled PR [#3526](https://github.com/pypa/virtualenv/pull/3526) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 🎉 Merged PR [#302](https://github.com/gaborbernat/pypi-changes/pull/302) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-6. 🎉 Merged PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-7. ℹ️ Labeled PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-8. ℹ️ Labeled PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-9. 💪 Opened PR [#316](https://github.com/tox-dev/devpi-process/pull/316) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-10. 🎉 Merged PR [#1663](https://github.com/tox-dev/turbohtml/pull/1663) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#298](https://github.com/pytest-dev/pytest-print/pull/298) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+2. ℹ️ Labeled PR [#298](https://github.com/pytest-dev/pytest-print/pull/298) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+3. 💪 Opened PR [#298](https://github.com/pytest-dev/pytest-print/pull/298) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+4. ℹ️ Labeled PR [#3522](https://github.com/pypa/virtualenv/pull/3522) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled PR [#336](https://github.com/tox-dev/tox-gh/pull/336) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+6. ℹ️ Labeled PR [#336](https://github.com/tox-dev/tox-gh/pull/336) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+7. 💪 Opened PR [#336](https://github.com/tox-dev/tox-gh/pull/336) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+8. ℹ️ Labeled PR [#3523](https://github.com/pypa/virtualenv/pull/3523) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ℹ️ Labeled PR [#3524](https://github.com/pypa/virtualenv/pull/3524) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#1428](https://github.com/anthropics/oss-scanner/pull/1428) in [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
