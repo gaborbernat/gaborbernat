@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4399](https://github.com/tox-dev/tox/issues/4399#issuecomment-6725270537) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. ℹ️ Labeled PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. ℹ️ Labeled PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-5. ℹ️ Labeled PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-6. 💪 Opened PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-7. ℹ️ Labeled PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. 💪 Opened PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. ℹ️ Labeled PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-10. 💪 Opened PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+1. ℹ️ Labeled PR [#526](https://github.com/tox-dev/toml-fmt/pull/526) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. ℹ️ Labeled PR [#526](https://github.com/tox-dev/toml-fmt/pull/526) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 💪 Opened PR [#526](https://github.com/tox-dev/toml-fmt/pull/526) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. ℹ️ Labeled PR [#881](https://github.com/tox-dev/pipdeptree/pull/881) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. ℹ️ Labeled PR [#881](https://github.com/tox-dev/pipdeptree/pull/881) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 💪 Opened PR [#881](https://github.com/tox-dev/pipdeptree/pull/881) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. ℹ️ Labeled PR [#299](https://github.com/pytest-dev/pytest-print/pull/299) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+8. ℹ️ Labeled PR [#299](https://github.com/pytest-dev/pytest-print/pull/299) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+9. ℹ️ Labeled PR [#299](https://github.com/pytest-dev/pytest-print/pull/299) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+10. ℹ️ Labeled PR [#299](https://github.com/pytest-dev/pytest-print/pull/299) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
