@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-2. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-3. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-4. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🎉 Merged PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+2. ℹ️ Labeled PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+3. 💪 Opened PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+4. 🎉 Merged PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 5. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-6. 💪 Opened PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-7. 🎉 Merged PR [#2](https://github.com/tox-dev/python-sbom/pull/2) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. 🗣 Commented on [#1264](https://github.com/pypa/build/issues/1264#issuecomment-6714446327) in [pypa/build](https://github.com/pypa/build)
-9. 🎉 Merged PR [#1665](https://github.com/tox-dev/turbohtml/pull/1665) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ❗ Opened issue [#1265](https://github.com/pypa/build/issues/1265) in [pypa/build](https://github.com/pypa/build)
+6. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+7. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+8. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. 💪 Opened PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+10. 🎉 Merged PR [#2](https://github.com/tox-dev/python-sbom/pull/2) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
