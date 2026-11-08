@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1123](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1123) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-2. 🎉 Merged PR [#3530](https://github.com/pypa/virtualenv/pull/3530) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#526](https://github.com/tox-dev/toml-fmt/pull/526) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. 🎉 Merged PR [#2440](https://github.com/pypa/pipx/pull/2440) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🎉 Merged PR [#4401](https://github.com/tox-dev/tox/pull/4401) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. 🎉 Merged PR [#361](https://github.com/tox-dev/pyproject-api/pull/361) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-7. 🎉 Merged PR [#308](https://github.com/pytest-dev/pytest-env/pull/308) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-8. 🎉 Merged PR [#881](https://github.com/tox-dev/pipdeptree/pull/881) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#299](https://github.com/pytest-dev/pytest-print/pull/299) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-10. 🎉 Merged PR [#214](https://github.com/tox-dev/pre-commit-uv/pull/214) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#3531](https://github.com/pypa/virtualenv/pull/3531) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🎉 Merged PR [#1123](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1123) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#3530](https://github.com/pypa/virtualenv/pull/3530) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#526](https://github.com/tox-dev/toml-fmt/pull/526) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 🎉 Merged PR [#2440](https://github.com/pypa/pipx/pull/2440) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🎉 Merged PR [#4401](https://github.com/tox-dev/tox/pull/4401) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#361](https://github.com/tox-dev/pyproject-api/pull/361) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+8. 🎉 Merged PR [#308](https://github.com/pytest-dev/pytest-env/pull/308) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. 🎉 Merged PR [#881](https://github.com/tox-dev/pipdeptree/pull/881) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. 🎉 Merged PR [#299](https://github.com/pytest-dev/pytest-print/pull/299) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
