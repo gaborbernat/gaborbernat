@@ -38,9 +38,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1264](https://github.com/pypa/build/issues/1264#issuecomment-6714446327) in [pypa/build](https://github.com/pypa/build)
-2. 🎉 Merged PR [#1665](https://github.com/tox-dev/turbohtml/pull/1665) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled issue [#1268](https://github.com/pypa/build/issues/1268) in [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#2](https://github.com/tox-dev/python-sbom/pull/2) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+2. 🗣 Commented on [#1264](https://github.com/pypa/build/issues/1264#issuecomment-6714446327) in [pypa/build](https://github.com/pypa/build)
+3. 🎉 Merged PR [#1665](https://github.com/tox-dev/turbohtml/pull/1665) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 4. ❗ Opened issue [#1268](https://github.com/pypa/build/issues/1268) in [pypa/build](https://github.com/pypa/build)
 5. ℹ️ Labeled issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
 6. ❗ Opened issue [#1267](https://github.com/pypa/build/issues/1267) in [pypa/build](https://github.com/pypa/build)
