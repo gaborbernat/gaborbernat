@@ -38,12 +38,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 🎉 Merged PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-3. ℹ️ Labeled PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-4. 💪 Opened PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-5. 🎉 Merged PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-6. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#70](https://github.com/gaborbernat/simplint/pull/70) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 💪 Opened PR [#70](https://github.com/gaborbernat/simplint/pull/70) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 🎉 Merged PR [#69](https://github.com/gaborbernat/simplint/pull/69) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 🎉 Merged PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+5. ℹ️ Labeled PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+6. 💪 Opened PR [#4](https://github.com/tox-dev/python-sbom/pull/4) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 7. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 8. ℹ️ Labeled PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 9. 💪 Opened PR [#3](https://github.com/tox-dev/python-sbom/pull/3) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
