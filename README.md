@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. 💪 Opened PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🗣 Commented on [#4399](https://github.com/tox-dev/tox/issues/4399#issuecomment-6725270537) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
 3. ℹ️ Labeled PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-4. 💪 Opened PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-5. ℹ️ Labeled PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-6. 💪 Opened PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-7. ℹ️ Labeled PR [#3530](https://github.com/pypa/virtualenv/pull/3530) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#3530](https://github.com/pypa/virtualenv/pull/3530) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#6](https://github.com/tox-dev/python-sbom/pull/6) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-10. 🎉 Merged PR [#5](https://github.com/tox-dev/python-sbom/pull/5) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+4. ℹ️ Labeled PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+5. ℹ️ Labeled PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+6. 💪 Opened PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+7. ℹ️ Labeled PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+8. 💪 Opened PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+9. ℹ️ Labeled PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+10. 💪 Opened PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
