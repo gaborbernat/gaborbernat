@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#4400](https://github.com/tox-dev/tox/pull/4400) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🗣 Commented on [#4400](https://github.com/tox-dev/tox/pull/4400#issuecomment-6726983315) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#4399](https://github.com/tox-dev/tox/issues/4399) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#695](https://github.com/tox-dev/platformdirs/pull/695) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. ℹ️ Labeled PR [#695](https://github.com/tox-dev/platformdirs/pull/695) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. ℹ️ Labeled PR [#695](https://github.com/tox-dev/platformdirs/pull/695) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Labeled PR [#695](https://github.com/tox-dev/platformdirs/pull/695) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 💪 Opened PR [#695](https://github.com/tox-dev/platformdirs/pull/695) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. ℹ️ Labeled PR [#4401](https://github.com/tox-dev/tox/pull/4401) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#4401](https://github.com/tox-dev/tox/pull/4401) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#408](https://github.com/tox-dev/tox-ini-fmt/pull/408) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+2. 🎉 Merged PR [#62](https://github.com/tox-dev/mdformat-zola/pull/62) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+3. 🎉 Merged PR [#400](https://github.com/tox-dev/sphinx-argparse-cli/pull/400) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 🎉 Merged PR [#1666](https://github.com/tox-dev/turbohtml/pull/1666) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 🎉 Merged PR [#918](https://github.com/tox-dev/filelock/pull/918) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🎉 Merged PR [#695](https://github.com/tox-dev/platformdirs/pull/695) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🎉 Merged PR [#254](https://github.com/tox-dev/python-discovery/pull/254) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. ℹ️ Labeled PR [#254](https://github.com/tox-dev/python-discovery/pull/254) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+9. ℹ️ Labeled PR [#254](https://github.com/tox-dev/python-discovery/pull/254) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+10. 💪 Opened PR [#254](https://github.com/tox-dev/python-discovery/pull/254) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
