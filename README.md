@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1230](https://github.com/pypa/build/pull/1230#issuecomment-6744781534) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#919](https://github.com/tox-dev/filelock/pull/919#issuecomment-6747292263) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#72](https://github.com/gaborbernat/simplint/pull/72) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#7](https://github.com/tox-dev/python-sbom/pull/7) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+2. 🗣 Commented on [#1230](https://github.com/pypa/build/pull/1230#issuecomment-6744781534) in [pypa/build](https://github.com/pypa/build)
+3. 🗣 Commented on [#919](https://github.com/tox-dev/filelock/pull/919#issuecomment-6747292263) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 4. ℹ️ Labeled PR [#72](https://github.com/gaborbernat/simplint/pull/72) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 💪 Opened PR [#72](https://github.com/gaborbernat/simplint/pull/72) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 🎉 Merged PR [#921](https://github.com/tox-dev/filelock/pull/921) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ❌ Closed PR [#919](https://github.com/tox-dev/filelock/pull/919) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Labeled PR [#72](https://github.com/gaborbernat/simplint/pull/72) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. 💪 Opened PR [#72](https://github.com/gaborbernat/simplint/pull/72) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. 🎉 Merged PR [#921](https://github.com/tox-dev/filelock/pull/921) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 8. ❌ Closed PR [#919](https://github.com/tox-dev/filelock/pull/919) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ℹ️ Reopened PR [#919](https://github.com/tox-dev/filelock/pull/919) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🔒 Closed issue [#920](https://github.com/tox-dev/filelock/issues/920) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. ❌ Closed PR [#919](https://github.com/tox-dev/filelock/pull/919) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. ℹ️ Reopened PR [#919](https://github.com/tox-dev/filelock/pull/919) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
