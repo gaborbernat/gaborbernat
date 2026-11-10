@@ -38,12 +38,12 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#306](https://github.com/gaborbernat/pypi-changes/pull/306) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-2. 🎉 Merged PR [#79](https://github.com/gaborbernat/simplint/pull/79) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. 🎉 Merged PR [#13](https://github.com/tox-dev/python-sbom/pull/13) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-4. ℹ️ Labeled PR [#79](https://github.com/gaborbernat/simplint/pull/79) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 💪 Opened PR [#13](https://github.com/tox-dev/python-sbom/pull/13) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-6. ℹ️ Labeled PR [#13](https://github.com/tox-dev/python-sbom/pull/13) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#259](https://github.com/tox-dev/python-discovery/pull/259) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. ℹ️ Labeled PR [#259](https://github.com/tox-dev/python-discovery/pull/259) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. 💪 Opened PR [#260](https://github.com/tox-dev/python-discovery/pull/260) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. 💪 Opened PR [#259](https://github.com/tox-dev/python-discovery/pull/259) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. ℹ️ Labeled PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. ℹ️ Labeled PR [#306](https://github.com/gaborbernat/pypi-changes/pull/306) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
 7. 🎉 Merged PR [#884](https://github.com/tox-dev/pipdeptree/pull/884) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 8. ℹ️ Labeled PR [#2444](https://github.com/pypa/pipx/pull/2444) in [pypa/pipx](https://github.com/pypa/pipx)
 9. ℹ️ Labeled PR [#12](https://github.com/tox-dev/python-sbom/pull/12) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
