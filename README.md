@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-2. 💪 Opened PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-3. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-4. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-5. ℹ️ Unlabeled PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🎉 Merged PR [#156](https://github.com/tox-dev/xml-fmt/pull/156) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-7. 🎉 Merged PR [#404](https://github.com/tox-dev/sphinx-argparse-cli/pull/404) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. ❌ Closed PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-9. ℹ️ Reopened PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-10. ℹ️ Labeled PR [#67](https://github.com/tox-dev/action-pre-commit-uv/pull/67) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🎉 Merged PR [#82](https://github.com/gaborbernat/simplint/pull/82) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 🎉 Merged PR [#81](https://github.com/gaborbernat/simplint/pull/81) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 🎉 Merged PR [#80](https://github.com/gaborbernat/simplint/pull/80) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#33](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/33) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+5. 💪 Opened PR [#32](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/32) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+6. ℹ️ Labeled PR [#35](https://github.com/gaborbernat/gaborbernat/pull/35) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+7. ℹ️ Labeled PR [#35](https://github.com/gaborbernat/gaborbernat/pull/35) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+8. ℹ️ Labeled PR [#35](https://github.com/gaborbernat/gaborbernat/pull/35) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+9. ℹ️ Labeled PR [#35](https://github.com/gaborbernat/gaborbernat/pull/35) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+10. 💪 Opened PR [#35](https://github.com/gaborbernat/gaborbernat/pull/35) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
