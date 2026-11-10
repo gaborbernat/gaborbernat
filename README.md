@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#34](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/34) in
-   [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-1. ℹ️ Labeled PR [#34](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/34) in
-   [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-1. 💪 Opened PR [#34](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/34) in
-   [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-1. 🎉 Merged PR [#64](https://github.com/tox-dev/tox-toml-fmt/pull/64) in
-   [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-1. ℹ️ Labeled PR [#64](https://github.com/tox-dev/tox-toml-fmt/pull/64) in
-   [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+1. 🎉 Merged PR [#34](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/34) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+2. ℹ️ Labeled PR [#34](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/34) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+3. 💪 Opened PR [#34](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/34) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+4. 🎉 Merged PR [#64](https://github.com/tox-dev/tox-toml-fmt/pull/64) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+5. ℹ️ Labeled PR [#64](https://github.com/tox-dev/tox-toml-fmt/pull/64) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+6. 💪 Opened PR [#64](https://github.com/tox-dev/tox-toml-fmt/pull/64) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+7. ℹ️ Labeled PR [#382](https://github.com/tox-dev/pyproject-fmt/pull/382) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+8. 💪 Opened PR [#382](https://github.com/tox-dev/pyproject-fmt/pull/382) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+9. 🎉 Merged PR [#15](https://github.com/gaborbernat/dotfiles/pull/15) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+10. 🎉 Merged PR [#46](https://github.com/gaborbernat/all-repos-self/pull/46) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
 1. 💪 Opened PR [#64](https://github.com/tox-dev/tox-toml-fmt/pull/64) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. ℹ️ Labeled PR [#382](https://github.com/tox-dev/pyproject-fmt/pull/382) in
