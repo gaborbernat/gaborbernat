@@ -38,16 +38,26 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-3. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-5. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 💪 Opened PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. ℹ️ Labeled PR [#1674](https://github.com/tox-dev/turbohtml/pull/1674) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 💪 Opened PR [#1674](https://github.com/tox-dev/turbohtml/pull/1674) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#1673](https://github.com/tox-dev/turbohtml/pull/1673) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#1674](https://github.com/tox-dev/turbohtml/pull/1674) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#1674](https://github.com/tox-dev/turbohtml/pull/1674) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#1673](https://github.com/tox-dev/turbohtml/pull/1673) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 1. ℹ️ Labeled PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
    [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
 1. 💪 Opened PR [#533](https://github.com/tox-dev/toml-fmt/pull/533) in
