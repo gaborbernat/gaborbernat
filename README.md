@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-2. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-3. ℹ️ Labeled PR [#885](https://github.com/tox-dev/pipdeptree/pull/885) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-5. ℹ️ Labeled PR [#885](https://github.com/tox-dev/pipdeptree/pull/885) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+2. 🎉 Merged PR [#885](https://github.com/tox-dev/pipdeptree/pull/885) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. 🎉 Merged PR [#66](https://github.com/tox-dev/github-workflows/pull/66) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+4. 🎉 Merged PR [#2443](https://github.com/pypa/pipx/pull/2443) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 6. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-7. 💪 Opened PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. 💪 Opened PR [#885](https://github.com/tox-dev/pipdeptree/pull/885) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#65](https://github.com/tox-dev/action-pre-commit-uv/pull/65) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-10. ℹ️ Labeled PR [#66](https://github.com/tox-dev/github-workflows/pull/66) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+7. ℹ️ Labeled PR [#885](https://github.com/tox-dev/pipdeptree/pull/885) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. ℹ️ Labeled PR [#885](https://github.com/tox-dev/pipdeptree/pull/885) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+10. ℹ️ Labeled PR [#11](https://github.com/tox-dev/python-sbom/pull/11) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
