@@ -19,10 +19,24 @@ jobs:
     steps:
       - uses: actions/checkout@v7.0.1
         with:
+          ref: main
           persist-credentials: true
       - uses: jamesgeorge007/github-activity-readme@v0.5.0
+        id: activity
         if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: "10"
+      - uses: astral-sh/setup-uv@v7.6.0
+        if: steps.activity.outcome == 'success'
+      - name: Format generated activity
+        if: steps.activity.outcome == 'success'
+        run: |
+          git pull --ff-only origin main
+          uvx --from mdformat --with mdformat-gfm --with mdformat-ruff mdformat --wrap 120 README.md
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git -c user.name=github-actions[bot] -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -m '💄 style: format generated activity'
+            git push origin HEAD:main
+          fi

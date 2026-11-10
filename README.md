@@ -38,16 +38,26 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-2. 💪 Opened PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-3. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-4. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-5. ℹ️ Unlabeled PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🎉 Merged PR [#156](https://github.com/tox-dev/xml-fmt/pull/156) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-7. 🎉 Merged PR [#404](https://github.com/tox-dev/sphinx-argparse-cli/pull/404) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. ❌ Closed PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-9. ℹ️ Reopened PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-10. ℹ️ Labeled PR [#67](https://github.com/tox-dev/action-pre-commit-uv/pull/67) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 💪 Opened PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. ℹ️ Labeled PR [#181](https://github.com/tox-dev/jetbrains-fish/pull/181) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. ℹ️ Unlabeled PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#156](https://github.com/tox-dev/xml-fmt/pull/156) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🎉 Merged PR [#404](https://github.com/tox-dev/sphinx-argparse-cli/pull/404) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. ❌ Closed PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. ℹ️ Reopened PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. ℹ️ Labeled PR [#67](https://github.com/tox-dev/action-pre-commit-uv/pull/67) in
+   [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
