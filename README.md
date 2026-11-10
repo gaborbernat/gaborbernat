@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#87](https://github.com/gaborbernat/simplint/pull/87) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ℹ️ Labeled PR [#4410](https://github.com/tox-dev/tox/pull/4410) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 💪 Opened PR [#4410](https://github.com/tox-dev/tox/pull/4410) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#85](https://github.com/gaborbernat/simplint/pull/85) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 🎉 Merged PR [#84](https://github.com/gaborbernat/simplint/pull/84) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 🎉 Merged PR [#83](https://github.com/gaborbernat/simplint/pull/83) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. ℹ️ Labeled PR [#1672](https://github.com/tox-dev/turbohtml/pull/1672) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🎉 Merged PR [#2417](https://github.com/tox-dev/peryx/pull/2417) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-9. ℹ️ Labeled PR [#85](https://github.com/gaborbernat/simplint/pull/85) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 💪 Opened PR [#85](https://github.com/gaborbernat/simplint/pull/85) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#4412](https://github.com/tox-dev/tox/pull/4412) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 💪 Opened PR [#4412](https://github.com/tox-dev/tox/pull/4412) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. 💪 Opened PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. ℹ️ Labeled PR [#4411](https://github.com/tox-dev/tox/pull/4411) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 💪 Opened PR [#4411](https://github.com/tox-dev/tox/pull/4411) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#88](https://github.com/gaborbernat/simplint/pull/88) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
