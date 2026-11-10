@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#4412](https://github.com/tox-dev/tox/pull/4412) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 💪 Opened PR [#4412](https://github.com/tox-dev/tox/pull/4412) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. ℹ️ Labeled PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. 💪 Opened PR [#89](https://github.com/gaborbernat/simplint/pull/89) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. ℹ️ Labeled PR [#4411](https://github.com/tox-dev/tox/pull/4411) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. 💪 Opened PR [#4411](https://github.com/tox-dev/tox/pull/4411) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#88](https://github.com/gaborbernat/simplint/pull/88) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#87](https://github.com/gaborbernat/simplint/pull/87) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. ℹ️ Labeled PR [#4414](https://github.com/tox-dev/tox/pull/4414) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#4414](https://github.com/tox-dev/tox/pull/4414) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#4414](https://github.com/tox-dev/tox/pull/4414) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#4414](https://github.com/tox-dev/tox/pull/4414) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#4414](https://github.com/tox-dev/tox/pull/4414) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#4413](https://github.com/tox-dev/tox/pull/4413) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#4413](https://github.com/tox-dev/tox/pull/4413) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 💪 Opened PR [#4413](https://github.com/tox-dev/tox/pull/4413) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4412](https://github.com/tox-dev/tox/pull/4412) in [tox-dev/tox](https://github.com/tox-dev/tox)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
