@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#884](https://github.com/tox-dev/pipdeptree/pull/884) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. ℹ️ Labeled PR [#2444](https://github.com/pypa/pipx/pull/2444) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#12](https://github.com/tox-dev/python-sbom/pull/12) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-4. ℹ️ Labeled PR [#65](https://github.com/tox-dev/mdformat-zola/pull/65) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-5. ℹ️ Labeled PR [#1671](https://github.com/tox-dev/turbohtml/pull/1671) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#155](https://github.com/tox-dev/xml-fmt/pull/155) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-7. ℹ️ Labeled PR [#316](https://github.com/gaborbernat/bump-deps-index/pull/316) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-8. ℹ️ Labeled PR [#73](https://github.com/gaborbernat/mdformat-hugo/pull/73) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-9. ℹ️ Labeled PR [#306](https://github.com/gaborbernat/pypi-changes/pull/306) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-10. ℹ️ Labeled PR [#411](https://github.com/tox-dev/tox-ini-fmt/pull/411) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#79](https://github.com/gaborbernat/simplint/pull/79) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 🎉 Merged PR [#13](https://github.com/tox-dev/python-sbom/pull/13) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+3. ℹ️ Labeled PR [#79](https://github.com/gaborbernat/simplint/pull/79) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#79](https://github.com/gaborbernat/simplint/pull/79) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 💪 Opened PR [#13](https://github.com/tox-dev/python-sbom/pull/13) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+6. ℹ️ Labeled PR [#13](https://github.com/tox-dev/python-sbom/pull/13) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+7. 🎉 Merged PR [#884](https://github.com/tox-dev/pipdeptree/pull/884) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. ℹ️ Labeled PR [#2444](https://github.com/pypa/pipx/pull/2444) in [pypa/pipx](https://github.com/pypa/pipx)
+9. ℹ️ Labeled PR [#12](https://github.com/tox-dev/python-sbom/pull/12) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+10. ℹ️ Labeled PR [#65](https://github.com/tox-dev/mdformat-zola/pull/65) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
