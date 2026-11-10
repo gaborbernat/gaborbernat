@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#60](https://github.com/tox-dev/github-workflows/pull/60) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-2. 🎉 Merged PR [#63](https://github.com/tox-dev/github-workflows/pull/63) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-3. 🎉 Merged PR [#62](https://github.com/tox-dev/github-workflows/pull/62) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-4. ℹ️ Labeled PR [#63](https://github.com/tox-dev/github-workflows/pull/63) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-5. 💪 Opened PR [#63](https://github.com/tox-dev/github-workflows/pull/63) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-6. 🎉 Merged PR [#74](https://github.com/gaborbernat/simplint/pull/74) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. 🎉 Merged PR [#924](https://github.com/tox-dev/filelock/pull/924) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🎉 Merged PR [#3536](https://github.com/pypa/virtualenv/pull/3536) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#924](https://github.com/tox-dev/filelock/pull/924) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Labeled PR [#924](https://github.com/tox-dev/filelock/pull/924) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#36](https://github.com/quotaline/quotaline/pull/36) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+2. 💪 Opened PR [#36](https://github.com/quotaline/quotaline/pull/36) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+3. ℹ️ Labeled PR [#2443](https://github.com/pypa/pipx/pull/2443) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 💪 Opened PR [#2443](https://github.com/pypa/pipx/pull/2443) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled PR [#257](https://github.com/tox-dev/python-discovery/pull/257) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. 💪 Opened PR [#257](https://github.com/tox-dev/python-discovery/pull/257) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. ℹ️ Labeled PR [#179](https://github.com/tox-dev/jetbrains-fish/pull/179) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+8. 💪 Opened PR [#179](https://github.com/tox-dev/jetbrains-fish/pull/179) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+9. ℹ️ Labeled PR [#64](https://github.com/tox-dev/mdformat-zola/pull/64) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+10. 💪 Opened PR [#64](https://github.com/tox-dev/mdformat-zola/pull/64) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 1. 💪 Opened PR [#43](https://github.com/tox-dev/tox-toml-fmt/pull/43) in
    [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
 1. 💪 Opened PR [#348](https://github.com/tox-dev/tox-ini-fmt/pull/348) in
