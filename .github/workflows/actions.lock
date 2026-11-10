@@ -4,10 +4,12 @@
 version: 'v0.0.3'
 workflows:
     '.github/workflows/metrics.yaml':
+        - 'actions/checkout@v7.0.1'
         - 'lowlighter/metrics@v3.34'
     '.github/workflows/scorecard.yaml': []
     '.github/workflows/update-readme.yaml':
         - 'actions/checkout@v7.0.1'
+        - 'astral-sh/setup-uv@v7.6.0'
         - 'jamesgeorge007/github-activity-readme@v0.5.0'
 dependencies:
     'actions/checkout@v7.0.1':
@@ -15,6 +17,11 @@ dependencies:
         commit: 'sha1-3d3c42e5aac5ba805825da76410c181273ba90b1'
         owner_id: 44036562
         repo_id: 197814629
+    'astral-sh/setup-uv@v7.6.0':
+        ref: 'v7.6.0'
+        commit: 'sha1-37802adc94f370d6bfd71619e3f0bf239e1f3b78'
+        owner_id: 115962839
+        repo_id: 846733598
     'jamesgeorge007/github-activity-readme@v0.5.0':
         ref: 'v0.5.0'
         commit: 'sha1-4aefbfa1c222d70537dc6a02f0519266aab2b1ea'

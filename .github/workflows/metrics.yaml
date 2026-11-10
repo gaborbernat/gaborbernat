@@ -14,10 +14,16 @@ jobs:
       contents: write # commit the rendered metrics image
     environment: metrics
     steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          ref: main
+          persist-credentials: true
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: gaborbernat
+          filename: github-metrics.svg
+          output_action: none
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
@@ -32,3 +38,13 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_stars: yes
           plugin_stars_limit: 4
+      - name: Commit metrics image
+        run: |
+          git pull --ff-only origin main
+          sudo cat /metrics_renders/github-metrics.svg > github-metrics.svg
+          python3 -c 'from pathlib import Path; path = Path("github-metrics.svg"); path.write_bytes(path.read_bytes().rstrip(b"\n") + b"\n")'
+          git add github-metrics.svg
+          if ! git diff --cached --quiet; then
+            git -c user.name=github-actions[bot] -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -m '🔧 chore: refresh metrics image'
+            git push origin HEAD:main
+          fi
