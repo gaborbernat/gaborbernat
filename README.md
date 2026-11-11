@@ -38,16 +38,16 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#102](https://github.com/gaborbernat/simplint/pull/102) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#103](https://github.com/gaborbernat/simplint/pull/103) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#103](https://github.com/gaborbernat/simplint/pull/103) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#102](https://github.com/gaborbernat/simplint/pull/102) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#102](https://github.com/gaborbernat/simplint/pull/102) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#534](https://github.com/tox-dev/toml-fmt/pull/534) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. ℹ️ Labeled PR [#534](https://github.com/tox-dev/toml-fmt/pull/534) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 💪 Opened PR [#534](https://github.com/tox-dev/toml-fmt/pull/534) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. ℹ️ Labeled PR [#16](https://github.com/gaborbernat/dotfiles/pull/16) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+5. 💪 Opened PR [#16](https://github.com/gaborbernat/dotfiles/pull/16) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+6. 🎉 Merged PR [#105](https://github.com/gaborbernat/simplint/pull/105) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. ℹ️ Labeled PR [#36](https://github.com/gaborbernat/gaborbernat/pull/36) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+8. ℹ️ Labeled PR [#36](https://github.com/gaborbernat/gaborbernat/pull/36) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+9. 💪 Opened PR [#36](https://github.com/gaborbernat/gaborbernat/pull/36) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+10. ℹ️ Labeled PR [#106](https://github.com/gaborbernat/simplint/pull/106) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 1. 🎉 Merged PR [#93](https://github.com/gaborbernat/simplint/pull/93) in
    [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 1. 🎉 Merged PR [#92](https://github.com/gaborbernat/simplint/pull/92) in
