@@ -37,20 +37,11 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ❌ Closed PR [#3538](https://github.com/pypa/virtualenv/pull/3538) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#1677](https://github.com/tox-dev/turbohtml/pull/1677) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
+1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. ❌ Closed PR [#3538](https://github.com/pypa/virtualenv/pull/3538) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
