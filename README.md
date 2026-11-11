@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3538](https://github.com/pypa/virtualenv/pull/3538) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#1677](https://github.com/tox-dev/turbohtml/pull/1677) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#41](https://github.com/quotaline/quotaline/pull/41) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. 💪 Opened PR [#41](https://github.com/quotaline/quotaline/pull/41) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-5. 💪 Opened PR [#17](https://github.com/gaborbernat/dotfiles/pull/17) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-6. 🎉 Merged PR [#65](https://github.com/tox-dev/tox-toml-fmt/pull/65) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-7. 🎉 Merged PR [#383](https://github.com/tox-dev/pyproject-fmt/pull/383) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-8. 🎉 Merged PR [#535](https://github.com/tox-dev/toml-fmt/pull/535) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🎉 Merged PR [#3](https://github.com/gaborbernat/simplint-pre-commit/pull/3) in [gaborbernat/simplint-pre-commit](https://github.com/gaborbernat/simplint-pre-commit)
-10. 🎉 Merged PR [#125](https://github.com/gaborbernat/simplint/pull/125) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. ❌ Closed PR [#3538](https://github.com/pypa/virtualenv/pull/3538) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#1677](https://github.com/tox-dev/turbohtml/pull/1677) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#41](https://github.com/quotaline/quotaline/pull/41) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#41](https://github.com/quotaline/quotaline/pull/41) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#17](https://github.com/gaborbernat/dotfiles/pull/17) in
+   [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+1. 🎉 Merged PR [#65](https://github.com/tox-dev/tox-toml-fmt/pull/65) in
+   [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+1. 🎉 Merged PR [#383](https://github.com/tox-dev/pyproject-fmt/pull/383) in
+   [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. 🎉 Merged PR [#535](https://github.com/tox-dev/toml-fmt/pull/535) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#3](https://github.com/gaborbernat/simplint-pre-commit/pull/3) in
+   [gaborbernat/simplint-pre-commit](https://github.com/gaborbernat/simplint-pre-commit)
+1. 🎉 Merged PR [#125](https://github.com/gaborbernat/simplint/pull/125) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
