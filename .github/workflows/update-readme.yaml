@@ -21,6 +21,17 @@ jobs:
         with:
           ref: main
           persist-credentials: true
+      - name: Clear previous activity
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'}}
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path("README.md")
+          before, section = path.read_text().split("<!--START_SECTION:activity-->", 1)
+          _, after = section.split("<!--END_SECTION:activity-->", 1)
+          path.write_text(f"{before}<!--START_SECTION:activity-->\n<!--END_SECTION:activity-->{after}")
+          PY
       - uses: jamesgeorge007/github-activity-readme@v0.5.0
         id: activity
         if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'}}
@@ -35,6 +46,16 @@ jobs:
         run: |
           git pull --ff-only origin main
           uvx --from mdformat --with mdformat-gfm --with mdformat-ruff mdformat --wrap 120 README.md
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          content = Path("README.md").read_text()
+          section = content.split("<!--START_SECTION:activity-->", 1)[1].split("<!--END_SECTION:activity-->", 1)[0]
+          entries = sum(bool(re.match(r"^\d+\. ", line)) for line in section.splitlines())
+          if entries > 10:
+              raise SystemExit(f"Expected at most 10 activity entries, found {entries}")
+          PY
           git add README.md
           if ! git diff --cached --quiet; then
             git -c user.name=github-actions[bot] -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -m '💄 style: format generated activity'
