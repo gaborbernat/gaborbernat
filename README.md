@@ -37,10 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
