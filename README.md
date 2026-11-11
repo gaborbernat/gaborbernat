@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#123](https://github.com/gaborbernat/simplint/pull/123) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#123](https://github.com/gaborbernat/simplint/pull/123) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 💪 Opened PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#3540](https://github.com/pypa/virtualenv/pull/3540) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#3540](https://github.com/pypa/virtualenv/pull/3540) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#3540](https://github.com/pypa/virtualenv/pull/3540) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
+1. ℹ️ Labeled PR [#123](https://github.com/gaborbernat/simplint/pull/123) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#123](https://github.com/gaborbernat/simplint/pull/123) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3541](https://github.com/pypa/virtualenv/pull/3541) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3540](https://github.com/pypa/virtualenv/pull/3540) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3540](https://github.com/pypa/virtualenv/pull/3540) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3540](https://github.com/pypa/virtualenv/pull/3540) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
