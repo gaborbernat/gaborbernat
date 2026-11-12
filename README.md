@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/tox-dev/pre-commit-uv/pull/217) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-2. 🎉 Merged PR [#127](https://github.com/gaborbernat/simplint/pull/127) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ℹ️ Labeled PR [#127](https://github.com/gaborbernat/simplint/pull/127) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 💪 Opened PR [#127](https://github.com/gaborbernat/simplint/pull/127) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. ℹ️ Labeled PR [#3543](https://github.com/pypa/virtualenv/pull/3543) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 💪 Opened PR [#3543](https://github.com/pypa/virtualenv/pull/3543) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. 🗣 Commented on [#14653](https://github.com/ghostty-org/ghostty/pull/14653#issuecomment-6807841418) in [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-9. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. 🎉 Merged PR [#217](https://github.com/tox-dev/pre-commit-uv/pull/217) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#127](https://github.com/gaborbernat/simplint/pull/127) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#127](https://github.com/gaborbernat/simplint/pull/127) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#127](https://github.com/gaborbernat/simplint/pull/127) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#3543](https://github.com/pypa/virtualenv/pull/3543) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3543](https://github.com/pypa/virtualenv/pull/3543) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🗣 Commented on [#14653](https://github.com/ghostty-org/ghostty/pull/14653#issuecomment-6807841418) in
+   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
