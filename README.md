@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#130](https://github.com/gaborbernat/simplint/pull/130) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#131](https://github.com/gaborbernat/simplint/pull/131) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#131](https://github.com/gaborbernat/simplint/pull/131) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#131](https://github.com/gaborbernat/simplint/pull/131) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#131](https://github.com/gaborbernat/simplint/pull/131) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#130](https://github.com/gaborbernat/simplint/pull/130) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#130](https://github.com/gaborbernat/simplint/pull/130) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#130](https://github.com/gaborbernat/simplint/pull/130) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#130](https://github.com/gaborbernat/simplint/pull/130) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#129](https://github.com/gaborbernat/simplint/pull/129) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. 🎉 Merged PR [#130](https://github.com/gaborbernat/simplint/pull/130) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 🎉 Merged PR [#131](https://github.com/gaborbernat/simplint/pull/131) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. ℹ️ Labeled PR [#131](https://github.com/gaborbernat/simplint/pull/131) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#131](https://github.com/gaborbernat/simplint/pull/131) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 💪 Opened PR [#131](https://github.com/gaborbernat/simplint/pull/131) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. ℹ️ Labeled PR [#130](https://github.com/gaborbernat/simplint/pull/130) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. ℹ️ Labeled PR [#130](https://github.com/gaborbernat/simplint/pull/130) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. ℹ️ Labeled PR [#130](https://github.com/gaborbernat/simplint/pull/130) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+9. 💪 Opened PR [#130](https://github.com/gaborbernat/simplint/pull/130) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+10. 🎉 Merged PR [#129](https://github.com/gaborbernat/simplint/pull/129) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
