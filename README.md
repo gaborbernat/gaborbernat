@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-2. ℹ️ Unlabeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. ❌ Closed PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-4. ❌ Closed PR [#341](https://github.com/tox-dev/tox-gh/pull/341) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-5. ❌ Closed PR [#158](https://github.com/tox-dev/xml-fmt/pull/158) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-6. ℹ️ Labeled PR [#365](https://github.com/tox-dev/pyproject-api/pull/365) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-7. 💪 Opened PR [#365](https://github.com/tox-dev/pyproject-api/pull/365) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-8. ℹ️ Labeled PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 💪 Opened PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+
+1. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ℹ️ Unlabeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ❌ Closed PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ❌ Closed PR [#341](https://github.com/tox-dev/tox-gh/pull/341) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. ❌ Closed PR [#158](https://github.com/tox-dev/xml-fmt/pull/158) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. ℹ️ Labeled PR [#365](https://github.com/tox-dev/pyproject-api/pull/365) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 💪 Opened PR [#365](https://github.com/tox-dev/pyproject-api/pull/365) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. ℹ️ Labeled PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
