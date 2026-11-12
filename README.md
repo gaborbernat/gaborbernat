@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#217](https://github.com/tox-dev/pre-commit-uv/pull/217) in
-   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-1. 🎉 Merged PR [#127](https://github.com/gaborbernat/simplint/pull/127) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#127](https://github.com/gaborbernat/simplint/pull/127) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#127](https://github.com/gaborbernat/simplint/pull/127) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#3543](https://github.com/pypa/virtualenv/pull/3543) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3543](https://github.com/pypa/virtualenv/pull/3543) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🗣 Commented on [#14653](https://github.com/ghostty-org/ghostty/pull/14653#issuecomment-6807841418) in
-   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#126](https://github.com/gaborbernat/simplint/pull/126) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. ℹ️ Labeled PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 💪 Opened PR [#536](https://github.com/tox-dev/toml-fmt/pull/536) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. ℹ️ Labeled PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+4. 💪 Opened PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. ℹ️ Labeled PR [#158](https://github.com/tox-dev/xml-fmt/pull/158) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+6. 💪 Opened PR [#158](https://github.com/tox-dev/xml-fmt/pull/158) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+7. ℹ️ Labeled PR [#341](https://github.com/tox-dev/tox-gh/pull/341) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+8. 💪 Opened PR [#341](https://github.com/tox-dev/tox-gh/pull/341) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+9. 🎉 Merged PR [#529](https://github.com/tox-dev/toml-fmt/pull/529) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. 🎉 Merged PR [#302](https://github.com/pytest-dev/pytest-print/pull/302) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
