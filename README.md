@@ -37,26 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#14836](https://github.com/sphinx-doc/sphinx/pull/14836) in
-   [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-1. 💪 Opened PR [#14835](https://github.com/sphinx-doc/sphinx/pull/14835) in
-   [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-1. ℹ️ Labeled PR [#4419](https://github.com/tox-dev/tox/pull/4419) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 💪 Opened PR [#4419](https://github.com/tox-dev/tox/pull/4419) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. 💪 Opened PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#66](https://github.com/tox-dev/mdformat-zola/pull/66) in
-   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-
+1. ℹ️ Labeled PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#14836](https://github.com/sphinx-doc/sphinx/pull/14836) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. 💪 Opened PR [#14835](https://github.com/sphinx-doc/sphinx/pull/14835) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+5. ℹ️ Labeled PR [#4419](https://github.com/tox-dev/tox/pull/4419) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 💪 Opened PR [#4419](https://github.com/tox-dev/tox/pull/4419) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. ℹ️ Labeled PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+8. ℹ️ Labeled PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. 💪 Opened PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. ℹ️ Labeled PR [#66](https://github.com/tox-dev/mdformat-zola/pull/66) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
