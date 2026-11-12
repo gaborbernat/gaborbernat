@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#129](https://github.com/gaborbernat/simplint/pull/129) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#129](https://github.com/gaborbernat/simplint/pull/129) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. ❌ Closed PR [#2451](https://github.com/pypa/pipx/pull/2451) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#17](https://github.com/gaborbernat/dotfiles/pull/17) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-5. 🎉 Merged PR [#41](https://github.com/quotaline/quotaline/pull/41) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-6. 🎉 Merged PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-7. 🎉 Merged PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-8. 🎉 Merged PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🎉 Merged PR [#538](https://github.com/tox-dev/toml-fmt/pull/538) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 🎉 Merged PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+
+1. ℹ️ Labeled PR [#129](https://github.com/gaborbernat/simplint/pull/129) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#129](https://github.com/gaborbernat/simplint/pull/129) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ❌ Closed PR [#2451](https://github.com/pypa/pipx/pull/2451) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#17](https://github.com/gaborbernat/dotfiles/pull/17) in
+   [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+1. 🎉 Merged PR [#41](https://github.com/quotaline/quotaline/pull/41) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🎉 Merged PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#538](https://github.com/tox-dev/toml-fmt/pull/538) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
