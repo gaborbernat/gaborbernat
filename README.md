@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#4408](https://github.com/tox-dev/tox/pull/4408) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#2444](https://github.com/pypa/pipx/pull/2444) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🎉 Merged PR [#65](https://github.com/tox-dev/mdformat-zola/pull/65) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-4. ℹ️ Labeled PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 💪 Opened PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-6. ℹ️ Labeled PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. ℹ️ Labeled PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 💪 Opened PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. 🎉 Merged PR [#698](https://github.com/tox-dev/platformdirs/pull/698) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. 🎉 Merged PR [#365](https://github.com/tox-dev/pyproject-api/pull/365) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🎉 Merged PR [#2444](https://github.com/pypa/pipx/pull/2444) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#65](https://github.com/tox-dev/mdformat-zola/pull/65) in
+   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+1. ℹ️ Labeled PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 💪 Opened PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ℹ️ Labeled PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#698](https://github.com/tox-dev/platformdirs/pull/698) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#365](https://github.com/tox-dev/pyproject-api/pull/365) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
