@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#159](https://github.com/tox-dev/xml-fmt/pull/159) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-2. 💪 Opened PR [#415](https://github.com/tox-dev/tox-ini-fmt/pull/415) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-3. 💪 Opened PR [#342](https://github.com/tox-dev/tox-gh/pull/342) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 💪 Opened PR [#219](https://github.com/tox-dev/pre-commit-uv/pull/219) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 💪 Opened PR [#320](https://github.com/tox-dev/devpi-process/pull/320) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-6. 🎉 Merged PR [#134](https://github.com/gaborbernat/simplint/pull/134) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. ℹ️ Labeled PR [#134](https://github.com/gaborbernat/simplint/pull/134) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. ℹ️ Labeled PR [#134](https://github.com/gaborbernat/simplint/pull/134) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. 💪 Opened PR [#134](https://github.com/gaborbernat/simplint/pull/134) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 🎉 Merged PR [#68](https://github.com/tox-dev/github-workflows/pull/68) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+
+1. 💪 Opened PR [#159](https://github.com/tox-dev/xml-fmt/pull/159) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 💪 Opened PR [#415](https://github.com/tox-dev/tox-ini-fmt/pull/415) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 💪 Opened PR [#342](https://github.com/tox-dev/tox-gh/pull/342) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 💪 Opened PR [#219](https://github.com/tox-dev/pre-commit-uv/pull/219) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 💪 Opened PR [#320](https://github.com/tox-dev/devpi-process/pull/320) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#134](https://github.com/gaborbernat/simplint/pull/134) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#134](https://github.com/gaborbernat/simplint/pull/134) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#134](https://github.com/gaborbernat/simplint/pull/134) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#134](https://github.com/gaborbernat/simplint/pull/134) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#68](https://github.com/tox-dev/github-workflows/pull/68) in
+   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
