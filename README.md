@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/gaborbernat/dotfiles/pull/17) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-2. 🎉 Merged PR [#41](https://github.com/quotaline/quotaline/pull/41) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-3. 🎉 Merged PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-4. 🎉 Merged PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-5. 🎉 Merged PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-6. 🎉 Merged PR [#538](https://github.com/tox-dev/toml-fmt/pull/538) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 🎉 Merged PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. 🎉 Merged PR [#319](https://github.com/tox-dev/devpi-process/pull/319) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-9. 🎉 Merged PR [#887](https://github.com/tox-dev/pipdeptree/pull/887) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. 🎉 Merged PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🎉 Merged PR [#17](https://github.com/gaborbernat/dotfiles/pull/17) in
+   [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+1. 🎉 Merged PR [#41](https://github.com/quotaline/quotaline/pull/41) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🎉 Merged PR [#414](https://github.com/tox-dev/tox-ini-fmt/pull/414) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#413](https://github.com/tox-dev/tox-ini-fmt/pull/413) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#539](https://github.com/tox-dev/toml-fmt/pull/539) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#538](https://github.com/tox-dev/toml-fmt/pull/538) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#537](https://github.com/tox-dev/toml-fmt/pull/537) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#319](https://github.com/tox-dev/devpi-process/pull/319) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#887](https://github.com/tox-dev/pipdeptree/pull/887) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
