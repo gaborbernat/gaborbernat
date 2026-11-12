@@ -37,16 +37,25 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/gaborbernat/simplint/pull/128) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ❌ Closed PR [#1280](https://github.com/pypa/build/pull/1280) in [pypa/build](https://github.com/pypa/build)
-3. ❌ Closed PR [#15381](https://github.com/pytest-dev/pytest/pull/15381) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-4. 💪 Opened PR [#15381](https://github.com/pytest-dev/pytest/pull/15381) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-5. ℹ️ Labeled PR [#1280](https://github.com/pypa/build/pull/1280) in [pypa/build](https://github.com/pypa/build)
-6. 💪 Opened PR [#1280](https://github.com/pypa/build/pull/1280) in [pypa/build](https://github.com/pypa/build)
-7. ℹ️ Labeled PR [#128](https://github.com/gaborbernat/simplint/pull/128) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. 💪 Opened PR [#128](https://github.com/gaborbernat/simplint/pull/128) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. ℹ️ Labeled PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 💪 Opened PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🎉 Merged PR [#128](https://github.com/gaborbernat/simplint/pull/128) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ❌ Closed PR [#1280](https://github.com/pypa/build/pull/1280) in [pypa/build](https://github.com/pypa/build)
+1. ❌ Closed PR [#15381](https://github.com/pytest-dev/pytest/pull/15381) in
+   [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. 💪 Opened PR [#15381](https://github.com/pytest-dev/pytest/pull/15381) in
+   [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. ℹ️ Labeled PR [#1280](https://github.com/pypa/build/pull/1280) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#1280](https://github.com/pypa/build/pull/1280) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#128](https://github.com/gaborbernat/simplint/pull/128) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#128](https://github.com/gaborbernat/simplint/pull/128) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#1678](https://github.com/tox-dev/turbohtml/pull/1678) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
