@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-2. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-3. 💪 Opened PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-5. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-6. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-7. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-8. 💪 Opened PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-9. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-10. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+
+1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in
+   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in
+   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 💪 Opened PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ℹ️ Labeled PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#318](https://github.com/gaborbernat/bump-deps-index/pull/318) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
