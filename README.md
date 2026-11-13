@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#930](https://github.com/tox-dev/filelock/pull/930) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#930](https://github.com/tox-dev/filelock/pull/930) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#138](https://github.com/gaborbernat/simplint/pull/138) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. ℹ️ Labeled PR [#138](https://github.com/gaborbernat/simplint/pull/138) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-5. 💪 Opened PR [#138](https://github.com/gaborbernat/simplint/pull/138) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 🎉 Merged PR [#137](https://github.com/gaborbernat/simplint/pull/137) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. ℹ️ Labeled PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-8. ℹ️ Labeled PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-9. ℹ️ Labeled PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 💪 Opened PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+
+1. ℹ️ Labeled PR [#930](https://github.com/tox-dev/filelock/pull/930) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#930](https://github.com/tox-dev/filelock/pull/930) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#138](https://github.com/gaborbernat/simplint/pull/138) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#138](https://github.com/gaborbernat/simplint/pull/138) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#138](https://github.com/gaborbernat/simplint/pull/138) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#137](https://github.com/gaborbernat/simplint/pull/137) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#545](https://github.com/tox-dev/toml-fmt/pull/545) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
