@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#540](https://github.com/tox-dev/toml-fmt/pull/540) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. 🎉 Merged PR [#135](https://github.com/gaborbernat/simplint/pull/135) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#540](https://github.com/tox-dev/toml-fmt/pull/540) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. 💪 Opened PR [#540](https://github.com/tox-dev/toml-fmt/pull/540) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#889](https://github.com/tox-dev/pipdeptree/pull/889) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. 💪 Opened PR [#889](https://github.com/tox-dev/pipdeptree/pull/889) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. ℹ️ Labeled PR [#303](https://github.com/pytest-dev/pytest-print/pull/303) in
-   [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-1. ℹ️ Labeled PR [#313](https://github.com/pytest-dev/pytest-env/pull/313) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 💪 Opened PR [#303](https://github.com/pytest-dev/pytest-print/pull/303) in
-   [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-1. 💪 Opened PR [#313](https://github.com/pytest-dev/pytest-env/pull/313) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-
+1. 🎉 Merged PR [#540](https://github.com/tox-dev/toml-fmt/pull/540) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+2. 🎉 Merged PR [#135](https://github.com/gaborbernat/simplint/pull/135) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. ℹ️ Labeled PR [#540](https://github.com/tox-dev/toml-fmt/pull/540) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 💪 Opened PR [#540](https://github.com/tox-dev/toml-fmt/pull/540) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. ℹ️ Labeled PR [#889](https://github.com/tox-dev/pipdeptree/pull/889) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. 💪 Opened PR [#889](https://github.com/tox-dev/pipdeptree/pull/889) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+7. ℹ️ Labeled PR [#303](https://github.com/pytest-dev/pytest-print/pull/303) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+8. ℹ️ Labeled PR [#313](https://github.com/pytest-dev/pytest-env/pull/313) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. 💪 Opened PR [#303](https://github.com/pytest-dev/pytest-print/pull/303) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+10. 💪 Opened PR [#313](https://github.com/pytest-dev/pytest-env/pull/313) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
