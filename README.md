@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#315](https://github.com/pytest-dev/pytest-env/pull/315) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🎉 Merged PR [#67](https://github.com/tox-dev/mdformat-zola/pull/67) in
-   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-1. 🎉 Merged PR [#74](https://github.com/gaborbernat/mdformat-hugo/pull/74) in
-   [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-1. 🎉 Merged PR [#308](https://github.com/gaborbernat/pypi-changes/pull/308) in
-   [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-1. 🎉 Merged PR [#417](https://github.com/tox-dev/tox-ini-fmt/pull/417) in
-   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-1. 🎉 Merged PR [#160](https://github.com/tox-dev/xml-fmt/pull/160) in
-   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-1. 🎉 Merged PR [#221](https://github.com/tox-dev/pre-commit-uv/pull/221) in
-   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-1. 🎉 Merged PR [#141](https://github.com/gaborbernat/simplint/pull/141) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#141](https://github.com/gaborbernat/simplint/pull/141) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#141](https://github.com/gaborbernat/simplint/pull/141) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. 💪 Opened PR [#19](https://github.com/tox-dev/python-sbom/pull/19) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+2. 🎉 Merged PR [#142](https://github.com/gaborbernat/simplint/pull/142) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. ℹ️ Labeled PR [#142](https://github.com/gaborbernat/simplint/pull/142) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#142](https://github.com/gaborbernat/simplint/pull/142) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 🎉 Merged PR [#319](https://github.com/gaborbernat/bump-deps-index/pull/319) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+6. 🎉 Merged PR [#4429](https://github.com/tox-dev/tox/pull/4429) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#262](https://github.com/tox-dev/python-discovery/pull/262) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. 🎉 Merged PR [#706](https://github.com/tox-dev/platformdirs/pull/706) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 🎉 Merged PR [#3549](https://github.com/pypa/virtualenv/pull/3549) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#17](https://github.com/tox-dev/python-sbom/pull/17) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
