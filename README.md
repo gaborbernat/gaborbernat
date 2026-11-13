@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Unlabeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Labeled PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. ℹ️ Labeled PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. 💪 Opened PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. ℹ️ Labeled PR [#16](https://github.com/tox-dev/python-sbom/pull/16) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 💪 Opened PR [#16](https://github.com/tox-dev/python-sbom/pull/16) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in
-   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in
-   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-1. 💪 Opened PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-
+1. 🎉 Merged PR [#926](https://github.com/tox-dev/filelock/pull/926) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#1128](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1128) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🎉 Merged PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. 🎉 Merged PR [#306](https://github.com/gaborbernat/pypi-changes/pull/306) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+5. 🎉 Merged PR [#1671](https://github.com/tox-dev/turbohtml/pull/1671) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 🎉 Merged PR [#12](https://github.com/tox-dev/python-sbom/pull/12) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+7. 🎉 Merged PR [#321](https://github.com/tox-dev/devpi-process/pull/321) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+8. 🎉 Merged PR [#220](https://github.com/tox-dev/pre-commit-uv/pull/220) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+9. 🎉 Merged PR [#705](https://github.com/tox-dev/platformdirs/pull/705) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🎉 Merged PR [#3548](https://github.com/pypa/virtualenv/pull/3548) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
