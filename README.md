@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled issue [#1761](https://github.com/tox-dev/turbohtml/issues/1761) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#1761](https://github.com/tox-dev/turbohtml/issues/1761) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled issue [#1760](https://github.com/tox-dev/turbohtml/issues/1760) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#1760](https://github.com/tox-dev/turbohtml/issues/1760) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled issue [#1759](https://github.com/tox-dev/turbohtml/issues/1759) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#1759](https://github.com/tox-dev/turbohtml/issues/1759) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled issue [#1758](https://github.com/tox-dev/turbohtml/issues/1758) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#1758](https://github.com/tox-dev/turbohtml/issues/1758) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled issue [#1757](https://github.com/tox-dev/turbohtml/issues/1757) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#1757](https://github.com/tox-dev/turbohtml/issues/1757) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
+1. ℹ️ Labeled PR [#1781](https://github.com/tox-dev/turbohtml/pull/1781) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#1781](https://github.com/tox-dev/turbohtml/pull/1781) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 🎉 Merged PR [#322](https://github.com/tox-dev/devpi-process/pull/322) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+4. ℹ️ Labeled PR [#1130](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1130) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+5. 💪 Opened PR [#1130](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1130) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. ℹ️ Labeled PR [#433](https://github.com/tox-dev/tox-uv/pull/433) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+7. 💪 Opened PR [#433](https://github.com/tox-dev/tox-uv/pull/433) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+8. ℹ️ Labeled PR [#74](https://github.com/gaborbernat/mdformat-hugo/pull/74) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+9. 💪 Opened PR [#74](https://github.com/gaborbernat/mdformat-hugo/pull/74) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+10. ℹ️ Labeled PR [#67](https://github.com/tox-dev/mdformat-zola/pull/67) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
