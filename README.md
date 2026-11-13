@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-2. ℹ️ Unlabeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-3. ℹ️ Labeled PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ℹ️ Labeled PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 💪 Opened PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. ℹ️ Labeled PR [#16](https://github.com/tox-dev/python-sbom/pull/16) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-7. 💪 Opened PR [#16](https://github.com/tox-dev/python-sbom/pull/16) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-9. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-10. 💪 Opened PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+
+1. ℹ️ Labeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. ℹ️ Unlabeled PR [#406](https://github.com/tox-dev/sphinx-argparse-cli/pull/406) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. ℹ️ Labeled PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ℹ️ Labeled PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 💪 Opened PR [#890](https://github.com/tox-dev/pipdeptree/pull/890) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ℹ️ Labeled PR [#16](https://github.com/tox-dev/python-sbom/pull/16) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 💪 Opened PR [#16](https://github.com/tox-dev/python-sbom/pull/16) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in
+   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. ℹ️ Labeled PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in
+   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 💪 Opened PR [#343](https://github.com/tox-dev/tox-gh/pull/343) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
