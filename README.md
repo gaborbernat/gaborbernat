@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#704](https://github.com/tox-dev/platformdirs/pull/704) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 🎉 Merged PR [#73](https://github.com/gaborbernat/mdformat-hugo/pull/73) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-3. 🎉 Merged PR [#342](https://github.com/tox-dev/tox-gh/pull/342) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-4. 🎉 Merged PR [#219](https://github.com/tox-dev/pre-commit-uv/pull/219) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-5. 🎉 Merged PR [#320](https://github.com/tox-dev/devpi-process/pull/320) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-6. 🎉 Merged PR [#415](https://github.com/tox-dev/tox-ini-fmt/pull/415) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-7. 🎉 Merged PR [#159](https://github.com/tox-dev/xml-fmt/pull/159) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-8. ℹ️ Labeled PR [#704](https://github.com/tox-dev/platformdirs/pull/704) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 💪 Opened PR [#704](https://github.com/tox-dev/platformdirs/pull/704) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. ℹ️ Labeled PR [#2454](https://github.com/pypa/pipx/pull/2454) in [pypa/pipx](https://github.com/pypa/pipx)
+
+1. 🎉 Merged PR [#704](https://github.com/tox-dev/platformdirs/pull/704) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#73](https://github.com/gaborbernat/mdformat-hugo/pull/73) in
+   [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+1. 🎉 Merged PR [#342](https://github.com/tox-dev/tox-gh/pull/342) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+1. 🎉 Merged PR [#219](https://github.com/tox-dev/pre-commit-uv/pull/219) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#320](https://github.com/tox-dev/devpi-process/pull/320) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#415](https://github.com/tox-dev/tox-ini-fmt/pull/415) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. 🎉 Merged PR [#159](https://github.com/tox-dev/xml-fmt/pull/159) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. ℹ️ Labeled PR [#704](https://github.com/tox-dev/platformdirs/pull/704) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#704](https://github.com/tox-dev/platformdirs/pull/704) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#2454](https://github.com/pypa/pipx/pull/2454) in [pypa/pipx](https://github.com/pypa/pipx)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
