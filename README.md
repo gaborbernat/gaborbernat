@@ -37,9 +37,14 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. 💪 Opened PR [#136](https://github.com/gaborbernat/simplint/pull/136) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#136](https://github.com/gaborbernat/simplint/pull/136) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
