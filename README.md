@@ -37,12 +37,20 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. 💪 Opened PR [#136](https://github.com/gaborbernat/simplint/pull/136) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 🎉 Merged PR [#926](https://github.com/tox-dev/filelock/pull/926) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#1128](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1128) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-6. 🎉 Merged PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+
+1. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#136](https://github.com/gaborbernat/simplint/pull/136) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#136](https://github.com/gaborbernat/simplint/pull/136) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#926](https://github.com/tox-dev/filelock/pull/926) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1128](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1128) in
+   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#258](https://github.com/tox-dev/python-discovery/pull/258) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
