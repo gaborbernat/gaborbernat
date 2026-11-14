@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#930](https://github.com/tox-dev/filelock/pull/930) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#1130](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1130) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-3. 🎉 Merged PR [#19](https://github.com/tox-dev/python-sbom/pull/19) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-4. 🎉 Merged PR [#3550](https://github.com/pypa/virtualenv/pull/3550) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#3550](https://github.com/pypa/virtualenv/pull/3550) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 💪 Opened PR [#3550](https://github.com/pypa/virtualenv/pull/3550) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 💪 Opened PR [#19](https://github.com/tox-dev/python-sbom/pull/19) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. 🎉 Merged PR [#142](https://github.com/gaborbernat/simplint/pull/142) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. ℹ️ Labeled PR [#142](https://github.com/gaborbernat/simplint/pull/142) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 💪 Opened PR [#142](https://github.com/gaborbernat/simplint/pull/142) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. 🎉 Merged PR [#930](https://github.com/tox-dev/filelock/pull/930) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1130](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1130) in
+   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+1. 🎉 Merged PR [#19](https://github.com/tox-dev/python-sbom/pull/19) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🎉 Merged PR [#3550](https://github.com/pypa/virtualenv/pull/3550) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3550](https://github.com/pypa/virtualenv/pull/3550) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3550](https://github.com/pypa/virtualenv/pull/3550) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#19](https://github.com/tox-dev/python-sbom/pull/19) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🎉 Merged PR [#142](https://github.com/gaborbernat/simplint/pull/142) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#142](https://github.com/gaborbernat/simplint/pull/142) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#142](https://github.com/gaborbernat/simplint/pull/142) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
