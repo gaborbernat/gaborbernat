@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1853](https://github.com/tox-dev/turbohtml/issues/1853) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ❗ Opened issue [#1853](https://github.com/tox-dev/turbohtml/issues/1853) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled issue [#1852](https://github.com/tox-dev/turbohtml/issues/1852) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ❗ Opened issue [#1852](https://github.com/tox-dev/turbohtml/issues/1852) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled issue [#1851](https://github.com/tox-dev/turbohtml/issues/1851) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ❗ Opened issue [#1851](https://github.com/tox-dev/turbohtml/issues/1851) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled issue [#1850](https://github.com/tox-dev/turbohtml/issues/1850) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ❗ Opened issue [#1850](https://github.com/tox-dev/turbohtml/issues/1850) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled issue [#1849](https://github.com/tox-dev/turbohtml/issues/1849) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ❗ Opened issue [#1849](https://github.com/tox-dev/turbohtml/issues/1849) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. ℹ️ Labeled issue [#1853](https://github.com/tox-dev/turbohtml/issues/1853) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#1853](https://github.com/tox-dev/turbohtml/issues/1853) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled issue [#1852](https://github.com/tox-dev/turbohtml/issues/1852) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#1852](https://github.com/tox-dev/turbohtml/issues/1852) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled issue [#1851](https://github.com/tox-dev/turbohtml/issues/1851) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#1851](https://github.com/tox-dev/turbohtml/issues/1851) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled issue [#1850](https://github.com/tox-dev/turbohtml/issues/1850) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#1850](https://github.com/tox-dev/turbohtml/issues/1850) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled issue [#1849](https://github.com/tox-dev/turbohtml/issues/1849) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#1849](https://github.com/tox-dev/turbohtml/issues/1849) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
