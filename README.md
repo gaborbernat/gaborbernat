@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#143](https://github.com/gaborbernat/simplint/pull/143) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#546](https://github.com/tox-dev/toml-fmt/pull/546) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. 🎉 Merged PR [#408](https://github.com/tox-dev/sphinx-argparse-cli/pull/408) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. 🎉 Merged PR [#1131](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1131) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 🎉 Merged PR [#306](https://github.com/pytest-dev/pytest-print/pull/306) in
-   [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-1. 🎉 Merged PR [#309](https://github.com/gaborbernat/pypi-changes/pull/309) in
-   [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-1. 🗣 Commented on [#39](https://github.com/ronb1964/TuxTalk/pull/39#issuecomment-6869839791) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-1. 🗣 Commented on [#38](https://github.com/ronb1964/TuxTalk/pull/38#issuecomment-6869839597) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-1. 🎉 Merged PR [#893](https://github.com/tox-dev/pipdeptree/pull/893) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. 🎉 Merged PR [#323](https://github.com/tox-dev/devpi-process/pull/323) in
-   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-
+1. 🗣 Commented on [#37](https://github.com/ronb1964/TuxTalk/pull/37#issuecomment-6869954998) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+2. 🎉 Merged PR [#143](https://github.com/gaborbernat/simplint/pull/143) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 🎉 Merged PR [#546](https://github.com/tox-dev/toml-fmt/pull/546) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+4. 🎉 Merged PR [#408](https://github.com/tox-dev/sphinx-argparse-cli/pull/408) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. 🎉 Merged PR [#1131](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1131) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+6. 🎉 Merged PR [#306](https://github.com/pytest-dev/pytest-print/pull/306) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+7. 🎉 Merged PR [#309](https://github.com/gaborbernat/pypi-changes/pull/309) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+8. 🗣 Commented on [#39](https://github.com/ronb1964/TuxTalk/pull/39#issuecomment-6869839791) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+9. 🗣 Commented on [#38](https://github.com/ronb1964/TuxTalk/pull/38#issuecomment-6869839597) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+10. 🎉 Merged PR [#893](https://github.com/tox-dev/pipdeptree/pull/893) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
