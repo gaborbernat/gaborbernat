@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#143](https://github.com/gaborbernat/simplint/pull/143) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#143](https://github.com/gaborbernat/simplint/pull/143) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#546](https://github.com/tox-dev/toml-fmt/pull/546) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. 💪 Opened PR [#546](https://github.com/tox-dev/toml-fmt/pull/546) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#408](https://github.com/tox-dev/sphinx-argparse-cli/pull/408) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. 💪 Opened PR [#408](https://github.com/tox-dev/sphinx-argparse-cli/pull/408) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Labeled PR [#931](https://github.com/tox-dev/filelock/pull/931) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#306](https://github.com/pytest-dev/pytest-print/pull/306) in
-   [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-1. 💪 Opened PR [#931](https://github.com/tox-dev/filelock/pull/931) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#306](https://github.com/pytest-dev/pytest-print/pull/306) in
-   [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
-
+1. 🎉 Merged PR [#1801](https://github.com/tox-dev/turbohtml/pull/1801) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#143](https://github.com/gaborbernat/simplint/pull/143) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. 💪 Opened PR [#143](https://github.com/gaborbernat/simplint/pull/143) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. ℹ️ Labeled PR [#546](https://github.com/tox-dev/toml-fmt/pull/546) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+5. 💪 Opened PR [#546](https://github.com/tox-dev/toml-fmt/pull/546) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+6. ℹ️ Labeled PR [#408](https://github.com/tox-dev/sphinx-argparse-cli/pull/408) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+7. 💪 Opened PR [#408](https://github.com/tox-dev/sphinx-argparse-cli/pull/408) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+8. ℹ️ Labeled PR [#931](https://github.com/tox-dev/filelock/pull/931) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. ℹ️ Labeled PR [#306](https://github.com/pytest-dev/pytest-print/pull/306) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+10. 💪 Opened PR [#931](https://github.com/tox-dev/filelock/pull/931) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
