@@ -37,9 +37,13 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#2420](https://github.com/tox-dev/peryx/pull/2420) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. 🎉 Merged PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🎉 Merged PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2420](https://github.com/tox-dev/peryx/pull/2420) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 🎉 Merged PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
