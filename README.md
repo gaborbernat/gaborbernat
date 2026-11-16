@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2403](https://github.com/tox-dev/turbohtml/issues/2403) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ❗ Opened issue [#2403](https://github.com/tox-dev/turbohtml/issues/2403) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🔒 Closed issue [#955](https://github.com/tox-dev/filelock/issues/955) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🎉 Merged PR [#956](https://github.com/tox-dev/filelock/pull/956) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🔒 Closed issue [#953](https://github.com/tox-dev/filelock/issues/953) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🎉 Merged PR [#954](https://github.com/tox-dev/filelock/pull/954) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🎉 Merged PR [#2402](https://github.com/tox-dev/turbohtml/pull/2402) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 🔒 Closed issue [#2395](https://github.com/tox-dev/turbohtml/issues/2395) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#2472](https://github.com/pypa/pipx/pull/2472) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#2472](https://github.com/pypa/pipx/pull/2472) in [pypa/pipx](https://github.com/pypa/pipx)
+
+1. ℹ️ Labeled issue [#2403](https://github.com/tox-dev/turbohtml/issues/2403) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#2403](https://github.com/tox-dev/turbohtml/issues/2403) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#955](https://github.com/tox-dev/filelock/issues/955) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#956](https://github.com/tox-dev/filelock/pull/956) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#953](https://github.com/tox-dev/filelock/issues/953) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#954](https://github.com/tox-dev/filelock/pull/954) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#2402](https://github.com/tox-dev/turbohtml/pull/2402) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#2395](https://github.com/tox-dev/turbohtml/issues/2395) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2472](https://github.com/pypa/pipx/pull/2472) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2472](https://github.com/pypa/pipx/pull/2472) in [pypa/pipx](https://github.com/pypa/pipx)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
