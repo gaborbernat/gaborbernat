@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#4437](https://github.com/tox-dev/tox/pull/4437) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🎉 Merged PR [#264](https://github.com/tox-dev/python-discovery/pull/264) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. 🎉 Merged PR [#896](https://github.com/tox-dev/pipdeptree/pull/896) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. 🎉 Merged PR [#324](https://github.com/tox-dev/devpi-process/pull/324) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-7. 🎉 Merged PR [#3553](https://github.com/pypa/virtualenv/pull/3553) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🎉 Merged PR [#409](https://github.com/tox-dev/sphinx-argparse-cli/pull/409) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-9. 🎉 Merged PR [#68](https://github.com/tox-dev/mdformat-zola/pull/68) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-10. 🎉 Merged PR [#75](https://github.com/gaborbernat/mdformat-hugo/pull/75) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+
+1. ℹ️ Labeled PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#4437](https://github.com/tox-dev/tox/pull/4437) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#264](https://github.com/tox-dev/python-discovery/pull/264) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#896](https://github.com/tox-dev/pipdeptree/pull/896) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#324](https://github.com/tox-dev/devpi-process/pull/324) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#3553](https://github.com/pypa/virtualenv/pull/3553) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#409](https://github.com/tox-dev/sphinx-argparse-cli/pull/409) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🎉 Merged PR [#68](https://github.com/tox-dev/mdformat-zola/pull/68) in
+   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+1. 🎉 Merged PR [#75](https://github.com/gaborbernat/mdformat-hugo/pull/75) in
+   [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
