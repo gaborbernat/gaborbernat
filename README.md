@@ -37,12 +37,9 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#940](https://github.com/tox-dev/filelock/pull/940) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#4](https://github.com/gaborbernat/pet-immich/pull/4) in
-   [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
-
+1. 🎉 Merged PR [#940](https://github.com/tox-dev/filelock/pull/940) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ❗ Opened issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
