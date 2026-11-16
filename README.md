@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🔒 Closed issue [#1685](https://github.com/tox-dev/turbohtml/issues/1685) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#2231](https://github.com/tox-dev/turbohtml/pull/2231) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#163](https://github.com/tox-dev/xml-fmt/pull/163) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-5. 🎉 Merged PR [#2229](https://github.com/tox-dev/turbohtml/pull/2229) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🎉 Merged PR [#2230](https://github.com/tox-dev/turbohtml/pull/2230) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#437](https://github.com/tox-dev/tox-uv/pull/437) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-toml-fmt/pull/66) in [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
-9. 🎉 Merged PR [#420](https://github.com/tox-dev/tox-ini-fmt/pull/420) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-10. ℹ️ Labeled PR [#2231](https://github.com/tox-dev/turbohtml/pull/2231) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🔒 Closed issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#1685](https://github.com/tox-dev/turbohtml/issues/1685) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2231](https://github.com/tox-dev/turbohtml/pull/2231) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#163](https://github.com/tox-dev/xml-fmt/pull/163) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 🎉 Merged PR [#2229](https://github.com/tox-dev/turbohtml/pull/2229) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2230](https://github.com/tox-dev/turbohtml/pull/2230) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#437](https://github.com/tox-dev/tox-uv/pull/437) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#66](https://github.com/tox-dev/tox-toml-fmt/pull/66) in
+   [tox-dev/tox-toml-fmt](https://github.com/tox-dev/tox-toml-fmt)
+1. 🎉 Merged PR [#420](https://github.com/tox-dev/tox-ini-fmt/pull/420) in
+   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+1. ℹ️ Labeled PR [#2231](https://github.com/tox-dev/turbohtml/pull/2231) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
