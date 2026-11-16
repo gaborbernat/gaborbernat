@@ -37,16 +37,10 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
+1. 🎉 Merged PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#2222](https://github.com/tox-dev/turbohtml/pull/2222) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
