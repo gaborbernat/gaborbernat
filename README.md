@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 💪 Opened PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 🎉 Merged PR [#42](https://github.com/quotaline/quotaline/pull/42) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-5. ℹ️ Labeled PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#4437](https://github.com/tox-dev/tox/pull/4437) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 🎉 Merged PR [#264](https://github.com/tox-dev/python-discovery/pull/264) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-9. 🎉 Merged PR [#896](https://github.com/tox-dev/pipdeptree/pull/896) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-10. 🎉 Merged PR [#324](https://github.com/tox-dev/devpi-process/pull/324) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+
+1. ℹ️ Labeled PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2225](https://github.com/tox-dev/turbohtml/pull/2225) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#42](https://github.com/quotaline/quotaline/pull/42) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2224](https://github.com/tox-dev/turbohtml/pull/2224) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#4437](https://github.com/tox-dev/tox/pull/4437) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🎉 Merged PR [#264](https://github.com/tox-dev/python-discovery/pull/264) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#896](https://github.com/tox-dev/pipdeptree/pull/896) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#324](https://github.com/tox-dev/devpi-process/pull/324) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
