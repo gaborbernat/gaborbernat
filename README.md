@@ -37,7 +37,13 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. ❌ Closed PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#2226](https://github.com/tox-dev/turbohtml/pull/2226) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 💪 Opened PR [#2226](https://github.com/tox-dev/turbohtml/pull/2226) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#4](https://github.com/gaborbernat/pet-immich/pull/4) in [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
