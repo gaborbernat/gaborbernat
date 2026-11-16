@@ -37,22 +37,12 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2227](https://github.com/tox-dev/turbohtml/pull/2227) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2226](https://github.com/tox-dev/turbohtml/pull/2226) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2226](https://github.com/tox-dev/turbohtml/pull/2226) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#4](https://github.com/gaborbernat/pet-immich/pull/4) in
-   [gaborbernat/pet-immich](https://github.com/gaborbernat/pet-immich)
-
+1. 🎉 Merged PR [#2226](https://github.com/tox-dev/turbohtml/pull/2226) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🔒 Closed issue [#2223](https://github.com/tox-dev/turbohtml/issues/2223) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#939](https://github.com/tox-dev/filelock/pull/939) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 💪 Opened PR [#939](https://github.com/tox-dev/filelock/pull/939) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Labeled PR [#938](https://github.com/tox-dev/filelock/pull/938) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 💪 Opened PR [#938](https://github.com/tox-dev/filelock/pull/938) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
