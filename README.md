@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#942](https://github.com/tox-dev/filelock/pull/942) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ℹ️ Labeled PR [#940](https://github.com/tox-dev/filelock/pull/940) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#939](https://github.com/tox-dev/filelock/pull/939) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. ℹ️ Labeled PR [#938](https://github.com/tox-dev/filelock/pull/938) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#70](https://github.com/tox-dev/mdformat-zola/pull/70) in [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-6. 🎉 Merged PR [#183](https://github.com/tox-dev/jetbrains-fish/pull/183) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-7. 🎉 Merged PR [#944](https://github.com/tox-dev/filelock/pull/944) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🎉 Merged PR [#326](https://github.com/tox-dev/devpi-process/pull/326) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-9. 🎉 Merged PR [#69](https://github.com/tox-dev/action-pre-commit-uv/pull/69) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
-10. 🎉 Merged PR [#309](https://github.com/pytest-dev/pytest-print/pull/309) in [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+
+1. ℹ️ Labeled PR [#942](https://github.com/tox-dev/filelock/pull/942) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#940](https://github.com/tox-dev/filelock/pull/940) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#939](https://github.com/tox-dev/filelock/pull/939) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#938](https://github.com/tox-dev/filelock/pull/938) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#70](https://github.com/tox-dev/mdformat-zola/pull/70) in
+   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
+1. 🎉 Merged PR [#183](https://github.com/tox-dev/jetbrains-fish/pull/183) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 🎉 Merged PR [#944](https://github.com/tox-dev/filelock/pull/944) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#326](https://github.com/tox-dev/devpi-process/pull/326) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 🎉 Merged PR [#69](https://github.com/tox-dev/action-pre-commit-uv/pull/69) in
+   [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
+1. 🎉 Merged PR [#309](https://github.com/pytest-dev/pytest-print/pull/309) in
+   [pytest-dev/pytest-print](https://github.com/pytest-dev/pytest-print)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
