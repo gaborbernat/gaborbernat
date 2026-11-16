@@ -37,9 +37,14 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#940](https://github.com/tox-dev/filelock/pull/940) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ℹ️ Labeled issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ❗ Opened issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🎉 Merged PR [#940](https://github.com/tox-dev/filelock/pull/940) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#2228](https://github.com/tox-dev/turbohtml/issues/2228) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
