@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-2. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-3. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 🔒 Closed issue [#713](https://github.com/tox-dev/platformdirs/issues/713) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. ℹ️ Labeled PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. ❌ Closed PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. 🗣 Commented on [#717](https://github.com/tox-dev/platformdirs/pull/717#issuecomment-6956379256) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 🔒 Closed issue [#2382](https://github.com/tox-dev/turbohtml/issues/2382) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#2448](https://github.com/tox-dev/turbohtml/pull/2448) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. 🎉 Merged PR [#2452](https://github.com/tox-dev/turbohtml/pull/2452) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🔒 Closed issue [#713](https://github.com/tox-dev/platformdirs/issues/713) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ❌ Closed PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🗣 Commented on [#717](https://github.com/tox-dev/platformdirs/pull/717#issuecomment-6956379256) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🔒 Closed issue [#2382](https://github.com/tox-dev/turbohtml/issues/2382) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2448](https://github.com/tox-dev/turbohtml/pull/2448) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2452](https://github.com/tox-dev/turbohtml/pull/2452) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
