@@ -37,16 +37,12 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#965](https://github.com/tox-dev/filelock/pull/965) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#965](https://github.com/tox-dev/filelock/pull/965) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-
+1. ℹ️ Labeled PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 💪 Opened PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 💪 Opened PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
