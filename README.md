@@ -37,16 +37,24 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ℹ️ Labeled PR [#2476](https://github.com/pypa/pipx/pull/2476) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ℹ️ Labeled PR [#703](https://github.com/tox-dev/platformdirs/pull/703) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. ℹ️ Labeled PR [#4436](https://github.com/tox-dev/tox/pull/4436) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. ℹ️ Labeled PR [#4439](https://github.com/tox-dev/tox/pull/4439) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ℹ️ Labeled PR [#702](https://github.com/tox-dev/platformdirs/pull/702) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 💪 Opened PR [#2447](https://github.com/tox-dev/turbohtml/pull/2447) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#2447](https://github.com/tox-dev/turbohtml/pull/2447) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#3564](https://github.com/pypa/virtualenv/pull/3564) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#4440](https://github.com/tox-dev/tox/pull/4440) in [tox-dev/tox](https://github.com/tox-dev/tox)
-10. ℹ️ Labeled PR [#2446](https://github.com/tox-dev/turbohtml/pull/2446) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#703](https://github.com/tox-dev/platformdirs/pull/703) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#4436](https://github.com/tox-dev/tox/pull/4436) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#4439](https://github.com/tox-dev/tox/pull/4439) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#702](https://github.com/tox-dev/platformdirs/pull/702) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#2447](https://github.com/tox-dev/turbohtml/pull/2447) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2447](https://github.com/tox-dev/turbohtml/pull/2447) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#3564](https://github.com/pypa/virtualenv/pull/3564) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#4440](https://github.com/tox-dev/tox/pull/4440) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#2446](https://github.com/tox-dev/turbohtml/pull/2446) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
