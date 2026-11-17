@@ -37,9 +37,14 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2445](https://github.com/tox-dev/turbohtml/issues/2445) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled issue [#2445](https://github.com/tox-dev/turbohtml/issues/2445) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🎉 Merged PR [#2443](https://github.com/tox-dev/turbohtml/pull/2443) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. ❗ Opened issue [#2445](https://github.com/tox-dev/turbohtml/issues/2445) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled issue [#2445](https://github.com/tox-dev/turbohtml/issues/2445) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2443](https://github.com/tox-dev/turbohtml/pull/2443) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
