@@ -37,20 +37,15 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#965](https://github.com/tox-dev/filelock/pull/965) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#965](https://github.com/tox-dev/filelock/pull/965) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-
+1. 🎉 Merged PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ❌ Closed PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ❌ Closed PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 💪 Opened PR [#2442](https://github.com/tox-dev/turbohtml/pull/2442) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#2441](https://github.com/tox-dev/turbohtml/pull/2441) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 💪 Opened PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
