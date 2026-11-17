@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🔒 Closed issue [#713](https://github.com/tox-dev/platformdirs/issues/713) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. ℹ️ Labeled PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. ❌ Closed PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🗣 Commented on [#717](https://github.com/tox-dev/platformdirs/pull/717#issuecomment-6956379256) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🔒 Closed issue [#2382](https://github.com/tox-dev/turbohtml/issues/2382) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
+1. ℹ️ Labeled PR [#4420](https://github.com/tox-dev/tox/pull/4420) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ❗ Opened issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+5. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+6. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 🔒 Closed issue [#713](https://github.com/tox-dev/platformdirs/issues/713) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. ℹ️ Labeled PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. ❌ Closed PR [#717](https://github.com/tox-dev/platformdirs/pull/717) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. 🗣 Commented on [#717](https://github.com/tox-dev/platformdirs/pull/717#issuecomment-6956379256) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
