@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-2. 🎉 Merged PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-3. ℹ️ Labeled PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-4. ℹ️ Labeled PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-5. 💪 Opened PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-6. ℹ️ Labeled PR [#968](https://github.com/tox-dev/filelock/pull/968) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ℹ️ Labeled PR [#2454](https://github.com/tox-dev/turbohtml/pull/2454) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. 💪 Opened PR [#2454](https://github.com/tox-dev/turbohtml/pull/2454) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#968](https://github.com/tox-dev/filelock/pull/968) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#721](https://github.com/tox-dev/platformdirs/pull/721) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+
+1. 🎉 Merged PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 🎉 Merged PR [#53](https://github.com/quotaline/quotaline/pull/53) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. ℹ️ Labeled PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 💪 Opened PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. ℹ️ Labeled PR [#968](https://github.com/tox-dev/filelock/pull/968) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#2454](https://github.com/tox-dev/turbohtml/pull/2454) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2454](https://github.com/tox-dev/turbohtml/pull/2454) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#968](https://github.com/tox-dev/filelock/pull/968) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#721](https://github.com/tox-dev/platformdirs/pull/721) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
