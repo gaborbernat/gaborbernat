@@ -37,7 +37,8 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. ℹ️ Labeled PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 💪 Opened PR [#965](https://github.com/tox-dev/filelock/pull/965) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
