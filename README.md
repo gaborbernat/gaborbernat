@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#325](https://github.com/pytest-dev/pytest-env/issues/325) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-2. 🎉 Merged PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. ℹ️ Labeled PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🔒 Closed issue [#323](https://github.com/pytest-dev/pytest-env/issues/323) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-6. 🎉 Merged PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-7. 🎉 Merged PR [#335](https://github.com/pytest-dev/pytest-env/pull/335) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-8. 🔒 Closed issue [#328](https://github.com/pytest-dev/pytest-env/issues/328) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-9. 🎉 Merged PR [#336](https://github.com/pytest-dev/pytest-env/pull/336) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-10. 🎉 Merged PR [#75](https://github.com/tox-dev/github-workflows/pull/75) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+
+1. 🔒 Closed issue [#325](https://github.com/pytest-dev/pytest-env/issues/325) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Labeled PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#323](https://github.com/pytest-dev/pytest-env/issues/323) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#335](https://github.com/pytest-dev/pytest-env/pull/335) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🔒 Closed issue [#328](https://github.com/pytest-dev/pytest-env/issues/328) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#336](https://github.com/pytest-dev/pytest-env/pull/336) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🎉 Merged PR [#75](https://github.com/tox-dev/github-workflows/pull/75) in
+   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
