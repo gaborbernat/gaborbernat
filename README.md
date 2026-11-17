@@ -37,23 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🔒 Closed issue [#4422](https://github.com/tox-dev/tox/issues/4422) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 🔒 Closed issue [#4435](https://github.com/tox-dev/tox/issues/4435) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 🔒 Closed issue [#4432](https://github.com/tox-dev/tox/issues/4432) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 🔒 Closed issue [#4424](https://github.com/tox-dev/tox/issues/4424) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#4420](https://github.com/tox-dev/tox/pull/4420) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❗ Opened issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-
+1. 🎉 Merged PR [#721](https://github.com/tox-dev/platformdirs/pull/721) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. ℹ️ Labeled PR [#721](https://github.com/tox-dev/platformdirs/pull/721) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 💪 Opened PR [#721](https://github.com/tox-dev/platformdirs/pull/721) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🗣 Commented on [#3567](https://github.com/pypa/virtualenv/pull/3567#issuecomment-6959020522) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ❌ Closed PR [#3567](https://github.com/pypa/virtualenv/pull/3567) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🎉 Merged PR [#4447](https://github.com/tox-dev/tox/pull/4447) in [tox-dev/tox](https://github.com/tox-dev/tox)
+7. 🎉 Merged PR [#4446](https://github.com/tox-dev/tox/pull/4446) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#4447](https://github.com/tox-dev/tox/pull/4447) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. 💪 Opened PR [#4447](https://github.com/tox-dev/tox/pull/4447) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4446](https://github.com/tox-dev/tox/pull/4446) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
