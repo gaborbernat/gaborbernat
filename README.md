@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#4449](https://github.com/tox-dev/tox/pull/4449) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. ℹ️ Labeled PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-3. 💪 Opened PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-4. ℹ️ Labeled PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-5. 💪 Opened PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-6. 🗣 Commented on [#553](https://github.com/tox-dev/toml-fmt/issues/553#issuecomment-6962873592) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. ℹ️ Labeled PR [#332](https://github.com/pytest-dev/pytest-env/pull/332) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-8. 💪 Opened PR [#332](https://github.com/pytest-dev/pytest-env/pull/332) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-9. ℹ️ Assigned issue [#553](https://github.com/tox-dev/toml-fmt/issues/553) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. ℹ️ Labeled PR [#331](https://github.com/pytest-dev/pytest-env/pull/331) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Labeled PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 💪 Opened PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Labeled PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 💪 Opened PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 🗣 Commented on [#553](https://github.com/tox-dev/toml-fmt/issues/553#issuecomment-6962873592) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#332](https://github.com/pytest-dev/pytest-env/pull/332) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. 💪 Opened PR [#332](https://github.com/pytest-dev/pytest-env/pull/332) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+1. ℹ️ Assigned issue [#553](https://github.com/tox-dev/toml-fmt/issues/553) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. ℹ️ Labeled PR [#331](https://github.com/pytest-dev/pytest-env/pull/331) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
