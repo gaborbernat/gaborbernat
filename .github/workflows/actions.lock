@@ -5,11 +5,11 @@ version: 'v0.0.3'
 workflows:
     '.github/workflows/metrics.yaml':
         - 'actions/checkout@v7.0.1'
-        - 'lowlighter/metrics@v3.34'
+        - 'lowlighter/metrics@v4'
     '.github/workflows/scorecard.yaml': []
     '.github/workflows/update-readme.yaml':
         - 'actions/checkout@v7.0.1'
-        - 'astral-sh/setup-uv@v7.6.0'
+        - 'astral-sh/setup-uv@v10.3.3'
         - 'jamesgeorge007/github-activity-readme@v0.5.0'
 dependencies:
     'actions/checkout@v7.0.1':
@@ -17,9 +17,9 @@ dependencies:
         commit: 'sha1-3d3c42e5aac5ba805825da76410c181273ba90b1'
         owner_id: 44036562
         repo_id: 197814629
-    'astral-sh/setup-uv@v7.6.0':
-        ref: 'v7.6.0'
-        commit: 'sha1-37802adc94f370d6bfd71619e3f0bf239e1f3b78'
+    'astral-sh/setup-uv@v10.3.3':
+        ref: 'v10.3.3'
+        commit: 'sha1-68559e99cc807c1eb7e9238fd43a15bba460eec2'
         owner_id: 115962839
         repo_id: 846733598
     'jamesgeorge007/github-activity-readme@v0.5.0':
@@ -27,8 +27,8 @@ dependencies:
         commit: 'sha1-4aefbfa1c222d70537dc6a02f0519266aab2b1ea'
         owner_id: 25279263
         repo_id: 280152958
-    'lowlighter/metrics@v3.34':
-        ref: 'v3.34'
-        commit: 'sha1-65836723097537a54cd8eb90f61839426b4266b6'
+    'lowlighter/metrics@v4':
+        ref: 'v4'
+        commit: 'sha1-05b761ce7066e3c897047ecd2431b93af4a5b02b'
         owner_id: 22963968
         repo_id: 293860197
