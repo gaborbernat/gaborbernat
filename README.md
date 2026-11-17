@@ -37,16 +37,23 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🔒 Closed issue [#4422](https://github.com/tox-dev/tox/issues/4422) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🔒 Closed issue [#4435](https://github.com/tox-dev/tox/issues/4435) in [tox-dev/tox](https://github.com/tox-dev/tox)
-3. 🔒 Closed issue [#4432](https://github.com/tox-dev/tox/issues/4432) in [tox-dev/tox](https://github.com/tox-dev/tox)
-4. 🔒 Closed issue [#4424](https://github.com/tox-dev/tox/issues/4424) in [tox-dev/tox](https://github.com/tox-dev/tox)
-5. ℹ️ Labeled PR [#4420](https://github.com/tox-dev/tox/pull/4420) in [tox-dev/tox](https://github.com/tox-dev/tox)
-6. ℹ️ Labeled issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ❗ Opened issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-9. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-10. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🔒 Closed issue [#4435](https://github.com/tox-dev/tox/issues/4435) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#4432](https://github.com/tox-dev/tox/issues/4432) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🔒 Closed issue [#4424](https://github.com/tox-dev/tox/issues/4424) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#4420](https://github.com/tox-dev/tox/pull/4420) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#2453](https://github.com/tox-dev/turbohtml/issues/2453) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#53](https://github.com/quotaline/quotaline/pull/53) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#53](https://github.com/quotaline/quotaline/pull/53) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🔒 Closed issue [#701](https://github.com/tox-dev/platformdirs/issues/701) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
