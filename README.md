@@ -37,26 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2429](https://github.com/tox-dev/peryx/pull/2429) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. ℹ️ Labeled PR [#2429](https://github.com/tox-dev/peryx/pull/2429) in
-   [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 💪 Opened PR [#2429](https://github.com/tox-dev/peryx/pull/2429) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 🎉 Merged PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. 🎉 Merged PR [#53](https://github.com/quotaline/quotaline/pull/53) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. ℹ️ Labeled PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. 💪 Opened PR [#187](https://github.com/tox-dev/jetbrains-fish/pull/187) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. ℹ️ Labeled PR [#968](https://github.com/tox-dev/filelock/pull/968) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#2454](https://github.com/tox-dev/turbohtml/pull/2454) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
+1. 🎉 Merged PR [#4449](https://github.com/tox-dev/tox/pull/4449) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+3. 💪 Opened PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. ℹ️ Labeled PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+5. 💪 Opened PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+6. 🗣 Commented on [#553](https://github.com/tox-dev/toml-fmt/issues/553#issuecomment-6962873592) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+7. ℹ️ Labeled PR [#332](https://github.com/pytest-dev/pytest-env/pull/332) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+8. 💪 Opened PR [#332](https://github.com/pytest-dev/pytest-env/pull/332) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+9. ℹ️ Assigned issue [#553](https://github.com/tox-dev/toml-fmt/issues/553) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+10. ℹ️ Labeled PR [#331](https://github.com/pytest-dev/pytest-env/pull/331) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
