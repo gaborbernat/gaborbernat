@@ -37,10 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-2. 💪 Opened PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-3. ℹ️ Labeled PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-4. 💪 Opened PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+
+1. ℹ️ Labeled PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 💪 Opened PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+1. 💪 Opened PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in
+   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
