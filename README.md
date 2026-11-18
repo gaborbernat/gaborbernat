@@ -37,11 +37,18 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/gaborbernat/simplint/pull/154) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 🎉 Merged PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-3. 🎉 Merged PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. 🎉 Merged PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#153](https://github.com/gaborbernat/simplint/pull/153) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. 🎉 Merged PR [#154](https://github.com/gaborbernat/simplint/pull/154) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+1. 🎉 Merged PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🎉 Merged PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#153](https://github.com/gaborbernat/simplint/pull/153) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
