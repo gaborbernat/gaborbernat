@@ -37,9 +37,14 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/gaborbernat/simplint/pull/153) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. ℹ️ Labeled issue [#2462](https://github.com/tox-dev/turbohtml/issues/2462) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ❗ Opened issue [#2462](https://github.com/tox-dev/turbohtml/issues/2462) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🎉 Merged PR [#153](https://github.com/gaborbernat/simplint/pull/153) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled issue [#2462](https://github.com/tox-dev/turbohtml/issues/2462) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❗ Opened issue [#2462](https://github.com/tox-dev/turbohtml/issues/2462) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
