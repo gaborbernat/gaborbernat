@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3574](https://github.com/pypa/virtualenv/pull/3574) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#3574](https://github.com/pypa/virtualenv/pull/3574) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🗣 Commented on [#3570](https://github.com/pypa/virtualenv/pull/3570#issuecomment-6969422093) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Closed issue [#27](https://github.com/tox-dev/python-sbom/issues/27) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-6. 🗣 Commented on [#27](https://github.com/tox-dev/python-sbom/issues/27#issuecomment-6969378691) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-7. 🎉 Merged PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. ℹ️ Labeled PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-9. 💪 Opened PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-10. ℹ️ Labeled PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
+1. ℹ️ Labeled PR [#3574](https://github.com/pypa/virtualenv/pull/3574) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3574](https://github.com/pypa/virtualenv/pull/3574) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🗣 Commented on [#3570](https://github.com/pypa/virtualenv/pull/3570#issuecomment-6969422093) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#27](https://github.com/tox-dev/python-sbom/issues/27) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🗣 Commented on [#27](https://github.com/tox-dev/python-sbom/issues/27#issuecomment-6969378691) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🎉 Merged PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 💪 Opened PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
