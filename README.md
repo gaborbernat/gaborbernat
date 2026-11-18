@@ -37,16 +37,13 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 💪 Opened PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in
-   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-1. 💪 Opened PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in
-   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-
+1. ℹ️ Labeled PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+2. 💪 Opened PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+3. ℹ️ Labeled PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. ℹ️ Labeled PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 💪 Opened PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+6. ℹ️ Labeled PR [#2459](https://github.com/tox-dev/turbohtml/pull/2459) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#2459](https://github.com/tox-dev/turbohtml/pull/2459) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
