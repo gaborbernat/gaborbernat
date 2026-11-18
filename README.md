@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2495](https://github.com/tox-dev/turbohtml/pull/2495) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#51](https://github.com/gaborbernat/all-repos-self/pull/51) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-3. ℹ️ Labeled PR [#2495](https://github.com/tox-dev/turbohtml/pull/2495) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#2495](https://github.com/tox-dev/turbohtml/pull/2495) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#229](https://github.com/tox-dev/pre-commit-uv/pull/229) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-6. ℹ️ Labeled PR [#556](https://github.com/tox-dev/toml-fmt/pull/556) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-7. 💪 Opened PR [#51](https://github.com/gaborbernat/all-repos-self/pull/51) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-8. 💪 Opened PR [#229](https://github.com/tox-dev/pre-commit-uv/pull/229) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-9. 💪 Opened PR [#556](https://github.com/tox-dev/toml-fmt/pull/556) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-10. 🎉 Merged PR [#2489](https://github.com/tox-dev/turbohtml/pull/2489) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. 🎉 Merged PR [#2495](https://github.com/tox-dev/turbohtml/pull/2495) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#51](https://github.com/gaborbernat/all-repos-self/pull/51) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+1. ℹ️ Labeled PR [#2495](https://github.com/tox-dev/turbohtml/pull/2495) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2495](https://github.com/tox-dev/turbohtml/pull/2495) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#229](https://github.com/tox-dev/pre-commit-uv/pull/229) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. ℹ️ Labeled PR [#556](https://github.com/tox-dev/toml-fmt/pull/556) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 💪 Opened PR [#51](https://github.com/gaborbernat/all-repos-self/pull/51) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+1. 💪 Opened PR [#229](https://github.com/tox-dev/pre-commit-uv/pull/229) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 💪 Opened PR [#556](https://github.com/tox-dev/toml-fmt/pull/556) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+1. 🎉 Merged PR [#2489](https://github.com/tox-dev/turbohtml/pull/2489) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
