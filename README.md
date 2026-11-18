@@ -37,16 +37,23 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ℹ️ Labeled PR [#1291](https://github.com/pypa/build/pull/1291) in [pypa/build](https://github.com/pypa/build)
-2. 💪 Opened PR [#1291](https://github.com/pypa/build/pull/1291) in [pypa/build](https://github.com/pypa/build)
-3. ℹ️ Labeled PR [#2457](https://github.com/tox-dev/turbohtml/pull/2457) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#2457](https://github.com/tox-dev/turbohtml/pull/2457) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#3570](https://github.com/pypa/virtualenv/pull/3570) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#442](https://github.com/tox-dev/tox-uv/pull/442) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 🎉 Merged PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-8. ℹ️ Labeled PR [#442](https://github.com/tox-dev/tox-uv/pull/442) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. 💪 Opened PR [#442](https://github.com/tox-dev/tox-uv/pull/442) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-10. ℹ️ Labeled PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 💪 Opened PR [#1291](https://github.com/pypa/build/pull/1291) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#2457](https://github.com/tox-dev/turbohtml/pull/2457) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2457](https://github.com/tox-dev/turbohtml/pull/2457) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#3570](https://github.com/pypa/virtualenv/pull/3570) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#442](https://github.com/tox-dev/tox-uv/pull/442) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled PR [#442](https://github.com/tox-dev/tox-uv/pull/442) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 💪 Opened PR [#442](https://github.com/tox-dev/tox-uv/pull/442) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ℹ️ Labeled PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in
+   [tox-dev/peryx](https://github.com/tox-dev/peryx)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
