@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#253](https://github.com/tox-dev/python-discovery/pull/253) in
-   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-1. 🗣 Commented on [#553](https://github.com/tox-dev/toml-fmt/issues/553#issuecomment-6963578148) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#405](https://github.com/tox-dev/sphinx-argparse-cli/pull/405) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Labeled PR [#261](https://github.com/tox-dev/python-discovery/pull/261) in
-   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-1. ℹ️ Labeled PR [#416](https://github.com/tox-dev/sphinx-argparse-cli/pull/416) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Labeled PR [#416](https://github.com/tox-dev/sphinx-argparse-cli/pull/416) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Labeled PR [#263](https://github.com/tox-dev/python-discovery/pull/263) in
-   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-1. ℹ️ Labeled PR [#375](https://github.com/tox-dev/pyproject-api/pull/375) in
-   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-1. 🎉 Merged PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#271](https://github.com/tox-dev/python-discovery/pull/271) in
-   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-
+1. 🔒 Closed issue [#415](https://github.com/tox-dev/sphinx-argparse-cli/issues/415) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+2. 🔒 Closed issue [#270](https://github.com/tox-dev/python-discovery/issues/270) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. 🔒 Closed issue [#255](https://github.com/tox-dev/python-discovery/issues/255) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+4. ℹ️ Labeled PR [#2430](https://github.com/tox-dev/peryx/pull/2430) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. 💪 Opened PR [#2430](https://github.com/tox-dev/peryx/pull/2430) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 🔒 Closed issue [#374](https://github.com/tox-dev/pyproject-api/issues/374) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+7. ℹ️ Labeled PR [#54](https://github.com/quotaline/quotaline/pull/54) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+8. ℹ️ Labeled PR [#54](https://github.com/quotaline/quotaline/pull/54) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+9. 💪 Opened PR [#54](https://github.com/quotaline/quotaline/pull/54) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+10. ℹ️ Labeled PR [#253](https://github.com/tox-dev/python-discovery/pull/253) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
