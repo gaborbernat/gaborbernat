@@ -37,26 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#56](https://github.com/quotaline/quotaline/pull/56) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 💪 Opened PR [#56](https://github.com/quotaline/quotaline/pull/56) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🎉 Merged PR [#2457](https://github.com/tox-dev/turbohtml/pull/2457) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3572](https://github.com/pypa/virtualenv/pull/3572) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3572](https://github.com/pypa/virtualenv/pull/3572) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🗣 Commented on [#1291](https://github.com/pypa/build/pull/1291#issuecomment-6966947797) in
-   [pypa/build](https://github.com/pypa/build)
-1. ℹ️ Labeled PR [#1291](https://github.com/pypa/build/pull/1291) in [pypa/build](https://github.com/pypa/build)
-1. 💪 Opened PR [#1291](https://github.com/pypa/build/pull/1291) in [pypa/build](https://github.com/pypa/build)
-
+1. ℹ️ Labeled PR [#3574](https://github.com/pypa/virtualenv/pull/3574) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 💪 Opened PR [#3574](https://github.com/pypa/virtualenv/pull/3574) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 🗣 Commented on [#3570](https://github.com/pypa/virtualenv/pull/3570#issuecomment-6969422093) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🔒 Closed issue [#27](https://github.com/tox-dev/python-sbom/issues/27) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+6. 🗣 Commented on [#27](https://github.com/tox-dev/python-sbom/issues/27#issuecomment-6969378691) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+7. 🎉 Merged PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+8. ℹ️ Labeled PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. 💪 Opened PR [#28](https://github.com/tox-dev/python-sbom/pull/28) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+10. ℹ️ Labeled PR [#3573](https://github.com/pypa/virtualenv/pull/3573) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
