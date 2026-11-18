@@ -37,12 +37,20 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-3. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-5. 💪 Opened PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-6. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+
+1. 🎉 Merged PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
