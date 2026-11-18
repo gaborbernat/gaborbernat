@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3569](https://github.com/pypa/virtualenv/issues/3569) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#1296](https://github.com/pypa/build/pull/1296) in [pypa/build](https://github.com/pypa/build)
-3. 💪 Opened PR [#1296](https://github.com/pypa/build/pull/1296) in [pypa/build](https://github.com/pypa/build)
-4. ℹ️ Labeled PR [#2466](https://github.com/tox-dev/turbohtml/pull/2466) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#2466](https://github.com/tox-dev/turbohtml/pull/2466) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#2465](https://github.com/tox-dev/turbohtml/pull/2465) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#2465](https://github.com/tox-dev/turbohtml/pull/2465) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#2464](https://github.com/tox-dev/turbohtml/pull/2464) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 💪 Opened PR [#2464](https://github.com/tox-dev/turbohtml/pull/2464) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-10. ℹ️ Labeled PR [#81](https://github.com/gaborbernat/mdformat-hugo/pull/81) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+
+1. 🔒 Closed issue [#3569](https://github.com/pypa/virtualenv/issues/3569) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#1296](https://github.com/pypa/build/pull/1296) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#1296](https://github.com/pypa/build/pull/1296) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#2466](https://github.com/tox-dev/turbohtml/pull/2466) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2466](https://github.com/tox-dev/turbohtml/pull/2466) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2465](https://github.com/tox-dev/turbohtml/pull/2465) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2465](https://github.com/tox-dev/turbohtml/pull/2465) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2464](https://github.com/tox-dev/turbohtml/pull/2464) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2464](https://github.com/tox-dev/turbohtml/pull/2464) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#81](https://github.com/gaborbernat/mdformat-hugo/pull/81) in
+   [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
