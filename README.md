@@ -37,15 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-2. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-3. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-4. 💪 Opened PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-5. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-6. ℹ️ Labeled PR [#154](https://github.com/gaborbernat/simplint/pull/154) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. 💪 Opened PR [#154](https://github.com/gaborbernat/simplint/pull/154) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. ℹ️ Labeled PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-9. 💪 Opened PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. ℹ️ Labeled PR [#154](https://github.com/gaborbernat/simplint/pull/154) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#154](https://github.com/gaborbernat/simplint/pull/154) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+1. 💪 Opened PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
