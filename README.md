@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#153](https://github.com/gaborbernat/simplint/pull/153) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 💪 Opened PR [#153](https://github.com/gaborbernat/simplint/pull/153) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-3. 🗣 Commented on [#14653](https://github.com/ghostty-org/ghostty/pull/14653#issuecomment-6972475917) in [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-4. 🎉 Merged PR [#3577](https://github.com/pypa/virtualenv/pull/3577) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3576](https://github.com/pypa/virtualenv/pull/3576) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#3575](https://github.com/pypa/virtualenv/pull/3575) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. ℹ️ Labeled PR [#722](https://github.com/tox-dev/platformdirs/pull/722) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-8. 💪 Opened PR [#722](https://github.com/tox-dev/platformdirs/pull/722) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 💪 Opened PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
+1. ℹ️ Labeled PR [#153](https://github.com/gaborbernat/simplint/pull/153) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#153](https://github.com/gaborbernat/simplint/pull/153) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🗣 Commented on [#14653](https://github.com/ghostty-org/ghostty/pull/14653#issuecomment-6972475917) in
+   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+1. 🎉 Merged PR [#3577](https://github.com/pypa/virtualenv/pull/3577) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3576](https://github.com/pypa/virtualenv/pull/3576) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3575](https://github.com/pypa/virtualenv/pull/3575) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#722](https://github.com/tox-dev/platformdirs/pull/722) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#722](https://github.com/tox-dev/platformdirs/pull/722) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
