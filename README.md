@@ -37,13 +37,22 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1291](https://github.com/pypa/build/pull/1291#issuecomment-6982713539) in [pypa/build](https://github.com/pypa/build)
-2. 🗣 Commented on [#1289](https://github.com/pypa/build/pull/1289#issuecomment-6982684361) in [pypa/build](https://github.com/pypa/build)
-3. 🎉 Merged PR [#154](https://github.com/gaborbernat/simplint/pull/154) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-4. 🎉 Merged PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-5. 🎉 Merged PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-6. 🎉 Merged PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🎉 Merged PR [#153](https://github.com/gaborbernat/simplint/pull/153) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. 🗣 Commented on [#1291](https://github.com/pypa/build/pull/1291#issuecomment-6982713539) in
+   [pypa/build](https://github.com/pypa/build)
+1. 🗣 Commented on [#1289](https://github.com/pypa/build/pull/1289#issuecomment-6982684361) in
+   [pypa/build](https://github.com/pypa/build)
+1. 🎉 Merged PR [#154](https://github.com/gaborbernat/simplint/pull/154) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+1. 🎉 Merged PR [#59](https://github.com/quotaline/quotaline/pull/59) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🎉 Merged PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#153](https://github.com/gaborbernat/simplint/pull/153) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
