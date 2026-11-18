@@ -37,16 +37,21 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. 💪 Opened PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-3. ℹ️ Labeled PR [#1290](https://github.com/pypa/build/pull/1290) in [pypa/build](https://github.com/pypa/build)
-4. 💪 Opened PR [#1290](https://github.com/pypa/build/pull/1290) in [pypa/build](https://github.com/pypa/build)
-5. ℹ️ Labeled PR [#1289](https://github.com/pypa/build/pull/1289) in [pypa/build](https://github.com/pypa/build)
-6. 💪 Opened PR [#1289](https://github.com/pypa/build/pull/1289) in [pypa/build](https://github.com/pypa/build)
-7. ℹ️ Labeled PR [#1288](https://github.com/pypa/build/pull/1288) in [pypa/build](https://github.com/pypa/build)
-8. 💪 Opened PR [#1288](https://github.com/pypa/build/pull/1288) in [pypa/build](https://github.com/pypa/build)
-9. ❌ Closed PR [#55](https://github.com/quotaline/quotaline/pull/55) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-10. 🔒 Closed issue [#901](https://github.com/tox-dev/pipdeptree/issues/901) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+
+1. ℹ️ Labeled PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in
+   [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 💪 Opened PR [#2431](https://github.com/tox-dev/peryx/pull/2431) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled PR [#1290](https://github.com/pypa/build/pull/1290) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#1290](https://github.com/pypa/build/pull/1290) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#1289](https://github.com/pypa/build/pull/1289) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#1289](https://github.com/pypa/build/pull/1289) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#1288](https://github.com/pypa/build/pull/1288) in [pypa/build](https://github.com/pypa/build)
+1. 💪 Opened PR [#1288](https://github.com/pypa/build/pull/1288) in [pypa/build](https://github.com/pypa/build)
+1. ❌ Closed PR [#55](https://github.com/quotaline/quotaline/pull/55) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🔒 Closed issue [#901](https://github.com/tox-dev/pipdeptree/issues/901) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
