@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🔒 Closed issue [#325](https://github.com/pytest-dev/pytest-env/issues/325) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🎉 Merged PR [#333](https://github.com/pytest-dev/pytest-env/pull/333) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. ℹ️ Labeled PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🔒 Closed issue [#323](https://github.com/pytest-dev/pytest-env/issues/323) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🎉 Merged PR [#334](https://github.com/pytest-dev/pytest-env/pull/334) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🎉 Merged PR [#335](https://github.com/pytest-dev/pytest-env/pull/335) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🔒 Closed issue [#328](https://github.com/pytest-dev/pytest-env/issues/328) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🎉 Merged PR [#336](https://github.com/pytest-dev/pytest-env/pull/336) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-1. 🎉 Merged PR [#75](https://github.com/tox-dev/github-workflows/pull/75) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-
+1. ℹ️ Labeled PR [#253](https://github.com/tox-dev/python-discovery/pull/253) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+2. 🗣 Commented on [#553](https://github.com/tox-dev/toml-fmt/issues/553#issuecomment-6963578148) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. ℹ️ Labeled PR [#405](https://github.com/tox-dev/sphinx-argparse-cli/pull/405) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. ℹ️ Labeled PR [#261](https://github.com/tox-dev/python-discovery/pull/261) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+5. ℹ️ Labeled PR [#416](https://github.com/tox-dev/sphinx-argparse-cli/pull/416) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+6. ℹ️ Labeled PR [#416](https://github.com/tox-dev/sphinx-argparse-cli/pull/416) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+7. ℹ️ Labeled PR [#263](https://github.com/tox-dev/python-discovery/pull/263) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+8. ℹ️ Labeled PR [#375](https://github.com/tox-dev/pyproject-api/pull/375) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+9. 🎉 Merged PR [#2455](https://github.com/tox-dev/turbohtml/pull/2455) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#271](https://github.com/tox-dev/python-discovery/pull/271) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
