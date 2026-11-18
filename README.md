@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#326](https://github.com/gaborbernat/bump-deps-index/pull/326) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-2. 💪 Opened PR [#326](https://github.com/gaborbernat/bump-deps-index/pull/326) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. ℹ️ Labeled PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#316](https://github.com/gaborbernat/pypi-changes/pull/316) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-6. 💪 Opened PR [#316](https://github.com/gaborbernat/pypi-changes/pull/316) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-7. 🗣 Commented on [#3571](https://github.com/pypa/virtualenv/issues/3571#issuecomment-6969677829) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#167](https://github.com/tox-dev/xml-fmt/pull/167) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-9. 💪 Opened PR [#167](https://github.com/tox-dev/xml-fmt/pull/167) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-10. ℹ️ Labeled PR [#57](https://github.com/quotaline/quotaline/pull/57) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+
+1. ℹ️ Labeled PR [#326](https://github.com/gaborbernat/bump-deps-index/pull/326) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 💪 Opened PR [#326](https://github.com/gaborbernat/bump-deps-index/pull/326) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. ℹ️ Labeled PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3578](https://github.com/pypa/virtualenv/pull/3578) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#316](https://github.com/gaborbernat/pypi-changes/pull/316) in
+   [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+1. 💪 Opened PR [#316](https://github.com/gaborbernat/pypi-changes/pull/316) in
+   [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+1. 🗣 Commented on [#3571](https://github.com/pypa/virtualenv/issues/3571#issuecomment-6969677829) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#167](https://github.com/tox-dev/xml-fmt/pull/167) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. 💪 Opened PR [#167](https://github.com/tox-dev/xml-fmt/pull/167) in
+   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+1. ℹ️ Labeled PR [#57](https://github.com/quotaline/quotaline/pull/57) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
