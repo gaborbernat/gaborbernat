@@ -37,26 +37,12 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 💪 Opened PR [#59](https://github.com/quotaline/quotaline/pull/59) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#154](https://github.com/gaborbernat/simplint/pull/154) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#154](https://github.com/gaborbernat/simplint/pull/154) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in
-   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-1. 💪 Opened PR [#49](https://github.com/gaborbernat/all-repos-self/pull/49) in
-   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-
+1. 🎉 Merged PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+3. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+4. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+5. 💪 Opened PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+6. ℹ️ Labeled PR [#59](https://github.com/quotaline/quotaline/pull/59) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
