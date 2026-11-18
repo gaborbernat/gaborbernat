@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ℹ️ Labeled PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#272](https://github.com/tox-dev/python-discovery/pull/272) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-4. 💪 Opened PR [#272](https://github.com/tox-dev/python-discovery/pull/272) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. ℹ️ Labeled PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 💪 Opened PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. ℹ️ Labeled PR [#4450](https://github.com/tox-dev/tox/pull/4450) in [tox-dev/tox](https://github.com/tox-dev/tox)
-8. 💪 Opened PR [#4450](https://github.com/tox-dev/tox/pull/4450) in [tox-dev/tox](https://github.com/tox-dev/tox)
-9. ℹ️ Labeled PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-10. 💪 Opened PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+
+1. 💪 Opened PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3580](https://github.com/pypa/virtualenv/pull/3580) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#272](https://github.com/tox-dev/python-discovery/pull/272) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 💪 Opened PR [#272](https://github.com/tox-dev/python-discovery/pull/272) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. ℹ️ Labeled PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2460](https://github.com/tox-dev/turbohtml/pull/2460) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#4450](https://github.com/tox-dev/tox/pull/4450) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 💪 Opened PR [#4450](https://github.com/tox-dev/tox/pull/4450) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. ℹ️ Labeled PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 💪 Opened PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
