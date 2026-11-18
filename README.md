@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in
-   [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
-1. 🎉 Merged PR [#2469](https://github.com/tox-dev/turbohtml/pull/2469) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#2484](https://github.com/tox-dev/turbohtml/pull/2484) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#316](https://github.com/gaborbernat/pypi-changes/pull/316) in
-   [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
-1. 🎉 Merged PR [#326](https://github.com/gaborbernat/bump-deps-index/pull/326) in
-   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-1. 🎉 Merged PR [#424](https://github.com/tox-dev/tox-ini-fmt/pull/424) in
-   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-1. 🎉 Merged PR [#29](https://github.com/tox-dev/python-sbom/pull/29) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🎉 Merged PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. 🎉 Merged PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in
-   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-1. 🎉 Merged PR [#4450](https://github.com/tox-dev/tox/pull/4450) in [tox-dev/tox](https://github.com/tox-dev/tox)
-
+1. ℹ️ Labeled PR [#228](https://github.com/tox-dev/pre-commit-uv/pull/228) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+2. 💪 Opened PR [#228](https://github.com/tox-dev/pre-commit-uv/pull/228) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+3. ℹ️ Labeled PR [#417](https://github.com/tox-dev/sphinx-argparse-cli/pull/417) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+4. 💪 Opened PR [#417](https://github.com/tox-dev/sphinx-argparse-cli/pull/417) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+5. ℹ️ Labeled PR [#341](https://github.com/pytest-dev/pytest-env/pull/341) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+6. 💪 Opened PR [#341](https://github.com/pytest-dev/pytest-env/pull/341) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+7. 🎉 Merged PR [#2492](https://github.com/tox-dev/turbohtml/pull/2492) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#2485](https://github.com/tox-dev/turbohtml/pull/2485) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🔒 Closed issue [#3581](https://github.com/pypa/virtualenv/issues/3581) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 🎉 Merged PR [#330](https://github.com/tox-dev/devpi-process/pull/330) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
