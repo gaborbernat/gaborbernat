@@ -37,13 +37,22 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-2. 💪 Opened PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-3. ℹ️ Labeled PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. ℹ️ Labeled PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 💪 Opened PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-6. ℹ️ Labeled PR [#2459](https://github.com/tox-dev/turbohtml/pull/2459) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#2459](https://github.com/tox-dev/turbohtml/pull/2459) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
+1. ℹ️ Labeled PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 💪 Opened PR [#377](https://github.com/tox-dev/pyproject-api/pull/377) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. ℹ️ Labeled PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ℹ️ Labeled PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 💪 Opened PR [#904](https://github.com/tox-dev/pipdeptree/pull/904) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. ℹ️ Labeled PR [#2459](https://github.com/tox-dev/turbohtml/pull/2459) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2459](https://github.com/tox-dev/turbohtml/pull/2459) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
