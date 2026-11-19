@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#167](https://github.com/gaborbernat/simplint/pull/167) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#167](https://github.com/gaborbernat/simplint/pull/167) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#166](https://github.com/gaborbernat/simplint/pull/166) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#166](https://github.com/gaborbernat/simplint/pull/166) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#165](https://github.com/gaborbernat/simplint/pull/165) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 💪 Opened PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#165](https://github.com/gaborbernat/simplint/pull/165) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. ℹ️ Labeled PR [#2502](https://github.com/tox-dev/turbohtml/pull/2502) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#169](https://github.com/tox-dev/xml-fmt/pull/169) in [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
+3. ℹ️ Labeled PR [#444](https://github.com/tox-dev/tox-uv/pull/444) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+4. ℹ️ Labeled PR [#426](https://github.com/tox-dev/tox-ini-fmt/pull/426) in [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
+5. ℹ️ Labeled PR [#4457](https://github.com/tox-dev/tox/pull/4457) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. ℹ️ Labeled PR [#353](https://github.com/tox-dev/tox-gh/pull/353) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+7. ℹ️ Labeled PR [#1141](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1141) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+8. ℹ️ Labeled PR [#562](https://github.com/tox-dev/toml-fmt/pull/562) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+9. ℹ️ Labeled PR [#419](https://github.com/tox-dev/sphinx-argparse-cli/pull/419) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+10. ℹ️ Labeled PR [#39](https://github.com/tox-dev/python-sbom/pull/39) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
