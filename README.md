@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-2. 💪 Opened PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-3. ℹ️ Labeled PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-4. 💪 Opened PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. ℹ️ Labeled PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. 💪 Opened PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-7. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-9. 💪 Opened PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-10. 🔒 Closed issue [#346](https://github.com/pytest-dev/pytest-env/issues/346) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+
+1. ℹ️ Labeled PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 💪 Opened PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 💪 Opened PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🔒 Closed issue [#346](https://github.com/pytest-dev/pytest-env/issues/346) in
+   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
