@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#2502](https://github.com/tox-dev/turbohtml/pull/2502) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#169](https://github.com/tox-dev/xml-fmt/pull/169) in
-   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-1. ℹ️ Labeled PR [#444](https://github.com/tox-dev/tox-uv/pull/444) in
-   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-1. ℹ️ Labeled PR [#426](https://github.com/tox-dev/tox-ini-fmt/pull/426) in
-   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-1. ℹ️ Labeled PR [#4457](https://github.com/tox-dev/tox/pull/4457) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#353](https://github.com/tox-dev/tox-gh/pull/353) in
-   [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-1. ℹ️ Labeled PR [#1141](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1141) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. ℹ️ Labeled PR [#562](https://github.com/tox-dev/toml-fmt/pull/562) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#419](https://github.com/tox-dev/sphinx-argparse-cli/pull/419) in
-   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-1. ℹ️ Labeled PR [#39](https://github.com/tox-dev/python-sbom/pull/39) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-
+1. ℹ️ Labeled PR [#738](https://github.com/tox-dev/platformdirs/pull/738) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. ℹ️ Labeled PR [#738](https://github.com/tox-dev/platformdirs/pull/738) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 💪 Opened PR [#738](https://github.com/tox-dev/platformdirs/pull/738) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🎉 Merged PR [#379](https://github.com/tox-dev/pyproject-api/pull/379) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+5. 🎉 Merged PR [#276](https://github.com/tox-dev/python-discovery/pull/276) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. ℹ️ Labeled PR [#67](https://github.com/quotaline/quotaline/pull/67) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+7. ℹ️ Labeled PR [#67](https://github.com/quotaline/quotaline/pull/67) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+8. 💪 Opened PR [#67](https://github.com/quotaline/quotaline/pull/67) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+9. 🎉 Merged PR [#231](https://github.com/tox-dev/pre-commit-uv/pull/231) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+10. 🎉 Merged PR [#168](https://github.com/gaborbernat/simplint/pull/168) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
