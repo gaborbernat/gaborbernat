@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#30](https://github.com/tox-dev/python-sbom/issues/30#issuecomment-7015914027) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🎉 Merged PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 💪 Opened PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🔒 Closed issue [#905](https://github.com/tox-dev/pipdeptree/issues/905) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. 🎉 Merged PR [#57](https://github.com/quotaline/quotaline/pull/57) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🎉 Merged PR [#2500](https://github.com/tox-dev/turbohtml/pull/2500) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2500](https://github.com/tox-dev/turbohtml/pull/2500) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2500](https://github.com/tox-dev/turbohtml/pull/2500) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-
+1. ℹ️ Labeled PR [#63](https://github.com/quotaline/quotaline/pull/63) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+2. ℹ️ Labeled PR [#63](https://github.com/quotaline/quotaline/pull/63) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+3. 💪 Opened PR [#63](https://github.com/quotaline/quotaline/pull/63) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+4. ℹ️ Labeled PR [#76](https://github.com/tox-dev/github-workflows/pull/76) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+5. 💪 Opened PR [#76](https://github.com/tox-dev/github-workflows/pull/76) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+6. 🗣 Commented on [#30](https://github.com/tox-dev/python-sbom/issues/30#issuecomment-7012943739) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+7. 🗣 Commented on [#30](https://github.com/tox-dev/python-sbom/issues/30#issuecomment-7015914027) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+8. 🎉 Merged PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. ℹ️ Labeled PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+10. 💪 Opened PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
