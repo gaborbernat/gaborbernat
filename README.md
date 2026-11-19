@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2493](https://github.com/tox-dev/turbohtml/pull/2493) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 🎉 Merged PR [#2470](https://github.com/tox-dev/turbohtml/pull/2470) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Reopened PR [#2470](https://github.com/tox-dev/turbohtml/pull/2470) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. ❌ Closed PR [#2470](https://github.com/tox-dev/turbohtml/pull/2470) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 🎉 Merged PR [#1290](https://github.com/pypa/build/pull/1290) in [pypa/build](https://github.com/pypa/build)
-6. ℹ️ Labeled PR [#60](https://github.com/quotaline/quotaline/pull/60) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-7. 💪 Opened PR [#60](https://github.com/quotaline/quotaline/pull/60) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-8. 🎉 Merged PR [#2491](https://github.com/tox-dev/turbohtml/pull/2491) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. 🎉 Merged PR [#229](https://github.com/tox-dev/pre-commit-uv/pull/229) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-10. 🎉 Merged PR [#556](https://github.com/tox-dev/toml-fmt/pull/556) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+
+1. 🎉 Merged PR [#2493](https://github.com/tox-dev/turbohtml/pull/2493) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#2470](https://github.com/tox-dev/turbohtml/pull/2470) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Reopened PR [#2470](https://github.com/tox-dev/turbohtml/pull/2470) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ❌ Closed PR [#2470](https://github.com/tox-dev/turbohtml/pull/2470) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#1290](https://github.com/pypa/build/pull/1290) in [pypa/build](https://github.com/pypa/build)
+1. ℹ️ Labeled PR [#60](https://github.com/quotaline/quotaline/pull/60) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 💪 Opened PR [#60](https://github.com/quotaline/quotaline/pull/60) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🎉 Merged PR [#2491](https://github.com/tox-dev/turbohtml/pull/2491) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#229](https://github.com/tox-dev/pre-commit-uv/pull/229) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#556](https://github.com/tox-dev/toml-fmt/pull/556) in
+   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
