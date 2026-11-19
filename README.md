@@ -38,13 +38,6 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#157](https://github.com/gaborbernat/simplint/pull/157) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#157](https://github.com/gaborbernat/simplint/pull/157) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#2499](https://github.com/tox-dev/turbohtml/pull/2499) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
