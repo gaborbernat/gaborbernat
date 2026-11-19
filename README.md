@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-2. 🔒 Closed issue [#31](https://github.com/tox-dev/python-sbom/issues/31) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-3. 🔒 Closed issue [#30](https://github.com/tox-dev/python-sbom/issues/30) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-4. 🎉 Merged PR [#33](https://github.com/tox-dev/python-sbom/pull/33) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-5. 💪 Opened PR [#33](https://github.com/tox-dev/python-sbom/pull/33) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-6. ℹ️ Labeled PR [#33](https://github.com/tox-dev/python-sbom/pull/33) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-7. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-8. 🔒 Closed issue [#2462](https://github.com/tox-dev/turbohtml/issues/2462) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-9. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-10. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+
+1. 🎉 Merged PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🔒 Closed issue [#31](https://github.com/tox-dev/python-sbom/issues/31) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🔒 Closed issue [#30](https://github.com/tox-dev/python-sbom/issues/30) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🎉 Merged PR [#33](https://github.com/tox-dev/python-sbom/pull/33) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 💪 Opened PR [#33](https://github.com/tox-dev/python-sbom/pull/33) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#33](https://github.com/tox-dev/python-sbom/pull/33) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. 🔒 Closed issue [#2462](https://github.com/tox-dev/turbohtml/issues/2462) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+1. ℹ️ Labeled PR [#32](https://github.com/tox-dev/python-sbom/pull/32) in
+   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
