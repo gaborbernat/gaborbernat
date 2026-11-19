@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#163](https://github.com/gaborbernat/simplint/pull/163) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#162](https://github.com/gaborbernat/simplint/pull/162) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#161](https://github.com/gaborbernat/simplint/pull/161) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#160](https://github.com/gaborbernat/simplint/pull/160) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#163](https://github.com/gaborbernat/simplint/pull/163) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#163](https://github.com/gaborbernat/simplint/pull/163) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#558](https://github.com/tox-dev/toml-fmt/pull/558) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#558](https://github.com/tox-dev/toml-fmt/pull/558) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. 💪 Opened PR [#558](https://github.com/tox-dev/toml-fmt/pull/558) in
-   [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-1. ℹ️ Labeled PR [#162](https://github.com/gaborbernat/simplint/pull/162) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. ℹ️ Labeled PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 💪 Opened PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. ℹ️ Labeled PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 💪 Opened PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. ℹ️ Labeled PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. 💪 Opened PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+8. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. 💪 Opened PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+10. 🔒 Closed issue [#346](https://github.com/pytest-dev/pytest-env/issues/346) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
