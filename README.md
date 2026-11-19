@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 💪 Opened PR [#731](https://github.com/tox-dev/platformdirs/pull/731) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. ℹ️ Labeled PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 💪 Opened PR [#730](https://github.com/tox-dev/platformdirs/pull/730) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. ℹ️ Labeled PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 💪 Opened PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 💪 Opened PR [#37](https://github.com/tox-dev/python-sbom/pull/37) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🔒 Closed issue [#346](https://github.com/pytest-dev/pytest-env/issues/346) in
-   [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
-
+1. ℹ️ Labeled PR [#167](https://github.com/gaborbernat/simplint/pull/167) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 💪 Opened PR [#167](https://github.com/gaborbernat/simplint/pull/167) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. ℹ️ Labeled PR [#166](https://github.com/gaborbernat/simplint/pull/166) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#166](https://github.com/gaborbernat/simplint/pull/166) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 🎉 Merged PR [#165](https://github.com/gaborbernat/simplint/pull/165) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. 🎉 Merged PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+7. ℹ️ Labeled PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+8. ℹ️ Labeled PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. 💪 Opened PR [#38](https://github.com/tox-dev/python-sbom/pull/38) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+10. ℹ️ Labeled PR [#165](https://github.com/gaborbernat/simplint/pull/165) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
