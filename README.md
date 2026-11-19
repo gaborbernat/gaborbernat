@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#63](https://github.com/quotaline/quotaline/pull/63) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#63](https://github.com/quotaline/quotaline/pull/63) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 💪 Opened PR [#63](https://github.com/quotaline/quotaline/pull/63) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#76](https://github.com/tox-dev/github-workflows/pull/76) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-1. 💪 Opened PR [#76](https://github.com/tox-dev/github-workflows/pull/76) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-1. 🗣 Commented on [#30](https://github.com/tox-dev/python-sbom/issues/30#issuecomment-7012943739) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🗣 Commented on [#30](https://github.com/tox-dev/python-sbom/issues/30#issuecomment-7015914027) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🎉 Merged PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. ℹ️ Labeled PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 💪 Opened PR [#35](https://github.com/tox-dev/python-sbom/pull/35) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-
+1. 🎉 Merged PR [#158](https://github.com/gaborbernat/simplint/pull/158) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 🎉 Merged PR [#443](https://github.com/tox-dev/tox-uv/pull/443) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+3. 🎉 Merged PR [#82](https://github.com/gaborbernat/mdformat-hugo/pull/82) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+4. 🎉 Merged PR [#331](https://github.com/tox-dev/devpi-process/pull/331) in [tox-dev/devpi-process](https://github.com/tox-dev/devpi-process)
+5. 🎉 Merged PR [#327](https://github.com/gaborbernat/bump-deps-index/pull/327) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+6. 🎉 Merged PR [#352](https://github.com/tox-dev/tox-gh/pull/352) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
+7. 🎉 Merged PR [#317](https://github.com/gaborbernat/pypi-changes/pull/317) in [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes)
+8. 🎉 Merged PR [#36](https://github.com/tox-dev/python-sbom/pull/36) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
+9. 🎉 Merged PR [#22](https://github.com/gaborbernat/dotfiles/pull/22) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+10. 🎉 Merged PR [#72](https://github.com/tox-dev/action-pre-commit-uv/pull/72) in [tox-dev/action-pre-commit-uv](https://github.com/tox-dev/action-pre-commit-uv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
