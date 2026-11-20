@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1033](https://github.com/tox-dev/filelock/pull/1033) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🎉 Merged PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#993](https://github.com/tox-dev/filelock/issues/993) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🔒 Closed issue [#1083](https://github.com/tox-dev/filelock/issues/1083) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🔒 Closed issue [#1004](https://github.com/tox-dev/filelock/issues/1004) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🔒 Closed issue [#1076](https://github.com/tox-dev/filelock/issues/1076) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ❌ Closed PR [#1075](https://github.com/tox-dev/filelock/pull/1075) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 🔒 Closed issue [#1071](https://github.com/tox-dev/filelock/issues/1071) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. 🔒 Closed issue [#1030](https://github.com/tox-dev/filelock/issues/1030) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 🎉 Merged PR [#1060](https://github.com/tox-dev/filelock/pull/1060) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. 🎉 Merged PR [#1033](https://github.com/tox-dev/filelock/pull/1033) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#993](https://github.com/tox-dev/filelock/issues/993) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1083](https://github.com/tox-dev/filelock/issues/1083) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1004](https://github.com/tox-dev/filelock/issues/1004) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1076](https://github.com/tox-dev/filelock/issues/1076) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ❌ Closed PR [#1075](https://github.com/tox-dev/filelock/pull/1075) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1071](https://github.com/tox-dev/filelock/issues/1071) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1030](https://github.com/tox-dev/filelock/issues/1030) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1060](https://github.com/tox-dev/filelock/pull/1060) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
