@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2508](https://github.com/tox-dev/turbohtml/pull/2508) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#2508](https://github.com/tox-dev/turbohtml/pull/2508) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#2507](https://github.com/tox-dev/turbohtml/pull/2507) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-4. 💪 Opened PR [#2507](https://github.com/tox-dev/turbohtml/pull/2507) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. ℹ️ Labeled PR [#173](https://github.com/gaborbernat/simplint/pull/173) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-6. 💪 Opened PR [#173](https://github.com/gaborbernat/simplint/pull/173) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-7. 🎉 Merged PR [#2503](https://github.com/tox-dev/turbohtml/pull/2503) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#988](https://github.com/tox-dev/filelock/pull/988) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ℹ️ Labeled PR [#988](https://github.com/tox-dev/filelock/pull/988) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 💪 Opened PR [#988](https://github.com/tox-dev/filelock/pull/988) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. ℹ️ Labeled PR [#2508](https://github.com/tox-dev/turbohtml/pull/2508) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2508](https://github.com/tox-dev/turbohtml/pull/2508) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2507](https://github.com/tox-dev/turbohtml/pull/2507) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2507](https://github.com/tox-dev/turbohtml/pull/2507) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#173](https://github.com/gaborbernat/simplint/pull/173) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 💪 Opened PR [#173](https://github.com/gaborbernat/simplint/pull/173) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#2503](https://github.com/tox-dev/turbohtml/pull/2503) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#988](https://github.com/tox-dev/filelock/pull/988) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#988](https://github.com/tox-dev/filelock/pull/988) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#988](https://github.com/tox-dev/filelock/pull/988) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
