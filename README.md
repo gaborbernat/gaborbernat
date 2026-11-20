@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#985](https://github.com/tox-dev/filelock/pull/985) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#2510](https://github.com/tox-dev/turbohtml/pull/2510) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🔒 Closed issue [#3585](https://github.com/pypa/virtualenv/issues/3585) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#2509](https://github.com/tox-dev/turbohtml/pull/2509) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2509](https://github.com/tox-dev/turbohtml/pull/2509) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🔒 Closed issue [#3584](https://github.com/pypa/virtualenv/issues/3584) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🔒 Closed issue [#3582](https://github.com/pypa/virtualenv/issues/3582) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🔒 Closed issue [#3586](https://github.com/pypa/virtualenv/issues/3586) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🔒 Closed issue [#3583](https://github.com/pypa/virtualenv/issues/3583) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#173](https://github.com/gaborbernat/simplint/pull/173) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. ℹ️ Labeled PR [#970](https://github.com/tox-dev/filelock/pull/970) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#745](https://github.com/tox-dev/platformdirs/pull/745) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. ℹ️ Labeled PR [#745](https://github.com/tox-dev/platformdirs/pull/745) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 💪 Opened PR [#745](https://github.com/tox-dev/platformdirs/pull/745) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🎉 Merged PR [#176](https://github.com/gaborbernat/simplint/pull/176) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. 🎉 Merged PR [#978](https://github.com/tox-dev/filelock/pull/978) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ℹ️ Labeled PR [#176](https://github.com/gaborbernat/simplint/pull/176) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. 💪 Opened PR [#176](https://github.com/gaborbernat/simplint/pull/176) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+9. 🎉 Merged PR [#2515](https://github.com/tox-dev/turbohtml/pull/2515) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. ℹ️ Labeled PR [#2515](https://github.com/tox-dev/turbohtml/pull/2515) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
