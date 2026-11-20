@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#978](https://github.com/tox-dev/filelock/pull/978) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#978](https://github.com/tox-dev/filelock/pull/978) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#978](https://github.com/tox-dev/filelock/pull/978) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#978](https://github.com/tox-dev/filelock/pull/978) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#978](https://github.com/tox-dev/filelock/pull/978) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#172](https://github.com/gaborbernat/simplint/pull/172) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#68](https://github.com/quotaline/quotaline/pull/68) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#68](https://github.com/quotaline/quotaline/pull/68) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 💪 Opened PR [#68](https://github.com/quotaline/quotaline/pull/68) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🎉 Merged PR [#171](https://github.com/gaborbernat/simplint/pull/171) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. 🎉 Merged PR [#734](https://github.com/tox-dev/platformdirs/pull/734) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. 🎉 Merged PR [#742](https://github.com/tox-dev/platformdirs/pull/742) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🎉 Merged PR [#737](https://github.com/tox-dev/platformdirs/pull/737) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. 🔒 Closed issue [#3602](https://github.com/pypa/virtualenv/issues/3602) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 🎉 Merged PR [#3612](https://github.com/pypa/virtualenv/pull/3612) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🎉 Merged PR [#172](https://github.com/gaborbernat/simplint/pull/172) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. 🎉 Merged PR [#170](https://github.com/gaborbernat/simplint/pull/170) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. 🎉 Merged PR [#3600](https://github.com/pypa/virtualenv/pull/3600) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. ℹ️ Labeled PR [#978](https://github.com/tox-dev/filelock/pull/978) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. ℹ️ Labeled PR [#978](https://github.com/tox-dev/filelock/pull/978) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
