@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3630](https://github.com/pypa/virtualenv/issues/3630) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#3733](https://github.com/pypa/virtualenv/pull/3733) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#3737](https://github.com/pypa/virtualenv/pull/3737) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3695](https://github.com/pypa/virtualenv/pull/3695) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🎉 Merged PR [#3730](https://github.com/pypa/virtualenv/pull/3730) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3753](https://github.com/pypa/virtualenv/pull/3753) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. ℹ️ Labeled PR [#3753](https://github.com/pypa/virtualenv/pull/3753) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#3753](https://github.com/pypa/virtualenv/pull/3753) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🎉 Merged PR [#3749](https://github.com/pypa/virtualenv/pull/3749) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 🎉 Merged PR [#3718](https://github.com/pypa/virtualenv/pull/3718) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
+1. 🔒 Closed issue [#3630](https://github.com/pypa/virtualenv/issues/3630) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3733](https://github.com/pypa/virtualenv/pull/3733) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3737](https://github.com/pypa/virtualenv/pull/3737) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3695](https://github.com/pypa/virtualenv/pull/3695) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3730](https://github.com/pypa/virtualenv/pull/3730) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3753](https://github.com/pypa/virtualenv/pull/3753) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3753](https://github.com/pypa/virtualenv/pull/3753) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3753](https://github.com/pypa/virtualenv/pull/3753) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3749](https://github.com/pypa/virtualenv/pull/3749) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3718](https://github.com/pypa/virtualenv/pull/3718) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
