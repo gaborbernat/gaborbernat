@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#3687](https://github.com/pypa/virtualenv/pull/3687) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3687](https://github.com/pypa/virtualenv/pull/3687) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3688](https://github.com/pypa/virtualenv/pull/3688) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3687](https://github.com/pypa/virtualenv/pull/3687) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#2516](https://github.com/tox-dev/turbohtml/pull/2516) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#2527](https://github.com/tox-dev/turbohtml/pull/2527) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#2526](https://github.com/tox-dev/turbohtml/pull/2526) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#2528](https://github.com/tox-dev/turbohtml/pull/2528) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#2518](https://github.com/tox-dev/turbohtml/pull/2518) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#3686](https://github.com/pypa/virtualenv/pull/3686) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-
+1. 🎉 Merged PR [#2531](https://github.com/tox-dev/turbohtml/pull/2531) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#2531](https://github.com/tox-dev/turbohtml/pull/2531) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. ℹ️ Labeled PR [#2531](https://github.com/tox-dev/turbohtml/pull/2531) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. 🎉 Merged PR [#2530](https://github.com/tox-dev/turbohtml/pull/2530) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. 💪 Opened PR [#2530](https://github.com/tox-dev/turbohtml/pull/2530) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. ℹ️ Labeled PR [#2530](https://github.com/tox-dev/turbohtml/pull/2530) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 🎉 Merged PR [#2525](https://github.com/tox-dev/turbohtml/pull/2525) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 🎉 Merged PR [#2524](https://github.com/tox-dev/turbohtml/pull/2524) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#2529](https://github.com/tox-dev/turbohtml/pull/2529) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🔓 Reopened issue [#3639](https://github.com/pypa/virtualenv/issues/3639) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
