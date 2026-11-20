@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#735](https://github.com/tox-dev/platformdirs/pull/735) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🎉 Merged PR [#733](https://github.com/tox-dev/platformdirs/pull/733) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🔒 Closed issue [#727](https://github.com/tox-dev/platformdirs/issues/727) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🎉 Merged PR [#729](https://github.com/tox-dev/platformdirs/pull/729) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🎉 Merged PR [#972](https://github.com/tox-dev/filelock/pull/972) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🔒 Closed issue [#3596](https://github.com/pypa/virtualenv/issues/3596) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3599](https://github.com/pypa/virtualenv/pull/3599) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#740](https://github.com/tox-dev/platformdirs/pull/740) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. ℹ️ Labeled PR [#740](https://github.com/tox-dev/platformdirs/pull/740) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 💪 Opened PR [#740](https://github.com/tox-dev/platformdirs/pull/740) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-
+1. ℹ️ Labeled PR [#742](https://github.com/tox-dev/platformdirs/pull/742) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+2. ℹ️ Labeled PR [#742](https://github.com/tox-dev/platformdirs/pull/742) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 💪 Opened PR [#742](https://github.com/tox-dev/platformdirs/pull/742) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ℹ️ Labeled PR [#977](https://github.com/tox-dev/filelock/pull/977) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. ℹ️ Labeled PR [#977](https://github.com/tox-dev/filelock/pull/977) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 💪 Opened PR [#977](https://github.com/tox-dev/filelock/pull/977) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ℹ️ Labeled PR [#170](https://github.com/gaborbernat/simplint/pull/170) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. 💪 Opened PR [#170](https://github.com/gaborbernat/simplint/pull/170) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+9. 🎉 Merged PR [#67](https://github.com/quotaline/quotaline/pull/67) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+10. ℹ️ Labeled PR [#169](https://github.com/gaborbernat/simplint/pull/169) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
