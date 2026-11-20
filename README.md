@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🔒 Closed issue [#3616](https://github.com/pypa/virtualenv/issues/3616) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3732](https://github.com/pypa/virtualenv/pull/3732) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3705](https://github.com/pypa/virtualenv/pull/3705) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3692](https://github.com/pypa/virtualenv/pull/3692) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🔒 Closed issue [#3626](https://github.com/pypa/virtualenv/issues/3626) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3697](https://github.com/pypa/virtualenv/pull/3697) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3721](https://github.com/pypa/virtualenv/pull/3721) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3747](https://github.com/pypa/virtualenv/pull/3747) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🗣 Commented on [#3752](https://github.com/pypa/virtualenv/pull/3752#issuecomment-7050822350) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ❌ Closed PR [#3752](https://github.com/pypa/virtualenv/pull/3752) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-
+1. 🎉 Merged PR [#1033](https://github.com/tox-dev/filelock/pull/1033) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🎉 Merged PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🔒 Closed issue [#993](https://github.com/tox-dev/filelock/issues/993) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. 🔒 Closed issue [#1083](https://github.com/tox-dev/filelock/issues/1083) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 🔒 Closed issue [#1004](https://github.com/tox-dev/filelock/issues/1004) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 🔒 Closed issue [#1076](https://github.com/tox-dev/filelock/issues/1076) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. ❌ Closed PR [#1075](https://github.com/tox-dev/filelock/pull/1075) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. 🔒 Closed issue [#1071](https://github.com/tox-dev/filelock/issues/1071) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+9. 🔒 Closed issue [#1030](https://github.com/tox-dev/filelock/issues/1030) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 🎉 Merged PR [#1060](https://github.com/tox-dev/filelock/pull/1060) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
