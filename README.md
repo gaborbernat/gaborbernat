@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3647](https://github.com/pypa/virtualenv/pull/3647) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 🎉 Merged PR [#3646](https://github.com/pypa/virtualenv/pull/3646) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 🎉 Merged PR [#3652](https://github.com/pypa/virtualenv/pull/3652) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 🎉 Merged PR [#3653](https://github.com/pypa/virtualenv/pull/3653) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 🔒 Closed issue [#3623](https://github.com/pypa/virtualenv/issues/3623) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. 🎉 Merged PR [#3665](https://github.com/pypa/virtualenv/pull/3665) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🔒 Closed issue [#3617](https://github.com/pypa/virtualenv/issues/3617) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🎉 Merged PR [#3644](https://github.com/pypa/virtualenv/pull/3644) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🔒 Closed issue [#3636](https://github.com/pypa/virtualenv/issues/3636) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled issue [#1088](https://github.com/tox-dev/filelock/issues/1088) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. 🎉 Merged PR [#3647](https://github.com/pypa/virtualenv/pull/3647) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3646](https://github.com/pypa/virtualenv/pull/3646) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3652](https://github.com/pypa/virtualenv/pull/3652) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3653](https://github.com/pypa/virtualenv/pull/3653) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3623](https://github.com/pypa/virtualenv/issues/3623) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3665](https://github.com/pypa/virtualenv/pull/3665) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3617](https://github.com/pypa/virtualenv/issues/3617) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#3644](https://github.com/pypa/virtualenv/pull/3644) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3636](https://github.com/pypa/virtualenv/issues/3636) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled issue [#1088](https://github.com/tox-dev/filelock/issues/1088) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
