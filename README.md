@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1082](https://github.com/tox-dev/filelock/pull/1082) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#1082](https://github.com/tox-dev/filelock/pull/1082) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#1081](https://github.com/tox-dev/filelock/pull/1081) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#1081](https://github.com/tox-dev/filelock/pull/1081) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ℹ️ Labeled PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 💪 Opened PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ℹ️ Labeled PR [#1079](https://github.com/tox-dev/filelock/pull/1079) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#1079](https://github.com/tox-dev/filelock/pull/1079) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ℹ️ Labeled PR [#179](https://github.com/gaborbernat/simplint/pull/179) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. 🎉 Merged PR [#3678](https://github.com/pypa/virtualenv/pull/3678) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
+1. ℹ️ Labeled PR [#1082](https://github.com/tox-dev/filelock/pull/1082) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1082](https://github.com/tox-dev/filelock/pull/1082) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1081](https://github.com/tox-dev/filelock/pull/1081) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1081](https://github.com/tox-dev/filelock/pull/1081) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1080](https://github.com/tox-dev/filelock/pull/1080) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1079](https://github.com/tox-dev/filelock/pull/1079) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1079](https://github.com/tox-dev/filelock/pull/1079) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#179](https://github.com/gaborbernat/simplint/pull/179) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#3678](https://github.com/pypa/virtualenv/pull/3678) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
