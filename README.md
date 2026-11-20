@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#985](https://github.com/tox-dev/filelock/pull/985) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#2510](https://github.com/tox-dev/turbohtml/pull/2510) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. 🔒 Closed issue [#3585](https://github.com/pypa/virtualenv/issues/3585) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#2509](https://github.com/tox-dev/turbohtml/pull/2509) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-5. 💪 Opened PR [#2509](https://github.com/tox-dev/turbohtml/pull/2509) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. 🔒 Closed issue [#3584](https://github.com/pypa/virtualenv/issues/3584) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 🔒 Closed issue [#3582](https://github.com/pypa/virtualenv/issues/3582) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 🔒 Closed issue [#3586](https://github.com/pypa/virtualenv/issues/3586) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 🔒 Closed issue [#3583](https://github.com/pypa/virtualenv/issues/3583) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. 🎉 Merged PR [#173](https://github.com/gaborbernat/simplint/pull/173) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. 🎉 Merged PR [#985](https://github.com/tox-dev/filelock/pull/985) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#2510](https://github.com/tox-dev/turbohtml/pull/2510) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#3585](https://github.com/pypa/virtualenv/issues/3585) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#2509](https://github.com/tox-dev/turbohtml/pull/2509) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2509](https://github.com/tox-dev/turbohtml/pull/2509) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🔒 Closed issue [#3584](https://github.com/pypa/virtualenv/issues/3584) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3582](https://github.com/pypa/virtualenv/issues/3582) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3586](https://github.com/pypa/virtualenv/issues/3586) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🔒 Closed issue [#3583](https://github.com/pypa/virtualenv/issues/3583) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 🎉 Merged PR [#173](https://github.com/gaborbernat/simplint/pull/173) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
