@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1119](https://github.com/tox-dev/filelock/pull/1119) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#1119](https://github.com/tox-dev/filelock/pull/1119) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#1119](https://github.com/tox-dev/filelock/pull/1119) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🔒 Closed issue [#1086](https://github.com/tox-dev/filelock/issues/1086) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#1117](https://github.com/tox-dev/filelock/pull/1117) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🔒 Closed issue [#1100](https://github.com/tox-dev/filelock/issues/1100) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#1107](https://github.com/tox-dev/filelock/pull/1107) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🔒 Closed issue [#1109](https://github.com/tox-dev/filelock/issues/1109) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#1110](https://github.com/tox-dev/filelock/pull/1110) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-
+1. 🎉 Merged PR [#1120](https://github.com/tox-dev/filelock/pull/1120) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. 🗣 Commented on [#1426](https://github.com/pytest-dev/pytest-xdist/pull/1426#issuecomment-7066879473) in [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
+3. 🗣 Commented on [#845](https://github.com/xhtml2pdf/xhtml2pdf/pull/845#issuecomment-7066858541) in [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
+4. 🗣 Commented on [#2320](https://github.com/jupyter/nbconvert/pull/2320#issuecomment-7066842305) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+5. ℹ️ Labeled PR [#1120](https://github.com/tox-dev/filelock/pull/1120) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 💪 Opened PR [#1](https://github.com/gaborbernat/xhtml2pdf/pull/1) in [gaborbernat/xhtml2pdf](https://github.com/gaborbernat/xhtml2pdf)
+7. 💪 Opened PR [#1](https://github.com/gaborbernat/trafilatura/pull/1) in [gaborbernat/trafilatura](https://github.com/gaborbernat/trafilatura)
+8. 💪 Opened PR [#1](https://github.com/gaborbernat/markitdown/pull/1) in [gaborbernat/markitdown](https://github.com/gaborbernat/markitdown)
+9. 💪 Opened PR [#1120](https://github.com/tox-dev/filelock/pull/1120) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. ℹ️ Labeled PR [#1118](https://github.com/tox-dev/filelock/pull/1118) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
