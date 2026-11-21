@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1116](https://github.com/tox-dev/filelock/pull/1116) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#1116](https://github.com/tox-dev/filelock/pull/1116) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ℹ️ Labeled PR [#1115](https://github.com/tox-dev/filelock/pull/1115) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 💪 Opened PR [#1115](https://github.com/tox-dev/filelock/pull/1115) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ℹ️ Labeled PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 💪 Opened PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. ℹ️ Labeled PR [#1113](https://github.com/tox-dev/filelock/pull/1113) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. 💪 Opened PR [#1113](https://github.com/tox-dev/filelock/pull/1113) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-9. ℹ️ Labeled issue [#1112](https://github.com/tox-dev/filelock/issues/1112) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ❗ Opened issue [#1112](https://github.com/tox-dev/filelock/issues/1112) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. ℹ️ Labeled PR [#1116](https://github.com/tox-dev/filelock/pull/1116) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1116](https://github.com/tox-dev/filelock/pull/1116) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1115](https://github.com/tox-dev/filelock/pull/1115) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1115](https://github.com/tox-dev/filelock/pull/1115) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1113](https://github.com/tox-dev/filelock/pull/1113) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1113](https://github.com/tox-dev/filelock/pull/1113) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled issue [#1112](https://github.com/tox-dev/filelock/issues/1112) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ❗ Opened issue [#1112](https://github.com/tox-dev/filelock/issues/1112) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
