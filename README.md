@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#1](https://github.com/gaborbernat/xhtml2pdf/pull/1) in
-   [gaborbernat/xhtml2pdf](https://github.com/gaborbernat/xhtml2pdf)
-1. ℹ️ Labeled PR [#2551](https://github.com/tox-dev/turbohtml/pull/2551) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2551](https://github.com/tox-dev/turbohtml/pull/2551) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ❌ Closed PR [#3755](https://github.com/pypa/virtualenv/pull/3755) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3757](https://github.com/pypa/virtualenv/pull/3757) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3757](https://github.com/pypa/virtualenv/pull/3757) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3757](https://github.com/pypa/virtualenv/pull/3757) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#1120](https://github.com/tox-dev/filelock/pull/1120) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🗣 Commented on [#1426](https://github.com/pytest-dev/pytest-xdist/pull/1426#issuecomment-7066879473) in
-   [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
-1. 🗣 Commented on [#845](https://github.com/xhtml2pdf/xhtml2pdf/pull/845#issuecomment-7066858541) in
-   [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
-
+1. ℹ️ Labeled PR [#1121](https://github.com/tox-dev/filelock/pull/1121) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+2. ℹ️ Labeled PR [#1121](https://github.com/tox-dev/filelock/pull/1121) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. ℹ️ Labeled PR [#1121](https://github.com/tox-dev/filelock/pull/1121) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ℹ️ Labeled PR [#1121](https://github.com/tox-dev/filelock/pull/1121) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+5. 💪 Opened PR [#1121](https://github.com/tox-dev/filelock/pull/1121) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. ❌ Closed PR [#1](https://github.com/gaborbernat/xhtml2pdf/pull/1) in [gaborbernat/xhtml2pdf](https://github.com/gaborbernat/xhtml2pdf)
+7. ℹ️ Labeled PR [#2551](https://github.com/tox-dev/turbohtml/pull/2551) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 💪 Opened PR [#2551](https://github.com/tox-dev/turbohtml/pull/2551) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. ❌ Closed PR [#3755](https://github.com/pypa/virtualenv/pull/3755) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. ℹ️ Labeled PR [#3757](https://github.com/pypa/virtualenv/pull/3757) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
