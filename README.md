@@ -37,13 +37,22 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🔒 Closed issue [#1100](https://github.com/tox-dev/filelock/issues/1100) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#1107](https://github.com/tox-dev/filelock/pull/1107) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🔒 Closed issue [#1109](https://github.com/tox-dev/filelock/issues/1109) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. 🎉 Merged PR [#1110](https://github.com/tox-dev/filelock/pull/1110) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. 🎉 Merged PR [#1115](https://github.com/tox-dev/filelock/pull/1115) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-7. 🔒 Closed issue [#1112](https://github.com/tox-dev/filelock/issues/1112) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. 🎉 Merged PR [#1114](https://github.com/tox-dev/filelock/pull/1114) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1100](https://github.com/tox-dev/filelock/issues/1100) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1107](https://github.com/tox-dev/filelock/pull/1107) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1109](https://github.com/tox-dev/filelock/issues/1109) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1110](https://github.com/tox-dev/filelock/pull/1110) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#1115](https://github.com/tox-dev/filelock/pull/1115) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1112](https://github.com/tox-dev/filelock/issues/1112) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
