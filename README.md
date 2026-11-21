@@ -37,9 +37,14 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1117](https://github.com/tox-dev/filelock/pull/1117) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 💪 Opened PR [#1117](https://github.com/tox-dev/filelock/pull/1117) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🔒 Closed issue [#1027](https://github.com/tox-dev/filelock/issues/1027) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. ℹ️ Labeled PR [#1117](https://github.com/tox-dev/filelock/pull/1117) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1117](https://github.com/tox-dev/filelock/pull/1117) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🔒 Closed issue [#1027](https://github.com/tox-dev/filelock/issues/1027) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
