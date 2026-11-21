@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2545](https://github.com/tox-dev/turbohtml/pull/2545) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-2. 💪 Opened PR [#2545](https://github.com/tox-dev/turbohtml/pull/2545) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-3. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-6. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-7. 💪 Opened PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. ℹ️ Labeled PR [#3755](https://github.com/pypa/virtualenv/pull/3755) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. 💪 Opened PR [#3755](https://github.com/pypa/virtualenv/pull/3755) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-10. ℹ️ Labeled PR [#1106](https://github.com/tox-dev/filelock/pull/1106) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+1. ℹ️ Labeled PR [#2545](https://github.com/tox-dev/turbohtml/pull/2545) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2545](https://github.com/tox-dev/turbohtml/pull/2545) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3756](https://github.com/pypa/virtualenv/pull/3756) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3755](https://github.com/pypa/virtualenv/pull/3755) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3755](https://github.com/pypa/virtualenv/pull/3755) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#1106](https://github.com/tox-dev/filelock/pull/1106) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
