@@ -37,7 +37,7 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. ❌ Closed PR [#1](https://github.com/gaborbernat/markitdown/pull/1) in [gaborbernat/markitdown](https://github.com/gaborbernat/markitdown)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
