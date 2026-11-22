@@ -37,16 +37,21 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ℹ️ Labeled PR [#2483](https://github.com/pypa/pipx/pull/2483) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ℹ️ Labeled PR [#2487](https://github.com/pypa/pipx/pull/2487) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#2489](https://github.com/pypa/pipx/pull/2489) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ℹ️ Labeled PR [#2491](https://github.com/pypa/pipx/pull/2491) in [pypa/pipx](https://github.com/pypa/pipx)
-5. 🗣 Commented on [#2492](https://github.com/pypa/pipx/pull/2492#issuecomment-7083240211) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ❌ Closed PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. 💪 Opened PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#2487](https://github.com/pypa/pipx/pull/2487) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2489](https://github.com/pypa/pipx/pull/2489) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2491](https://github.com/pypa/pipx/pull/2491) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#2492](https://github.com/pypa/pipx/pull/2492#issuecomment-7083240211) in
+   [pypa/pipx](https://github.com/pypa/pipx)
+1. ❌ Closed PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
