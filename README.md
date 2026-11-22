@@ -38,9 +38,6 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2559](https://github.com/tox-dev/turbohtml/pull/2559) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
