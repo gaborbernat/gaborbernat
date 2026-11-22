@@ -37,7 +37,12 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 🗣 Commented on [#2492](https://github.com/pypa/pipx/pull/2492#issuecomment-7083240211) in [pypa/pipx](https://github.com/pypa/pipx)
+2. ❌ Closed PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
+3. ℹ️ Labeled PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
+4. ℹ️ Labeled PR [#2492](https://github.com/pypa/pipx/pull/2492) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ℹ️ Labeled PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+6. 💪 Opened PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
