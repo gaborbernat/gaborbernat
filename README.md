@@ -37,7 +37,8 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. ❌ Closed PR [#1296](https://github.com/pypa/build/pull/1296) in [pypa/build](https://github.com/pypa/build)
+2. 🔒 Closed issue [#1268](https://github.com/pypa/build/issues/1268) in [pypa/build](https://github.com/pypa/build)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
