@@ -37,10 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#1296](https://github.com/pypa/build/pull/1296) in [pypa/build](https://github.com/pypa/build)
-1. 🔒 Closed issue [#1268](https://github.com/pypa/build/issues/1268) in [pypa/build](https://github.com/pypa/build)
-
+1. ℹ️ Labeled PR [#2494](https://github.com/pypa/pipx/pull/2494) in [pypa/pipx](https://github.com/pypa/pipx)
+2. 🔒 Closed issue [#2486](https://github.com/pypa/pipx/issues/2486) in [pypa/pipx](https://github.com/pypa/pipx)
+3. 🔒 Closed issue [#2478](https://github.com/pypa/pipx/issues/2478) in [pypa/pipx](https://github.com/pypa/pipx)
+4. 🔒 Closed issue [#2480](https://github.com/pypa/pipx/issues/2480) in [pypa/pipx](https://github.com/pypa/pipx)
+5. ❌ Closed PR [#2491](https://github.com/pypa/pipx/pull/2491) in [pypa/pipx](https://github.com/pypa/pipx)
+6. 🗣 Commented on [#2491](https://github.com/pypa/pipx/pull/2491#issuecomment-7107649400) in [pypa/pipx](https://github.com/pypa/pipx)
+7. ℹ️ Labeled PR [#2495](https://github.com/pypa/pipx/pull/2495) in [pypa/pipx](https://github.com/pypa/pipx)
+8. 🔒 Closed issue [#2482](https://github.com/pypa/pipx/issues/2482) in [pypa/pipx](https://github.com/pypa/pipx)
+9. 💪 Opened PR [#2495](https://github.com/pypa/pipx/pull/2495) in [pypa/pipx](https://github.com/pypa/pipx)
+10. ℹ️ Labeled PR [#2560](https://github.com/tox-dev/turbohtml/pull/2560) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
