@@ -37,16 +37,21 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2496](https://github.com/pypa/pipx/pull/2496#issuecomment-7114326883) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🗣 Commented on [#2498](https://github.com/pypa/pipx/pull/2498#issuecomment-7114326858) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ❌ Closed PR [#2496](https://github.com/pypa/pipx/pull/2496) in [pypa/pipx](https://github.com/pypa/pipx)
-4. ❌ Closed PR [#2498](https://github.com/pypa/pipx/pull/2498) in [pypa/pipx](https://github.com/pypa/pipx)
-5. ℹ️ Labeled PR [#2500](https://github.com/pypa/pipx/pull/2500) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#2500](https://github.com/pypa/pipx/pull/2500) in [pypa/pipx](https://github.com/pypa/pipx)
-7. 💪 Opened PR [#2500](https://github.com/pypa/pipx/pull/2500) in [pypa/pipx](https://github.com/pypa/pipx)
-8. ℹ️ Labeled PR [#2499](https://github.com/pypa/pipx/pull/2499) in [pypa/pipx](https://github.com/pypa/pipx)
-9. 💪 Opened PR [#2499](https://github.com/pypa/pipx/pull/2499) in [pypa/pipx](https://github.com/pypa/pipx)
-10. ℹ️ Labeled PR [#3760](https://github.com/pypa/virtualenv/pull/3760) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
+1. 🗣 Commented on [#2496](https://github.com/pypa/pipx/pull/2496#issuecomment-7114326883) in
+   [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#2498](https://github.com/pypa/pipx/pull/2498#issuecomment-7114326858) in
+   [pypa/pipx](https://github.com/pypa/pipx)
+1. ❌ Closed PR [#2496](https://github.com/pypa/pipx/pull/2496) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ❌ Closed PR [#2498](https://github.com/pypa/pipx/pull/2498) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2500](https://github.com/pypa/pipx/pull/2500) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2500](https://github.com/pypa/pipx/pull/2500) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 💪 Opened PR [#2500](https://github.com/pypa/pipx/pull/2500) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2499](https://github.com/pypa/pipx/pull/2499) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 💪 Opened PR [#2499](https://github.com/pypa/pipx/pull/2499) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#3760](https://github.com/pypa/virtualenv/pull/3760) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
