@@ -37,10 +37,7 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-
+1. 🎉 Merged PR [#1123](https://github.com/tox-dev/filelock/pull/1123) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
