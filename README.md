@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#4461](https://github.com/tox-dev/tox/pull/4461) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#3759](https://github.com/pypa/virtualenv/pull/3759) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3759](https://github.com/pypa/virtualenv/pull/3759) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🔒 Closed issue [#1142](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1142) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 🎉 Merged PR [#1144](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1144) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 🔒 Closed issue [#1143](https://github.com/tox-dev/sphinx-autodoc-typehints/issues/1143) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 🎉 Merged PR [#1145](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1145) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. ℹ️ Labeled PR [#1145](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1145) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 💪 Opened PR [#1145](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1145) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. ℹ️ Labeled PR [#1144](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1144) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-
+1. ℹ️ Labeled PR [#4453](https://github.com/tox-dev/tox/pull/4453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#4453](https://github.com/tox-dev/tox/pull/4453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ❌ Closed PR [#4459](https://github.com/tox-dev/tox/pull/4459) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. 🎉 Merged PR [#3759](https://github.com/pypa/virtualenv/pull/3759) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. ℹ️ Labeled issue [#183](https://github.com/gaborbernat/simplint/issues/183) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+6. ❗ Opened issue [#183](https://github.com/gaborbernat/simplint/issues/183) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+7. ℹ️ Labeled PR [#4460](https://github.com/tox-dev/tox/pull/4460) in [tox-dev/tox](https://github.com/tox-dev/tox)
+8. ℹ️ Labeled PR [#4460](https://github.com/tox-dev/tox/pull/4460) in [tox-dev/tox](https://github.com/tox-dev/tox)
+9. ℹ️ Labeled PR [#4463](https://github.com/tox-dev/tox/pull/4463) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4463](https://github.com/tox-dev/tox/pull/4463) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
