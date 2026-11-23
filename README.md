@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🔒 Closed issue [#1124](https://github.com/tox-dev/filelock/issues/1124) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#1127](https://github.com/tox-dev/filelock/pull/1127) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ❌ Closed PR [#1126](https://github.com/tox-dev/filelock/pull/1126) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#2563](https://github.com/tox-dev/turbohtml/pull/2563) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2564](https://github.com/tox-dev/turbohtml/pull/2564) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#1127](https://github.com/tox-dev/filelock/pull/1127) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#1127](https://github.com/tox-dev/filelock/pull/1127) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#1127](https://github.com/tox-dev/filelock/pull/1127) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#2563](https://github.com/tox-dev/turbohtml/pull/2563) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2563](https://github.com/tox-dev/turbohtml/pull/2563) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-
+1. ℹ️ Labeled PR [#3758](https://github.com/pypa/virtualenv/pull/3758) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. 🔒 Closed issue [#273](https://github.com/tox-dev/python-discovery/issues/273) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+3. ℹ️ Labeled PR [#358](https://github.com/pytest-dev/pytest-env/pull/358) in [pytest-dev/pytest-env](https://github.com/pytest-dev/pytest-env)
+4. ℹ️ Labeled PR [#4461](https://github.com/tox-dev/tox/pull/4461) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ℹ️ Labeled PR [#420](https://github.com/tox-dev/sphinx-argparse-cli/pull/420) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+6. ℹ️ Labeled PR [#274](https://github.com/tox-dev/python-discovery/pull/274) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+7. ℹ️ Labeled PR [#445](https://github.com/tox-dev/tox-uv/pull/445) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+8. 🎉 Merged PR [#2564](https://github.com/tox-dev/turbohtml/pull/2564) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+9. 🎉 Merged PR [#2562](https://github.com/tox-dev/turbohtml/pull/2562) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+10. 🔒 Closed issue [#2555](https://github.com/tox-dev/turbohtml/issues/2555) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
