@@ -37,21 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#4453](https://github.com/tox-dev/tox/pull/4453) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#4453](https://github.com/tox-dev/tox/pull/4453) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ❌ Closed PR [#4459](https://github.com/tox-dev/tox/pull/4459) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 🎉 Merged PR [#3759](https://github.com/pypa/virtualenv/pull/3759) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled issue [#183](https://github.com/gaborbernat/simplint/issues/183) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ❗ Opened issue [#183](https://github.com/gaborbernat/simplint/issues/183) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#4460](https://github.com/tox-dev/tox/pull/4460) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#4460](https://github.com/tox-dev/tox/pull/4460) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#4463](https://github.com/tox-dev/tox/pull/4463) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. ℹ️ Labeled PR [#4463](https://github.com/tox-dev/tox/pull/4463) in [tox-dev/tox](https://github.com/tox-dev/tox)
-
+1. ℹ️ Labeled PR [#4455](https://github.com/tox-dev/tox/pull/4455) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. ℹ️ Labeled PR [#4455](https://github.com/tox-dev/tox/pull/4455) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. ℹ️ Labeled PR [#4453](https://github.com/tox-dev/tox/pull/4453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+4. ℹ️ Labeled PR [#4453](https://github.com/tox-dev/tox/pull/4453) in [tox-dev/tox](https://github.com/tox-dev/tox)
+5. ❌ Closed PR [#4459](https://github.com/tox-dev/tox/pull/4459) in [tox-dev/tox](https://github.com/tox-dev/tox)
+6. 🎉 Merged PR [#3759](https://github.com/pypa/virtualenv/pull/3759) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. ℹ️ Labeled issue [#183](https://github.com/gaborbernat/simplint/issues/183) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. ❗ Opened issue [#183](https://github.com/gaborbernat/simplint/issues/183) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+9. ℹ️ Labeled PR [#4460](https://github.com/tox-dev/tox/pull/4460) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. ℹ️ Labeled PR [#4460](https://github.com/tox-dev/tox/pull/4460) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
