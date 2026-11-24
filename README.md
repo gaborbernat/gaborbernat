@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/gaborbernat/simplint/pull/189) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-2. 🎉 Merged PR [#331](https://github.com/gaborbernat/bump-deps-index/pull/331) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-3. 🎉 Merged PR [#86](https://github.com/gaborbernat/mdformat-hugo/pull/86) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-4. 🎉 Merged PR [#24](https://github.com/gaborbernat/dotfiles/pull/24) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-5. 🎉 Merged PR [#37](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/37) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-6. 🎉 Merged PR [#69](https://github.com/pypa/get-virtualenv/pull/69) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-7. 🎉 Merged PR [#53](https://github.com/gaborbernat/all-repos-self/pull/53) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-8. 🎉 Merged PR [#48](https://github.com/gaborbernat/cv/pull/48) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-9. 🎉 Merged PR [#41](https://github.com/gaborbernat/gaborbernat/pull/41) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-10. 🎉 Merged PR [#119](https://github.com/gaborbernat/bernat-tech/pull/119) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+
+1. 🎉 Merged PR [#189](https://github.com/gaborbernat/simplint/pull/189) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. 🎉 Merged PR [#331](https://github.com/gaborbernat/bump-deps-index/pull/331) in
+   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+1. 🎉 Merged PR [#86](https://github.com/gaborbernat/mdformat-hugo/pull/86) in
+   [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+1. 🎉 Merged PR [#24](https://github.com/gaborbernat/dotfiles/pull/24) in
+   [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+1. 🎉 Merged PR [#37](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/37) in
+   [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+1. 🎉 Merged PR [#69](https://github.com/pypa/get-virtualenv/pull/69) in
+   [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+1. 🎉 Merged PR [#53](https://github.com/gaborbernat/all-repos-self/pull/53) in
+   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+1. 🎉 Merged PR [#48](https://github.com/gaborbernat/cv/pull/48) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+1. 🎉 Merged PR [#41](https://github.com/gaborbernat/gaborbernat/pull/41) in
+   [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+1. 🎉 Merged PR [#119](https://github.com/gaborbernat/bernat-tech/pull/119) in
+   [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
