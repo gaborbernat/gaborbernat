@@ -37,26 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#69](https://github.com/quotaline/quotaline/pull/69) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🎉 Merged PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 🎉 Merged PR [#40](https://github.com/gaborbernat/gaborbernat/pull/40) in
-   [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-1. 🎉 Merged PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#1128](https://github.com/tox-dev/filelock/pull/1128) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. ℹ️ Labeled PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in
-   [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. ℹ️ Labeled PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-
+1. 🎉 Merged PR [#69](https://github.com/quotaline/quotaline/pull/69) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+2. 🎉 Merged PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#40](https://github.com/gaborbernat/gaborbernat/pull/40) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+4. 🎉 Merged PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+5. ℹ️ Labeled PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+6. 💪 Opened PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+7. 💪 Opened PR [#1128](https://github.com/tox-dev/filelock/pull/1128) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+8. ℹ️ Labeled PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+9. ℹ️ Labeled PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
