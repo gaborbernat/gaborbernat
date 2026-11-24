@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🗣 Commented on [#845](https://github.com/xhtml2pdf/xhtml2pdf/pull/845#issuecomment-7137554760) in
-   [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
-1. ❌ Closed PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in
-   [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
-1. 🎉 Merged PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-
+1. ℹ️ Labeled PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ℹ️ Labeled PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. 💪 Opened PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🗣 Commented on [#845](https://github.com/xhtml2pdf/xhtml2pdf/pull/845#issuecomment-7137554760) in [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
+5. ❌ Closed PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
+6. 🎉 Merged PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. ℹ️ Labeled PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 💪 Opened PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. ℹ️ Labeled PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
