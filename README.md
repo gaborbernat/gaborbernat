@@ -37,25 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in
-   [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
-1. 🎉 Merged PR [#913](https://github.com/tox-dev/pipdeptree/pull/913) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-1. 🎉 Merged PR [#3769](https://github.com/pypa/virtualenv/pull/3769) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#4469](https://github.com/tox-dev/tox/pull/4469) in [tox-dev/tox](https://github.com/tox-dev/tox)
-1. 🎉 Merged PR [#449](https://github.com/tox-dev/tox-uv/pull/449) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-1. 🎉 Merged PR [#80](https://github.com/tox-dev/mdformat-zola/pull/80) in
-   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-1. 🎉 Merged PR [#356](https://github.com/tox-dev/tox-gh/pull/356) in [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh)
-1. 🎉 Merged PR [#173](https://github.com/tox-dev/xml-fmt/pull/173) in
-   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-1. 🎉 Merged PR [#749](https://github.com/tox-dev/platformdirs/pull/749) in
-   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-1. 🎉 Merged PR [#41](https://github.com/tox-dev/python-sbom/pull/41) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-
+1. 🎉 Merged PR [#2570](https://github.com/tox-dev/turbohtml/pull/2570) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 🎉 Merged PR [#2439](https://github.com/tox-dev/peryx/pull/2439) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+3. 🎉 Merged PR [#75](https://github.com/quotaline/quotaline/pull/75) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+4. ℹ️ Labeled PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+5. 💪 Opened PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🎉 Merged PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
+7. 🎉 Merged PR [#913](https://github.com/tox-dev/pipdeptree/pull/913) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+8. 🎉 Merged PR [#3769](https://github.com/pypa/virtualenv/pull/3769) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+9. 🎉 Merged PR [#4469](https://github.com/tox-dev/tox/pull/4469) in [tox-dev/tox](https://github.com/tox-dev/tox)
+10. 🎉 Merged PR [#449](https://github.com/tox-dev/tox-uv/pull/449) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
