@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#4467](https://github.com/tox-dev/tox/pull/4467) in [tox-dev/tox](https://github.com/tox-dev/tox)
-2. 🎉 Merged PR [#1131](https://github.com/tox-dev/filelock/pull/1131) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 🎉 Merged PR [#380](https://github.com/tox-dev/pyproject-api/pull/380) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
-4. 🎉 Merged PR [#190](https://github.com/tox-dev/jetbrains-fish/pull/190) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-5. 🎉 Merged PR [#278](https://github.com/tox-dev/python-discovery/pull/278) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-6. 🎉 Merged PR [#233](https://github.com/tox-dev/pre-commit-uv/pull/233) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
-7. 🎉 Merged PR [#422](https://github.com/tox-dev/sphinx-argparse-cli/pull/422) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
-8. 🎉 Merged PR [#912](https://github.com/tox-dev/pipdeptree/pull/912) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-9. 🎉 Merged PR [#315](https://github.com/tox-dev/PyVenvManage/pull/315) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
-10. 🎉 Merged PR [#447](https://github.com/tox-dev/tox-uv/pull/447) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#1131](https://github.com/tox-dev/filelock/pull/1131) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🎉 Merged PR [#380](https://github.com/tox-dev/pyproject-api/pull/380) in
+   [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+1. 🎉 Merged PR [#190](https://github.com/tox-dev/jetbrains-fish/pull/190) in
+   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+1. 🎉 Merged PR [#278](https://github.com/tox-dev/python-discovery/pull/278) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 🎉 Merged PR [#233](https://github.com/tox-dev/pre-commit-uv/pull/233) in
+   [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+1. 🎉 Merged PR [#422](https://github.com/tox-dev/sphinx-argparse-cli/pull/422) in
+   [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+1. 🎉 Merged PR [#912](https://github.com/tox-dev/pipdeptree/pull/912) in
+   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. 🎉 Merged PR [#315](https://github.com/tox-dev/PyVenvManage/pull/315) in
+   [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+1. 🎉 Merged PR [#447](https://github.com/tox-dev/tox-uv/pull/447) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
