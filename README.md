@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#1151](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1151) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 💪 Opened PR [#1151](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1151) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 🔒 Closed issue [#3764](https://github.com/pypa/virtualenv/issues/3764) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#82](https://github.com/tox-dev/github-workflows/pull/82) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-1. 🗣 Commented on [#3764](https://github.com/pypa/virtualenv/issues/3764#issuecomment-7146533803) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#118](https://github.com/gaborbernat/bernat-tech/pull/118) in
-   [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-1. 🎉 Merged PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#82](https://github.com/tox-dev/github-workflows/pull/82) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-
+1. ℹ️ Labeled PR [#1153](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1153) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. ℹ️ Labeled PR [#1153](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1153) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 💪 Opened PR [#1153](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1153) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+4. ℹ️ Labeled PR [#2442](https://github.com/tox-dev/peryx/pull/2442) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#2442](https://github.com/tox-dev/peryx/pull/2442) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+6. 💪 Opened PR [#2442](https://github.com/tox-dev/peryx/pull/2442) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 🎉 Merged PR [#191](https://github.com/gaborbernat/simplint/pull/191) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+8. 🎉 Merged PR [#38](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/38) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+9. 🎉 Merged PR [#25](https://github.com/gaborbernat/dotfiles/pull/25) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+10. 🎉 Merged PR [#88](https://github.com/gaborbernat/mdformat-hugo/pull/88) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
