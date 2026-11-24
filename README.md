@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in
-   [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. ℹ️ Labeled PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 💪 Opened PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#40](https://github.com/gaborbernat/gaborbernat/pull/40) in
-   [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-1. 💪 Opened PR [#69](https://github.com/quotaline/quotaline/pull/69) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. 🎉 Merged PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-
+1. ℹ️ Labeled PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. 💪 Opened PR [#2565](https://github.com/tox-dev/turbohtml/pull/2565) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#1128](https://github.com/tox-dev/filelock/pull/1128) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. ℹ️ Labeled PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+5. ℹ️ Labeled PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 💪 Opened PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 💪 Opened PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 💪 Opened PR [#40](https://github.com/gaborbernat/gaborbernat/pull/40) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+9. 💪 Opened PR [#69](https://github.com/quotaline/quotaline/pull/69) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
+10. 🎉 Merged PR [#185](https://github.com/gaborbernat/simplint/pull/185) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
