@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#189](https://github.com/gaborbernat/simplint/pull/189) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#331](https://github.com/gaborbernat/bump-deps-index/pull/331) in
-   [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
-1. 🎉 Merged PR [#86](https://github.com/gaborbernat/mdformat-hugo/pull/86) in
-   [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
-1. 🎉 Merged PR [#24](https://github.com/gaborbernat/dotfiles/pull/24) in
-   [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
-1. 🎉 Merged PR [#37](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/37) in
-   [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
-1. 🎉 Merged PR [#69](https://github.com/pypa/get-virtualenv/pull/69) in
-   [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
-1. 🎉 Merged PR [#53](https://github.com/gaborbernat/all-repos-self/pull/53) in
-   [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
-1. 🎉 Merged PR [#48](https://github.com/gaborbernat/cv/pull/48) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
-1. 🎉 Merged PR [#41](https://github.com/gaborbernat/gaborbernat/pull/41) in
-   [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-1. 🎉 Merged PR [#119](https://github.com/gaborbernat/bernat-tech/pull/119) in
-   [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-
+1. 🎉 Merged PR [#4467](https://github.com/tox-dev/tox/pull/4467) in [tox-dev/tox](https://github.com/tox-dev/tox)
+2. 🎉 Merged PR [#1131](https://github.com/tox-dev/filelock/pull/1131) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+3. 🎉 Merged PR [#380](https://github.com/tox-dev/pyproject-api/pull/380) in [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api)
+4. 🎉 Merged PR [#190](https://github.com/tox-dev/jetbrains-fish/pull/190) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+5. 🎉 Merged PR [#278](https://github.com/tox-dev/python-discovery/pull/278) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+6. 🎉 Merged PR [#233](https://github.com/tox-dev/pre-commit-uv/pull/233) in [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv)
+7. 🎉 Merged PR [#422](https://github.com/tox-dev/sphinx-argparse-cli/pull/422) in [tox-dev/sphinx-argparse-cli](https://github.com/tox-dev/sphinx-argparse-cli)
+8. 🎉 Merged PR [#912](https://github.com/tox-dev/pipdeptree/pull/912) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+9. 🎉 Merged PR [#315](https://github.com/tox-dev/PyVenvManage/pull/315) in [tox-dev/PyVenvManage](https://github.com/tox-dev/PyVenvManage)
+10. 🎉 Merged PR [#447](https://github.com/tox-dev/tox-uv/pull/447) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
