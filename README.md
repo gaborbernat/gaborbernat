@@ -37,27 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#82](https://github.com/tox-dev/github-workflows/pull/82) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-1. 🎉 Merged PR [#1133](https://github.com/tox-dev/filelock/pull/1133) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#2570](https://github.com/tox-dev/turbohtml/pull/2570) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 🎉 Merged PR [#2439](https://github.com/tox-dev/peryx/pull/2439) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 🎉 Merged PR [#75](https://github.com/quotaline/quotaline/pull/75) in
-   [quotaline/quotaline](https://github.com/quotaline/quotaline)
-1. ℹ️ Labeled PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in
-   [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
-1. 🎉 Merged PR [#913](https://github.com/tox-dev/pipdeptree/pull/913) in
-   [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-
+1. ℹ️ Labeled PR [#1151](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1151) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+2. 💪 Opened PR [#1151](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1151) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+3. 🔒 Closed issue [#3764](https://github.com/pypa/virtualenv/issues/3764) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 🎉 Merged PR [#82](https://github.com/tox-dev/github-workflows/pull/82) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+5. 🗣 Commented on [#3764](https://github.com/pypa/virtualenv/issues/3764#issuecomment-7146533803) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+6. 🎉 Merged PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+7. 🎉 Merged PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+8. 🎉 Merged PR [#118](https://github.com/gaborbernat/bernat-tech/pull/118) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+9. 🎉 Merged PR [#3770](https://github.com/pypa/virtualenv/pull/3770) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+10. 💪 Opened PR [#82](https://github.com/tox-dev/github-workflows/pull/82) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
