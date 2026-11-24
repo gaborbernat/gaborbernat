@@ -37,16 +37,28 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. 💪 Opened PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. ℹ️ Labeled PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 🎉 Merged PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-8. 💪 Opened PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
-9. 💪 Opened PR [#118](https://github.com/gaborbernat/bernat-tech/pull/118) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-10. ℹ️ Labeled PR [#118](https://github.com/gaborbernat/bernat-tech/pull/118) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+
+1. ℹ️ Labeled PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 🎉 Merged PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in
+   [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
+1. 💪 Opened PR [#118](https://github.com/gaborbernat/bernat-tech/pull/118) in
+   [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+1. ℹ️ Labeled PR [#118](https://github.com/gaborbernat/bernat-tech/pull/118) in
+   [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
