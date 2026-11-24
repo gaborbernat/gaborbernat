@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3767](https://github.com/pypa/virtualenv/pull/3767) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🗣 Commented on [#845](https://github.com/xhtml2pdf/xhtml2pdf/pull/845#issuecomment-7137554760) in
-   [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
-1. ❌ Closed PR [#1753](https://github.com/ossf/scorecard-action/pull/1753) in
-   [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
-1. 🎉 Merged PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 🎉 Merged PR [#2567](https://github.com/tox-dev/turbohtml/pull/2567) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. ℹ️ Labeled PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. 💪 Opened PR [#3766](https://github.com/pypa/virtualenv/pull/3766) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-1. ℹ️ Labeled PR [#3765](https://github.com/pypa/virtualenv/pull/3765) in
-   [pypa/virtualenv](https://github.com/pypa/virtualenv)
-
+1. 🎉 Merged PR [#189](https://github.com/gaborbernat/simplint/pull/189) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 🎉 Merged PR [#331](https://github.com/gaborbernat/bump-deps-index/pull/331) in [gaborbernat/bump-deps-index](https://github.com/gaborbernat/bump-deps-index)
+3. 🎉 Merged PR [#86](https://github.com/gaborbernat/mdformat-hugo/pull/86) in [gaborbernat/mdformat-hugo](https://github.com/gaborbernat/mdformat-hugo)
+4. 🎉 Merged PR [#24](https://github.com/gaborbernat/dotfiles/pull/24) in [gaborbernat/dotfiles](https://github.com/gaborbernat/dotfiles)
+5. 🎉 Merged PR [#37](https://github.com/gaborbernat/ropi_jegyzet_latex/pull/37) in [gaborbernat/ropi_jegyzet_latex](https://github.com/gaborbernat/ropi_jegyzet_latex)
+6. 🎉 Merged PR [#69](https://github.com/pypa/get-virtualenv/pull/69) in [pypa/get-virtualenv](https://github.com/pypa/get-virtualenv)
+7. 🎉 Merged PR [#53](https://github.com/gaborbernat/all-repos-self/pull/53) in [gaborbernat/all-repos-self](https://github.com/gaborbernat/all-repos-self)
+8. 🎉 Merged PR [#48](https://github.com/gaborbernat/cv/pull/48) in [gaborbernat/cv](https://github.com/gaborbernat/cv)
+9. 🎉 Merged PR [#41](https://github.com/gaborbernat/gaborbernat/pull/41) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+10. 🎉 Merged PR [#119](https://github.com/gaborbernat/bernat-tech/pull/119) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
