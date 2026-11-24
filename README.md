@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-2. ℹ️ Labeled PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-3. 💪 Opened PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-4. 💪 Opened PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. 💪 Opened PR [#40](https://github.com/gaborbernat/gaborbernat/pull/40) in [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
-6. 💪 Opened PR [#69](https://github.com/quotaline/quotaline/pull/69) in [quotaline/quotaline](https://github.com/quotaline/quotaline)
-7. 🎉 Merged PR [#185](https://github.com/gaborbernat/simplint/pull/185) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-8. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-9. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-10. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
+1. ℹ️ Labeled PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in
+   [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. ℹ️ Labeled PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#2434](https://github.com/tox-dev/peryx/pull/2434) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+1. 💪 Opened PR [#3762](https://github.com/pypa/virtualenv/pull/3762) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. 💪 Opened PR [#40](https://github.com/gaborbernat/gaborbernat/pull/40) in
+   [gaborbernat/gaborbernat](https://github.com/gaborbernat/gaborbernat)
+1. 💪 Opened PR [#69](https://github.com/quotaline/quotaline/pull/69) in
+   [quotaline/quotaline](https://github.com/quotaline/quotaline)
+1. 🎉 Merged PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+1. ℹ️ Labeled PR [#185](https://github.com/gaborbernat/simplint/pull/185) in
+   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
