@@ -37,26 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1153](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1153) in
-   [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
-1. 🎉 Merged PR [#2440](https://github.com/tox-dev/peryx/pull/2440) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
-1. 🎉 Merged PR [#44](https://github.com/tox-dev/python-sbom/pull/44) in
-   [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
-1. 🎉 Merged PR [#1135](https://github.com/tox-dev/filelock/pull/1135) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 🎉 Merged PR [#281](https://github.com/tox-dev/python-discovery/pull/281) in
-   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-1. 🎉 Merged PR [#81](https://github.com/tox-dev/mdformat-zola/pull/81) in
-   [tox-dev/mdformat-zola](https://github.com/tox-dev/mdformat-zola)
-1. 🎉 Merged PR [#192](https://github.com/tox-dev/jetbrains-fish/pull/192) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. 🎉 Merged PR [#174](https://github.com/tox-dev/xml-fmt/pull/174) in
-   [tox-dev/xml-fmt](https://github.com/tox-dev/xml-fmt)
-1. 🎉 Merged PR [#431](https://github.com/tox-dev/tox-ini-fmt/pull/431) in
-   [tox-dev/tox-ini-fmt](https://github.com/tox-dev/tox-ini-fmt)
-1. 🎉 Merged PR [#452](https://github.com/tox-dev/tox-uv/pull/452) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-
+1. ℹ️ Labeled PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+2. ℹ️ Labeled PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+3. 💪 Opened PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+4. ℹ️ Labeled PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+5. 💪 Opened PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+6. 🎉 Merged PR [#2442](https://github.com/tox-dev/peryx/pull/2442) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+7. 🎉 Merged PR [#2441](https://github.com/tox-dev/peryx/pull/2441) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+8. 🎉 Merged PR [#1153](https://github.com/tox-dev/sphinx-autodoc-typehints/pull/1153) in [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints)
+9. 🎉 Merged PR [#2440](https://github.com/tox-dev/peryx/pull/2440) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+10. 🎉 Merged PR [#44](https://github.com/tox-dev/python-sbom/pull/44) in [tox-dev/python-sbom](https://github.com/tox-dev/python-sbom)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
