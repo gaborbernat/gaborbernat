@@ -37,16 +37,27 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1348](https://github.com/oracle/graalpython/pull/1348) in [oracle/graalpython](https://github.com/oracle/graalpython)
-2. ℹ️ Labeled PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. 💪 Opened PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. ❗ Opened issue [#1347](https://github.com/oracle/graalpython/issues/1347) in [oracle/graalpython](https://github.com/oracle/graalpython)
-5. ℹ️ Labeled PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-6. ℹ️ Labeled PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-7. 💪 Opened PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-8. ℹ️ Labeled PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-9. 💪 Opened PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-10. 🎉 Merged PR [#2442](https://github.com/tox-dev/peryx/pull/2442) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+
+1. 💪 Opened PR [#1348](https://github.com/oracle/graalpython/pull/1348) in
+   [oracle/graalpython](https://github.com/oracle/graalpython)
+1. ℹ️ Labeled PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 💪 Opened PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ❗ Opened issue [#1347](https://github.com/oracle/graalpython/issues/1347) in
+   [oracle/graalpython](https://github.com/oracle/graalpython)
+1. ℹ️ Labeled PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. 💪 Opened PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in
+   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+1. ℹ️ Labeled PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in
+   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+1. 💪 Opened PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in
+   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+1. 🎉 Merged PR [#2442](https://github.com/tox-dev/peryx/pull/2442) in [tox-dev/peryx](https://github.com/tox-dev/peryx)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
