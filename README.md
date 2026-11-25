@@ -37,28 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#939](https://github.com/adbar/trafilatura/pull/939#issuecomment-7150789766) in
-   [adbar/trafilatura](https://github.com/adbar/trafilatura)
-1. 🎉 Merged PR [#194](https://github.com/tox-dev/jetbrains-fish/pull/194) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. ℹ️ Labeled PR [#194](https://github.com/tox-dev/jetbrains-fish/pull/194) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. 💪 Opened PR [#194](https://github.com/tox-dev/jetbrains-fish/pull/194) in
-   [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
-1. 🎉 Merged PR [#122](https://github.com/gaborbernat/bernat-tech/pull/122) in
-   [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
-1. 🎉 Merged PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in
-   [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
-1. 🎉 Merged PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in
-   [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
-1. 💪 Opened PR [#1348](https://github.com/oracle/graalpython/pull/1348) in
-   [oracle/graalpython](https://github.com/oracle/graalpython)
-1. ℹ️ Labeled PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-1. 💪 Opened PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in
-   [tox-dev/filelock](https://github.com/tox-dev/filelock)
-
+1. 🗣 Commented on [#939](https://github.com/adbar/trafilatura/pull/939#issuecomment-7150789766) in [adbar/trafilatura](https://github.com/adbar/trafilatura)
+2. 🎉 Merged PR [#194](https://github.com/tox-dev/jetbrains-fish/pull/194) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+3. ℹ️ Labeled PR [#194](https://github.com/tox-dev/jetbrains-fish/pull/194) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+4. 💪 Opened PR [#194](https://github.com/tox-dev/jetbrains-fish/pull/194) in [tox-dev/jetbrains-fish](https://github.com/tox-dev/jetbrains-fish)
+5. 🎉 Merged PR [#122](https://github.com/gaborbernat/bernat-tech/pull/122) in [gaborbernat/bernat-tech](https://github.com/gaborbernat/bernat-tech)
+6. 🎉 Merged PR [#83](https://github.com/tox-dev/github-workflows/pull/83) in [tox-dev/github-workflows](https://github.com/tox-dev/github-workflows)
+7. 🎉 Merged PR [#2572](https://github.com/tox-dev/turbohtml/pull/2572) in [tox-dev/turbohtml](https://github.com/tox-dev/turbohtml)
+8. 💪 Opened PR [#1348](https://github.com/oracle/graalpython/pull/1348) in [oracle/graalpython](https://github.com/oracle/graalpython)
+9. ℹ️ Labeled PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
+10. 💪 Opened PR [#1136](https://github.com/tox-dev/filelock/pull/1136) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
