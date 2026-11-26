@@ -37,7 +37,9 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 💪 Opened PR [#55](https://github.com/ronb1964/TuxTalk/pull/55) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+2. 💪 Opened PR [#54](https://github.com/ronb1964/TuxTalk/pull/54) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+3. 💪 Opened PR [#53](https://github.com/ronb1964/TuxTalk/pull/53) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
