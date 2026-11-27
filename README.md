@@ -37,18 +37,13 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. ℹ️ Labeled PR [#193](https://github.com/gaborbernat/simplint/pull/193) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#193](https://github.com/gaborbernat/simplint/pull/193) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#55](https://github.com/ronb1964/TuxTalk/pull/55) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-1. 💪 Opened PR [#54](https://github.com/ronb1964/TuxTalk/pull/54) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-1. 💪 Opened PR [#53](https://github.com/ronb1964/TuxTalk/pull/53) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-
+1. 🔒 Closed issue [#192](https://github.com/gaborbernat/simplint/issues/192) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+2. 🎉 Merged PR [#193](https://github.com/gaborbernat/simplint/pull/193) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+3. ℹ️ Labeled PR [#193](https://github.com/gaborbernat/simplint/pull/193) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+4. 💪 Opened PR [#193](https://github.com/gaborbernat/simplint/pull/193) in [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
+5. 💪 Opened PR [#55](https://github.com/ronb1964/TuxTalk/pull/55) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+6. 💪 Opened PR [#54](https://github.com/ronb1964/TuxTalk/pull/54) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
+7. 💪 Opened PR [#53](https://github.com/ronb1964/TuxTalk/pull/53) in [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
