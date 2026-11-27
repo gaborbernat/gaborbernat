@@ -37,16 +37,25 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ℹ️ Labeled PR [#2514](https://github.com/pypa/pipx/pull/2514) in [pypa/pipx](https://github.com/pypa/pipx)
-2. 🔒 Closed issue [#450](https://github.com/tox-dev/tox-uv/issues/450) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-3. 🎉 Merged PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-4. 🎉 Merged PR [#753](https://github.com/tox-dev/platformdirs/pull/753) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-5. 🎉 Merged PR [#754](https://github.com/tox-dev/platformdirs/pull/754) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-6. ℹ️ Labeled PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 💪 Opened PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. ℹ️ Labeled PR [#451](https://github.com/tox-dev/tox-uv/pull/451) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-9. ℹ️ Labeled PR [#1138](https://github.com/tox-dev/filelock/pull/1138) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-10. ℹ️ Labeled PR [#453](https://github.com/tox-dev/tox-uv/pull/453) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🔒 Closed issue [#450](https://github.com/tox-dev/tox-uv/issues/450) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#753](https://github.com/tox-dev/platformdirs/pull/753) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#754](https://github.com/tox-dev/platformdirs/pull/754) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 💪 Opened PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ℹ️ Labeled PR [#451](https://github.com/tox-dev/tox-uv/pull/451) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. ℹ️ Labeled PR [#1138](https://github.com/tox-dev/filelock/pull/1138) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#453](https://github.com/tox-dev/tox-uv/pull/453) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
