@@ -37,16 +37,26 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1137](https://github.com/tox-dev/filelock/pull/1137) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. 🗣 Commented on [#1137](https://github.com/tox-dev/filelock/pull/1137#issuecomment-7228955345) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-3. ❌ Closed PR [#1138](https://github.com/tox-dev/filelock/pull/1138) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. 🗣 Commented on [#1138](https://github.com/tox-dev/filelock/pull/1138#issuecomment-7228954801) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-5. ℹ️ Labeled PR [#1134](https://github.com/tox-dev/filelock/pull/1134) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-6. ℹ️ Labeled PR [#2513](https://github.com/pypa/pipx/pull/2513) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled PR [#1137](https://github.com/tox-dev/filelock/pull/1137) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-8. ℹ️ Labeled PR [#3774](https://github.com/pypa/virtualenv/pull/3774) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-9. ℹ️ Labeled PR [#2514](https://github.com/pypa/pipx/pull/2514) in [pypa/pipx](https://github.com/pypa/pipx)
-10. 🔒 Closed issue [#450](https://github.com/tox-dev/tox-uv/issues/450) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+
+1. ❌ Closed PR [#1137](https://github.com/tox-dev/filelock/pull/1137) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#1137](https://github.com/tox-dev/filelock/pull/1137#issuecomment-7228955345) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ❌ Closed PR [#1138](https://github.com/tox-dev/filelock/pull/1138) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. 🗣 Commented on [#1138](https://github.com/tox-dev/filelock/pull/1138#issuecomment-7228954801) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#1134](https://github.com/tox-dev/filelock/pull/1134) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#2513](https://github.com/pypa/pipx/pull/2513) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#1137](https://github.com/tox-dev/filelock/pull/1137) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#3774](https://github.com/pypa/virtualenv/pull/3774) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#2514](https://github.com/pypa/pipx/pull/2514) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🔒 Closed issue [#450](https://github.com/tox-dev/tox-uv/issues/450) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
