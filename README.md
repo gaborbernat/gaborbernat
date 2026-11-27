@@ -37,22 +37,16 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🔒 Closed issue [#192](https://github.com/gaborbernat/simplint/issues/192) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 🎉 Merged PR [#193](https://github.com/gaborbernat/simplint/pull/193) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. ℹ️ Labeled PR [#193](https://github.com/gaborbernat/simplint/pull/193) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#193](https://github.com/gaborbernat/simplint/pull/193) in
-   [gaborbernat/simplint](https://github.com/gaborbernat/simplint)
-1. 💪 Opened PR [#55](https://github.com/ronb1964/TuxTalk/pull/55) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-1. 💪 Opened PR [#54](https://github.com/ronb1964/TuxTalk/pull/54) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-1. 💪 Opened PR [#53](https://github.com/ronb1964/TuxTalk/pull/53) in
-   [ronb1964/TuxTalk](https://github.com/ronb1964/TuxTalk)
-
+1. ℹ️ Labeled PR [#453](https://github.com/tox-dev/tox-uv/pull/453) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+2. ❌ Closed PR [#751](https://github.com/tox-dev/platformdirs/pull/751) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+3. 🗣 Commented on [#751](https://github.com/tox-dev/platformdirs/pull/751#issuecomment-7227501843) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+4. ❌ Closed PR [#752](https://github.com/tox-dev/platformdirs/pull/752) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+5. 🗣 Commented on [#752](https://github.com/tox-dev/platformdirs/pull/752#issuecomment-7227501191) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+6. ℹ️ Labeled PR [#754](https://github.com/tox-dev/platformdirs/pull/754) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+7. 💪 Opened PR [#754](https://github.com/tox-dev/platformdirs/pull/754) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+8. ℹ️ Labeled PR [#753](https://github.com/tox-dev/platformdirs/pull/753) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+9. 💪 Opened PR [#753](https://github.com/tox-dev/platformdirs/pull/753) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+10. ℹ️ Labeled PR [#3773](https://github.com/pypa/virtualenv/pull/3773) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
