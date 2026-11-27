@@ -37,16 +37,25 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1134](https://github.com/tox-dev/filelock/pull/1134) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-2. ℹ️ Labeled PR [#2513](https://github.com/pypa/pipx/pull/2513) in [pypa/pipx](https://github.com/pypa/pipx)
-3. ℹ️ Labeled PR [#1137](https://github.com/tox-dev/filelock/pull/1137) in [tox-dev/filelock](https://github.com/tox-dev/filelock)
-4. ℹ️ Labeled PR [#3774](https://github.com/pypa/virtualenv/pull/3774) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-5. ℹ️ Labeled PR [#2514](https://github.com/pypa/pipx/pull/2514) in [pypa/pipx](https://github.com/pypa/pipx)
-6. 🔒 Closed issue [#450](https://github.com/tox-dev/tox-uv/issues/450) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-7. 🎉 Merged PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
-8. 🎉 Merged PR [#753](https://github.com/tox-dev/platformdirs/pull/753) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-9. 🎉 Merged PR [#754](https://github.com/tox-dev/platformdirs/pull/754) in [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
-10. ℹ️ Labeled PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+
+1. ℹ️ Labeled PR [#1134](https://github.com/tox-dev/filelock/pull/1134) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#2513](https://github.com/pypa/pipx/pull/2513) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#1137](https://github.com/tox-dev/filelock/pull/1137) in
+   [tox-dev/filelock](https://github.com/tox-dev/filelock)
+1. ℹ️ Labeled PR [#3774](https://github.com/pypa/virtualenv/pull/3774) in
+   [pypa/virtualenv](https://github.com/pypa/virtualenv)
+1. ℹ️ Labeled PR [#2514](https://github.com/pypa/pipx/pull/2514) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🔒 Closed issue [#450](https://github.com/tox-dev/tox-uv/issues/450) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+1. 🎉 Merged PR [#753](https://github.com/tox-dev/platformdirs/pull/753) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. 🎉 Merged PR [#754](https://github.com/tox-dev/platformdirs/pull/754) in
+   [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs)
+1. ℹ️ Labeled PR [#454](https://github.com/tox-dev/tox-uv/pull/454) in
+   [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
