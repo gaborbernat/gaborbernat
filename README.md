@@ -37,16 +37,22 @@ ______________________________________________________________________
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ℹ️ Labeled PR [#2502](https://github.com/pypa/pipx/pull/2502) in [pypa/pipx](https://github.com/pypa/pipx)
-2. ❌ Closed PR [#2515](https://github.com/pypa/pipx/pull/2515) in [pypa/pipx](https://github.com/pypa/pipx)
-3. 🗣 Commented on [#2515](https://github.com/pypa/pipx/pull/2515#issuecomment-7231705649) in [pypa/pipx](https://github.com/pypa/pipx)
-4. 🎉 Merged PR [#282](https://github.com/tox-dev/python-discovery/pull/282) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-5. ℹ️ Labeled PR [#2505](https://github.com/pypa/pipx/pull/2505) in [pypa/pipx](https://github.com/pypa/pipx)
-6. ℹ️ Labeled PR [#2511](https://github.com/pypa/pipx/pull/2511) in [pypa/pipx](https://github.com/pypa/pipx)
-7. ℹ️ Labeled PR [#2504](https://github.com/pypa/pipx/pull/2504) in [pypa/pipx](https://github.com/pypa/pipx)
-8. 🔒 Closed issue [#2510](https://github.com/pypa/pipx/issues/2510) in [pypa/pipx](https://github.com/pypa/pipx)
-9. ℹ️ Labeled PR [#282](https://github.com/tox-dev/python-discovery/pull/282) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
-10. 💪 Opened PR [#282](https://github.com/tox-dev/python-discovery/pull/282) in [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. ❌ Closed PR [#2515](https://github.com/pypa/pipx/pull/2515) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🗣 Commented on [#2515](https://github.com/pypa/pipx/pull/2515#issuecomment-7231705649) in
+   [pypa/pipx](https://github.com/pypa/pipx)
+1. 🎉 Merged PR [#282](https://github.com/tox-dev/python-discovery/pull/282) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. ℹ️ Labeled PR [#2505](https://github.com/pypa/pipx/pull/2505) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2511](https://github.com/pypa/pipx/pull/2511) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#2504](https://github.com/pypa/pipx/pull/2504) in [pypa/pipx](https://github.com/pypa/pipx)
+1. 🔒 Closed issue [#2510](https://github.com/pypa/pipx/issues/2510) in [pypa/pipx](https://github.com/pypa/pipx)
+1. ℹ️ Labeled PR [#282](https://github.com/tox-dev/python-discovery/pull/282) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+1. 💪 Opened PR [#282](https://github.com/tox-dev/python-discovery/pull/282) in
+   [tox-dev/python-discovery](https://github.com/tox-dev/python-discovery)
+
 <!--END_SECTION:activity-->
 
 ______________________________________________________________________
